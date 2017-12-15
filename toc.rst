@@ -22,4 +22,9 @@ Carpentries Users Guides
 
    policies/*
 
+.. toctree::
+   :maxdepth: 2
+   :caption: About
+   :glob:
 
+   about/*
