@@ -1,0 +1,1 @@
+https://github.com/carpentries/instructor-training/edit/gh-pages/_extras/guide.md
