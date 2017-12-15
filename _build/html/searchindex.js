@@ -1,1 +1,0 @@
-Search.setIndex({docnames:["index"],envversion:53,filenames:["index.md"],objects:{},objnames:{},objtypes:{},terms:{bullet:0},titles:["Top heading"],titleterms:{head:0,top:0}})
