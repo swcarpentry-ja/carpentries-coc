@@ -4,24 +4,22 @@ Carpentries Users Guides
 .. toctree::
    :maxdepth: 2
    :caption: Instructor Training
+   :glob:
 
-   instructor_training/instructor_training
+   instructor_training/*
 
 .. toctree::
    :maxdepth: 2
    :caption: Workshop Administration
+   :glob:
 
-   workshop_administration/workshop_admin
+   workshop_administration/*
 
 .. toctree::
    :maxdepth: 2   
    :caption: Policies
+   :glob:
 
-   policies/policies
+   policies/*
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Other stuff
-
-   partone/toc
 
