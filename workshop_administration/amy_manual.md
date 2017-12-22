@@ -1,5 +1,3 @@
-### AMY Manual
-
 ## AMY: the Carpentries' internal database
 
 ### Logging in
