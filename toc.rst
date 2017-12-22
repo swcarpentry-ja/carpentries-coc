@@ -27,4 +27,4 @@ Carpentries Users Guides
    :caption: About
    :glob:
 
-   about/*
+   readme
