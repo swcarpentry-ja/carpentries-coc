@@ -1,22 +1,22 @@
 ---
 layout: page-fullwidth
 permalink: /privacy/
-title: Software Carpentry Foundation Privacy Policy
+title: The Carpentries Privacy Policy
 comments: false
 excerpt: We are committed to protecting the security and privacy of your data
 ---
 
-The Software Carpentry Foundation (the "SCF") is dedicated to the security
+The Carpentries (TC) is dedicated to the security
 and privacy of your data. We want you to know what data we collect, how we
 collect it, and what we do with it so that you may decide whether or not to
 provide information to us.
 
-By visiting SCF websites or are otherwise providing your personal information to
+By visiting TC websites or are otherwise providing your personal information to
 us via any other means, you are accepting and consenting to the practices
 described in this Policy. Unless specified otherwise, the term "visitor"
-includes both SCF members and nonmembers, whether you upload information to our
+includes both TC members and nonmembers, whether you upload information to our
 websites, download information, or are merely visiting.  Becoming a member of
-the SCF will require us to ask for and store additional information.
+the TC will require us to ask for and store additional information.
 
 This privacy policy will govern our use of your information, regardless of what
 information we collect.
@@ -24,7 +24,7 @@ information we collect.
 ## 1. What information do we collect?
 
 We collect basic usage information in the form of logs from all visitors. When
-you visit any SCF-controlled website, our server logs your IP address, the time
+you visit any TC-controlled website, our server logs your IP address, the time
 and duration of your visit, and the time and duration of the pages on our
 website you view. We may also capture information about your computer system,
 such as your browser type and operating system.
@@ -34,9 +34,9 @@ not wish cookies to be placed on your computer, then they can be disabled in
 your web browser. However, please note that disabling cookies in your browser
 may hinder your use of our some of our websites.
 
-For those who are or wish to become members of the SCF, we need to collect some
+For those who are or wish to become members of the TC, we need to collect some
 personally identifiable information, including your name, email address, and
-country of residence. If you are a supporting or sponsoring member of the SCF,
+country of residence. If you are a supporting or sponsoring member of the TC,
 or wish to make a donation, we will also ask for the information necessary to
 process a payment and reduce our risk of fraud. We may ask for other
 information, but providing such information is completely optional.
@@ -48,21 +48,21 @@ outside of the Foundation, neither on this website nor anywhere else public.
 ## 2. What do we use this information for?
 
 **Basic usage information.** We use basic usage information to protect against
-unauthorized intrusion into SCF-controlled servers, as well as monitor and
-improve the availability and performance of SCF-controlled websites. We may
+unauthorized intrusion into TC-controlled servers, as well as monitor and
+improve the availability and performance of TC-controlled websites. We may
 also use information collected from you to personalize your interactions with
-SCF-controlled websites.
+TC-controlled websites.
 
 **Personally identifiable information.** We use contact information to
-communicate with members or with others that have accounts with the SCF, to
+communicate with members or with others that have accounts with the TC, to
 provide access to secure areas of our websites, and to provide the services
 identified on our sites. We also use the information we collect to improve the
 content of our websites We also use this information to prevent or detect
 fraud or abuses of our websites and to enable third parties to carry out
 technical, logistical or other functions on our behalf.   Financial
 information and payment card details. We may ask those who want to donate to
-the SCF, become a sponsor member, or become a supporting member to enter
-credit card or account information in order to process payments to the SCF.
+the TC, become a sponsor member, or become a supporting member to enter
+credit card or account information in order to process payments to the TC.
 Financial information provided via our websites is transferred over a secure
 connection. We collect this information on a transaction-by-transaction basis
 and will not authorize the release of the information with anyone not directly
@@ -82,7 +82,7 @@ We will not disclose any information we collect to any third party unless it is:
 2. Necessary to perform the functions
 requested by you (and only to the extent absolutely necessary to perform the
 function); or
-3. Required to check for fraud or other misuse of SCF resources; or
+3. Required to check for fraud or other misuse of TC resources; or
 4. Required by law.
 
 In particular, we may release the information we collect to third parties when
@@ -90,7 +90,7 @@ we believe it is appropriate to comply with the law, to enforce our legal
 rights, to protect the rights and safety of others, or to assist with industry
 efforts to control fraud, spam or other undesirable conduct.
 
-If the SCF contracts with a third party to provide a particular service, we may
+If the TC contracts with a third party to provide a particular service, we may
 release the information we collect to that third party, provided that the third
 party has agreed to use at least the same level of privacy protections described
 in this Privacy Policy, and is permitted to use the information only for the
@@ -98,12 +98,12 @@ purpose of providing services to us.
 
 ## 4. Communications are opt-in
 
-All communications from the SCF will be opt-in except for email messages
-necessary for you to maintain membership in the SCF.
+All communications from the TC will be opt-in except for email messages
+necessary for you to maintain membership in the TC.
 
 ## 5. Security and accuracy of your information.
 
-The SCF is committed to use industry best practices approaches concerning
+The TC is committed to use industry best practices approaches concerning
 security measures to prevent the loss, misuse and alteration of the information
 in our possession. We use various security measures to protect the information
 we collect, as appropriate to the type of information, including encryption,
