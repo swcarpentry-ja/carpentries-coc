@@ -4,6 +4,11 @@ This site is built using [Read the Docs](https://github.com/rtfd/sphinx_rtd_them
 
 It uses the [Sphinx](https://github.com/rtfd/sphinx_rtd_theme) theme.
 
+## Required dependencies
+```
+pip install Sphinx sphinx_rtd_theme recommonmark
+```
+
 After installing Read the Docs packages and the Sphinx theme, build the site locally using
 
 `$ make html`
