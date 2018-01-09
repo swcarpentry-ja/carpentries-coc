@@ -1,11 +1,4 @@
----
-layout: page-fullwidth
-show_meta: false
-title: "Code of Conduct Enforcement Manual"
-header:
-    image_fullwidth: "wood_plank.jpg"
-permalink: "/CoC-enforcement/"
----
+### Code of Conduct Enforcement Manual
 
 This is the enforcement manual followed by Data and Software Carpentry’s (“the Carpentries”) 
 Policy subcommittee. It's used when we respond to an issue to make sure we're consistent and fair. It should be

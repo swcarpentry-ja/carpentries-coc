@@ -1,11 +1,4 @@
----
-layout: page-fullwidth
-show_meta: false
-title: "Code of Conduct Reporting Guide"
-header:
-    image_fullwidth: "wood_plank.jpg"
-permalink: "/CoC-reporting/"
----
+### Code of Conduct Reporting Guide
 
 If you believe someone is violating the Code of Conduct we ask that you report it to the joint Data/Software Carpentry (“the Carpentries”) Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or 
 C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org).

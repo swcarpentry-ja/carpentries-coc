@@ -1,10 +1,4 @@
----
-layout: page-fullwidth
-permalink: /privacy/
-title: The Carpentries Privacy Policy
-comments: false
-excerpt: We are committed to protecting the security and privacy of your data
----
+### The Carpentries Privacy Policy
 
 The Carpentries (TC) is dedicated to the security
 and privacy of your data. We want you to know what data we collect, how we
@@ -21,7 +15,7 @@ the TC will require us to ask for and store additional information.
 This privacy policy will govern our use of your information, regardless of what
 information we collect.
 
-## 1. What information do we collect?
+1. What information do we collect?
 
 We collect basic usage information in the form of logs from all visitors. When
 you visit any TC-controlled website, our server logs your IP address, the time
@@ -45,7 +39,7 @@ Voting Members will need to provide us with email contact information during
 their enrollment. However, that information is never made generally available
 outside of the Foundation, neither on this website nor anywhere else public.
 
-## 2. What do we use this information for?
+2. What do we use this information for?
 
 **Basic usage information.** We use basic usage information to protect against
 unauthorized intrusion into TC-controlled servers, as well as monitor and
@@ -74,16 +68,16 @@ for credit card processing services we will enter into a written agreement
 with such third party ensuring appropriate security and confidentiality
 measures are in place in safeguarding your personal data.
 
-## 3. Disclosure of personal information
+3. Disclosure of personal information
 
 We will not disclose any information we collect to any third party unless it is:
 
-1. Specifically authorized by you; or
-2. Necessary to perform the functions
+* Specifically authorized by you; or
+* Necessary to perform the functions
 requested by you (and only to the extent absolutely necessary to perform the
 function); or
-3. Required to check for fraud or other misuse of TC resources; or
-4. Required by law.
+* Required to check for fraud or other misuse of TC resources; or
+* Required by law.
 
 In particular, we may release the information we collect to third parties when
 we believe it is appropriate to comply with the law, to enforce our legal
@@ -96,12 +90,12 @@ party has agreed to use at least the same level of privacy protections described
 in this Privacy Policy, and is permitted to use the information only for the
 purpose of providing services to us.
 
-## 4. Communications are opt-in
+4. Communications are opt-in
 
 All communications from the TC will be opt-in except for email messages
 necessary for you to maintain membership in the TC.
 
-## 5. Security and accuracy of your information.
+5. Security and accuracy of your information.
 
 The TC is committed to use industry best practices approaches concerning
 security measures to prevent the loss, misuse and alteration of the information
@@ -115,7 +109,7 @@ has been, or might be used inappropriately, please contact us at
 [{{ site.contact }}](mailto:{{ site.contact }}) and we will take steps to correct, delete, or
 restrict the use of the information, as appropriate.
 
-## 6. Changes
+6. Changes
 
 Our Privacy Policy may change from time to time, and the new policy will be
 posted prominently on software-carpentry.org. We will never materially change

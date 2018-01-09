@@ -1,4 +1,4 @@
-## Instructor No-Show Policy
+### Instructor No-Show Policy
 
 The Carpentries are usually not involved in travel arrangements for workshops. Instead, once instructors have been selected, they negotiate travel and accommodation with the workshop's host, and are then reimbursed directly by the host. In order to consistently provide high-quality workshops, however, the Carpentries must ensure that instructors fulfill their commitments. In particular, it must do what it can to ensure that instructors show up for workshops they have agreed to teach, so that hosts have the appropriate number of instructors and do not incur unnecessary expenses.
 
