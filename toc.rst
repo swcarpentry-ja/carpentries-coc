@@ -20,7 +20,7 @@ Carpentries Users Guides
    :caption: Policies
    :glob:
 
-   policies/*
+   policies/**
 
 .. toctree::
    :maxdepth: 2

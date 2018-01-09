@@ -1,10 +1,10 @@
-## Carpentries Professional Development Policy
+### Carpentries Professional Development Policy
 
-### Staff Professional Development Fund
+**Staff Professional Development Fund**
 
 The Carpentries staff have access to a professional development fund (hereon after "Staff PDF") of $1000/year for each full time employee.
 
-### What Activities are Eligible?
+**What Activities are Eligible?**
 
 The Staff PDF makes available funds for the purpose of supporting staff participation in professional development programs such as workshops and seminars and research activities.
 
