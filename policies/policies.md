@@ -1,8 +1,9 @@
 ### Policies
 
-* Travel policy
 * Reimbursement policy
+* Instructor no-show policy
 * Code of Conduct
-* Other policies
+* Privacy policy
+* Staff policies
 
 
