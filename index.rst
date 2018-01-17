@@ -16,6 +16,7 @@ Carpentries Users Guides
    workshop_administration/expectations.md
    workshop_administration/amy_manual.md
    workshop_administration/survey_monkey.md
+   workshop_administration/eventbrite.md
 
 .. toctree::
    :maxdepth: 2   
