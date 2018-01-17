@@ -26,11 +26,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 3. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
 4. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
 
-| For the months of... | Trainers will be asked for their availability on... | Trainers will be asked to fill out their availability by….| A confirmed calendar will be released by…. |
-| ----------------- | --------------- | -------------- | ------------ |
-| Jan/Feb/Mar/Apr   | Oct 6          | Oct 20          | Nov 1        |
-| May/June/July/Aug | Feb 15          | March 1        | April 1      |
-| Sept/Oct/Nov/Dec  | June 15         | July 1         | Aug 1        |
+A calendar for how signups are scheduled is [here](#).
 
 #### V. Running an Instructor Training Event (General)
 
