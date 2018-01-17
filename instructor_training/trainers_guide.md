@@ -26,7 +26,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 3. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
 4. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
 
-A calendar for how signups are scheduled is [here](#).
+A calendar for how signups are scheduled is [here](/instructor_training/scheduling_training_events.html).
 
 #### V. Running an Instructor Training Event (General)
 
