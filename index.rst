@@ -13,7 +13,9 @@ Carpentries Users Guides
    :caption: Workshop Administration
    :glob:
 
-   workshop_administration/*
+   workshop_administration/expectations.md
+   workshop_administration/amy_manual.md
+   workshop_administration/survey_monkey.md
 
 .. toctree::
    :maxdepth: 2   
