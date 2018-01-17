@@ -14,7 +14,7 @@ Member sites are given the opportunity to join one of the posted training events
 
 #### For Member Training Events
 
-The Director of Memberships and the Business Administrator notify the Program Manager when new member sites are ready for instructor training. The Program Manager shares information about how instructor training works and the training calendar using [this email template](/instructor_training/trainers_guide.html#new-member-site-welcome).
+The Director of Memberships and the Business Administrator notify the Program Manager when new member sites are ready for instructor training. The Program Manager shares information about [how instructor training works](http://carpentries.github.io/instructor-training/partners/) and the [training calendar](https://carpentries.github.io/instructor-training/training_calendar/) using [this email template](/instructor_training/trainers_guide.html#new-member-site-welcome).
 
 Once a member site has chosen a training date, they must share a list of names and emails of participants with the Program Manager no more than three weeks before the event.  The Program Manager will email all participants, hosts, and trainers information about the training event using [this email template](/instructor_training/trainers_guide.html#member-training-introductions).  The Workshop Administrator will enter the training information in AMY, including assigning trainee applications to this event.
 
