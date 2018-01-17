@@ -168,6 +168,62 @@ Any episode other than those listed below should make an okay starting point for
 
 #### IX. Email Templates
 
+##### Member training introductions
+
+Subject: Carpentries Instructor Training Introductions
+
+Hello everyone,
+
+Thank you for joining our upcoming instructor training session on %training_date% with  %site_names%. As a reminder, this is a training for people who want to become instructors with Software Carpentry and Data Carpentry. The workshop is a mix of lectures and hands-on lessons where you practice giving a short lesson using approaches learned and implement some of the teaching techniques which we will discuss. This is training for teaching, not technical training; you do not need any particular technical background, and we will not be teaching that. This workshop is based on our constantly revised and updated curriculum (https://carpentries.github.io/instructor-training/).
+
+This will be offered online with our instructor trainers, %trainer1% and %trainer2%. You can read more about what you'll do these two days here: %webpage%
+
+If you haven't already, you must complete our on line application form here (https://amy.software-carpentry.org/forms/request_training/) so we can officially record your participation and track your progress towards becoming a certified Carpentries instructor. Please use the group code %group_code%
+
+Participants from each site should be in the same room. Individuals can not join remotely as our training includes partner and group activities. All individual participants should have wifi access.
+
+Please plan to be present for the entire session both days. Participants who miss more than one hour will not pass our training requirements.
+
+A videoconferencing link will be shared with the organizers/hosts at each site before the meeting. You should be in a room with a screen and projector as well as a speaker and microphone.  This link is for the room; individual participants do not need this information. We highly encourage the host sites test this connection in advance, in the same room using the same equipment that you'll be in for the training itself. Please contact me directly if you'd like to set a time to do so. We will start promptly on time; any time lost due to troubleshooting connection problems may count against your attendance.
+
+*Some other things in order to prepare:*
+
+1. Please read this short paper, which provides a brief overview of some key evidence-based results in teaching: "The Science of Learning" (https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
+
+2. Please go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/) and the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), have a look at what we currently teach, and then choose *one* episode from the list at the bottom of this message and read through it carefully. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content.
+
+3. We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
+
+4. Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet/Chromebook/etc won't be sufficient). No special setup on your own laptops is necessary.
+
+Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://carpentries.github.io/instructor-training/checkout/. If you have any questions about the workshop, the reading material, or anything else, please get in touch.
+
+*Episodes*
+
+Please read through *one* of the episodes below carefully, so that you can do some exercises based on it on the first day of the class.
+
+Data Carpentry
+
+* Faceting and Clustering in OpenRefine: http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine
+* Basic Queries in SQL: http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries
+* Starting with Data in R: http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data
+* Starting with Data in Python: http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
+
+
+Software Carpentry
+
+* Working with Files and Directories in the Unix Shell: http://swcarpentry.github.io/shell-novice/03-create/
+* Tracking Changes in Git: http://swcarpentry.github.io/git-novice/04-changes/
+* Selecting Data in SQL: http://swcarpentry.github.io/sql-novice-survey/01-select/
+* Repeating Actions with Loops in Python: http://swcarpentry.github.io/python-novice-inflammation/02-loop/
+* Exploring Data Frames in R: http://swcarpentry.github.io/r-novice-gapminder/05-data-structures-part2/
+
+
+Please email me back if you have any questions about how this all works. Many of your questions will also likely be answered by your instructors during the training. Good luck with everything - we are excited to have you on board.
+
+Instructors and hosts are CC:ed here if you'd like to get in touch with anyone. Participants are all bcc:ed.
+
+
 ##### Reminder teaching demo
 
 Subject: Software/Data Carpentry teaching demonstration
