@@ -4,7 +4,7 @@ This site is built using [Read the Docs](https://github.com/rtfd/sphinx_rtd_them
 
 It uses the [Sphinx](https://github.com/rtfd/sphinx_rtd_theme) theme.
 
-## Required dependencies
+#### Required dependencies
 ```
 pip install Sphinx sphinx_rtd_theme recommonmark
 ```
@@ -19,6 +19,7 @@ After making changes, run `make html` again to view your changes.  You may need 
 
 If new files or folders are added to the project, `toc.rst` will need to be updated.
 
-
+#### Additional information
+This site is built live from the master branch of [this repo](https://github.com/carpentries/usersguides/).  If you are making experimental changes please be sure to do so in another branch.
 
 
