@@ -166,7 +166,7 @@ Any episode other than those listed below should make an okay starting point for
 
 ##### New member site welcome
 
-Subject:
+Subject: Carpentries instructor training for %site_name%
 
 Hi %name%,
 
@@ -178,8 +178,8 @@ You can read more about the whole process here:  http://carpentries.github.io/in
 
 and check out our training calendar here:  https://carpentries.github.io/instructor-training/training_calendar/
 
-I'm excited to see you build a team of Carpentries instructors at %site_name% which will put you on track to running Carpentreis workshops with onsite instructors.
-If you'd prefer to wait until %next_time_frame% for this training, I'll have a summer calendar ready in %month%.  In any case, you'll have six slots available, and they must all attend the same event together.  
+I'm excited to see you build a team of Carpentries instructors at %site_name% which will put you on track to running Carpentries workshops with onsite instructors.
+If you'd prefer to wait until %next_time_frame% for this training, I'll have a %next_time_frame% calendar ready in %month%.  In any case, you'll have six slots available, and they must all attend the same event together.  
 
 Let me know if you have questions about how all this works.  I'd be happy to answer any questions by email or set some time to talk by phone. Thanks -  I'm looking forward to get your team on board!
 
