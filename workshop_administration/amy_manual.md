@@ -189,16 +189,16 @@ If duplicate person or event records exists, they can be merged.  Select "Merge 
 
 Choose the two Persons or Events to be merged, and click "Submit" to see merge options.  Here you can choose to keep the value from Person/Event A, from Person/Event B, or to combine the values.
 
-#### Searching
+### Searching
 
-### General search
+#### General search
 The quickiest and easiest way to to search is using the search box in the top menu bar.  This will perform a case insensitive search of any field in AMY, including searching for partial matches.  For example:
 *  `12-12-` will match any workshop slug containing that string (essentially any workshop on December 12 of any year.)
 * `ola tes` will match `Nikola Tesla` and `Nolan Bates`
 * `stanford` will match any one with a `stanford` email address, with `stanford` in their name, any workshops with `stanford` in the slug, the site `Stanford University` and any records with `stanford` in the notes.
 
 
-#### Instructor Training
+### Instructor Training
 
 In addition to tracking workshops, AMY also allows us to track applications to instructor training events.  The public facing application is [here](https://amy.software-carpentry.org/forms/request_training/).  Applicants are given a group name if participating in a member training event.  Open applicants will likely not have a group name.
 
