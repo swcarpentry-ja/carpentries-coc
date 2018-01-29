@@ -20,6 +20,14 @@ Carpentries Users Guides
 
 .. toctree::
    :maxdepth: 2   
+   :caption: Lesson Maintainers
+   :glob:
+
+   maintainers/*
+
+
+.. toctree::
+   :maxdepth: 2   
    :caption: Policies
    :glob:
 
