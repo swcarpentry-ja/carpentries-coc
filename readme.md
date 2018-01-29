@@ -13,13 +13,15 @@ After installing Read the Docs packages and the Sphinx theme, build the site loc
 
 `$ make html`
 
-Open the file `/_build/html/toc.html` to preview the site locally.
+Open the file `/_build/html/index.html` to preview the site locally.
 
 After making changes, run `make html` again to view your changes.  You may need to delete the contents of the `/_build/`  directory before running `make html` to force the changes to refresh.
 
-If new files or folders are added to the project, `toc.rst` will need to be updated.
+If new files or folders are added to the project, `index.rst` will need to be updated.
 
 #### Additional information
-This site is built live from the master branch of [this repo](https://github.com/carpentries/usersguides/).  If you are making experimental changes please be sure to do so in another branch.
+This site is built live from the master branch of [this repo](https://github.com/carpentries/usersguides/).  If you are making experimental changes to live content please be sure to do so in another branch. Draft content can be added to the [drafts folder](https://github.com/carpentries/usersguides/tree/master/drafts) in the master branch without breaking anything.
+
+
 
 
