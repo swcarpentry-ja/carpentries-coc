@@ -6,7 +6,10 @@ Carpentries Users Guides
    :caption: Instructor Training
    :glob:
 
-   instructor_training/*
+   instructor_training/scheduling_training_events.md
+   instructor_training/trainers_guide.md
+   instructor_training/trainers_training.md
+   instructor_training/email_templates.md
 
 .. toctree::
    :maxdepth: 2
