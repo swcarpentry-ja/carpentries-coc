@@ -20,6 +20,7 @@ Carpentries Users Guides
    workshop_administration/amy_manual.md
    workshop_administration/survey_monkey.md
    workshop_administration/eventbrite.md
+   workshop_administration/email_templates.md
 
 .. toctree::
    :maxdepth: 2   
