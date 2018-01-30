@@ -1,25 +1,16 @@
 ### Trainers Guide
 
-#### I. Trainer Duties
+#### Trainer Duties
 As of May 2017, the Trainers group adopted a 
-[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active 
-Trainers are voting members of the Trainer community. An inactive Trainer may
-re-activate their Trainer status at any time by resuming Trainer activities.
+[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
 
-#### II. Becoming a Trainer
-The Trainers group periodically accepts new members via application. New 
-Trainers undergo an eight-week training program outlined 
-[in this document][trainer-process] and
-agree to the [Trainer Agreement][trainer-agreement].
+#### Becoming a Trainer
+The Trainers group periodically accepts new members via application. New Trainers undergo an eight-week training program outlined [in this document][trainer-process] and agree to the [Trainer Agreement][trainer-agreement].
 
-#### III. Trainer Meetings
-The Trainers group meets regularly. We have two types of meetings - business meetings, focused on
-discussing curricular and policy changes, and discussion meetings, where we share experiences and
-get advice about running instructor training events. Upcoming meetings are listed on [our Etherpad][trainer-pad]
-and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting,
-please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
+#### Trainer Meetings
+The Trainers group meets regularly. We have two types of meetings - business meetings, focused on discussing curricular and policy changes, and discussion meetings, where we share experiences and get advice about running instructor training events. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
 
-#### IV. Signing up to Teach an Instructor Training Event
+#### Signing up to Teach an Instructor Training Event
 
 1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the upcoming time period. Please sign up for as many days as you are available and hold those dates in your calendar until the schedule is confirmed.
 2. The Program Manager will confirm events with individual Trainers, at which point you are free to release all other dates on your calendar.
@@ -28,7 +19,7 @@ please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings
 
 A calendar for how signups are scheduled is [here](/instructor_training/scheduling_training_events.html).
 
-#### V. Running an Instructor Training Event (General)
+#### Running an Instructor Training Event (General)
 
 ##### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
@@ -60,7 +51,7 @@ A calendar for how signups are scheduled is [here](/instructor_training/scheduli
 ##### Long-term after the event 
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-#### VI. Differences Among Training Types
+#### Differences Among Training Types
 
 ##### In-person trainings
 - When watching videos, project them to the whole group.   
@@ -80,20 +71,12 @@ A calendar for how signups are scheduled is [here](/instructor_training/scheduli
 - Have participants screen share with their breakout room during the live coding exercises.   
 - For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
 
-#### VII. Zoom Manual (Online Trainings)
-Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You can set up a personal Zoom
-account for yourself for free. This personal account will be able to attend the training event
-(or any other online Carpentry event), but will not be able to act as host.   
+#### Zoom Manual (Online Trainings)
+Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You can set up a personal Zoom account for yourself for free. This personal account will be able to attend the training event (or any other online Carpentry event), but will not be able to act as host.   
 
-About a week before your event, you will be given login credentials for a Carpentry account. 
-This account will be the host for the event and will have extra privileges including the 
-ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host
-can transfer host privileges to other participants, so you will be able to trade host status
-back and forth with your co-Trainers during the event.  
+About a week before your event, you will be given login credentials for a Carpentry account. This account will be the host for the event and will have extra privileges including the ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host can transfer host privileges to other participants, so you will be able to trade host status back and forth with your co-Trainers during the event.  
 
-All Carpentry online events are set-up such that participants can enter the room without the
-host being present. If you ever get an error message saying you can’t join the room because 
-you’re not the host, please contact Carpentry staff immediately.   
+All Carpentry online events are set-up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.   
 
 ##### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
@@ -107,7 +90,7 @@ you’re not the host, please contact Carpentry staff immediately.
 - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
 - The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.  
 
-#### IIX. Running a Teaching Demonstration  
+#### Running a Teaching Demonstration  
 
 If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].  
 
