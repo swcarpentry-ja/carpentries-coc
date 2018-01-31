@@ -219,7 +219,7 @@ Once all trainees for a given event have trainee accounts, we can assign them to
 Check all the names to be assigned to the training event, and then select the training event from the drop down menu. Then click "Match selected trainees to chosen training."  The search screen will then update to show that the trainees have been matched to this event.  The event page will also update to list these trainees as learners at that event.
 
 
-#### Roles in AMY
+### Roles in AMY
 What you are able to edit or view depends on your assigned role in AMY.
 
 (List of role types and descriptions goes here)
