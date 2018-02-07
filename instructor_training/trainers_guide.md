@@ -123,27 +123,27 @@ If you would like to watch an example teaching demo, there is a recording of one
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
 
 *  SWC
-   *  [The Unix Shell 01-intro]({{ site.swc_pages }}/shell-novice/01-intro) - no live coding
-   *  [Version Control with Git 01-basics]({{ site.swc_pages }}/git-novice/01-basics/) - no live coding
-   *  Version Control with Git - anything after [Tracking Changes]({{ site.swc_pages }}/git-novice/04-changes) - dependencies
-   *  [Version Control with Mercurial]({{ site.swc_pages }}/hg-novice/01-basics/) - no live coding
-   *  Version Control with Mercurial - anything after [Configuring Mercurial]({{ site.swc_pages }}/hg-novice/02-configuration/) - dependencies
-   *  [Databases and SQL 08-hygiene]({{ site.swc_pages }}/sql-novice-survey/08-hygiene/) - no live coding
-   *  [Programming with Python 09-debugging]({{ site.swc_pages }}/python-novice-inflammation/09-debugging/) - no live coding
-   *  [R for Reproducible Scientific Analysis 16-wrap-up]({{ site.swc_pages }}/r-novice-gapminder/16-wrap-up/) - no live coding
-   *  Automation and Make - anything after [Makefiles]({{ site.swc_pages }}/make-novice/02-makefiles/) - dependencies
+   *  [The Unix Shell 01-intro](https://swcarpentry.github.io/shell-novice/01-intro) - no live coding
+   *  [Version Control with Git 01-basics](https://swcarpentry.github.io/git-novice/01-basics/) - no live coding
+   *  Version Control with Git - anything after [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes) - dependencies
+   *  [Version Control with Mercurial](https://swcarpentry.github.io/hg-novice/01-basics/) - no live coding
+   *  Version Control with Mercurial - anything after [Configuring Mercurial](https://swcarpentry.github.io/hg-novice/02-configuration/) - dependencies
+   *  [Databases and SQL 08-hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) - no live coding
+   *  [Programming with Python 09-debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) - no live coding
+   *  [R for Reproducible Scientific Analysis 16-wrap-up](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) - no live coding
+   *  Automation and Make - anything after [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles/) - dependencies
    
-*  DC (stable lessons only)
-  * Open Refine for Ecology - anything after [Working with OpenRefine]({{ site.dc_pages }}/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
-  * [SQL for Ecology]({{ site.dc_pages }}/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
-  * [R for Ecology]({{ site.dc_pages }}/R-ecology-lesson/00-before-we-start.html) - no live coding
-  * R for Ecology - anything after [Manipulating data frames]({{ site.dc_pages }}/R-ecology-lesson/03-dplyr.html) - dependencies
-  * Python for Ecology - anything after [Data workflows and automation]({{ site.dc_pages }}/python-ecology-lesson/05-loops-and-functions/) - dependencies
+*  DC (stable lessons only)  
+  * Open Refine for Ecology - anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
+  * [SQL for Ecology](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode  
+  * [R for Ecology](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) - no live coding  
+  * R for Ecology - anything after [Manipulating data frames](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) - dependencies  
+  * Python for Ecology - anything after [Data workflows and automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/) - dependencies  
   
-*  LC (stable lessons only)
-  * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
-  * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding
-  * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
+*  LC (stable lessons only)  
+  * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding   
+  * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding   
+  * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies  
 
 
 
