@@ -1,6 +1,6 @@
  ### The Carpentries Reimbursement Policy
 
- *Designed to be consistent with NumFOCUS reimbursement policies in independent contractor contracts.*
+ *Designed to be consistent with Community Initiatives reimbursement policies.*
 
  I. Policy Statement
 
