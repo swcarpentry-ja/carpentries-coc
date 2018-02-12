@@ -35,6 +35,8 @@ Unselect Sunday and Saturday. Add Duration = 60 minutes. Select "hide dates".
 
 14) Repeat step 11 as needed for those who complete requirements by email. 
 
+15) Run sendmail_maintainer_certificates.R to send new Maintainers their certificates. (Note: need to add line in the email asking new Maintainers to add themselves to their repositories README.)
+
 ## Template emails
 
 Subject: Invitation to become a Carpentry Maintainer
