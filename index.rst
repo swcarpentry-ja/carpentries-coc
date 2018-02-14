@@ -24,10 +24,9 @@ Carpentries Users Guides
 
 .. toctree::
    :maxdepth: 2   
-   :caption: Lesson Maintainers
    :glob:
 
-   topic_folders/maintainers/*
+   topic_folders/maintainers/index.rst
 
 
 .. toctree::
