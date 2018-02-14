@@ -6,28 +6,28 @@ Carpentries Users Guides
    :caption: Instructor Training
    :glob:
 
-   instructor_training/scheduling_training_events.md
-   instructor_training/trainers_guide.md
-   instructor_training/trainers_training.md
-   instructor_training/email_templates.md
+   topic_folders/instructor_training/scheduling_training_events.md
+   topic_folders/instructor_training/trainers_guide.md
+   topic_folders/instructor_training/trainers_training.md
+   topic_folders/instructor_training/email_templates.md
 
 .. toctree::
    :maxdepth: 2
    :caption: Workshop Administration
    :glob:
 
-   workshop_administration/expectations.md
-   workshop_administration/amy_manual.md
-   workshop_administration/survey_monkey.md
-   workshop_administration/eventbrite.md
-   workshop_administration/email_templates.md
+   topic_folders/workshop_administration/expectations.md
+   topic_folders/workshop_administration/amy_manual.md
+   topic_folders/workshop_administration/survey_monkey.md
+   topic_folders/workshop_administration/eventbrite.md
+   topic_folders/workshop_administration/email_templates.md
 
 .. toctree::
    :maxdepth: 2   
    :caption: Lesson Maintainers
    :glob:
 
-   maintainers/*
+   topic_folders/maintainers/*
 
 
 .. toctree::
@@ -35,7 +35,7 @@ Carpentries Users Guides
    :caption: Policies
    :glob:
 
-   policies/**
+   topic_folders/policies/**
 
 .. toctree::
    :maxdepth: 2
