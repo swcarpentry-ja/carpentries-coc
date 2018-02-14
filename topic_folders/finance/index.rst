@@ -5,4 +5,4 @@ FINANCE
    :maxdepth: 2
    :glob:
 
-   invoicing.md
+   *
