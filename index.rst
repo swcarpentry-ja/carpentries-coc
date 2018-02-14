@@ -31,6 +31,14 @@ Carpentries Users Guides
 
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Communications
+   :glob:
+
+   topic_folders/communications/**
+
+
+.. toctree::
    :maxdepth: 2   
    :caption: Policies
    :glob:
