@@ -27,15 +27,7 @@ Carpentries Users Guides
    :glob:
 
    topic_folders/maintainers/index.rst
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Communications
-   :glob:
-
-   topic_folders/communications/**
-
+   topic_folders/communications/index.rst
 
 .. toctree::
    :maxdepth: 2   
