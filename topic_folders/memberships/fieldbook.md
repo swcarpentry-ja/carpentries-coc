@@ -1,4 +1,4 @@
-### Managing memberships
+### Fieldbook Guide
 
 The Carpentries uses [Fieldbook](http://www.fieldbook.com) to manage membership information.
 Fieldbook tracks things such as 
