@@ -216,7 +216,7 @@ On <dates>, you <participated/will be participating> in a Software Carpentry and
 
 We will not be able to track your progress or award your instructor certificate without an application on file.
 
-Please contact Maneesha Sane at maneesha@software-carpentry.org with any questions as you complete the certification process.
+Please contact checkout@carpentries.org with any questions as you complete the certification process.
 
 Best,
 
