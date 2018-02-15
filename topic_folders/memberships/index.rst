@@ -5,4 +5,4 @@ MEMBERSHIPS
    :maxdepth: 2
    :glob:
 
-   fieldbook.md
+   *
