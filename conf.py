@@ -129,6 +129,7 @@ html_favicon = "img/logo.ico"
 
 html_logo = 'img/logo.png'
 
+html_show_sourcelink = False
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
 #
