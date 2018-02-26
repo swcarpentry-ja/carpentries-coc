@@ -161,6 +161,33 @@ Best/Saludos,
 [ name ]
 
 
+##### Completed everything except lesson contribution
+
+Hi [trainee name],
+
+Thank you for participating in an instructor discussion session and a teaching demonstration. I’d like to check you off in our system and issue you your instructor certification, but I don’t currently have a record of your lesson contribution. If you’ve already made a contribution, please send me a link to the PR or issue. If you’re working on your contribution, please check out these guidelines for some tips.
+
+Please get in touch if you have any questions.
+
+Best,
+
+[name]
+
+
+##### Did not complete discussion or demo
+
+Hi [trainee_name],
+
+Thanks very much for your lesson contribution. When you have a moment, please go to the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion) to sign up for a discussion session, and then to the [teaching demo etherpad](http://pad.software-carpentry.org/teaching-demos) to sign up for your final demo. For more information about completing your instructor certification, please see our [simplified checklist](http://www.datacarpentry.org/checkout/) and let us know if you have any questions.
+
+Best, 
+
+[name]
+
+
+
+
+
 ##### Checkout deadline approaching
 
 Hi everyone,
