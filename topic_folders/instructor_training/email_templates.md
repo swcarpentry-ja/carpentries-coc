@@ -211,8 +211,9 @@ Best,
 ##### Trainee missing application
 
 
-Hi <name>,
-On <dates>, you <participated/will be participating> in a Software Carpentry and Data Carpentry training event at <site name or online>.  We'd like to be sure we can track your progress towards instructor certification.  Please fill out the instructor application form here (https://amy.software-carpentry.org/forms/request_training/) putting down <group code> as your group name.  As a reminder, here are the steps you need to complete to earn your certification: http://carpentries.github.io/instructor-training/checkout/
+Hi <trainee_name>,
+
+On <training_dates>, you <participated (or) will be participating> in a Software Carpentry and Data Carpentry training event at <online (or) sitename>.  We'd like to be sure we can track your progress towards instructor certification.  Please fill out the instructor application form here (https://amy.software-carpentry.org/forms/request_training/) putting down <group_code> as your group name.  As a reminder, here are the steps you need to complete to earn your certification: http://carpentries.github.io/instructor-training/checkout/
 
 We will not be able to track your progress or award your instructor certificate without an application on file.
 
