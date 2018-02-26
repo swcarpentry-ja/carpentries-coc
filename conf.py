@@ -143,6 +143,16 @@ html_sidebars = {
 }
 
 
+html_context = {
+  'display_github': True,
+  'github_user': 'carpentries',
+  'github_repo': 'usersguides',
+  'github_version': 'master/'
+}
+
+
+
+
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
