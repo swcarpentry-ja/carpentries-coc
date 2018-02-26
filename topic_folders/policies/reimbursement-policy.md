@@ -17,44 +17,42 @@ This policy affects all employees, volunteers, independent contractors, and gues
 
 #### III. Definitions
 
-*Necessary*  
-Minimum purchase or service required to achieve a particular objective.
+*Necessary*  Minimum purchase or service required to achieve a particular objective.
 
-*Reasonable*    
-An expense that is ordinary and reflects a prudent decision to incur the expense on behalf of The Carpentries business. Not extreme or excessive.
+*Reasonable* An expense that is ordinary and reflects a prudent decision to incur the expense on behalf of The Carpentries business. Not extreme or excessive.
 
-*Appropriate expense*  
-An expense that is suitable or fitting for a particular valid The Carpentries business purpose or activity.
+*Appropriate expense* An expense that is suitable or fitting for a particular valid The Carpentries business purpose or activity.
 
-*Allowable expense*  
-A necessary, reasonable, and appropriate expense incurred for the primary benefit of The Carpentries activities and therefore permitted to be reimbursed or directly charged based on the permission of The Carpentries. Allowable expenses must meet [501(c)3 expense policies](https://www.irs.gov/pub/irs-pdf/p535.pdf).
+*Allowable expense* A necessary, reasonable, and appropriate expense incurred for the primary benefit of The Carpentries activities and therefore permitted to be reimbursed or directly charged based on the permission of The Carpentries. Allowable expenses must meet [501(c)3 expense policies](https://www.irs.gov/pub/irs-pdf/p535.pdf).
 
-*Original Receipt*  
-The original merchant receipt or invoice issued by the supplier or service provider to document and substantiate the business transaction. A digital image of the original receipt is allowable provided that it is legible. Electronic receipts are allowable.
+*Original Receipt* The original merchant receipt or invoice issued by the supplier or service provider to document and substantiate the business transaction. A digital image of the original receipt is allowable provided that it is legible. Electronic receipts are allowable.
 
-*Substantiation*  
-Documentation to support an incurred business expense that includes the original receipt, documentation of business purpose, names of persons in attendance, and an appropriate expense report for the incurred cost.
+*Substantiation* Documentation to support an incurred business expense that includes the original receipt, documentation of business purpose, names of persons in attendance, and an appropriate expense report for the incurred cost.
 
 #### IV. Policy
 
 The Carpentries provides reimbursement for appropriate and allowable expenses. These are business and travel related expenses, including transportation, hotels, and food. These expenses must be reasonable and necessary, as well as job-related.
 
-SUBSTANTIATION AND ORIGINAL RECEIPTS  
+SUBSTANTIATION AND ORIGINAL RECEIPTS
+
 In order for a business expense to be approved and reimbursed, it must be properly substantiated. Original receipts (see above definition) for all expenditures are required. If sponsored by a particular agency or organization and requirements are more restrictive, the more restrictive receipt requirement will take precedence. If a required receipt has been lost, that information must be included when the reimbursement request is made.
 
-EXPENSE REPORT  
+EXPENSE REPORT 
+
 Reimbursement as a nontaxable payment can be made as long as:
 - the expense qualifies as an allowable business expense and
 - all substantiation and receipt requirements are met.  
 
 The sections below establish The Carpentries policy for reimbursement based on proper substantiation of the business expense, timely request for reimbursement, and payment approval.
 
-APPROVAL AND REIMBURSEMENT  
+APPROVAL AND REIMBURSEMENT 
+
 For each business expense reimbursement being requested, the request must include
 - the valid business purpose of the expense and
 - if travel related, the location and dates of the event.
 
 DEADLINE TO SUBMIT EXPENSE REPORTS AND DOCUMENTATION  
+
 *Expense Reimbursement Deadlines*  
 To be reimbursable, business expenses must be properly substantiated and submitted within certain time limitations.
 - Substantiation for the reimbursement should be submitted within **60 calendar days** of when the expenses were incurred. For expenses incurred while traveling, the traveler will have 60 calendar days upon returning from travel to substantiate and submit the expenses.
@@ -62,6 +60,7 @@ To be reimbursable, business expenses must be properly substantiated and submitt
 - Funds can be reimbursed before travel is completed, with receipts for the travel expenditure. If travel is not completed or is changed to have a lower cost, funds must be returned according to the 'Return of Excess Amounts' section.
 
 RETURN OF EXCESS AMOUNTS  
+
 Return of excess amounts must be done within 120 days after expenses are paid or incurred.
 
 Community Initiatives will guide the process for repayment of funds.
@@ -89,6 +88,6 @@ Reimbursement requests should be approved by the Executive Director or the Execu
 - Executive Council Treasurer - Sue McClatchy
 
 #### VII. Update Log
-- Updated on 23-02-2018 to reflect updated workflow with Community Initiatives and approval contacts.
+- Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts.
 - Updated on 2018-01-31 to refer to Community Initiatives as our fiscal sponsor.
 - Updated 2017-12-22 to change from Data Carpentry to The Carpentries.
