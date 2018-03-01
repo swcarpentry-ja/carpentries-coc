@@ -32,8 +32,8 @@ Prior to lesson release (currently on a 6 month schedule):
 - Review individual lessons to make sure curriculum-level learning objectives are being met by the set of lessons.
 - Prepare the ‘{{lesson title}} workshop’ repository for release. Will be Editors for this repository at release.
 
-Please let us know if you are still interested in serving on the {{lesson title}} Curriculum Committee and can commit to these 
-responsibilities. If you have any questions before you can accept this role, please also let us know. 
+Please let me know if you are still interested in serving on the {{lesson title}} Curriculum Advisory Committee and can commit to these 
+responsibilities. If you have any questions before you can accept this role, please also let me know. 
 
 Thanks so much. We look forward to the opportunity to work with you!
 
