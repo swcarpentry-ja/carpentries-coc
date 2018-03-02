@@ -23,6 +23,22 @@ checklists for the hosts and discussion organizer [here](checklists-discussion-s
 
 3. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
+#### Who can host?
+
+Hosting discussion sessions is a great way to meet more people in the Carpentries community, to
+get to know the organisation better, to learn from the experiences of others and to share your own 
+knowledge and experience with an even greater number of people.
+
+Any instructor with experience of organising/teaching workshops and a good knowledge of the
+Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated
+by the [Mentoring Subcommittee](http://pad.software-carpentry.org/scf-mentoring) and anyone with
+questions about hosting a session is warmly encouraged to contact the members of this committee
+or attend one of their meetings to find out more.
+
+A great way to get into hosting these sessions is to first attend as an observer or co-host. An
+experienced host will be happy to talk you through it, and may return the favour when you host
+for the first time, so that you don't have to "fly solo" in your first session. 
+
 #### Before the meeting
 
 The Mentoring Subcommittee is responsible for organizing
