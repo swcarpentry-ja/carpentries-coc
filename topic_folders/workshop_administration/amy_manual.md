@@ -222,7 +222,16 @@ Check all the names to be assigned to the training event, and then select the tr
 ### Roles in AMY
 What you are able to edit or view depends on your assigned role in AMY.
 
-(List of role types and descriptions goes here)
+
+### Instructor login
+
+Instructors can log in to AMY to view and update their own information. To do so, they must have a valid github username in their profile.  Instructors should visit the [AMY login page](https://amy.software-carpentry.org/account/login/) and click on `Log in with your GitHub account`.
+
+If an instructor is having trouble logging in, an administrator can verify the following information.
+
+* Be sure the github user name is accurate.
+* Click on `Change permissions` and be sure `Is active` is checked.  No other permissions should be checked unless the instructor is also an otherwise authorized user.
+* `Logging in allowed` should show next to the github name in the profile. If it says `Allow logging in with github`, click this to allow logging. This must be done **after** setting permissions to active above.
 
 
 
