@@ -12,6 +12,7 @@ Carpentries Handbook
    topic_folders/instructor_training/index.rst
    topic_folders/policies/index.rst
    topic_folders/mentoring/index.rst
+   topic_folders/lesson_development/index.rst
 
 .. toctree::
    :maxdepth: 2   
