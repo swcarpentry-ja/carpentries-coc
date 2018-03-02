@@ -37,8 +37,7 @@ the instructor discussion sessions so that
 Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The dates of instructor discussion sessions are also listed
-in the Carpentries [community calendar]
-(https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
+in the Carpentries [community calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
 
 #### Discussion Session Coordinator
 
