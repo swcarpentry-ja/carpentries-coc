@@ -19,6 +19,11 @@ After making changes, run `make html` again to view your changes.  You may need 
 
 If new files or folders are added to the project, `index.rst` will need to be updated.
 
+#### Site structure
+
+The root level `index.rst` generates main categories the sidebar navigation.  Each sub-section is a folder in the `topic_folders` directory. Each folder within the `topic_folders` directory has its own `index.rst` file. These then expand into the subcategories in each directory.
+
+
 #### Additional information
 This site is built live from the master branch of [this repo](https://github.com/carpentries/usersguides/).  If you are making experimental changes to live content please be sure to do so in another branch. Draft content can be added to the [drafts folder](https://github.com/carpentries/usersguides/tree/master/drafts) in the master branch without breaking anything.
 
