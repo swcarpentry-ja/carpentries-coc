@@ -50,7 +50,7 @@ on the [Mentoring Subcommittee repository](https://github.com/carpentries/mentor
 
 #### During the meeting
 
-Meetings will be hosted via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meetings will be hosted on a Zoom chat, linked via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The agenda should be similar to the following:
 
@@ -71,17 +71,18 @@ The agenda should be similar to the following:
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
 
-Based on discussion among the mentoring committee, temporary questions may be 
-added to the agenda for 
-a month of sessions, in order to collect data on specific issues.  
+(A copy of this agenda is kept at the bottom of the instructor discussion etherpad.)
 
-Each instructor discussion session session must have at least one host
-from the mentoring subcommittee (although two hosts are preferred). 
+Based on discussion among the mentoring committee, temporary questions may be 
+added to the agenda for a month of sessions, in order to collect data on specific issues.  
+
+Each instructor discussion session session must have at least one host (although two hosts are preferred). 
+As mentioned above, any experienced instructor is welcome to host, but hosts are encouraged
+to join the mentoring subcommittee. 
 
 The **host** is responsible for: 
 
-- hosting the meeting and facilitating discussion using the agenda described 
-[this instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion). 
+- hosting the meeting and facilitating discussion using the agenda described above. 
 
 - maintaining focus on the main goal of the session, which is to share ideas and keep instructors excited about teaching.
 
@@ -89,7 +90,7 @@ The **host** is responsible for:
 
 - collecting feedback from instructors who have recently taught.
 
-- engaging newly trained instructors and evaluating their participating using a subset of 
+- engaging newly trained instructors and evaluating their participation using a subset of 
 questions described in the checkout procedure.
 
 - encouraging attendees to create issues or pull requests to correct problems.
