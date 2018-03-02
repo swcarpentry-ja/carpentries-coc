@@ -40,19 +40,13 @@ The dates of instructor discussion sessions are also listed
 in the Carpentries [community calendar]
 (https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
 
-Email invitations should be sent to three groups of instructors:
+#### Discussion Session Coordinator
 
-- instructors who have taught in the previous week
+A volunteer from the Mentoring Subcommittee acts as Discussion Session Coordinator. Responsibilities
+of the role include updating the scheduling etherpad and emailing invitations to instructors.
 
-- instructors who are preparing to teach in the next 4 weeks
-
-- folks who have recently completed instructor training and need to
-  attend a discussion session to complete their [instructor checkout](https://carpentries.github.io/instructor-training/checkout/)
-
-The contact information for the first two groups is available in [AMY](https://amy.software-carpentry.org/workshops/). 
-The chair of the mentoring subcommittee, as well as all members of the Carpentries Steering committee, 
-should have access to AMY. Newly trained instructors should be directed to instructor discussion sessions 
-following completion of instructor training.  
+Further information about the role, including relevant checklists and email templates, can be found
+on the [Mentoring Subcommittee repository](https://github.com/carpentries/mentoring/blob/master/roles/discussion-coordinators.md).
 
 #### During the meeting
 
