@@ -1,6 +1,6 @@
-#### Workshop checklists
+### Workshop checklists
 
-### Host checklist
+#### Host checklist
 
 After a workshop host contacts the Carpentries staff about running a workshop, he/she will will work with the Carpentries Program Manager and Workshop Administrator to:
 
@@ -21,9 +21,11 @@ After a workshop host contacts the Carpentries staff about running a workshop, h
 * Collect workshop attendance
 * Send attendance and any other feedback to the Carpentries Workshop Administrator
 
-### Instructor Checklist
+#### Instructor Checklist
 
-After instructors have been introduced to host contacts to start planning a workshop, they will
+The Program Manager or Workshop Administrator will introduce workshop hosts and instructors.
+
+**Before the workshop, instructors will**
 
 * Decide on the order of lessons and who will teach what module
 * Set up the workshop website
@@ -35,7 +37,7 @@ After instructors have been introduced to host contacts to start planning a work
 * Remind the host of the necessary equipment
 * Join a pre-workshop discussion session
 
-During the workshop they will
+**During the workshop instructors will**
 
 * Review Code of Conduct with learners
 * Remind learners to use sticky notes to give feedback
@@ -43,16 +45,18 @@ During the workshop they will
 * Support host in collecting attendee names and emails
 * Send out the post-workshop survey at the very end of the workshop
 
-After the workshop they will
+**After the workshop instructors will**
 
 * Remind the host to send workshop attendance data to the Carpentries Workshop Administrator
 * Send their own feedback to the Workshop Administrator including any configuration problems
 * Take part in an instructor discussion session
 * Report any lesson errors or suggest improvements on github or by email
 
-### Helper Checklist
+#### Helper Checklist
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers suppport learners one on one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.  After a helper signs on to join a workshop, they will
+Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers suppport learners one on one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.  
+
+**Before a workshop helpers will**
 
 * Introduce themselves to the instructors, letting them know any particular areas of expertise
 * Review the curriculum the instructors will be teaching
@@ -60,13 +64,13 @@ Helpers are often recruited from the local community at the host site to support
 * Make sure the instructors have listed you on the workshop website
 
 
-During the workshop they will
+**During the workshop helpers will**
 
 * Help learners with setup problems or anywhere else the get stuck
 * Monitor room for anyone who may need help.  They may put up a red sticky note or indicate in other ways that they are stuck.
 * Monitor any questions that come up on the etherpad and answer them or remind the instructor about them during a break.
 
-After the workshop they will
+**After the workshop helpers will**
 
 * Send their own feedback to the instructors and the Workshop Administrator including any configuration problems
 * Consider applying to become a certified Carpentries instructor
