@@ -105,11 +105,9 @@ discretion of the host whether to split the group.
 
 #### After Hosting the meeting
 
-- [ ] **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
-    - *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
-    - This questionnaire will automatically send an email to checkouts@carpentries.org (and the mentoring co-chairs) to show that the newly trained instructors participating as a part of the checkout procedure were engaged and could answer target questions described in the checkout procedure.
-- [ ] **Archive** the etherpad by clicking on the star in the top right corner. This will save a copy of the etherpad in its current state.
-- [ ] **Clean** the etherpad for the next user by deleting all the community added comments and change the dates to prepare the etherpad for the next session.
-- [ ] *Optional:* Write a blog post summarizing topics discussed, including (but not limited to) the following: implementation of new lessons, recurring questions about or problems while teaching, and general strategies for instructing workshops. [This template](template-blog-about-debriefing-session.md) can be used as the start point for the blog post.
+After the meeting, the host should fill out the short host questionnaire to provide feedback to the 
+Mentoring Subcommittee and help the Carpentries administration to record attendance. Once this is done,
+the etherpad should be archived and deatils/notes from the session removed, leaving the etherpad clean 
+for the next session.
 
-
+> Detailed information and guidance for session hosts can be found in the [host checklist](https://docs.carpentries.org/topic_folders/mentoring/discussion_session_checklist.html).
