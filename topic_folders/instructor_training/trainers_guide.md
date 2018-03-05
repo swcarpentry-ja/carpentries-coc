@@ -132,19 +132,18 @@ Any episode other than those listed below should make an okay starting point for
    *  [Programming with Python 09-debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) - no live coding
    *  [R for Reproducible Scientific Analysis 16-wrap-up](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) - no live coding
    *  Automation and Make - anything after [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles/) - dependencies
-   
-*  DC (stable lessons only)  
-  * Open Refine for Ecology - anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
-  * [SQL for Ecology](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode  
-  * [R for Ecology](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) - no live coding  
-  * R for Ecology - anything after [Manipulating data frames](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) - dependencies  
-  * Python for Ecology - anything after [Data workflows and automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/) - dependencies  
-  
-*  LC (stable lessons only)  
-  * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding   
-  * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding   
-  * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies  
 
+*  DC (stable lessons only)
+   * Open Refine for Ecology - anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
+   * [SQL for Ecology](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
+   * [R for Ecology](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) - no live coding  
+   * R for Ecology - anything after [Manipulating data frames](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) - dependencies
+   * Python for Ecology - anything after [Data workflows and automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/) - dependencies
+
+*  LC (stable lessons only)
+   * Anything in [Data Intro for Librarians](https://data-lessons.github.io/library-data-intro/) - no live coding
+   * [OpenRefine 01-introduction](https://data-lessons.github.io/library-openrefine/01-introduction/) - no live coding
+   * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
 
 
 [trainer-agreement]: https://github.com/carpentries/policies/blob/master/trainer-agreement.md

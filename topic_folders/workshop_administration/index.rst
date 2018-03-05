@@ -6,6 +6,7 @@ WORKSHOP ADMINISTRATION
    :glob:
 
    expectations.md
+   workshop_admin_workflow.md    
    amy_manual.md
    survey_monkey.md
    eventbrite.md
