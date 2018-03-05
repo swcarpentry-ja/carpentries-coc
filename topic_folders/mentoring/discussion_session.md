@@ -31,9 +31,10 @@ knowledge and experience with an even greater number of people.
 
 Any instructor with experience of organising/teaching workshops and a good knowledge of the
 Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated
-by the [Mentoring Subcommittee](http://pad.software-carpentry.org/scf-mentoring) and anyone with
-questions about hosting a session is warmly encouraged to contact the members of this committee
-or attend one of their meetings to find out more.
+by the [Mentoring Subcommittee](http://pad.software-carpentry.org/scf-mentoring) and hosts are 
+encouraged to join the meetings of this committee. Subcommittee meetings include an update on 
+discussion sessions and an opportunity to discuss the format, to ask questions about hosting a
+session, and to get to know other hosts.
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An
 experienced host will be happy to talk you through it, and may return the favour when you host
