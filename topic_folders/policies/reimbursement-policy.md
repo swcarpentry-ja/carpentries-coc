@@ -56,7 +56,7 @@ DEADLINE TO SUBMIT EXPENSE REPORTS AND DOCUMENTATION
 *Expense Reimbursement Deadlines*  
 To be reimbursable, business expenses must be properly substantiated and submitted within certain time limitations.
 - Substantiation for the reimbursement should be submitted within **60 calendar days** of when the expenses were incurred. For expenses incurred while traveling, the traveler will have 60 calendar days upon returning from travel to substantiate and submit the expenses.
-- If substantiation occurs more than 60 calendar days after the expenses were incurred, the expense reimbursement request must include an explanation for the delay. The Carpentries may deny reimbursement requests submitted or substantiated after the 60-day limit.
+- If substantiation occurs more than 60 calendar days after the expenses were incurred, the expense reimbursement request must include an explanation for the delay.
 - Funds can be reimbursed before travel is completed, with receipts for the travel expenditure. If travel is not completed or is changed to have a lower cost, funds must be returned according to the 'Return of Excess Amounts' section.
 
 RETURN OF EXCESS AMOUNTS  
