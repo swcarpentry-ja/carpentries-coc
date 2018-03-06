@@ -88,6 +88,7 @@ Reimbursement requests should be approved by the Executive Director or the Execu
 - Executive Council Treasurer - Sue McClatchy
 
 #### VII. Update Log
+- Updated on 2018-03-06 to reflect that reimbursements cannot be denied due their time of submission.
 - Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts.
 - Updated on 2018-01-31 to refer to Community Initiatives as our fiscal sponsor.
 - Updated 2017-12-22 to change from Data Carpentry to The Carpentries.
