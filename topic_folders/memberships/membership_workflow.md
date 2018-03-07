@@ -26,7 +26,7 @@
         * HubSpot Deal may be marked ‘Closed Lost’ at any point in workflow.
         * Fieldbook ‘Membership’ deleted at this point as well, if created.
 
-#### Process for organization that has decided to become a member:
+#### Process for organization that has decided to become a member
 
 1. Contact fills out [membership typeform](https://carpentries.typeform.com/to/Hmfe6L) on Software Carpentry website, if not done already.
     * This supplies the information needed for a draft agreement.
@@ -76,7 +76,7 @@
     * Fieldbook training status is changed to ‘Complete’.
 
 
-#### Process for renewal:
+#### Process for renewal
 1. Business Administrator contacts expiring memberships 90-120 days before agreement expires, touching base about renewal.
     * Creates Deal in HubSpot, renewal pipeline.
     * HubSpot status ‘Remind about Renewal’
