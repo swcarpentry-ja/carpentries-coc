@@ -44,7 +44,7 @@ A calendar for how signups are scheduled is [here](/instructor_training/scheduli
 
 ##### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
--  Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist]. See template (below).  
+-  Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist] using [this template](email_templates.html#email-after-training-event)  
 -  Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].  
 -  File any relevant issues or PRs to the [instructor training repo][training-repo].  
 
@@ -96,7 +96,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - listed below. Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
+-  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - [listed below](#not-good-starting-points-for-demos). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### Shortly Before the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
