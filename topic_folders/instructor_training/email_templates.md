@@ -19,6 +19,9 @@ If you'd prefer to wait until %next_time_frame% for this training, I'll have a %
 
 Let me know if you have questions about how all this works.  I'd be happy to answer any questions by email or set some time to talk by phone. Thanks -  I'm looking forward to get your team on board!
 
+Best,
+%name%
+
 ##### Member training introductions
 
 Subject: Carpentries Instructor Training Introductions
@@ -74,6 +77,8 @@ Please email me back if you have any questions about how this all works. Many of
 
 Instructors and hosts are CC:ed here if you'd like to get in touch with anyone. Participants are all bcc:ed.
 
+Best,
+%name%
 
 ##### Email after training event
 
@@ -112,11 +117,7 @@ See you at the demo session,
 
 Hi [ name ], 
 
-Thank you for doing a teaching demonstration. While you demonstrated good command of the 
-subject material, I’ve determined not to pass you based on [ reason ] . 
-[ Explanation of this reason. ]  We are excited about having you as a Carpentry instructor and
-I would be happy to see you do another teaching demonstration [ making these changes ] to 
-certify as an instructor. 
+Thank you for doing a teaching demonstration. While you demonstrated good command of the subject material, I’ve determined not to pass you based on [ reason ]. [ Explanation of this reason. ]  We are excited about having you as a Carpentry instructor and I would be happy to see you do another teaching demonstration [ making these changes ] to certify as an instructor. 
 
 Please let me know if you have any questions. 
 
@@ -127,14 +128,7 @@ Best wishes,
 
 Hi [ name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated good
-command of the subject material and a solid understanding of Carpentry teaching methods. We 
-are excited about having you as a Carpentry instructor. I’ve forward this information to our 
-staff. If this was the last stage in your instructor training checkout, you should get your 
-official Carpentry Instructor certificate in about a week, along with instructions for signing
-up to teach workshops. If you still have steps remaining in your checkout, please be sure to 
-complete them before your deadline. If you have any questions, please email 
-checkout@carpentries.org.
+I’m happy to tell you that you have passed your teaching demonstration! You demonstrated good command of the subject material and a solid understanding of Carpentry teaching methods. We are excited about having you as a Carpentry instructor. I’ve forward this information to our staff. If this was the last stage in your instructor training checkout, you should get your official Carpentry Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
 
 Welcome to the Carpentry Instructor community!
 
