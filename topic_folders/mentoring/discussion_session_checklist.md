@@ -1,10 +1,21 @@
 ### Checklists - Instructor Discussion Sessions
 
-> This document contains checklists for the people involved 
-> in instructor discussion sessions.  The full procedure is described 
-> on [this page](procedure-discussion-session.md).  
+This document contains checklists for the people involved in instructor discussion sessions.  The full procedure is described on [this page](procedure-discussion-session.md).  
 
 Discussion sessions are organized and conducted through [this etherpad](http://pad.software-carpentry.org/instructor-discussion)
+
+#### Before the Discussion Session
+
+1.  Invitations are tracked through two spreadsheets - one for instructors doing a [post-workshop debriefs](https://docs.google.com/spreadsheets/d/1OZuaulmSVcekQcFlfWc6cK_8odm64pMqGnEMl3hSPHU/edit#gid=0), sent weekly, and one for instructors doing a [pre-workshop discussion session](https://docs.google.com/spreadsheets/d/1C-R24LRURYx5-PjeW45vvZtPRI7LaQFg8tzixkkq49o/edit#gid=1948936411), sent every other week.
+
+1. Use the [email templates](email_templates.html) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
+
+1. Log in to [AMY](https://amy.software-carpentry.org/account/login/?next=/workshops/log/).  Go to the reporting section and filter for instructors in the relevant time period. Download this list as csv.
+
+1. Send the templated email to all participants as `bcc`, and copy the Mentoring Committee Chairs as well as `team@carpentries.org`.
+
+1.  Email `team@carpentries.org` with any instructors with missing or invalid emails.
+
 
 #### Leading the Discussion
 - Sign on as close to the start time as you can.  
