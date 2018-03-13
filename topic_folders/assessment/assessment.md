@@ -1,5 +1,5 @@
-# Assessing Workshop Outcomes for Learners
- 
+#### Learner Assessment
+
 Assessment plays a key role in ensuring the success, longevity, and evolution of the Carpentries workshops. The primary goal of our assessment efforts is to evaluate the impact we are having teaching data skills throughout our global community. Our assessment efforts are meant to guide the development, implementation, and instruction of our workshops. We are committed to providing directed feedback to our community regarding our assessment targets and using information collected from assessment to improve how we teach data skills and build learning communities.
 
 Our assessment tools will cover content knowledge, self-efficacy, and metacognitive strategies. Additionally, evaluation will occur at the end of each workshop and 6 months after a workshop with data releases published bi-annually, and an annual review of our impact will be published on our [website](http://www.datacarpentry.org/assessment/).
@@ -11,3 +11,11 @@ We assess our learners by measuring changes in their attitudes, motivation, and 
 We also ask questions to measure learners' mindset (growth vs. fixed). Our objective is to measure their confidence in their ability to learn, not necessarily execute specific tasks.
 
 Additionally, we measure learner’s perception of skill growth and whether or not they plan to recommend our workshops to colleagues.
+
+Our pre- and post-workshop surveys can be previewed here:
+- [Software Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)   
+- [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
+- [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=_2Fr_2BMLenJz3QD4fR3LpyrxE0ILyysS55zZtxg98DlSCmrGUESIrVTKPW0Pcdb05XO)  
+- [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=20aY_2FxKwi4RcNMTonEV1fJU4BPERgmL_2FWtZKq6Zrehggy5OOe3BxYzyxwVgbbZfr)  
+
+
