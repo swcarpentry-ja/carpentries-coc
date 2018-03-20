@@ -1,7 +1,6 @@
 ### Setting up surveys
 
 The Carpentries uses [Survey Monkey](https://www.surveymonkey.com/) to manage all workshop surveys. 
-The instructions [here](https://docs.google.com/document/d/1K3X6lZqhJuRdc7sOj7InT7eNUTIUhGkgY3gvJJIHvrI/edit) are currently being migrated to this page.
 
 #### Logging in
 
