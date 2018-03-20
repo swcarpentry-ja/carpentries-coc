@@ -18,8 +18,8 @@
             * Remind them to consider their own schedule and other events that may affect things like room availabiltiy
         * Remind them of budget
             * $2500 standard fee due to our fiscal sponsor (for non-member sites only)
-            * Costs for instructor travel (airfare, ground travel, hotel, and meals/incidentals) and are managed entirely between host and instructors. We will look for local instructors but can not guarantee it. Member sites are still responsible for travel costs.
-        * Ask them to complete offical request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/) if they have not already 
+            * Costs for instructor travel (airfare, ground travel, hotel, and meals/incidentals) are managed entirely between host and instructors. We will look for local instructors but can not guarantee it. Member sites are still responsible for travel costs.
+        * Ask them to complete official request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/) if they have not already 
     * Program Manager or Workshop Administrator records request form in AMY.
 
 1. For non-member sites, Program Manager asks host for invoicing contact, and introduces them to Business Administrator to begin invoicing process.
