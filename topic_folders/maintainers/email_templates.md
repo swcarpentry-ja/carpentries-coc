@@ -1,5 +1,7 @@
 ### Template emails
 
+
+#### Inviting new Maintainers
 Subject: Invitation to become a Carpentry Maintainer
 CC: Existing Maintainers for the repo and other new Maintainer applicants for the same repo.
 
@@ -16,7 +18,10 @@ New Maintainers will be given write access to their lesson repos after completin
 Best,
 {name}
 
---------------------
+
+
+
+#### Maintainer onboarding meetings
 
 Subject: Maintainer Onboarding Meetings
 
@@ -39,7 +44,9 @@ Looking forward to meeting all of you next month!
 Best,
 {name}
 
---------------------
+
+
+#### Onboarding reminder
 
 Subject: Reminder - Onboarding starts next week
 
@@ -56,7 +63,9 @@ Looking forward to seeing you all soon. Let me know if you have any questions.
 Best,
 {name}
 
---------------------
+
+
+#### Missed onboarding meeting
 
 Subject: Unable to attend Maintainer Onboarding
 
@@ -65,7 +74,8 @@ Thanks for letting me know. What I'm doing for people who have to miss a session
 Best,
 {name}
 
---------------------
+
+#### Welcoming new Maintainers
 
 Subject: Welcome New Maintainers!
 
