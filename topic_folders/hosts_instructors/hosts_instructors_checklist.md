@@ -1,8 +1,15 @@
 ### Workshop checklists
 
+For centrally organized workshops, the Workshop Administrator will guide the host and instructor on following through on all these steps.
+
+For self organized workshops, the host and instructor are directly responsible for ensuring all the steps below are followed.  They are expected take on the additional role of Workshop Administrator as described below.
+
+
 #### Host checklist
 
-After a workshop host contacts the Carpentries staff about running a workshop, he/she will will work with the Carpentries Program Manager and Workshop Administrator to:
+A workshop host contacts the Carpentries staff about running a workshop.  He or she e will will work with the Carpentries Program Manager and Workshop Administrator to plan and impelemnt the workshop.
+
+**Before the workshop, the host will**
 
 * Decide on the Software Carpetnry or Data Carpentry curriculum that would best serve your learners
 * Fill out the workshop request form
@@ -10,16 +17,24 @@ After a workshop host contacts the Carpentries staff about running a workshop, h
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
     * Ensure your location is [accessible](workshop_needs.html#accessibilty)
 * Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help other learn.
-* Advertise your workshop. The Carpentries can help by managing an Eventbrite registration page.
-* Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-* Work with the Carpentries Program Manager and Business Administrator to pay the workshop fee.
+* Advertise your workshop. The Workshop Administrator can help by creating an Eventbrite registration page.
+* Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administrator creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
+* Work with the Carpentries Program Manager and Business Administrator to make arrengments to pay the workshop fee
 * Make travel arrangements for visiting instructors (or reimburse them for their expenses)
 * Get emergency contact information for instructors in case of last minute changes
-* Arrange for [required materials](workshop_needs.html)
+* Arrange for [required materials and equipment](workshop_needs.html)
 * Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 * Email learners to remind them of workshop location, timing, and software installation requirements
+
+**During the workshop, the host will**
+* Meet the instructors and learners
+* Ensure that the room is set up with all [necessary materials and equiment](workshop_needs.html)
+* Periodically check in on the class to be sure things are running smoothly
+
+**After the workshop, the host will**
 * Collect workshop attendance
 * Send attendance and any other feedback to the Carpentries Workshop Administrator
+* Pay the workshop fee 
 
 #### Instructor Checklist
 
