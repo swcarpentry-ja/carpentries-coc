@@ -17,14 +17,6 @@ Carpentries Handbook
    topic_folders/assessment/index.rst
 
 .. toctree::
-   :maxdepth: 2   
-   :glob:
-   :caption: Staff Resources
-
-   topic_folders/memberships/index.rst
-   topic_folders/finance/index.rst
-
-.. toctree::
    :maxdepth: 2
    :caption: About
    :glob:
