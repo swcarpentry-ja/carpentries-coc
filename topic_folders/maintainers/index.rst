@@ -6,3 +6,5 @@ MAINTAINERS
    :glob:
 
    maintainers.md
+   email_templates.md
+   
