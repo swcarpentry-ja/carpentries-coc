@@ -22,7 +22,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * Extra pens and paper in case people want to take notes by hand
 * Sign in sheets
 
-#### Accessibilty
+#### Accessibility
 
 It's important to make sure the workshop space is accessbile to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether:
 

@@ -7,19 +7,19 @@ For self organized workshops, the host and instructor are directly responsible f
 
 #### Host checklist
 
-A workshop host contacts the Carpentries staff about running a workshop.  He or she e will will work with the Carpentries Program Manager and Workshop Administrator to plan and impelemnt the workshop.
+A workshop host contacts the Carpentries staff about running a workshop.  He or she e will will work with the Carpentries Program Manager and Workshop Administrator to plan and implement the workshop.
 
 **Before the workshop, the host will**
 
-* Decide on the Software Carpetnry or Data Carpentry curriculum that would best serve your learners
-* Fill out the workshop request form
+* Decide on the [Software Carpentry](https://software-carpentry.org/lessons/) or [Data Carpentry](http://www.datacarpentry.org/lessons/) curriculum that would best serve your learners
+* Fill out the workshop request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/)
 * Work with the Carpentries Program Manager and Workshop Administrator to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
-    * Ensure your location is [accessible](workshop_needs.html#accessibilty)
+    * Ensure your location is [accessible](workshop_needs.html#accessibility)
 * Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help other learn.
 * Advertise your workshop. The Workshop Administrator can help by creating an Eventbrite registration page.
 * Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administrator creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-* Work with the Carpentries Program Manager and Business Administrator to make arrengments to pay the workshop fee
+* Work with the Carpentries Program Manager and Business Administrator to make arrangements to pay the workshop fee.
 * Make travel arrangements for visiting instructors (or reimburse them for their expenses)
 * Get emergency contact information for instructors in case of last minute changes
 * Arrange for [required materials and equipment](workshop_needs.html)
