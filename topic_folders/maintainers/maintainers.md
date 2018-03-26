@@ -1,4 +1,35 @@
 
+## Maintainer Guidelines
+
+Carpentry Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They monitor
+their lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle
+including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. 
+
+Maintainers are responsible for:
+ - Routinely:
+    - Ensuring reasonable response time to all submitted Issues and PRs. At a minimum, ensuring all Issues and PRs are acknowledged within two days.
+    - Quickly addressing issues and PRs tagged as “bug”s. 
+    - Submitting Issues as they arise.
+    - Adhering to the Code of Conduct and alerting the Policy Subcommittee to any potential violations.
+    - Identifying potential new Maintainers based on their review activity.
+
+- Every six months: 
+    - Participating in regular Issue Bonanza and Bug BBQ events, including organizing and tagging issues. 
+    - Bringing in updates to the lesson template.
+
+Maintainers represent the Carpentry community and should strive to embody the Carpentry philosophy, by:
+- Recognizing the importance of communication and being welcoming to all contributors.
+- Giving feedback to contributors using the Carpentries model:
+- Find what’s good. Be specific about improvements needed. Use motivational language.
+- Evaluating lesson contributions in light of Carpentries pedagogical model:
+- Teach what’s most relevant and useful for learners.
+- Avoid getting bogged down in technical details.
+- Keep language motivating. 
+- Emphasize the importance of continued learning and improvement.
+
+Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Software and Data Carpentry Maintainers. 
+
+
 ## Steps for Maintainer Onboarding process
 
 1) Current application to become a Maintainer is [here](https://docs.google.com/forms/d/1PMzhri0CmbNkJiNor-nXDOP0d5jlAyp-VF-3df6cUf0/edit). Create a new version or delete existing responses and change intro text for next round.
