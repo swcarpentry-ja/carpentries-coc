@@ -87,3 +87,35 @@ From here you will have various options about what data to export and what forma
 This will then show up in the "Exports" list on the left side of the screen.  Click the "..." to download data to share with hosts and instructors.
 
 ![Survey results export](images/surveymonkey_export.png)
+
+#### Modifying survey responses
+
+Survey data can be modified once a user has submitted their response.  To protect the integrity of our data, this should be done *only* if it is known that a respondent filled in an incorrect or incorrectly formatted workshop id.
+
+From the survey page, select `Analyze Results`.
+
+![Survey analyze results](images/surveymonkey_analyzeresults.png)
+
+Following the instructions above, search for the possible responses to a workshop id.  For example, search for all responses containing the word 'starfleet' to find any one who may have attended the workshop '2018-01-01-starfleet'.  
+
+![Survey individual responses](images/surveymonkey_individualresponses.png)
+
+Use the arrow icons to navigate to the response that needs editing, and click "edit".  
+
+![Survey select response](images/surveymonkey_selectresponse.png)
+
+The survey will open in a new window.  Navigate to the workshop id question without editing any other responses.
+
+![Survey find incorrect response](images/surveymonkey_incorrectslug.png)
+
+Type in the correct workshop id and click next.
+
+![Survey add correct response](images/surveymonkey_correctslug.png)
+
+Close this window so no other responses are affected. This should now show up modified and correct in the Survey Monkey responses.
+
+Continue this for any incorrect response.
+
+Running a report as described above should now give you correct responses.
+
+
