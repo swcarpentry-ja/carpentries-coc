@@ -1,4 +1,4 @@
-MAINTAINERS
+LESSON MAINTENANCE
 ------------------------
 
 .. toctree::

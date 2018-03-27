@@ -1,4 +1,4 @@
-INSTRUCTORS AND HOSTS
+TEACHING AND HOSTING
 ------------------------
 
 .. toctree::
