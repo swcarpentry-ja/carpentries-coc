@@ -6,15 +6,15 @@ It is organized using [this template](https://docs.google.com/document/d/1o4Z3CQ
 
 #### Newsletter content
 
-* *Highlights from the Software and Data Carpentry Community* and *Calendar* Includes highlights from the Carpentries calendars, blog posts, tweets, and other media
-* *Subcommittee Activity* Includes announcements direclty from committee chairs and summaries from meeting notes
-* *What you may have missed on the blog and mailing lists* Includes summary of anything not included above including key conversations on the *Discuss* email list
-* *Papers & manuscripts from the community* Includes announcements that were made on the the *Discuss* email list, Twitter, or other media
-* *Tweet of the Week* One noteworthry tweet is chosen and a screen grabbed image is included
-* *Optional: Offcuts* Includes other unusual news that may be of interest
-* *Optional: Joinery* Includes other ways to get involved in the Carpentries community and ways Carpentries community is involved in other conferences, etc.
-* *Community Job postings* Includes information that has come through on the *Discuss* email list, Twitter, and other media.
-* *Other places to connect* This section is standardized for all newsletter issues.
+* *Highlights from the Software and Data Carpentry Community* and *Calendar*: Includes highlights from the Carpentries calendars, blog posts, tweets, and other media.
+* *Subcommittee Activity*: Includes announcements direclty from committee chairs and summaries from meeting notes.
+* *What you may have missed on the blog and mailing lists*: Includes a summary of anything not included above including key conversations on the *Discuss* email list.
+* *Papers & manuscripts from the community*: Includes announcements that were made on the the *Discuss* email list, Twitter, or other media.
+* *Tweet of the Week*: One noteworthry tweet is chosen and a screen captured image is included.
+* *Optional: Offcuts*: Includes other unusual news that may be of interest.
+* *Optional: Joinery*: Includes other ways to get involved in the Carpentries community and ways the Carpentries community is involved in other conferences, etc.
+* *Community Job postings*: Includes information that has come through on the *Discuss* email list, Twitter, and other media.
+* *Other places to connect*: This section is standardized for all newsletter issues.
 
 #### Publishing the newsletter
 
@@ -36,9 +36,9 @@ Go to *Preview and Test* to preview the newsletter before sending it out. This i
 
 *Save and Close* and schedule the newsletter to be sent.  This should always be for Tuesday at 9 am Eastern time.  A confirmation message saying "Rock On! Your campaign has been scheduled" will be displayed.
 
-The newsletter will now be locked.  If any changed need to be made after it has been scheduled, you will need to pause the campaign, make changes, and restart the campaign.
+The newsletter will now be locked.  If any changes need to be made after it has been scheduled, you will need to pause the campaign, make changes, and restart the campaign.
 
-The previous newsletter is then moved into the Carpentry Clippings folder which adds it to the online archive.
+The previous newsletter is automatically moved into the Carpentry Clippings folder which adds it to the online archive.
 
 
 
