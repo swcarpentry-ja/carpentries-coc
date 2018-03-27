@@ -10,7 +10,7 @@
 1. Program Manager or Workshop Administrator for that region responds to request by email or phone/video call.
     * Give them more information about the Carpentries as needed.
         * Links to [Software Carpentry lessons](https://software-carpentry.org/lessons/) and [Data Carpentry lessons](http://www.datacarpentry.org/lessons/)
-    * Ask them for more inforamtion about their request.
+    * Ask them for more information about their request.
         * Who is their target population?
         * What curriculum content do they want to cover?
         * What timeframe are they looking to host a workshop?
