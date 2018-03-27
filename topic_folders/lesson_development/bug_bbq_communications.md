@@ -31,8 +31,10 @@ Join with the community in a hacky-day to submit Issues and PRs to identify and 
 
 We’re excited to work with the community to release {{ lessons }}. Put these dates on your calendar, and we’ll send out reminders and updates too. These lessons belong to the community - help keep them great!
 
+<!--
 ##### Announcing Bug BBQ (Twitter)
 
 ##### Announcing Bug BBQ (Discuss list)
 
 ##### Announcing Bug BBQ (Maintainer list)
+-->
