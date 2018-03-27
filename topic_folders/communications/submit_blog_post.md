@@ -37,7 +37,7 @@ authors: ["Tracy Teal"]
 ---
 ```
 
-Separate the header block from the post proper by a new line. 
+Separate the header block from the post text by inserting a new line. 
     
 5.  `Subheadline` is an optional field, as is `teaser`, but the other fields should be filled in. If there is more than one author,
     separate the author names like this: `["Name 1", "Name 2"]`. 
