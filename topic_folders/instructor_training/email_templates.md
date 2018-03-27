@@ -208,7 +208,7 @@ Best,
 
 
 ##### Checkout completed
-*This has been migrated to a script*
+*This email is usually sent with a script. The canonical version of the text is the version below.*
 
 
 Hi [name],
@@ -246,7 +246,7 @@ Best,
 
 
 ##### Accepted in open online training
-*This has been migrated to a script*
+*This email is usually sent with a script. The canonical version of the text is the version below.*
 
 Hi [ name ],
 
