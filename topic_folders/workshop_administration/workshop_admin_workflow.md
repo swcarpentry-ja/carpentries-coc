@@ -30,7 +30,7 @@
 
 1. Program Manager or Workshop Administrator emails these instructors to confirm their availability, and returns back to the other instructors on the list if a conflict has since come up.
 
-1.  Program Manager or Workshop Administrator sends email to workshop instructors and hosts with introductory information (template).  This includes links to guides for roles of host, instructor, and helper.
+1.  Program Manager or Workshop Administrator sends email to workshop instructors and hosts with [introductory information](email_templates.html#host-and-instructor-introductions).  This includes links to guides for roles of host, instructor, and helper.
 
 1. Program Manager or Workshop Administrator emails everyone else who signed up for that event thanking them for their time, letting them know other instructors were placed, and encouraging them to sign up for other opportunities.
 
