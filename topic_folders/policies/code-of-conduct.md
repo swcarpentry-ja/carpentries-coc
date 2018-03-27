@@ -182,7 +182,7 @@ The Policy committee will never publicly discuss the details of the issue; all p
 
 At the end of every quarter, the executive council will publish an aggregated count of the incidents the Policy Subcommittee dealt with, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and for each of these which under part of the Code of Conduct the incident was classified.  
 
-**Conflicts of Interest**  
+**Conflicts of Interest**  c
 In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
 This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
