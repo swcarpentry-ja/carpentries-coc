@@ -4,7 +4,7 @@ The Program Manager collects availability from Instructor Trainers and generates
 
 Trainees will be asked for their availibility in October, March, and July for for each four month block, and a calendar will be published 6-8 weeks before each four month block.
 
-The calendar is updated on the Member information page and on the internal Carpentry staff Zoom calendars.
+The calendar is updated on the [Member information page](https://carpentries.github.io/instructor-training/training_calendar/) and on the internal Carpentry staff Zoom calendars.
 
 Member sites are given the opportunity to join one of the posted training events according to these guidelines.  If no member site signs up for an event one month in advance, the Director of Instructor Training decides to convert this into an open training event or to cancel the event.
 
