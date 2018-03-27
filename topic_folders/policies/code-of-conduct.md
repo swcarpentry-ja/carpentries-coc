@@ -6,7 +6,7 @@ The Carpentries is a community-led project. We value the involvement of everyone
 
 To make clear what is expected, everyone participating in Carpentry activities is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, online forums and on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.  
 
-If you believe someone is violating the Code of Conduct we ask that you report it to The Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow the reporting guidelines detailed [here](http://docs.carpentries.org/topic_folders/policies/CoC-reporting.html). All reports will be reviewed by the Policy subcommittee. A detailed enforcement policy can be found [here](http://docs.carpentries.org/topic_folders/policies/CoC-enforcement.html).  
+If you believe someone is violating the Code of Conduct we ask that you report it to The Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow the reporting guidelines detailed [here](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). All reports will be reviewed by the Policy subcommittee. A detailed enforcement policy can be found [here](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual).  
 
 #### Code of Conduct
 
@@ -61,7 +61,7 @@ provide however, so, if you can, please include in your report:
 - If you believe this incident is ongoing.  
 - Any other information you believe we should have.  
 
-**What happens after you file a report?**    
+**What happens after you file a report?**  
 The recipient of the report will attempt to ensure your safety and help with any immediate needs, 
 particularly at an in-person event. You will receive an email from the Policy subcommittee (“the committee”)
 acknowledging receipt within 24 hours (and we’ll aim for much more quickly than that). The committee will make all efforts to meet within two days to review the incident and determine:  
@@ -96,8 +96,7 @@ Finally, the committee will make a report on the situation to the appropriate Ca
 The steering committee may choose to make a public report of the incident, while maintaining anonymity of those
 involved.  
 
-**Appealing**
-
+**Appealing**  
 Only resolutions with permanent consequences (such as bans) may be appealed. To appeal a decision of the 
 committee, contact the Carpentry executive council at 
 [executive-council@carpentries.org](mailto:executive-council@carpentries.org) with your appeal and the 
