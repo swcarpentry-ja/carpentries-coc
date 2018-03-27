@@ -6,20 +6,20 @@ The role of the regional workshop administrator is to be the front face of the C
 This includes the following responsibilities
 
 * Attend monthly admin team meetings.  Time zones will be taken into consideration when scheduling these meetings.  Attending other Carpentries community meetings is also highly recommended.
-* Read emails sent to the admin group
+* Read emails sent to the admin group.
 Stay up to date on all Carpentries operations as outlined in the Administrator's’ Manual.  (link to be added)
-Respond to workshop requests from host sites in your region within two business days.  This may include but is not limited to:
+Respond to workshop requests from host sites in your region within two business days. This may include, but is not limited to:
   * Sharing general Carpentries information
   * Recruiting instructors
   * Setting up surveys and registration
   * Supporting other planning logistics
   * Recording all information according to Carpentries’ systems.
 * Follow up on all completed workshops to collect attendance data and other feedback, and record this in Carpentries’ systems.
-* Serve as “front face” of the Carpentries in their region by responding to general public inquiries and supporting our larger communication efforts and other initiatives
-* Communicate Carpentry community values to instructors, host sites, and others constituents 
+* Serve as the “front face” of the Carpentries in their region by responding to general public inquiries and supporting our larger communication efforts and other initiatives.
+* Communicate Carpentries community values to instructors, host sites, and others constituents. 
 * Communicate successes and challenges with Carpentries Program Manager and other workshop administrators.
-* Promote the Carpentries culture of an inclusive and supportive learning environment informed by best practices in pedagogical research.  Follow the Carpentries Code of Conduct and report any violations.
-* Elevate questions and issues to Carpentries staff as needed
+* Promote the Carpentries culture of an inclusive and supportive learning environment informed by best practices in pedagogical research. Follow the Carpentries Code of Conduct and report any violations.
+* Elevate questions and issues to Carpentries staff as needed.
 
 
 
