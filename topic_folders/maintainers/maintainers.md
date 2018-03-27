@@ -32,7 +32,7 @@ Note: These guidelines are adapted from those currently in use by the Data Carpe
 
 ## Steps for Maintainer Onboarding process
 
-1) Current application to become a Maintainer is [here](https://docs.google.com/forms/d/1PMzhri0CmbNkJiNor-nXDOP0d5jlAyp-VF-3df6cUf0/edit). Create a new version or delete existing responses and change intro text for next round.
+1) Current application to become a Maintainer is [here](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform). Create a new version or delete existing responses and change intro text for next round.
 
 2) Process so far has been to accept all applications from people who are at least somehow involved in the community. So far (1/26/18) there has only been one application that was not accepted.
 
