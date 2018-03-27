@@ -1,12 +1,8 @@
 ### Scheduling training events
 
-The Program Manager collects availability from Instructor Trainers and generates a four month training calendar three times a year. 
+The Program Manager collects availability from Instructor Trainers and generates a four month training calendar (January-April, May-August, September-December) three times a year.
 
-| For the months of... | Trainers will be asked for their availability on... | Trainers will be asked to fill out their availability by….| A confirmed calendar will be released by…. |
-| ----------------- | --------------- | -------------- | ------------ | 
-| Jan/Feb/Mar/Apr | early October | late October | early November | 
-| May/June/July/Aug | mid February | early March | early April | 
-| Sept/Oct/Nov/Dec | mid June | early July | early August |
+Trainees will be asked for their availibility in October, March, and July for for each four month block, and a calendar will be published 6-8 weeks before each four month block.
 
 The calendar is updated on the Member information page and on the internal Carpentry staff Zoom calendars.
 
