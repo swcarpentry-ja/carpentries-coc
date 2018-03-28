@@ -87,11 +87,12 @@ Subject: Thanks for attending Carpentries Instructor Training!
 
 Hi everyone, 
 
-Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentry instructor. In order to finish your certification, please finish the tasks listed [here][checkout-checklist] by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
+Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentry instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
 
 Looking forward to having you as a Carpentry Instructor!
 
 Best,
+
 [ name ]
 
 
@@ -147,13 +148,13 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hello,
 
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet tomorrow at [ Insert Time ] in a [Zoom meeting room](https://carpentries.zoom.us/j/357144246). Please read this short bi-lingual description of how Teaching Demo session works [here](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
+Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet on [ Insert Date ] at [ Insert Time ] in this Zoom videoconferencing room (https://carpentries.zoom.us/my/carpentriesroom3). Please read this short bi-lingual description of how Teaching Demo session works (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
 
 Please let me know if you have any questions or concerns.
 
 Hola,
 
-Gracias por inscribirte para completar tu "Demostración de enseñanza" como parte del proceso de certificación para instructores. Nos reuniremos mañana [ insert time ] [aquí](https://carpentries.zoom.us/j/357144246). Por favor, lee ésta breve descripción bilingüe de cómo funciona la sesión de demostración de enseñanza [aquí](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
+Gracias por inscribirte para completar tu "Demostración de enseñanza" como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee ésta breve descripción bilingüe de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
 
 Por favor, hágamelo saber si tiene alguna pregunta o inquietud.
 
@@ -183,7 +184,7 @@ Subject: Carpentries instructor training: Discussion and teaching demo
 
 Hi [ trainee_name ],
 
-Thanks very much for your lesson contribution. When you have a moment, please go to the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion) to sign up for a discussion session, and then to the [teaching demo etherpad](http://pad.software-carpentry.org/teaching-demos) to sign up for your final demo. For more information about completing your instructor certification, please see our [simplified checklist](http://www.datacarpentry.org/checkout/) and let us know if you have any questions.
+Thanks very much for your lesson contribution. When you have a moment, please go to the instructor discussion etherpad here: (http://pad.software-carpentry.org/instructor-discussion) to sign up for a discussion session, and then to the teaching demo etherpad (http://pad.software-carpentry.org/teaching-demos) to sign up for your final demo. For more information about completing your instructor certification, please see our simplified checklist: (http://www.datacarpentry.org/checkout/) and let us know if you have any questions.
 
 Best, 
 
@@ -293,9 +294,12 @@ Our workshops are taught by volunteers who go through a two-day training program
 
 Carpentry Trainers are an eclectic group. Some of us have formal training in pedagogy, some are experienced Carpentry instructors, others run Carpentry-like trainings as part of their jobs. We all share a commitment to helping new instructors become familiar and comfortable with Carpentry teaching practices and principles.
 
-If you’re interested in joining the Trainer community, please [apply here](https://goo.gl/forms/yTx9yJzdWy6OAPtS2)! Applications for this round will be open until [application_deadline]. 
+If you’re interested in joining the Trainer community, please apply here (https://goo.gl/forms/yTx9yJzdWy6OAPtS2)! Applications for this round will be open until [application_deadline]. 
 
 If you have any questions about the training process or the expectations for being a Trainer, please contact team@carpentries.org
+
+To learn more about what we teach, check out our lessons here: (https://software-carpentry.org/lessons/) and [here](http://www.datacarpentry.org/lessons/).
+More detailed information about what Trainers do can be found here: (https://github.com/carpentries/policies/blob/master/trainer-agreement.md).
 
 Looking forward to seeing an application from you!
 
@@ -303,5 +307,4 @@ Best,
 
 [ sender name ]
 
-To learn more about what we teach, check out our lessons [here](https://software-carpentry.org/lessons/) and [here](http://www.datacarpentry.org/lessons/).
-More detailed information about what Trainers do can be found [here](https://github.com/carpentries/policies/blob/master/trainer-agreement.md).
+
