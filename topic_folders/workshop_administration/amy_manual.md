@@ -178,7 +178,7 @@ When done, go back to the "Event" tab at the top of the page, and click "Submit"
 
 #### Assigning people to events in bulk
 
-See [section above](#).
+See [section above](amy_manual.html#adding-bulk-records).
 
 
 ### Other tasks
