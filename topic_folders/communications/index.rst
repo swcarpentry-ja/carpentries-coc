@@ -5,4 +5,6 @@ COMMUNICATION
    :maxdepth: 2
    :glob:
 
-   *
+   submit-news-item.md
+   submit_blog_post.md
+   newsletter.md

@@ -11,7 +11,7 @@ The Staff PDF makes available funds for the purpose of supporting staff particip
 Requests must demonstrate how the activity for which funding is sought supports the:
 
 1. Current Strategic Plan for The Carpentries;
-2. Employee's Individual Professional Development:
+1. Employee's Individual Professional Development:
    - Through improving performance in the employee’s current position; or
    - Through improving the employee’s qualifications for career opportunities that may arise within The Carpentries
 

@@ -1,24 +1,34 @@
-### Communicating about Bug BBQ
+### Bug BBQs
 
-##### Scheduling Bug BBQ (Maintainer list)
+A Bug BBQ is a day-long community-wide lesson development event. The
+goal of a Bug BBQ is to prepare lessons for publication.
 
-##### Announcing Bug BBQ (Blog post template)
+#### Scheduling a Bug BBQ
+
+Information about how to schedule a Bug BBQ. 
+
+#### Communicating about Bug BBQ
+
+Information about how to communicate about an upcoming Bug BBQ. 
+
+##### Creating a Bug BBQ Website
+
+Information about how to create a Bug BBQ website. 
+
+##### Announcing a Bug BBQ (Blog post template)
 
 The Carpentries are preparing to publish {{ lesson list }} on [Zenodo](https://zenodo.org/) in {{ month(s) }}. This will be the first publication for our new {{ new lesson list }} lessons. We regularly [publish our lessons](https://zenodo.org/communities/swcarpentry/) to provide stable identifiers for polished versions of the lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs or resumes.  
 
 This release will include the following lessons:  {{ bulleted list of lessons, for Data Carpentry lessons, link to the workshop home page instead of individual repos }}.
 
-# Get involved!  
 If you’ve made a contribution to one of these lessons, you’re already an author. Help make sure the final product is polished and complete by getting involved in the lesson release. 
-
-# How does the lesson release process work?   
+  
 Here’s a run-down of the lesson release process and our timetable for this release.  
 - Resolve existing PRs. **{{ dates }}**   
 - Freeze lessons to new significant changes. **{{ dates }}**  
 - Bug BBQ to clean up lessons. **{{ dates }}**  
 - Publish! **{{ dates }}**   
-
-## Bug BBQ  
+ 
 **{{ day, month, time UTC - day, month, time UTC }}**
 
 Click [this link]({{ FIXME https://www.timeanddate.com/worldclock/fixedform.html }}) to see the event in your local time.  
