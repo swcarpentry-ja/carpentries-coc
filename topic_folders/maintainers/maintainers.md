@@ -63,12 +63,40 @@ the onboarding process.
 12) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homeworks. 
 
 13) After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:  
-- Give them "write" access to their lesson repository on GitHub. 
-- Add their name to the lesson table on the website.
-- Award them a Maintainer badge in AMY.
+        - Give them "write" access to their lesson repository on GitHub. 
+        - Add their name to the lesson table on the website.
+        - Award them a Maintainer badge in AMY.
 
 14) Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
 
 15) Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
 
 16) Announce new Maintainers in the next newsletter.
+
+## How to stay in touch 
+
+The overall Maintainer community communicates using our [mailing list](http://lists.software-carpentry.org/listinfo/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with the Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
+
+The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://software-carpentry.org/join/#calendar).
+
+Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found
+in the README file in your lesson repository. 
+
+## How to handle issues
+
+Information coming soon. 
+
+## How to get help
+
+There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `status:help-wanted` or `status:need-contributor` labels.
+
+If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's [Curriculum Advisory Subcommittee](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee) by using the `status:refer-to-cac` label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question.
+
+You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel. 
+
+## How to suggest changes to the styling for all lessons
+
+Information coming soon.
+
+
+

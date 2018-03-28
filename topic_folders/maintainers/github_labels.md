@@ -1,4 +1,4 @@
-### GitHub labels
+### How to label issues
 
 <!-- DO NOT EDIT BY HAND: it should be generated using the carpenter       -->
 <!-- R package https://github.com/fmichonneau/carpenter                    -->
