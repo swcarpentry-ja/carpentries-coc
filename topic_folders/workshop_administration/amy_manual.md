@@ -182,6 +182,8 @@ See [section above](amy_manual.html#adding-bulk-records).
 
 ### Instructor Training
 
+#### Accepting Trainee Applications
+
 In addition to tracking workshops, AMY also allows us to track applications to instructor training events. The public facing application is [here](https://amy.software-carpentry.org/forms/request_training/). Applicants are given a group name if participating in a member training event. Open applicants will likely not have a group name.
 
 Once an individual submits the form, the record can be viewed by going to Requests --> Training Requests.  
@@ -199,6 +201,33 @@ Continue doing this until all relevant applications have a new trainee account. 
 Once all trainees for a given event have trainee accounts, we can assign them to a specific training event. This part can be done in bulk. The event must have already been created in AMY.
 
 Check all the names to be assigned to the training event, and then select the training event from the drop down menu. Click "Match selected trainees to chosen training." The search screen will then update to show that the trainees have been matched to this event. The event page will also update to list these trainees as learners at that event.
+
+#### Tracking checkout progress
+
+The above steps note that a trainee was accepted in to a training event. Completion of the training event and three steps towards trainee checkout can be tracked in AMY.  Each person's record will have a line for Instructor Training Progress.
+
+![AMY training progress](images/amy_training_progress.png)
+
+Click on the plus sign in the Training Progress line. This will go to a screen where you can track the all steps towards certification.
+
+![AMY training progress steps](images/amy_training_progress_steps.png)
+
+##### Recording completion of training event
+
+On the screen above, select 'Training' and note whether they passed or failed.
+
+##### Recording completion of discussion session
+
+On the screen above, select 'Discussion' and note whether they passed or failed.
+
+##### Recording completion of teaching demo
+
+On the screen above, select 'DC Demo' or 'SWC Demo' depending on which lesson they used for their demo, and note whether they passed or failed.
+
+##### Recording completion of lesson contribution
+
+On the screen above, select 'DC Homework' or 'SWC Homework' depending on which lesson they used for their contribution, and note whether they passed or failed.  In the notes section, link to their lesson contribution.  
+
 
 ### Reports
 
