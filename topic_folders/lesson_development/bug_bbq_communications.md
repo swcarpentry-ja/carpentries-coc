@@ -2,15 +2,11 @@
 
 ##### Scheduling Bug BBQ (Maintainer list)
 
-##### Announcing Bug BBQ (Blog post)
+##### Announcing Bug BBQ (Blog post template)
 
-The Carpentries are preparing to publish {{ lesson list }} on [Zenodo](https://zenodo.org/) in {{ month(s) }}. This will be the first 
-publication for our new {{ new lesson list }} lessons. We regularly [publish our lessons](https://zenodo.org/communities/swcarpentry/) 
-to provide stable identifiers for polished versions of
-the lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs or resumes.  
+The Carpentries are preparing to publish {{ lesson list }} on [Zenodo](https://zenodo.org/) in {{ month(s) }}. This will be the first publication for our new {{ new lesson list }} lessons. We regularly [publish our lessons](https://zenodo.org/communities/swcarpentry/) to provide stable identifiers for polished versions of the lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs or resumes.  
 
-This release will include the following lessons:  
-{{ bulleted list of lessons, for Data Carpentry lessons, link to the workshop home page instead of individual repos }}.
+This release will include the following lessons:  {{ bulleted list of lessons, for Data Carpentry lessons, link to the workshop home page instead of individual repos }}.
 
 # Get involved!  
 If you’ve made a contribution to one of these lessons, you’re already an author. Help make sure the final product is polished and complete by getting involved in the lesson release. 
