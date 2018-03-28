@@ -1,4 +1,7 @@
-### Trainers Training Program
+### Becoming a Trainer
+The Trainers group periodically accepts new members via application. New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.html).
+
+#### Trainers Training Program
 
 This outline represents the time commitment required for being an instructor Trainer with the Carpentries. Please read through and check to see that you are able to commit to the responsibilities outlined below.
 
