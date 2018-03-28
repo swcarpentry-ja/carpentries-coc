@@ -1,9 +1,8 @@
 ### Tracking Trainee Checkout Progress
 
 #### Accepting Trainee Applications
-1.
-
-
+1. All trainees will be reminded before and during the training event to complete the [instructor application](https://amy.software-carpentry.org/forms/request_training/).
+1. Carpentries Staff will assign all applications to the relevant training event in [AMY](amy_manual.html#instructor-training).
 
 #### Tracking Training Event Attendance
 1. After a training event, trainers will email a list of trainees who completed and did not complete the event to [checkout@carpentries.org](mailto:checkout@carpentries.org).
