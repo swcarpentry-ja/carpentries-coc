@@ -82,6 +82,7 @@ Best,
 [ sender name ]
 
 ##### Invitation to Open Training Event
+*This email is usually sent with a script. The canonical version of the text is the version below.*
 
 Subject: New Carpentry Instructor Training Events Available
 
