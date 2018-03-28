@@ -1,7 +1,5 @@
 ### GitHub labels
 
-#### Topic labels
-
 <!-- DO NOT EDIT BY HAND: it should be generated using the carpenter       -->
 <!-- R package https://github.com/fmichonneau/carpenter                    -->
 <!-- and running:                                                          -->
