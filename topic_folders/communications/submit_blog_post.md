@@ -116,4 +116,4 @@ Separate the header block from the post proper by a new line.
 
 #### Troubleshooting
 
-The most likely reason posts fail to build is because of rogue characters in the YAML header. Rogue characters generally appear because material has been pasted in directly from Word or Google documents. The most common rogue characters that cause issues are smart quotes. Try to replace these with plain quote marks to avert any problems.
+The most likely reason posts fail to build is because of 'rogue' characters in the YAML header. Rogue characters generally occur because material has been pasted in directly from programs like Word or Google documents. The most common rogue characters that cause issues are smart quotes (curly quote marks as opposed to plain ones) but others might be em or en dashes, mathematical or other symbols, or other characters that cannot be rendered in plain text by typing on a keyboard. Replace smart quotes with plain quote marks and smart em or en dashes with plain hyphens to avert any problems.
