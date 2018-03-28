@@ -10,7 +10,7 @@ It is organized using [this template](https://docs.google.com/document/d/1o4Z3CQ
 * *Subcommittee Activity* Includes announcements directly from committee chairs and summaries from meeting notes
 * *What you may have missed on the blog and mailing lists* Includes summary of anything not included above, including key conversations on the *Discuss* email list
 * *Papers & manuscripts from the community* Includes announcements that were made on the the *Discuss* email list, Twitter, or other media
-* *Tweet of the Week* One noteworthy tweet is chosen and a screen-grabb of the image is included
+* *Tweet of the Week* One noteworthy tweet is chosen and a screen-grab of the image is included
 * *Optional: Offcuts* Includes other unusual news that may be of interest
 * *Optional: Joinery* Includes other ways to get involved in the Carpentries community and ways Carpentries community is involved in other conferences, etc.
 * *Community Job postings* Includes information that has come through on the *Discuss* email list, Twitter, and other media.
