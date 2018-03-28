@@ -37,11 +37,11 @@ This code of conduct is a modified version of that used by PyCon, which in turn 
 
 If you believe someone is violating the Code of Conduct we ask that you report it to The Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org).
 
-**All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.  
+**All reports will be kept confidential.** <br> In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.  
 
 If the violation occurred at an in-person event, please contact the event host and/or coordinator so that they can take any appropriate immediate response, as well as contacting the subcommittee. You can also contact The Carpentries Executive Director Tracy Teal by telephone at 1-530-341-3230.  
 
-**If you believe anyone is in physical danger, please notify appropriate law enforcement first.** If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.  
+**If you believe anyone is in physical danger, please notify appropriate law enforcement first.** <br> If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.  
 
 Reports can be filed anonymously with minimal details. If you don’t feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide however, so, if you can, please include in your report:  
 
@@ -53,7 +53,7 @@ Reports can be filed anonymously with minimal details. If you don’t feel you c
 - If you believe this incident is ongoing.  
 - Any other information you believe we should have.  
 
-**What happens after you file a report?** The recipient of the report will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event. You will receive an email from the Policy subcommittee (“the committee”) acknowledging receipt within 24 hours (and we’ll aim for much more quickly than that). The committee will make all efforts to meet within two days to review the incident and determine:  
+**What happens after you file a report?** <br> The recipient of the report will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event. You will receive an email from the Policy subcommittee (“the committee”) acknowledging receipt within 24 hours (and we’ll aim for much more quickly than that). The committee will make all efforts to meet within two days to review the incident and determine:  
 
 - Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.  
 - What happened.  
@@ -72,15 +72,13 @@ Once the committee has a complete account of the events they will make a decisio
 - Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies  
 
 
-We'll respond within one week to the original reporter with either a resolution or an explanation of why the
-situation is not yet resolved.   
+We'll respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we may decide not to act on that feedback.  
 
-Finally, the committee will make a report on the situation to the appropriate Carpentry steering committee. 
-The steering committee may choose to make a public report of the incident, while maintaining anonymity of those involved.  
+Finally, the committee will make a report on the situation to the appropriate Carpentry steering committee. The steering committee may choose to make a public report of the incident, while maintaining anonymity of those involved.  
 
-**Appealing** Only resolutions with permanent consequences (such as bans) may be appealed. To appeal a decision of the committee, contact the Carpentry Executive Council at [executive-council@carpentries.org](mailto:executive-council@carpentries.org) with your appeal and the Executive Council will review the case.  
+**Appealing** <br>Only resolutions with permanent consequences (such as bans) may be appealed. To appeal a decision of the committee, contact the Carpentry Executive Council at [executive-council@carpentries.org](mailto:executive-council@carpentries.org) with your appeal and the Executive Council will review the case.  
 
 This reporting procedure is an adaptation of the one used by the [Django Project](https://www.djangoproject.com/conduct/reporting/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
@@ -88,15 +86,15 @@ This reporting procedure is an adaptation of the one used by the [Django Project
 
 This is the enforcement manual followed by The Carpentries Policy subcommittee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interests of transparency. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviors.  
 
-**The Policy Subcommittee** All responses to reports of conduct violations will be managed by a Policy Subcommittee ("the committee"). The Carpentries Executive Council will jointly establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the Executive Council. The Executive Council will review membership on an annual basis.  
+**The Policy Subcommittee** <br> All responses to reports of conduct violations will be managed by a Policy Subcommittee ("the committee"). The Carpentries Executive Council will jointly establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the Executive Council. The Executive Council will review membership on an annual basis.  
 
-**How the committee will respond to reports** When a report is sent to the committee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the committee should strive to respond much more quickly than that. See the [reporting guidelines](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for details of what reports should contain. If a report doesn't contain enough information, the committee will attempt to obtain all relevant data before acting. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved to get a more complete account of events. The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be "over the line" in any single incident, and thus may not generate a report.  
+**How the committee will respond to reports** <br> When a report is sent to the committee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the committee should strive to respond much more quickly than that. See the [reporting guidelines](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for details of what reports should contain. If a report doesn't contain enough information, the committee will attempt to obtain all relevant data before acting. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved to get a more complete account of events. The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be "over the line" in any single incident, and thus may not generate a report.  
 
-**Urgent Situations: Acting Unilaterally** If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the committee may -- and should -- act unilaterally to protect safety. This can include contacting law enforcement (or other local personnel) and speaking on behalf of The Carpentries.  
+**Urgent Situations: Acting Unilaterally** <br> If the incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the committee may -- and should -- act unilaterally to protect safety. This can include contacting law enforcement (or other local personnel) and speaking on behalf of The Carpentries.  
 
 If the act is ongoing, any committee member may act immediately, before reaching consensus, to diffuse the situation. In ongoing situations, any member may at their discretion employ any of the tools available to the committee, including bans and blocks. In situations where an individual committee member acts unilaterally, they must inform the other committee members as soon as possible, and report their actions to the committee for review within 24 hours.
 
-**Less-Urgent Situations** Upon receiving a report of an incident, the committee, or at least three members, will review the incident and determine, to the best of their ability:  
+**Less-Urgent Situations** <br> Upon receiving a report of an incident, the committee, or at least three members, will review the incident and determine, to the best of their ability:  
 
 - whether this is an ongoing situation 
 - whether there is a threat to anyone's physical safety
@@ -108,8 +106,7 @@ This information will be collected in writing, and whenever possible the committ
 
 The committee should aim to have a resolution agreed upon within one week. In the event that a resolution can't be determined in that time, the committee will respond to the reporter(s) with an update and projected timeline for resolution.  
 
-**Resolutions**  
-The committee must agree on a resolution by consensus of all members investigating the report in question. If the committee cannot reach consensus and deadlocks for over a week, they will turn the matter over to the Executive Council for resolution.  
+**Resolutions**<br> The committee must agree on a resolution by consensus of all members investigating the report in question. If the committee cannot reach consensus and deadlocks for over a week, they will turn the matter over to the Executive Council for resolution.  
 
 Possible responses may include:  
 
@@ -129,6 +126,6 @@ The Policy committee will never publicly discuss the details of the issue; all p
 
 At the end of every quarter, the Executive Council will publish an aggregated count of the incidents the Policy Subcommittee dealt with, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and for each of these which under part of the Code of Conduct the incident was classified.  
 
-**Conflicts of Interest** In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
+**Conflicts of Interest**<br> In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
 This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
