@@ -1,8 +1,7 @@
 ### Trainers Guide
 
 #### Trainer Duties
-As of May 2017, the Trainers group adopted a 
-[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
+As of May 2017, the Trainers group adopted a [Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
 
 ##### Trainer Agreement
 I agree to follow the [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with the Carpentry community and to [promptly report any violations of the CoC](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) that I become aware of.
@@ -72,7 +71,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 ##### Long-term after the event 
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-#### Differences Among Training Types
+#### Differences Among In-person and Online Training Events
 
 ##### In-person trainings
 - When watching videos, project them to the whole group.   
@@ -97,7 +96,7 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 
 About a week before your event, you will be given login credentials for a Carpentry account. This account will be the host for the event and will have extra privileges including the ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host can transfer host privileges to other participants, so you will be able to trade host status back and forth with your co-Trainers during the event.  
 
-All Carpentry online events are set-up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.   
+All Carpentry online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.
 
 ##### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
@@ -113,7 +112,7 @@ All Carpentry online events are set-up such that participants can enter the room
 
 #### Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].  
+If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
@@ -138,7 +137,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 ##### After the Demo 
 -  Email checkout@carpentries.org with names, pass/fail, and SWC/DC for each of your trainees.  
 -  Clear Etherpad of data from your session.  
--  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
+-  Send each trainee an email letting them know they [passed](email_templates.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
 ##### Not Good Starting Points for Demos
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
