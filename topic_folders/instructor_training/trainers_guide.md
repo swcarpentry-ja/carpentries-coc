@@ -4,6 +4,32 @@
 As of May 2017, the Trainers group adopted a 
 [Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
 
+##### Trainer Agreement
+I agree to follow the [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions 
+with the Carpentry community and to [promptly report any violations of the CoC](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines)
+that I become aware of.
+
+I understand that the secondary learning outcomes of workshops are as important as their stated goals. I will:  
+- Communicate Carpentry community values to trainees and model that behaviour myself in how I teach  
+- Provide a welcoming and supporting environment for trainees  
+- Model our “show, don’t tell” policy in instructor training  
+- Connect the principles used in Carpentry workshops with other teaching contexts  
+
+I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will
+reflect current practices and curriculum. Therefore, to be an active Trainer, I agree to:  
+- Teach at least two instructor training events per year  
+- Host on average four teaching demonstration per year  (1 per quarter)  
+- Regularly attend Trainer Discussion and Business meetings when possible and read meeting minutes/notes when I am not able to attend  
+- Read emails sent to the Trainer listserv  
+- Keep up-to-date with the instructor training curriculum  
+- Teach a curriculum that fulfills all of the current requirements for instructor certification  
+- Provide feedback to other trainers and Carpentries staff about training events to help continue developing our offerings  
+
+I understand that Carpentry staff need an accurate understanding of Trainer availability in order to plan instructor training 
+events. If at any point I am no longer able to serve as a Trainer, I will let Carpentry staff know. I understand that only active
+Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by resuming
+Trainer activities.  
+
 #### Becoming a Trainer
 The Trainers group periodically accepts new members via application. New Trainers undergo an eight-week training program outlined [in this document][trainer-process] and agree to the [Trainer Agreement][trainer-agreement].
 
@@ -17,7 +43,7 @@ The Trainers group meets regularly. We have two types of meetings - business mee
 3. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
 4. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
 
-A calendar for how signups are scheduled is [here](/instructor_training/scheduling_training_events.html).
+A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
 #### Running an Instructor Training Event (General)
 
@@ -146,10 +172,10 @@ Any episode other than those listed below should make an okay starting point for
    * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
 
 
-[trainer-agreement]: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
-[trainer-process]: https://docs.google.com/document/d/14Zi_W9uk1wua2v3zy8um6oMCnvO41Qfo1KwStCA-hos/edit
+[trainer-agreement]: http://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#trainer-agreement
+[trainer-process]: http://docs.carpentries.org/topic_folders/instructor_training/trainers_training.html
 [trainer-pad]: http://pad.software-carpentry.org/trainers
-[community-calendar]: http://pad.software-carpentry.org/trainers
+[community-calendar]: https://software-carpentry.org/join/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/swcarpentry/training-template
