@@ -202,9 +202,9 @@ The quickiest and easiest way to search is using the search box in the top menu 
 
 In addition to tracking workshops, AMY also allows us to track applications to instructor training events. The public facing application is [here](https://amy.software-carpentry.org/forms/request_training/). Applicants are given a group name if participating in a member training event. Open applicants will likely not have a group name.
 
-Once an individual submits the form, the record can be viewed by going to Requests --> Training Requests.  Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location.
+Once an individual submits the form, the record can be viewed by going to Requests --> Training Requests.  
 
-*Screenshots coming soon*
+Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location.
 
 Some trainees will already be in AMY because they were formerly learners or helpers at Carpentries events. If there is a record with a matching name and email address, they will show up with a "matched trainee" when you search for them.  If "matched trainee" is blank, you will need to create a trainee record for them.
 
