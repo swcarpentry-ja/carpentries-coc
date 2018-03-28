@@ -11,11 +11,11 @@ This document describes how instructor discussion sessions are organized and con
 
 #### Motivation
 
-1.  The Carpentries are community based projects and the community needs opportunity to interact.
+1. The Carpentries are community based projects and the community needs opportunity to interact.
 
-2.  The Carpentries believe in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
+1. The Carpentries believe in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
-3. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
+1. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
 #### Who can host?
 

@@ -6,5 +6,6 @@ LESSON MAINTENANCE
    :glob:
 
    maintainers.md
+   github_labels.md
    email_templates.md
    

@@ -178,33 +178,17 @@ When done, go back to the "Event" tab at the top of the page, and click "Submit"
 
 #### Assigning people to events in bulk
 
-See [section above](#).
-
-
-### Other tasks
-
-#### Merging duplicate persons or events
-
-If duplicate persons or event records exists, they can be merged.  Select "Merge persons" or "Merge events" from the "More" menu. 
-
-Choose the two Persons or Events to be merged, and click "Submit" to see merge options. Here you can choose to keep the value from Person/Event A, from Person/Event B, or to combine the values.
-
-### Searching
-
-#### General search
-The quickiest and easiest way to search is using the search box in the top menu bar. This will perform a case insensitive search of any field in AMY, including searching for partial matches. For example:
-*  `12-12-` will match any workshop slug containing that string (essentially any workshop on December 12 of any year.)
-* `ola tes` will match `Nikola Tesla` and `Nolan Bates`
-* `stanford` will match any one with a `stanford` email address, with `stanford` in their name, any workshops with `stanford` in the slug, the site `Stanford University` and any records with `stanford` in the notes.
-
+See [section above](amy_manual.html#adding-bulk-records).
 
 ### Instructor Training
 
+#### Accepting Trainee Applications
+
 In addition to tracking workshops, AMY also allows us to track applications to instructor training events. The public facing application is [here](https://amy.software-carpentry.org/forms/request_training/). Applicants are given a group name if participating in a member training event. Open applicants will likely not have a group name.
 
-Once an individual submits the form, the record can be viewed by going to Requests --> Training Requests.  Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location.
+Once an individual submits the form, the record can be viewed by going to Requests --> Training Requests.  
 
-*Screenshots coming soon*
+Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location.
 
 Some trainees will already be in AMY because they were formerly learners or helpers at Carpentries events. If there is a record with a matching name and email address, they will show up with a "matched trainee" when you search for them.  If "matched trainee" is blank, you will need to create a trainee record for them.
 
@@ -217,6 +201,33 @@ Continue doing this until all relevant applications have a new trainee account. 
 Once all trainees for a given event have trainee accounts, we can assign them to a specific training event. This part can be done in bulk. The event must have already been created in AMY.
 
 Check all the names to be assigned to the training event, and then select the training event from the drop down menu. Click "Match selected trainees to chosen training." The search screen will then update to show that the trainees have been matched to this event. The event page will also update to list these trainees as learners at that event.
+
+#### Tracking checkout progress
+
+The above steps note that a trainee was accepted in to a training event. Completion of the training event and three steps towards trainee checkout can be tracked in AMY.  Each person's record will have a line for Instructor Training Progress.
+
+![AMY training progress](images/amy_training_progress.png)
+
+Click on the plus sign in the Training Progress line. This will go to a screen where you can track the all steps towards certification.
+
+![AMY training progress steps](images/amy_training_progress_steps.png)
+
+##### Recording completion of training event
+
+On the screen above, select 'Training' and note whether they passed or failed.
+
+##### Recording completion of discussion session
+
+On the screen above, select 'Discussion' and note whether they passed or failed.
+
+##### Recording completion of teaching demo
+
+On the screen above, select 'DC Demo' or 'SWC Demo' depending on which lesson they used for their demo, and note whether they passed or failed.
+
+##### Recording completion of lesson contribution
+
+On the screen above, select 'DC Homework' or 'SWC Homework' depending on which lesson they used for their contribution, and note whether they passed or failed.  In the notes section, link to their lesson contribution.  
+
 
 ### Reports
 
@@ -247,3 +258,19 @@ If an instructor is having trouble logging in, an administrator can verify the f
 * Be sure the GitHub user name is accurate.
 * Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorized user.
 * `Logging in allowed` should show next to the GitHub name in the profile. If it says `Allow logging in with GitHub`, click this to allow logging in. This must be done **after** setting permissions to active above.
+
+### Other tasks
+
+#### Merging duplicate persons or events
+
+If duplicate persons or event records exists, they can be merged.  Select "Merge persons" or "Merge events" from the "More" menu. 
+
+Choose the two Persons or Events to be merged, and click "Submit" to see merge options. Here you can choose to keep the value from Person/Event A, from Person/Event B, or to combine the values.
+
+### Searching
+
+#### General search
+The quickiest and easiest way to search is using the search box in the top menu bar. This will perform a case insensitive search of any field in AMY, including searching for partial matches. For example:
+*  `12-12-` will match any workshop slug containing that string (essentially any workshop on December 12 of any year.)
+* `ola tes` will match `Nikola Tesla` and `Nolan Bates`
+* `stanford` will match any one with a `stanford` email address, with `stanford` in their name, any workshops with `stanford` in the slug, the site `Stanford University` and any records with `stanford` in the notes.

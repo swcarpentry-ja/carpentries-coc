@@ -1,13 +1,10 @@
 ### Trainers Guide
 
 #### Trainer Duties
-As of May 2017, the Trainers group adopted a 
-[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
+As of May 2017, the Trainers group adopted a [Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
 
 ##### Trainer Agreement
-I agree to follow the [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions 
-with the Carpentry community and to [promptly report any violations of the CoC](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines)
-that I become aware of.
+I agree to follow the [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with the Carpentry community and to [promptly report any violations of the CoC](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) that I become aware of.
 
 I understand that the secondary learning outcomes of workshops are as important as their stated goals. I will:  
 - Communicate Carpentry community values to trainees and model that behaviour myself in how I teach  
@@ -15,8 +12,7 @@ I understand that the secondary learning outcomes of workshops are as important 
 - Model our “show, don’t tell” policy in instructor training  
 - Connect the principles used in Carpentry workshops with other teaching contexts  
 
-I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will
-reflect current practices and curriculum. Therefore, to be an active Trainer, I agree to:  
+I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will reflect current practices and curriculum. Therefore, to be an active Trainer, I agree to:
 - Teach at least two instructor training events per year  
 - Host on average four teaching demonstration per year  (1 per quarter)  
 - Regularly attend Trainer Discussion and Business meetings when possible and read meeting minutes/notes when I am not able to attend  
@@ -25,9 +21,7 @@ reflect current practices and curriculum. Therefore, to be an active Trainer, I 
 - Teach a curriculum that fulfills all of the current requirements for instructor certification  
 - Provide feedback to other trainers and Carpentries staff about training events to help continue developing our offerings  
 
-I understand that Carpentry staff need an accurate understanding of Trainer availability in order to plan instructor training 
-events. If at any point I am no longer able to serve as a Trainer, I will let Carpentry staff know. I understand that only active
-Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by resuming
+I understand that Carpentry staff need an accurate understanding of Trainer availability in order to plan instructor training events. If at any point I am no longer able to serve as a Trainer, I will let Carpentry staff know. I understand that only active Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by resuming
 Trainer activities.  
 
 #### Becoming a Trainer
@@ -38,7 +32,7 @@ The Trainers group meets regularly. We have two types of meetings - business mee
 
 #### Signing up to Teach an Instructor Training Event
 
-1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the upcoming time period. Please sign up for as many days as you are available and hold those dates in your calendar until the schedule is confirmed.
+1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Please sign up for as many days as you are available and hold those dates in your calendar until the schedule is confirmed.
 2. The Program Manager will confirm events with individual Trainers, at which point you are free to release all other dates on your calendar.
 3. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
 4. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
@@ -77,7 +71,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 ##### Long-term after the event 
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-#### Differences Among Training Types
+#### Differences Among In-person and Online Training Events
 
 ##### In-person trainings
 - When watching videos, project them to the whole group.   
@@ -102,7 +96,7 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 
 About a week before your event, you will be given login credentials for a Carpentry account. This account will be the host for the event and will have extra privileges including the ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host can transfer host privileges to other participants, so you will be able to trade host status back and forth with your co-Trainers during the event.  
 
-All Carpentry online events are set-up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.   
+All Carpentry online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.
 
 ##### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
@@ -118,7 +112,7 @@ All Carpentry online events are set-up such that participants can enter the room
 
 #### Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].  
+If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
@@ -143,7 +137,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 ##### After the Demo 
 -  Email checkout@carpentries.org with names, pass/fail, and SWC/DC for each of your trainees.  
 -  Clear Etherpad of data from your session.  
--  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
+-  Send each trainee an email letting them know they [passed](email_templates.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
 ##### Not Good Starting Points for Demos
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 

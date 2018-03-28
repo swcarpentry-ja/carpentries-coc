@@ -12,13 +12,15 @@ Member sites are given the opportunity to join one of the posted training events
 
 The Director of Memberships and the Business Administrator notify the Program Manager when new member sites are ready for instructor training. The Program Manager shares information with the member site about [how instructor training works](http://carpentries.github.io/instructor-training/partners/) and the [training calendar](https://carpentries.github.io/instructor-training/training_calendar/) using [this email template](/instructor_training/trainers_guide.html#new-member-site-welcome).
 
-Once a member site has chosen a training date, they must share a list of names and emails of participants with the Program Manager no more than three weeks before the event.  The Program Manager will email all participants, hosts, and trainers information about the training event using [this email template](/instructor_training/trainers_guide.html#member-training-introductions).  The Workshop Administrator will enter the training information in AMY, including assigning trainee applications to this event.  The Instructor Trainers will prepare for the event as outlined in the [trainers' guide](/instructor_training/trainers_guide.html).
+Once a member site has chosen a training date, they must share a list of names and emails of participants with the Program Manager no more than three weeks before the event.  The Program Manager will email all participants, hosts, and trainers information about the training event using [this email template](/instructor_training/trainers_guide.html#member-training-introductions).  The Workshop Administrator will enter the [training information in AMY](../workshop_administration/amy_manual.html#instructor-training), including assigning trainee applications to this event.  The Instructor Trainers will prepare for the event as outlined in the [trainers' guide](/instructor_training/trainers_guide.html).
 
 The Program Manager, Workshop Administrator, or Trainer will schedule a time for the site(s) to do a test run of Zoom.
 
-#### For Open Training Events
+#### For Open or Hybrid Training Events
 
-Information coming soon.
+One month prior to a scheduled training event, if no member sites have signed up, this event will be closed to member sites.  Carpentries staff will determine whether to change this to an open training event or to cancel the event entirely.  Carpentries staff will notify trainers scheduled to lead this event of this decision.
+
+
 
 
 

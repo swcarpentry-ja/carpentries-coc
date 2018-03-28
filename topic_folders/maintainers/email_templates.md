@@ -1,4 +1,4 @@
-### Template emails
+### Email Templates
 
 
 #### Inviting new Maintainers
