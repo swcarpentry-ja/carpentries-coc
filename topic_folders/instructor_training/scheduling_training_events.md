@@ -16,9 +16,11 @@ Once a member site has chosen a training date, they must share a list of names a
 
 The Program Manager, Workshop Administrator, or Trainer will schedule a time for the site(s) to do a test run of Zoom.
 
-#### For Open Training Events
+#### For Open or Hybrid Training Events
 
-Information coming soon.
+One month prior to a scheduled training event, if no member sites have signed up, this event will be closed to member sites.  Carpentries staff will determine whether to change this to an open training event or to cancel the event entirely.  Carpentries staff will notify trainers scheduled to lead this event of this decision.
+
+
 
 
 
