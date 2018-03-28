@@ -6,8 +6,7 @@ LESSON DEVELOPMENT
    :glob:
 
    lesson_development_roles.md
-   github_labels.md
+   bug_bbq.md
    email_templates.md
-   bug_bbq_communications.md
 
    
