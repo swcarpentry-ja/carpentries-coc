@@ -13,7 +13,7 @@ I understand that the secondary learning outcomes of workshops are as important 
 I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will reflect current practices and curriculum. Therefore, to be an active Trainer, I agree to:
 - Teach at least two instructor training events per year  
 - Host on average four teaching demonstration per year  (1 per quarter)  
-- Regularly attend Trainer Discussion and Business meetings when possible and read meeting minutes/notes when I am not able to attend  
+- Regularly attend [Trainer Discussion and Business meetings](trainers_guide.html#trainer-meetings) when possible and read meeting minutes/notes when I am not able to attend  
 - Read emails sent to the Trainer listserv  
 - Keep up-to-date with the instructor training curriculum  
 - Teach a curriculum that fulfills all of the current requirements for instructor certification  
