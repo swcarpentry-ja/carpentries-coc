@@ -8,4 +8,5 @@ INSTRUCTOR TRAINING
    scheduling_training_events.md
    trainers_guide.md
    trainers_training.md
+   tracking_checkout.md
    email_templates.md
