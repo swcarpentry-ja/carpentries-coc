@@ -7,10 +7,10 @@ It is organized using [this template](https://docs.google.com/document/d/1o4Z3CQ
 #### Newsletter content
 
 * *Highlights from the Software and Data Carpentry Community* and *Calendar* Includes highlights from the Carpentries calendars, blog posts, tweets, and other media
-* *Subcommittee Activity* Includes announcements direclty from committee chairs and summaries from meeting notes
-* *What you may have missed on the blog and mailing lists* Includes summary of anything not included above including key conversations on the *Discuss* email list
+* *Subcommittee Activity* Includes announcements directly from committee chairs and summaries from meeting notes
+* *What you may have missed on the blog and mailing lists* Includes summary of anything not included above, including key conversations on the *Discuss* email list
 * *Papers & manuscripts from the community* Includes announcements that were made on the the *Discuss* email list, Twitter, or other media
-* *Tweet of the Week* One noteworthry tweet is chosen and a screen grabbed image is included
+* *Tweet of the Week* One noteworthy tweet is chosen and a screen-grabb of the image is included
 * *Optional: Offcuts* Includes other unusual news that may be of interest
 * *Optional: Joinery* Includes other ways to get involved in the Carpentries community and ways Carpentries community is involved in other conferences, etc.
 * *Community Job postings* Includes information that has come through on the *Discuss* email list, Twitter, and other media.
@@ -18,41 +18,30 @@ It is organized using [this template](https://docs.google.com/document/d/1o4Z3CQ
 
 #### Publishing the newsletter
 
-This information is intended for staff or community members that have taken on the responsibility of publishing the newsletter.
+This information is intended for staff or community members who have taken on the responsibility of publishing the newsletter.
 
 Each newsletter is a campaign on MailChimp.
 
-To create a new issue, log in to MailChimp and click on *Campaigns*.  Make a copy of the latest newsletter and rename it to reflect the current date (e.g. `Carpentry Clippings, 27 March, 2018.`).
+To create a new newsletter, log in to MailChimp and click on *Campaigns*.  Make a copy of the latest newsletter and rename the copy to reflect the current date (e.g. `Carpentry Clippings, 27 March, 2018.`).
 
-Check the *To* field as going to the number of newsletter subscribers.
+Check the *To* field is correctly set as going to *x* number of newsletter subscribers.
 
-Check the *From* field as coming from *The Carpentries*.
+Check the *From* field is correctly set as coming from *The Carpentries*.
 
-Select *Edit design* to add newsletter content. Highlight each box and click *Clear styles* if anything appears in bold when you don't want it to.
+Select *Edit design* to add newsletter content. When the newsletter opens, click the pencil icon in the newsletter on the left to open the newsletter for editing. (Editing is all done within the right pane; the left pane renders the public view as you edit.)
 
-Add images by clicking on the *Image* icon in the edit window.  All images must be no more than 550px wide to render properly.
+Remove old content and paste in the new.
 
-Go to *Preview and Test* to preview the newsletter before sending it out. This includes a desktop and mobile version preview.  Send a test email to yourself to preview in your email client.
+Highlight each paragraph and click *Clear styles* if anything you are copying in appears in bold when you don't want it to.
 
-*Save and Close* and schedule the newsletter to be sent.  This should always be for Tuesday at 9 am Eastern time.  A confirmation message saying "Rock On! Your campaign has been scheduled" will be displayed.
+Add images by clicking on the *Image* icon in the edit window.  All images must be no more than 550px wide to render properly. These can be resized within MailChimp by working with the image styling and location.
 
-The newsletter will now be locked.  If any changed need to be made after it has been scheduled, you will need to pause the campaign, make changes, and restart the campaign.
+Go to *Preview and Test* to preview the newsletter before sending it out. This includes a desktop and mobile version preview.  Send a test email to yourself to preview it in your email client.
 
-The previous newsletter is then moved into the Carpentry Clippings folder which adds it to the online archive.
+*Save and Close* and schedule the newsletter to be sent.  This should always be set for Tuesday at 9 am Eastern time.  A confirmation message saying "Rock On! Your campaign has been scheduled" will be displayed.
 
+The newsletter will now be locked.  If any changes need to be made after it has been scheduled, you will need to pause the campaign, make changes, and restart the campaign. 
 
+After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is correctly set as this will often default to the current time, rather than the original scheduled time.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The previous newsletter is then moved into the **Carpentry Clippings** folder which adds it to the searchable online archive. To move it, check the box next to the newsletter and select the correct folder when the `Move to` option appears.
