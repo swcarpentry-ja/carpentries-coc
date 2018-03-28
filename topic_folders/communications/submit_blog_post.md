@@ -113,3 +113,7 @@ Separate the header block from the post proper by a new line.
     If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
     
 7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
+
+#### Troubleshooting
+
+The most likely reason posts fail to build is because of rogue characters in the YAML header. Rogue characters generally appear because material has been pasted in directly from Word or Google documents. The most common rogue characters that cause issues are smart quotes. Try to replace these with plain quote marks to avert any problems.
