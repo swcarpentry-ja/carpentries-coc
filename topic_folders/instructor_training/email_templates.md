@@ -288,7 +288,7 @@ Subject: Opportunity to join Carpentries trainers community
 
 Hi [ name ],
 
-I wanted to get in touch with you about an opportunity to get involved with the Software and Data Carpentry community. Software and Data Carpentry are US-based non-profit organizations focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
+I wanted to get in touch with you about an opportunity to get involved with the Software and Data Carpentry community. Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initaitives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
 
 Our workshops are taught by volunteers who go through a two-day training program focused on pedagogy and cognitive psychology. These training events are run by our Instructor Trainers who also help to develop and maintain our instructor training curriculum. 
 
