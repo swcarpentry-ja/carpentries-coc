@@ -81,6 +81,31 @@ Best,
 
 [ sender name ]
 
+##### Invitation to Open Training Event
+
+Subject: New Carpentry Instructor Training Events Available
+
+Hi [ name ], 
+
+Thank you for applying to become an instructor with Software and Data Carpentry. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
+
+We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in one of our upcoming instructor training events. 
+                  
+Please look at what events are available and register by adding your name to the registration form here: https://tinyurl.com/y8wcw94u.
+                  
+All listed events will be held online over video conference at the times listed. Please be sure to check the local start time before registering.
+
+Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
+
+Please register by [ register_date ] to let us know whether or not you will be able to attend. If we haven’t heard from you by that time, we will offer the seat to another applicant, however, you will still remain at the top of the applicant list and we will happily try to accommodate you at a later training.
+                 
+If you have any questions about the training, please let me know. We’re looking forward to having you as a Carpentry instructor!
+                 
+Best,
+
+[ sender name ]
+
+
 ##### Email after training event
 
 Subject: Thanks for attending Carpentries Instructor Training!
