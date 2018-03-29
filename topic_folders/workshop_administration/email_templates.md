@@ -228,7 +228,7 @@ ____________________________________________________________________________
 
 Hello,
 
-We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] (INSERT WORKSHOP WEBSITE LINK). To help your instructors provide an inclusive environment, and to learn more about your current experience with the tools you'll learn, we ask that you complete our pre-workshop survey (https://www.surveymonkey.com/r/dcpreworkshopassessment?workshop_id=[workshop_id_value]). 
+We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] (INSERT WORKSHOP WEBSITE LINK). To help your instructors provide an inclusive environment, and to learn more about your current experience with the tools you'll learn, we ask that you complete our pre-workshop survey ( https://www.surveymonkey.com/r/swc_pre_workshop_v1 OR https://www.surveymonkey.com/r/dcpreworkshopassessment ). 
 
 Your responses will be recorded anonymously. Your IP address will be registered; however, your responses will remain anonymous. You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. You may quit the survey at any time, or skip any item other than those required to correctly sort your responses. 
 
@@ -237,14 +237,11 @@ If you have any questions about our assessment strategy, please contact  Kari L.
 Our best,  
 Your instructors
 
-____________________________________________________________________________
-
-
 ##### Encourage learners to complete post-workshop survey
 
 Hello,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We'd like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (https://www.surveymonkey.com/r/dcpostworkshopassessment?workshop_id=[workshop_id_value]  OR https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=) as soon as possible.
+Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We'd like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (https://www.surveymonkey.com/r/dcpostworkshopassessment  OR https://www.surveymonkey.com/r/swc_post_workshop_v1 ) as soon as possible.
 
 If you have any questions about our assessment strategy, please contact  Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org. We look forward to your continued involvement with our community!
 
