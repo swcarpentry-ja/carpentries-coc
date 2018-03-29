@@ -1,10 +1,10 @@
-## Construyendo la Comunidad de 'Carpentries' en América Latina / Building Carpentries Community in Latin America 
+## Carpentries en América Latina
 
 La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas diferentes: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Este repositorio sirve como punto de entrada para este grupo de actividades.
 
 Building a sustainable and active community in Latin America include several different iniatives: lesson translation, instructor training, workshop coordination, and fundraising. This respository serves as a landing point for this diverse group of activies.  
 
-### Como puedes ayudar / Ways to Help
+### Como puedes ayudar / Ways to help
 
 There are many ways to help build Carpentry community in Latin America. 
 
@@ -28,14 +28,14 @@ To contact this group, email latinoamerica@carpentries.org. To join the email li
 - Traducción de lección / Lesson translation: Paula Andrea Martinez, Francisco Palm, Rayna Harris
 - Capacitación de instructores / Instructor training: Karen Word (with help from Sue McClatchy, Rayna Harris, Belinda Weaver)
 
-### Reuniones Bilingües / Bilingual Meetings 
+### Reuniones bilingües / Bilingual meetings 
 
 - Hacemos reuniones mensuales bilingües para la sección **"Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"] (https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).** Inscríbase en el [Etherpad] (http://pad.software-carpentry.org/teaching-demos) o lea las [instrucciones bilingües] (https://github.com/carpentries/latinoamerica/blob/master/traducciones/ demo.md) para saber cómo funcionan las sesiones de demostración.
 
 - We host monthly bilingual meetings for the **"Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). **
 Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
 
-## Traducciones / Translations
+### Traducciones / Translations
 
 Los repositorios de GitHub para las traducciones en progreso se mantienen en la organización [carpentries-es](https://github.com/Carpentries-ES).
 
