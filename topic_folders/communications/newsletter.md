@@ -7,7 +7,7 @@ It is organized using [this template](https://docs.google.com/document/d/1o4Z3CQ
 #### Newsletter content
 
 * *Highlights from the Software and Data Carpentry Community* and *Calendar*: Includes highlights from the Carpentries calendars, blog posts, tweets, and other media.
-* *Subcommittee Activity*: Includes announcements direclty from committee chairs and summaries from meeting notes.
+* *Subcommittee Activity*: Includes announcements directly from committee chairs and summaries from meeting notes.
 * *What you may have missed on the blog and mailing lists*: Includes a summary of anything not included above including key conversations on the *Discuss* email list.
 * *Papers & manuscripts from the community*: Includes announcements that were made on the the *Discuss* email list, Twitter, or other media.
 * *Tweet of the Week*: One noteworthry tweet is chosen and a screen captured image is included.
