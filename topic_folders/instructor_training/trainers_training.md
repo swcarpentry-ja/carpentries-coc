@@ -7,7 +7,7 @@ This outline represents the time commitment required for being an instructor Tra
 
 Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/) in all communications and interactions with the Carpentry community.
 
-* Read [How Learning Works](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/ref=sr_1_1?ie=UTF8&qid=1487889690&sr=8-1&keywords=how+learning+works) by Susan Ambrose and discuss in book club format with Trainers-in-training. Preliminary reading schedule.
+* Read [How Learning Works](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/) by Susan Ambrose and discuss in book club format with Trainers-in-training. Preliminary reading schedule.
   * Time commitment: 1 hour per week for 8 weeks meetings; can miss one meeting; ~10 hours reading
 * Join Trainer Discussion and Business meetings 
   * Time commitment: 1 hour every 2 weeks for 3 months; can miss one of each meeting
