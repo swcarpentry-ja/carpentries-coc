@@ -1,5 +1,5 @@
 ### Becoming a Trainer
-The Trainers group periodically accepts new members via application. New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.html).
+The Trainers group periodically accepts new members via [application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ). New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.html).
 
 #### Trainers Training Program
 
