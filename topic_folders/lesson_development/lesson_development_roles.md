@@ -29,3 +29,12 @@ Curriculum Advisors are responsible for:
   - Prepare the workshop homepage repository for release. Curriculum Advisors will be listed as Editors for this repository at release.
 
 Curriculum Advisors commit to serving a one year term, but are welcome to continue for additional years.
+
+
+#### Lesson Infrastructure Subcommittee
+
+Members of the Lesson Infrastructure Subcommittee serve as 
+Maintainers for the [Carpentry lesson template](https://github.com/swcarpentry/styles) and [its documentation](https://github.com/swcarpentry/lesson-example), as
+well as for the [Carpentry workshop template](https://github.com/swcarpentry/workshop-template). As Maintainers, they also 
+follow the [Maintainer Guidelines](https://docs.carpentries.org/topic_folders/maintainers/maintainers.html). 
+
