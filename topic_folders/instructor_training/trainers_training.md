@@ -79,3 +79,22 @@ Total time commitment for new Trainers:
 * **Readings** Conclusion (pages 217-224)
 * **Curriculum Review**
     * Homework
+
+
+#### Reviewing New Trainer Application
+
+1. Director of Instructor Training and Carpentries staff will decide on goals for Trainer recruitment.
+1. [Trainer Application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ/) will be modified to reflect these goals.
+1. Open application period will be announced via Carpentries platforms including Twitter, Facebook, the Discuss email list, and blogs. Ask relevant community members to promote within their networks as well.  Personal invitations can be sent with [this email template](/email_templates.html#recruiting-new-trainers).
+1. Ensure communication emphasizes overall goals.
+1. Ask 2-3 existing Trainers to help review applications in line with defined goals. There is no rubric for this.  Reviewers should leave notes supporting their rankings.  
+1. Consolidate rankings, adding discretionary points for gaps in representation by characteristics like gender, race, geography, and experience.
+1. Notify accepted applicants using [this email template](/email_templates.html#accepting-new-trainers).
+1. Schedule Book Club meetings across time zones.
+1. Inform the Communications Lead so he/she can promote this.
+1. Update the [Trainer training Etherpad](http://pad.software-carpentry.org/trainer-training).
+1. Update the [Reading Guides](https://drive.google.com/drive/u/0/folders/0B2Xc7BrFgkvUa3N6NDFyMUF5aGs) as needed.
+1. Take attendance at all Book Club meetings. At most one absence is allowed.
+1. After Book Club is over, remind Trainers to complete follow up tasks.
+1. Send out Trainer certificates.
+1. Inform the Communications Lead so he/she can promote the new cohort.
