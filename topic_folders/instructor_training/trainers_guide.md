@@ -1,77 +1,52 @@
 ### Trainers Guide
 
-#### Trainer Duties
-As of May 2017, the Trainers group adopted a [Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
-
-##### Trainer Agreement
-I agree to follow the [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with the Carpentry community and to [promptly report any violations of the CoC](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) that I become aware of.
-
-I understand that the secondary learning outcomes of workshops are as important as their stated goals. I will:  
-- Communicate Carpentry community values to trainees and model that behaviour myself in how I teach  
-- Provide a welcoming and supporting environment for trainees  
-- Model our “show, don’t tell” policy in instructor training  
-- Connect the principles used in Carpentry workshops with other teaching contexts  
-
-I understand that it is important to keep up to date and in touch with the Trainer community so that my teaching will reflect current practices and curriculum. Therefore, to be an active Trainer, I agree to:
-- Teach at least two instructor training events per year  
-- Host on average four teaching demonstration per year  (1 per quarter)  
-- Regularly attend Trainer Discussion and Business meetings when possible and read meeting minutes/notes when I am not able to attend  
-- Read emails sent to the Trainer listserv  
-- Keep up-to-date with the instructor training curriculum  
-- Teach a curriculum that fulfills all of the current requirements for instructor certification  
-- Provide feedback to other trainers and Carpentries staff about training events to help continue developing our offerings  
-
-I understand that Carpentry staff need an accurate understanding of Trainer availability in order to plan instructor training events. If at any point I am no longer able to serve as a Trainer, I will let Carpentry staff know. I understand that only active Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by resuming
-Trainer activities.  
-
-#### Becoming a Trainer
-The Trainers group periodically accepts new members via application. New Trainers undergo an eight-week training program outlined [in this document][trainer-process] and agree to the [Trainer Agreement][trainer-agreement].
-
 #### Trainer Meetings
 The Trainers group meets regularly. We have two types of meetings - business meetings, focused on discussing curricular and policy changes, and discussion meetings, where we share experiences and get advice about running instructor training events. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
 
 #### Signing up to Teach an Instructor Training Event
 
-1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Please sign up for as many days as you are available and hold those dates in your calendar until the schedule is confirmed.
-2. The Program Manager will confirm events with individual Trainers, at which point you are free to release all other dates on your calendar.
-3. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
-4. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
+1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
+1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
+1. Member sites will sign up for available dates. The Program Manager will let Trainers know which sites they will be teaching as they sign up.
+1. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need. The Program Manager will notify instructors of this decision.
 
 A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
-#### Running an Instructor Training Event (General)
+#### Trainer Checklists
 
-##### Four weeks before the event
+##### Running an Instructor Training Event (General)
+
+###### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc and a workshop website (using the [training template][training-template]).  
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-##### Two weeks before the event
+###### Two weeks before the event
 -  Introduce yourself to your trainees.  
 
-##### One week before the event (if teaching remotely)   
+###### One week before the event (if teaching remotely)   
 -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
 -  Plan logistics with co-Trainer(s).  
 -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
 -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
 
-##### During the event
+###### During the event
 -  Take attendance.  
 -  Remind trainees to fill out application (member events only).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
 -  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
 
-##### Immediately after the event
+###### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
 -  Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist] using [this template](email_templates.html#email-after-training-event)  
 -  Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].  
 -  File any relevant issues or PRs to the [instructor training repo][training-repo].  
 
-##### Long-term after the event 
+###### Long-term after the event 
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-#### Differences Among In-person and Online Training Events
+#### Differences Between In-person and Online Training Events
 
 ##### In-person trainings
 - When watching videos, project them to the whole group.   

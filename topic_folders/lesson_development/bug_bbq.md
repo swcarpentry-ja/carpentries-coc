@@ -5,15 +5,15 @@ goal of a Bug BBQ is to prepare lessons for publication.
 
 #### Scheduling a Bug BBQ
 
-Information about how to schedule a Bug BBQ. 
+Information about how to schedule a Bug BBQ - coming soon!
 
 #### Communicating about Bug BBQ
 
-Information about how to communicate about an upcoming Bug BBQ. 
+Information about how to communicate about an upcoming Bug BBQ - coming soon! 
 
 ##### Creating a Bug BBQ Website
 
-Information about how to create a Bug BBQ website. 
+Information about how to create a Bug BBQ website - coming soon!
 
 ##### Announcing a Bug BBQ (Blog post template)
 

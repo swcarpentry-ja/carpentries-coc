@@ -7,7 +7,7 @@ For self organized workshops, the host and instructor are directly responsible f
 
 #### Host checklist
 
-A workshop host contacts the Carpentries staff about running a workshop.  He or she e will will work with the Carpentries Program Manager and Workshop Administrator to plan and implement the workshop.
+A workshop host contacts the Carpentries staff about running a workshop.  He or she will work with the Carpentries Program Manager and Workshop Administrator to plan and implement the workshop.
 
 **Before the workshop, the host will**
 
