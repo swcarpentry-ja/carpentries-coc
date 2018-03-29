@@ -19,7 +19,7 @@ If you can help in any of these ways, or know of another way you can support dev
 
 ### Cómo participar / How to get involved
 
-Para ponerse en contacto con este grupo, envía un correo electrónico a latinoamerica@carpentries.org. Para unirse a la lista de correo electrónico, visita https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica
+Para ponerse en contacto con este grupo, envía un correo electrónico a [latinoamerica@carpentries.org](mailto:latinoamerica@carpentries.org). Para unirse a la lista de correo electrónico, visita [nuestro Grupo de Google](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica).
 
 To contact this group, email [latinoamerica@carpentries.org](mailto:latinoamerica@carpentries.org). To join the email list, visit [our Google Group page](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica).
 
@@ -30,7 +30,7 @@ To contact this group, email [latinoamerica@carpentries.org](mailto:latinoameric
 
 ### Reuniones bilingües / Bilingual meetings 
 
-- Hacemos reuniones mensuales bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](http://pad.software-carpentry.org/teaching-demos) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/ demo.md) para saber cómo funcionan las sesiones de demostración.
+- Hacemos reuniones mensuales bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](http://pad.software-carpentry.org/teaching-demos) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
 
 - We host monthly bilingual meetings for the "Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).
 Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
