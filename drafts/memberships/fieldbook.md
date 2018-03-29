@@ -4,7 +4,7 @@ The Carpentries uses [Fieldbook](http://www.fieldbook.com) to manage membership 
 Fieldbook tracks things such as 
 
 * Membership dates
-* Conctact information
+* Contact information
 * Membership terms
 
 Within Fieldbook, the following definitions are used in the database: 
