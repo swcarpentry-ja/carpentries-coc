@@ -336,9 +336,7 @@ Best,
 
 ##### Accepting new trainers
 
-Subject: Acceptance to join Carpentries trainers community
-
-
+Subject: Congratulations! Join the Carpentries Trainer Community
 
 Hi all,
 
