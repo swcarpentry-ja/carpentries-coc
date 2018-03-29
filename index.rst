@@ -13,6 +13,7 @@ Carpentries Handbook
    topic_folders/maintainers/index.rst
    topic_folders/mentoring/index.rst
    topic_folders/policies/index.rst
+   topic_folders/regional_communities/index.rst
    topic_folders/hosts_instructors/index.rst
    topic_folders/workshop_administration/index.rst
 
