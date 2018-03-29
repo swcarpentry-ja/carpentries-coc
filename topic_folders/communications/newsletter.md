@@ -38,7 +38,7 @@ Go to *Preview and Test* to preview the newsletter before sending it out. This i
 
 The newsletter will now be locked.  If any changes need to be made after it has been scheduled, you will need to pause the campaign, make changes, and restart the campaign.
 
-The previous newsletter is automatically moved into the Carpentry Clippings folder which adds it to the online archive.
+The previous newsletter is then moved into the Carpentry Clippings folder which adds it to the online archive.
 
 
 
