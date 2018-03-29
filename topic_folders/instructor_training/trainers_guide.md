@@ -12,39 +12,41 @@ The Trainers group meets regularly. We have two types of meetings - business mee
 
 A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
-#### Running an Instructor Training Event (General)
+#### Trainer Checklists
 
-##### Four weeks before the event
+##### Running an Instructor Training Event (General)
+
+###### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc and a workshop website (using the [training template][training-template]).  
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-##### Two weeks before the event
+###### Two weeks before the event
 -  Introduce yourself to your trainees.  
 
-##### One week before the event (if teaching remotely)   
+###### One week before the event (if teaching remotely)   
 -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
 -  Plan logistics with co-Trainer(s).  
 -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
 -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
 
-##### During the event
+###### During the event
 -  Take attendance.  
 -  Remind trainees to fill out application (member events only).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
 -  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
 
-##### Immediately after the event
+###### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
 -  Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist] using [this template](email_templates.html#email-after-training-event)  
 -  Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].  
 -  File any relevant issues or PRs to the [instructor training repo][training-repo].  
 
-##### Long-term after the event 
+###### Long-term after the event 
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-#### Differences Among In-person and Online Training Events
+#### Differences Between In-person and Online Training Events
 
 ##### In-person trainings
 - When watching videos, project them to the whole group.   
