@@ -9,7 +9,7 @@ Information about how to schedule a Bug BBQ - coming soon!
 
 #### Communicating about Bug BBQ
 
-Information about how to communicate about an upcoming Bug BBQ. 
+Information about how to communicate about an upcoming Bug BBQ - coming soon! 
 
 ##### Creating a Bug BBQ Website
 
