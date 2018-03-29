@@ -5,10 +5,10 @@ The Trainers group meets regularly. We have two types of meetings - business mee
 
 #### Signing up to Teach an Instructor Training Event
 
-1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Please sign up for as many days as you are available and hold those dates in your calendar until the schedule is confirmed.
-1. The Program Manager will confirm events with individual Trainers, at which point you are free to release all other dates on your calendar.
-1. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
-1. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
+1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
+1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
+1. Member sites will sign up for available dates. The Program Manager will let Trainers know which sites they will be teaching as they sign up.
+1. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need. The Program Manager will notify instructors of this decision.
 
 A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
