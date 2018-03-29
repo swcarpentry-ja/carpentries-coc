@@ -334,3 +334,35 @@ Best,
 [ sender name ]
 
 
+##### Accepting new trainers
+
+Subject: Acceptance to join Carpentries trainers community
+
+
+
+Hi all,
+
+Thank you all for applying to become instructor Trainers with the Carpentries. A group of Trainers have reviewed the applications and we're excited to invite each of you to the Trainer team.
+
+We'll be starting our new cohort of instructor Trainers in [ month ]. Our cohort will be [ number ] folks located in [ countries ]. We'll be meeting once a week starting in [ month ] to discuss our text and how it relates to our instructor training curriculum. More details can be found in the preliminary reading schedule.
+
+If you're interested in being part of this cohort, please try to complete the following by [ deadline ] so that we can finalize the schedule and start our meetings!
+
+1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the day and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accomodate all time zones, but you will only need to attend one of the weekly meetings.
+
+2) Please take a look over the process for trainer training and make sure that all of the requirements of becoming a Trainer work with your schedule and other responsibilities. We're excited to have you in the Trainer community, but do want to make sure that all Trainers are able to commit the time required, so that we are able to realistically determine the number of instructors we train per year.
+
+3) Please get a copy of our text [ link ]. I'll send out reading assignments and discussion guides in a later email. 
+
+4) Please also fill out your availability for instructor training events for  [ month through month ] and add your name to the Trainers list in the second tab. This cohort of Trainers will be ready to co-teach instructor training events by the end of [ month ] and to teach on their own shortly after that.
+
+5) Please add upcoming Trainer Business and Discussion meetings (http://pad.software-carpentry.org/trainers) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones each, you don't need to attend both meetings - but you're welcome to!
+
+6) Please sign up for the Trainers email list (http://lists.software-carpentry.org/listinfo/trainers) if you haven't already done so.
+
+7) Please respond to this email with a quick introduction so that we can all get to know each other. I'll send out my introduction as a separate email following this.
+
+I know that's a lot! Let me know if you have any questions. I'm looking forward to seeing you all at our first book club discussion.
+
+Best,
+[ name ]
