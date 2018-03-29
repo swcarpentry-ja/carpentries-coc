@@ -37,6 +37,12 @@ Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or r
 
 ## Traducciones / Translations
 
-Los repositorios de GitHub para las traducciones se mantienen aquí: https://github.com/Carpentries-ES
+Los repositorios de GitHub para las traducciones en progreso se mantienen en la organización [carpentries-es](https://github.com/Carpentries-ES).
 
-The GitHub repos for the translations are maintained here: https://github.com/Carpentries-ES
+Traducciones completas se enumeran en [el sitio web de Software Carpentry](https://software-carpentry.org/lessons/).
+
+The GitHub repos for translations in progress are maintained in the [Carpentries-ES organization](https://github.com/Carpentries-ES).
+
+Complete translations are listed on the [Software Carpentry website](https://software-carpentry.org/lessons/).
+
+
