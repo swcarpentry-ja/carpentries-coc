@@ -1,4 +1,4 @@
-MAINTAINERS
+LESSON MAINTENANCE
 ------------------------
 
 .. toctree::
@@ -6,5 +6,6 @@ MAINTAINERS
    :glob:
 
    maintainers.md
+   github_labels.md
    email_templates.md
    

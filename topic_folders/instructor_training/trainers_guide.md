@@ -1,57 +1,52 @@
 ### Trainers Guide
 
-#### Trainer Duties
-As of May 2017, the Trainers group adopted a 
-[Trainer Agreement][trainer-agreement] outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
-
-#### Becoming a Trainer
-The Trainers group periodically accepts new members via application. New Trainers undergo an eight-week training program outlined [in this document][trainer-process] and agree to the [Trainer Agreement][trainer-agreement].
-
 #### Trainer Meetings
 The Trainers group meets regularly. We have two types of meetings - business meetings, focused on discussing curricular and policy changes, and discussion meetings, where we share experiences and get advice about running instructor training events. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
 
 #### Signing up to Teach an Instructor Training Event
 
-1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the upcoming time period. Please sign up for as many days as you are available and hold those dates in your calendar until the schedule is confirmed.
-2. The Program Manager will confirm events with individual Trainers, at which point you are free to release all other dates on your calendar.
-3. Member sites will sign up for available dates. The Program Manager will let you know which sites you will be teaching as they sign up.
-4. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need.
+1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
+1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
+1. Member sites will sign up for available dates. The Program Manager will let Trainers know which sites they will be teaching as they sign up.
+1. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need. The Program Manager will notify instructors of this decision.
 
-A calendar for how signups are scheduled is [here](/instructor_training/scheduling_training_events.html).
+A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
-#### Running an Instructor Training Event (General)
+#### Trainer Checklists
 
-##### Four weeks before the event
+##### Running an Instructor Training Event (General)
+
+###### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc and a workshop website (using the [training template][training-template]).  
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-##### Two weeks before the event
+###### Two weeks before the event
 -  Introduce yourself to your trainees.  
 
-##### One week before the event (if teaching remotely)   
+###### One week before the event (if teaching remotely)   
 -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
 -  Plan logistics with co-Trainer(s).  
 -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
 -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
 
-##### During the event
+###### During the event
 -  Take attendance.  
 -  Remind trainees to fill out application (member events only).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
 -  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
 
-##### Immediately after the event
+###### Immediately after the event
 -  Send a list of those who completed the training to checkout@carpentries.   
 -  Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist] using [this template](email_templates.html#email-after-training-event)  
 -  Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].  
 -  File any relevant issues or PRs to the [instructor training repo][training-repo].  
 
-##### Long-term after the event 
+###### Long-term after the event 
 -  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
 
-#### Differences Among Training Types
+#### Differences Between In-person and Online Training Events
 
 ##### In-person trainings
 - When watching videos, project them to the whole group.   
@@ -76,7 +71,7 @@ Online Carpentry Instructor Training events are held on [Zoom][zoom-home]. You c
 
 About a week before your event, you will be given login credentials for a Carpentry account. This account will be the host for the event and will have extra privileges including the ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host can transfer host privileges to other participants, so you will be able to trade host status back and forth with your co-Trainers during the event.  
 
-All Carpentry online events are set-up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.   
+All Carpentry online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.
 
 ##### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
@@ -92,7 +87,7 @@ All Carpentry online events are set-up such that participants can enter the room
 
 #### Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].  
+If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
@@ -117,7 +112,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 ##### After the Demo 
 -  Email checkout@carpentries.org with names, pass/fail, and SWC/DC for each of your trainees.  
 -  Clear Etherpad of data from your session.  
--  If you had any “fails”, send that trainee an email letting them know the reason they did not pass and asking them to retry. See template (below).  
+-  Send each trainee an email letting them know they [passed](email_templates.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
 ##### Not Good Starting Points for Demos
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
@@ -146,10 +141,10 @@ Any episode other than those listed below should make an okay starting point for
    * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
 
 
-[trainer-agreement]: https://github.com/carpentries/policies/blob/master/trainer-agreement.md
-[trainer-process]: https://docs.google.com/document/d/14Zi_W9uk1wua2v3zy8um6oMCnvO41Qfo1KwStCA-hos/edit
+[trainer-agreement]: http://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#trainer-agreement
+[trainer-process]: http://docs.carpentries.org/topic_folders/instructor_training/trainers_training.html
 [trainer-pad]: http://pad.software-carpentry.org/trainers
-[community-calendar]: http://pad.software-carpentry.org/trainers
+[community-calendar]: https://software-carpentry.org/join/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/swcarpentry/training-template

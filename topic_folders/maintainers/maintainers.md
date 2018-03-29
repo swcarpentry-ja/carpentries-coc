@@ -30,42 +30,73 @@ Maintainers represent the Carpentry community and should strive to embody the Ca
 Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Software and Data Carpentry Maintainers. 
 
 
-## Steps for Maintainer Onboarding process
+## Maintainer Onboarding
 
-1) Current application to become a Maintainer is [here](https://docs.google.com/forms/d/1PMzhri0CmbNkJiNor-nXDOP0d5jlAyp-VF-3df6cUf0/edit). Create a new version or delete existing responses and change intro text for next round.
+New Maintainers go through an onboarding process. The curriculum for 
+onboarding new Maintainers is available as a 
+[Maintainer Onboarding Lesson](https://carpentries.github.io/maintainer-onboarding/). 
+This documentation describes how to recruit new Maintainers and take them through
+the onboarding process. 
 
-2) Process so far has been to accept all applications from people who are at least somehow involved in the community. So far (1/26/18) there has only been one application that was not accepted.
+1) The application to become a Maintainer is [a Google form](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link).
 
-3) After reviewing applications for any red flags, send accepted applicants [invitation](email_templates.html#inviting-new-maintainers) to become a Maintainer.
+2) Advertise for new Maintainers on the blog, mailing lists and Twitter. 
 
-To set up a scheduling poll, use [WhenIsGood](http://whenisgood.net/). Click "Use Timezones" and then "SHOW OPTIONS". Unselect Sunday and Saturday. Add Duration = 60 minutes. Select "hide dates".
+3) Once the application period has closed, reviewing applications and send accepted applicants an [invitation](email_templates.html#inviting-new-maintainers) to become a Maintainer.
 
-4) Add Maintainers who are going through training to [maintainer-onboarding Google Group](https://groups.google.com/a/carpentries.org/forum/#!forum/maintainer-onboarding). This is where announcements about upcoming meetings will be sent out.
+4) To set up a scheduling poll to schedule Maintainer Onboarding, use [WhenIsGood](http://whenisgood.net/). Click "Use Timezones" and then "SHOW OPTIONS". Unselect Sunday and Saturday. Add Duration = 60 minutes. Select "hide dates".
 
-5) After deadline has passed for responding to scheduling poll, select the two times that maximize attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
+5) Add Maintainers who are going through training to the [maintainer-onboarding Google Group](https://groups.google.com/a/carpentries.org/forum/#!forum/maintainer-onboarding). This is where announcements about upcoming meetings should be sent.
 
-6) Set up [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
+6) After the deadline has passed for responding to the Maintainer Onboarding fscheduling poll, select the two times that maximize attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
 
-7) Send out an [email](email_templates.html#maintainer-onboarding-meetings) to the Google Group letting everyone know about the scheduling. 
+7) Populate the [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 
-8) Set up a [new event in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor. 
+8) Send out an [email](email_templates.html#maintainer-onboarding-meetings) to the Google Group letting everyone know about the scheduling. 
 
-9) One week before the first onboarding meeting, send a reminder [email](email_templates.html#onboarding-reminder) to the Google Group. 
+9) Set up a [new event in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor. 
 
-10) Run the three weeks of meetings according to [the curriculum](https://carpentries.github.io/maintainer-onboarding/). Keep record of who participates.
+10) One week before the first onboarding meeting, send a reminder [email](email_templates.html#onboarding-reminder) to the Google Group. 
 
-11) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homeworks. 
+11) Run the three weeks of meetings according to [the curriculum](https://carpentries.github.io/maintainer-onboarding/). Keep record of who participates in the AMY event.
 
-12) After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:  
-- Give them "write" access to their lesson repository on GitHub. 
-- Add their name to the lesson table on the website.
-- Award them a Maintainer badge in AMY.
+12) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homeworks. 
 
-13) Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
+13) After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:  
+        - Give them "write" access to their lesson repository on GitHub. 
+        - Add their name to the lesson table on the website.
+        - Award them a Maintainer badge in AMY.
 
-14) Send an email to those who did not complete the requirements. See email template (Opportunities to complete Carpentry Maintainer onboarding).
+14) Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
 
-15) Repeat step 11 as needed for those who complete requirements by email. 
+15) Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
 
-15) Run sendmail_maintainer_certificates.R to send new Maintainers their certificates. (Note: need to add line in the email asking new Maintainers to add themselves to their repositories README.)
+16) Announce new Maintainers in the next newsletter.
+
+## How to stay in touch 
+
+The overall Maintainer community communicates using our [mailing list](http://lists.software-carpentry.org/listinfo/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with the Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
+
+The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://software-carpentry.org/join/#calendar).
+
+Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found
+in the README file in your lesson repository. 
+
+## How to handle issues
+
+Information coming soon. 
+
+## How to get help
+
+There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `status:help-wanted` or `status:need-contributor` labels.
+
+If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's [Curriculum Advisory Subcommittee](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee) by using the `status:refer-to-cac` label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question.
+
+You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel. 
+
+## How to suggest changes to the styling for all lessons
+
+Information coming soon.
+
+
 
