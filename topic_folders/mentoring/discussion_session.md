@@ -42,6 +42,9 @@ The Mentoring Subcommittee is responsible for organizing the instructor discussi
 
 -   each session has at least one host (preferably two) to conduct the discussion.
 
+
+The Discussion Session Coordinator is responsible for scheduling the events and inviting instructors who are about to teach and who have recently taught.
+
 Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The dates of instructor discussion sessions are also listed in the Carpentries [community calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
@@ -50,7 +53,7 @@ The dates of instructor discussion sessions are also listed in the Carpentries [
 
 1. Use the [email templates](email_templates.html) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
 
-1. Log in to [AMY](https://amy.software-carpentry.org/account/login/?next=/workshops/log/).  Go to the reporting section and filter for instructors in the relevant time period. Download this list as csv.
+1. Log in to [AMY](https://amy.software-carpentry.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as csv to easily read each instructor's email address.
 
 1. Send the templated email to all participants as `bcc`, and copy the Mentoring Committee Chairs as well as `team@carpentries.org`.
 
