@@ -12,7 +12,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * Hi speed  wifi internet access that can withstand everyone using it together. This may include securing guest access codes.
 * Power outlets for all participants. This may include setting up extension cords or power strips.
 * High table or podium that instructor can stand at while teaching.  A flat podium is important; it's difficult to use a laptop on a slanted podium.
-* Refreshments. People learn better when they are well fed.  It also means people don't leave to get coffee, which decreases instruction time.
+* Refreshments. People learn better when they are well fed.  They also won't lose as much instructional time if they don't have to leave to get coffee.
 
 #### Equipment and materials
 
