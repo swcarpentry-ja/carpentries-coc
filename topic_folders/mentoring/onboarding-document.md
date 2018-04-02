@@ -10,13 +10,14 @@
 * [Instructor Discussions: Host and Co-Host Expectations](#host-expectations)
 
 #### Mission Statement
-Established in 2015 to develop and maintain a mentoring program. The program supports instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking, by providing (virtual) spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
+Established in 2015 to develop and maintain a mentoring program, the program supports instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
 
 #### What does the mentoring committee do?
-Meets as a committee once a month.
+* Meets as a committee once a month.
+* Hosts weekly discussion sessions.
 
 #### During meetings we discuss:
-* Instructor discussions:
+* Instructor discussion sessions:
   * How are the instructor discussions going?
   * Formulate and update agenda items for the instructor discussions.
   * Discuss how to improve the instructor discussions.
