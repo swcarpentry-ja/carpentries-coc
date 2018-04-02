@@ -16,7 +16,7 @@ Established in 2015 to develop and maintain a mentoring program, the program sup
 * Meets as a committee once a month.
 * Hosts weekly discussion sessions.
 
-#### During meetings we discuss:
+#### Monthly meeting topics
 * Instructor discussion sessions:
   * How are the instructor discussions going?
   * Formulate and update agenda items for the instructor discussions.
