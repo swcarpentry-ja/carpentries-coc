@@ -20,12 +20,12 @@ Maintainers are responsible for:
 Maintainers represent the Carpentry community and should strive to embody the Carpentry philosophy, by:
 - Recognizing the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using the Carpentries model:
-- Find what’s good. Be specific about improvements needed. Use motivational language.
+    - Find what’s good. Be specific about improvements needed. Use motivational language.
 - Evaluating lesson contributions in light of Carpentries pedagogical model:
-- Teach what’s most relevant and useful for learners.
-- Avoid getting bogged down in technical details.
-- Keep language motivating. 
-- Emphasize the importance of continued learning and improvement.
+    - Teach what’s most relevant and useful for learners.
+    - Avoid getting bogged down in technical details.
+    - Keep language motivating. 
+    - Emphasize the importance of continued learning and improvement.
 
 Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Software and Data Carpentry Maintainers. 
 
@@ -48,7 +48,7 @@ the onboarding process.
 
 5) Add Maintainers who are going through training to the [maintainer-onboarding Google Group](https://groups.google.com/a/carpentries.org/forum/#!forum/maintainer-onboarding). This is where announcements about upcoming meetings should be sent.
 
-6) After the deadline has passed for responding to the Maintainer Onboarding fscheduling poll, select the two times that maximize attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
+6) After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximize attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
 
 7) Populate the [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 
@@ -63,9 +63,9 @@ the onboarding process.
 12) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homeworks. 
 
 13) After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:  
-        - Give them "write" access to their lesson repository on GitHub. 
-        - Add their name to the lesson table on the website.
-        - Award them a Maintainer badge in AMY.
+    - Give them "write" access to their lesson repository on GitHub. 
+    - Add their name to the lesson table on the website.
+    - Award them a Maintainer badge in AMY.
 
 14) Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
 
