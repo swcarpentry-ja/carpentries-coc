@@ -81,11 +81,11 @@ When creating a new event or updating a old one.
 
 1. Set the name of the event or meeting.
 
-2. Set the date. **Please use UTC time.** If using Google Calendar select Accra, Ghana or Reykjavik, Iceland since they don't have daylight saving time.
+2. Set the date and time using [this scheduler](https://www.timeanddate.com/worldclock/fixedform.html).
 
 3. Set the location with the link to the zoom room.
 
-4. Set the description. **The link to the etherpad goes here.**
+4. Set the description including the [link to the Mentoring Etherpad](http://pad.software-carpentry.org/scf-mentoring)
 
 5. Set notifications. It is good to have one notification on the day before and another 10 minutes before the meeting as email.
 
@@ -122,7 +122,7 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 ##### Checklists and Resources
 
-To get access to AMY and to the Community Calendar, [contact](mailto:sher@carpentries.org) the Carpentries Workshop Administrator.
+To get access to AMY and to the Community Calendar, [contact Carpentries staff](mailto:team@carpentries.org).
 
 ##### Ongoing
 
@@ -135,16 +135,7 @@ To get access to AMY and to the Community Calendar, [contact](mailto:sher@carpen
 
 ##### Weekly: Set Up Discussions
 
-- [ ] Every Monday, confirm there are hosts for the upcoming week's discussions.
-- [ ] _Optional: Email the hosts to confirm that they will be present._
-- [ ] Every Monday, email instructors of workshops in the past week (Monday to
-Monday), with the
-[post-workshop email](../files/post_workshop_email.txt).
-- [ ] Every other Monday, email instructors teaching in the next 4 weeks (starting
-on Thursday of that week), with the [pre-workshop email](../files/pre_workshop_email.txt).
-- [ ] Recipients are in AMY, under `Reports > List Instructors by Time Period`.  After
-    choosing the time period, click on the `download CSV` button to export email addresses.
-- [ ] Always email yourself, Cc Maneesha and Bcc all other recipients.
+Use the [discussion session checklist](discussion_session_checklist.html)
 
 ##### Follow up
 - Facilitate discussion among hosts about the discussion sessions.
