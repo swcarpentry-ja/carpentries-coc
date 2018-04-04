@@ -3,6 +3,7 @@
 #### Topics Covered
 * [Mission Statement](#mission-statement)
 * [What does the mentoring committee do?](#what-does-the-mentoring-committee-do)
+* [Committee member roles](#mentoring-roles)
 * [Joining the conversation](#joining-the-conversation)
 * [Mentoring Committee Meetings](#mentoring-committee-meetings)
 * [Attending a mentoring committee meeting](#attending-a-mentoring-committee-meeting)
@@ -15,6 +16,19 @@ Established in 2015 to develop and maintain a mentoring program, the program sup
 #### What does the mentoring committee do?
 * Meets as a committee once a month.
 * Hosts weekly discussion sessions.
+
+#### Committee Member Roles
+
+- [Co-Chairs](https://github.com/carpentries/mentoring/blob/master/roles/co-chairs.md)
+- [Discussion Coordinators](https://github.com/carpentries/mentoring/blob/master/roles/discussion-coordinators.md)
+- [Discussion Hosts](https://github.com/carpentries/mentoring/blob/master/roles/discussion-hosts.md)
+- [Committee Liaison](https://github.com/carpentries/mentoring/blob/master/roles/committee-liaison.md)
+- [Staff Liaison](https://github.com/carpentries/mentoring/blob/master/roles/staff-liaison.md)
+- [Mentees](https://github.com/carpentries/mentoring/blob/master/roles/mentees.md)
+- [Mentoring Coordinator](https://github.com/carpentries/mentoring/blob/master/roles/mentoring-coordinator.md)
+- [Mentors](https://github.com/carpentries/mentoring/blob/master/roles/mentors.md)
+- [Secretary](https://github.com/carpentries/mentoring/blob/master/roles/secretary.md)
+
 
 #### Monthly meeting topics
 * Instructor discussion sessions:
