@@ -66,7 +66,7 @@ Meets as a committee once a month.
     * Participate! :) If you are new to the committee we strongly encourage you to share your ideas/opinions! Your experience is extremely valuable to us.
     * If the secretary is gone - please help out by taking notes in the etherpad!
 * **After the meeting**
-  * The secretary will post minutes on the [GitHub repo](minutes)
+  * The secretary will post minutes on the [GitHub repo](https://github.com/carpentries/mentoring/tree/master/minutes)
 
 ---
 ### Instructor Discussion Sessions
