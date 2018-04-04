@@ -141,8 +141,8 @@ Any episode other than those listed below should make an okay starting point for
    * OpenRefine - anything after [Layout of OpenRefine, Rows vs Records](https://data-lessons.github.io/library-openrefine/03-working-with-data/) - dependencies
 
 
-[trainer-agreement]: http://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#trainer-agreement
-[trainer-process]: http://docs.carpentries.org/topic_folders/instructor_training/trainers_training.html
+[trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
+[trainer-process]: ../instructor_training/trainers_training.html
 [trainer-pad]: http://pad.software-carpentry.org/trainers
 [community-calendar]: https://software-carpentry.org/join/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
