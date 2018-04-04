@@ -163,7 +163,11 @@ This workshop is focused on [ Carpentry/domain ]. The curriculum will include:
 - [names of lessons]
 - [names of lessons]
 
-The target audience is learners who have little to no prior computational experience, and the instructors put a priority on creating a friendly environment to empower researchers and enable data-driven discovery. Even those with some experience will benefit, as the goal is to teach not only how to do analyses, but how to manage the process to make it as automated and reproducible as possible.
+The target audience is learners who have little to no prior computational experience, and the instructors put a priority on creating a friendly environment to empower researchers and enable data-driven discovery. Even those with some experience will benefit, as the goal is to teach not only how to do analyses, but how to manage the process to make it as automated and reproducible as possible. For instance, after attending this workshop you will be able to:
+
+- [skill 1]
+- [skill 2]
+- [skill 3]
 
 Space is limited and it will likely fill quickly. [ Add sentence about whether workshop is free or if there is a fee. ]. Here is a registration link [ link to your registration page ], and the workshop webpage [ link to your workshop webpage ] for more information. Questions? Send email to [ email contact ].
 
