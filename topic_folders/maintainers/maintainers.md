@@ -88,9 +88,9 @@ Information coming soon.
 
 ## How to get help
 
-There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `status:help-wanted` or `status:need-contributor` labels.
+There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `help wanted` or `good first issue` labels.
 
-If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's [Curriculum Advisory Subcommittee](http://docs.carpentries.org/topic_folders/lesson_development/lesson_development_roles.html#curriculum-advisory-committee) by using the `status:refer-to-cac` label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question.
+If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's [Curriculum Advisory Subcommittee](../lesson_development/lesson_development_roles.html#curriculum-advisory-committee) by using the `status:refer-to-cac` label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question.
 
 You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel. 
 

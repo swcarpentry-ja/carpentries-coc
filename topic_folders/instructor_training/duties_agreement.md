@@ -1,8 +1,10 @@
 ### Trainer Duties and Agreement
+
 As of May 2017, the Trainers group adopted a Trainer Agreement outlining Trainer duties. Only active Trainers are voting members of the Trainer community. An inactive Trainer may re-activate their Trainer status at any time by resuming Trainer activities.
 
 ##### Trainer Agreement
-I agree to follow the [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with the Carpentry community and to [promptly report any violations of the CoC](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) that I become aware of.
+
+I agree to follow the [Code of Conduct](../policies/code-of-conduct.html) in all communications and interactions with the Carpentry community and to [promptly report any violations of the CoC](../policies/code-of-conduct.html#reporting-guidelines) that I become aware of.
 
 I understand that the secondary learning outcomes of workshops are as important as their stated goals. I will:  
 - Communicate Carpentry community values to trainees and model that behaviour myself in how I teach  
