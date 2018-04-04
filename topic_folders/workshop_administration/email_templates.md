@@ -192,7 +192,7 @@ Some links that will be used in the workshop: workshop page [ link to workshop p
 
 Getting to the workshop: [ add directions to your workshop location ]  
 
-Please read the Carpentries Code of Conduct [http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html] so that we all are aware of how to treat each other respectfully.  
+Please read the Carpentries [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
 
 We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
 
