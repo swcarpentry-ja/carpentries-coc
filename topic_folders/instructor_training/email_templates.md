@@ -204,7 +204,7 @@ Best,
 [ sender name ]
 
 
-##### Did not complete discussion or demo
+##### Completed lesson contribution
 
 Subject: Carpentries instructor training: Discussion and teaching demo
 
