@@ -1,6 +1,6 @@
 ### Discussion Sessions
 
-This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](discussion_session_checklist.html).  
+This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](#checklists-instructor-discussion-sessions).  
 
 #### Terminology
 
@@ -25,8 +25,6 @@ Any instructor with experience of organising/teaching workshops and a good knowl
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
 ### Checklists - Instructor Discussion Sessions
-
-This document contains checklists for the people involved in instructor discussion sessions.  The full procedure is described on [this page](procedure-discussion-session.md).  
 
 Discussion sessions are organized and conducted through [this etherpad](http://pad.software-carpentry.org/instructor-discussion)
 
