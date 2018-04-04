@@ -34,10 +34,10 @@ Provide mentorship before workshops: If you are available to meet with our instr
 ### Current members
 
 - Caroline F Ajilogba
-- Mesfin Diro @mesfindiro 
-- Erika Mias @erikamias 
+- Mesfin Diro [@mesfindiro](https://twitter.com/mesfindiro)
+- Erika Mias [@erikamias](https://twitter.com/erikamias) 
 - Lactatia Motsuku 
-- Kayleigh Lino @curatorkay 
-- Juan Steyn @zjsteyn 
+- Kayleigh Lino [@curatorkay](https://twitter.com/curatorkay)
+- Juan Steyn [@zjsteyn](https://github.com/zjsteyn)
 - Katrin Tirok 
-- Anelda van der Walt @aneldavdw
+- Anelda van der Walt [@aneldavdw](https://twitter.com/aneldavdw)
