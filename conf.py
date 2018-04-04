@@ -61,7 +61,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Carpentries Handbook'
-copyright = '(C) 2018, The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
+copyright = '2018, The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
 author = 'Authors'
 
 # The version info for the project you're documenting, acts as replacement for

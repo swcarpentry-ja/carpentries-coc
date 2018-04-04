@@ -44,7 +44,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 
 * Decide on the order of the lessons and who will teach what modules
 * Set up the workshop website using the [Software Carpentry](https://github.com/swcarpentry/workshop-template) or [Data Carpentry](https://github.com/datacarpentry/workshop-template) templates
-* Create an [Etherpad](pad.software-carpentry.org) for the workshop
+* Create an [Etherpad](http://pad.software-carpentry.org) for the workshop
 * Assist the host in recruiting helpers if possible
 * Assist the host in ensuring the workshop location is accessible 
 * Share emergency contact information with host in case of last minute changes
