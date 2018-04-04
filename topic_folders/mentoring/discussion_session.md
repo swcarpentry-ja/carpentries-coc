@@ -1,7 +1,5 @@
 ### Discussion Sessions
 
-#### Procedure - Instructor Discussion Session
-
 This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](discussion_session_checklist.html).  
 
 #### Terminology
