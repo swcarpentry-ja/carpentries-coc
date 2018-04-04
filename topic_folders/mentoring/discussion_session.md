@@ -8,7 +8,7 @@ This document describes how instructor discussion sessions are organized and con
 
 -   **Instructor discussion session**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of the Carpentries community who facilitates a discussion session.
--   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling etherpad and emailing invitations to instructors. ~~Further information about the role, including relevant checklists and email templates, can be found on the [Mentoring Subcommittee repository](https://github.com/carpentries/mentoring/blob/master/roles/discussion-coordinators.md).~~
+-   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling etherpad and emailing invitations to instructors. Further information about the role, including relevant checklists and email templates, can be found on the [Mentoring Subcommittee repository](https://github.com/carpentries/mentoring/blob/master/roles/discussion-coordinators.md).
 
 #### Motivation
 
