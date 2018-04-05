@@ -39,7 +39,7 @@ The Carpentries welcomes blog posts from our community members including worksho
 
     Separate the header block from the post text by inserting a new line. 
     
-1.  `Subheadline` is an optional field, as is `teaser`, but the other fields should be filled in. If there is more than one author,separate the author names like this: `["Name 1", "Name 2"]`. 
+1.  `Subheadline` is an optional field, as is `teaser`, but the other fields should be filled in. If there is more than one author, separate the author names like this: `["Name 1", "Name 2"]`. 
     
 1.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative. 
     
