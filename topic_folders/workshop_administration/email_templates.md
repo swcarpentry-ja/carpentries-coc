@@ -24,7 +24,7 @@ Best,
 
 ##### Host and instructor introductions
 
-Subject: Carpentries workshop at [ site_name ] - Making introductions
+Subject: Carpentries workshop at [ site_name ] [Date of Workshop] - Making introductions
 
 Hi everyone,
 
