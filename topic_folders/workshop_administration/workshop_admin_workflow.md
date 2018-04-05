@@ -35,7 +35,7 @@
 1. Program Manager or Workshop Administrator emails everyone else who signed up for that event thanking them for their time, letting them know other instructors were placed, and encouraging them to sign up for other opportunities.
 
 1. Workshop Administrator reminds instructors to set up a workshop website using the
-[Software Carpentry](https://github.com/swcarpentry/workshop-template) or [Data Carpentry](https://github.com/datacarpentry/workshop-template) template.
+[workshop template](https://github.com/swcarpentry/workshop-template).
 
 1. Workshop Administrator sets up surveys in Survey Monkey and emails results links to hosts and instructors.
 
@@ -58,8 +58,8 @@
 
 1. Workshop Administrator reminds them that as a self organized workshop they will have access to our surveys but will not receive any other support in coordinating this workshop
 
-1. Workshop Administrator reminds instructors to set up website using the
-[Software Carpentry](https://github.com/swcarpentry/workshop-template) or [Data Carpentry](https://github.com/datacarpentry/workshop-template) template.
+1. Workshop Administrator reminds instructors to set up a workshop website using the
+[workshop template](https://github.com/swcarpentry/workshop-template).
 
 1. Workshop Administrator records this in AMY.
 
