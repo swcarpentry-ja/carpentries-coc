@@ -1,12 +1,12 @@
-## Discussion Sessions
+## Instructor Discussion Sessions
 
-This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](#checklists-instructor-discussion-sessions).  
+The mentoring committee’s main duty is to lead and organize the instructor discussion sessions. This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](#checklists-instructor-discussion-sessions).  
 
 ### Terminology
 
 -   **Instructor discussion session**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of the Carpentries community who facilitates a discussion session.
--   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling etherpad and emailing invitations to instructors. Further information about the role, including relevant checklists and email templates, can be found on the [Mentoring Subcommittee repository](https://github.com/carpentries/mentoring/blob/master/roles/discussion-coordinators.md).
+-   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](../mentoring-subcommittee-roles/#discussion-session-coordinators).
 
 ### Motivation
 
@@ -16,7 +16,7 @@ This document describes how instructor discussion sessions are organized and con
 
 1. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
-### Who can host?
+### Who Can Host?
 
 Hosting discussion sessions is a great way to meet more people in the Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
@@ -24,11 +24,35 @@ Any instructor with experience of organising/teaching workshops and a good knowl
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
+### Signing Up to Host/Co-Host Discussion
+
+* Identify a discussion session you’d like to host OR co-host on the Instructor Discussion etherpad: http://pad.software-carpentry.org/instructor-discussion
+* Type your name in the “Host” or “Co-host/notetaker” slot for the session you’ve chosen (email next to your name optional, however, if you provide your e-mail it may help facilitate communication before and after the discussion)
+* Add the time/date details of the discussion session you’re going to be a “Host” or "Co-host/notetaker" for on your calendar
+* Copying the etherpad link in your calendar event is a good idea, too!
+
+#### Host Expectations
+* Primary role is to facilitate the instructor discussion sessions using the agenda at the bottom of the etherpad.
+* While it’s the co-hosts main responsibility to take notes, please take notes in the etherpad when the co-host/notetaker is speaking.
+* Maintaining focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
+* Ensuring instructors teaching in the near future have urgent questions or concerns addressed.
+* Collecting feedback from instructors who have recently taught.
+* Engaging newly trained instructors and evaluating their participation using a subset of questions described in the checkout procedure here: http://swcarpentry.github.io/instructor-training/checkout/.
+* Encouraging attendees to create issues or pull requests to correct problems.
+
+#### Co-Host Expectations
+* Primary role is to assist with note-taking while the Host leads the discussion
+* Take accurate notes of discussion on the etherpad
+* At the beginning of the callI, introduce yourself as the co-host/notetaker
+* Co-hosts/notetakers do not have to be the very active in the conversation
+* If a co-host/notetaker does want to chime in, it is welcome!
+* **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
+
 ### Checklists - Instructor Discussion Sessions
 
-Discussion sessions are organized and conducted through [this etherpad](http://pad.software-carpentry.org/instructor-discussion)
+Discussion sessions are organized and conducted through [this Etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
-### Before the Discussion Session
+#### Before the Discussion Session (Discussion Session Coordinator)
 
 The Mentoring Subcommittee is responsible for organizing the instructor discussion sessions so that
 
@@ -38,16 +62,15 @@ The Mentoring Subcommittee is responsible for organizing the instructor discussi
 
 -   each session has at least one host (preferably two) to conduct the discussion.
 
-
 The Discussion Session Coordinator is responsible for scheduling the events and inviting instructors who are about to teach and who have recently taught.
 
-Meeting scheduling will be coordinated via [etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meeting scheduling will be coordinated via [Etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 The dates of instructor discussion sessions are also listed in the Carpentries [community calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
 
 1.  Invitations are tracked through two spreadsheets - one for instructors doing a [post-workshop debriefs](https://docs.google.com/spreadsheets/d/1OZuaulmSVcekQcFlfWc6cK_8odm64pMqGnEMl3hSPHU/edit#gid=0), sent weekly, and one for instructors doing a [pre-workshop discussion session](https://docs.google.com/spreadsheets/d/1C-R24LRURYx5-PjeW45vvZtPRI7LaQFg8tzixkkq49o/edit#gid=1948936411), sent every other week.
 
-1. Use the [email templates](email_templates.html) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
+1. Use the [email templates](../email_templates) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
 
 1. Log in to [AMY](https://amy.software-carpentry.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as csv to easily read each instructor's email address.
 
@@ -55,10 +78,9 @@ The dates of instructor discussion sessions are also listed in the Carpentries [
 
 1.  Email `team@carpentries.org` with any instructors with missing or invalid emails.
 
+#### Leading the Discussion (Host and Co-host)
 
-### Leading the Discussion
-
-Meetings will be hosted on a Zoom videoconference, linked via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
+Meetings will be hosted on a Zoom videoconference, linked via the [instructor discussion Etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
 Each instructor discussion session session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the mentoring subcommittee. 
 
@@ -92,34 +114,18 @@ The agenda should be similar to the following:
     - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
     - For small typos, submit pull request to appropriate lesson
 
-(A copy of this agenda is kept at the bottom of the instructor discussion etherpad.)
+(A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
 Based on discussion among the mentoring committee, temporary questions may be added to the agenda for a month of sessions, in order to collect data on specific issues.  
 
 - Take notes
 
-The **host** is responsible for: 
-
-- hosting the meeting and facilitating discussion using the agenda described above. 
-
-- maintaining focus on the main goal of the session, which is to share ideas and keep instructors excited about teaching.
-
-- ensuring instructors teaching in the near future have urgent questions or concerns addressed.
-
-- collecting feedback from instructors who have recently taught.
-
-- engaging newly trained instructors and evaluating their participation using a subset of 
-questions described in the checkout procedure.
-
-- encouraging attendees to create issues or pull requests to correct problems.
-
 > If there are more than 5 workshops represented by attendees, the discussion session should be split into two groups, to make sure everyone has enough time to share.  When dividing attendees into two groups, try to balance the number of people who are de-briefing, who are there for pre-workshop help, and who are instructor trainees.  If there are exactly 5 workshops represented, it is at the discretion of the host whether to split the group.  
 
-
-### After the discussion
-- Archive the etherpad by clicking on the star in the top right corner.  
-- **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
-    - *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
+#### After the discussion
+- Archive the Etherpad by clicking on the star in the top right corner.  
+- Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)
+    - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
     - This questionnaire will automatically send an email to the mentoring co-chairs and to checkout@carpentries.org.
 - Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - (Optional) write a blog post about interesting points that came up in discussion; see 
