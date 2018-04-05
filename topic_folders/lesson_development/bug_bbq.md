@@ -1,21 +1,19 @@
-### Bug BBQs
+## Bug BBQs
 
 A Bug BBQ is a day-long community-wide lesson development event. The
 goal of a Bug BBQ is to prepare lessons for publication.
 
-#### Scheduling a Bug BBQ
+### Scheduling a Bug BBQ
 
 Information about how to schedule a Bug BBQ - coming soon!
 
-#### Communicating about Bug BBQ
+### Communicating about a Bug BBQ
 
-Information about how to communicate about an upcoming Bug BBQ - coming soon! 
-
-##### Creating a Bug BBQ Website
+#### Creating a Bug BBQ Website
 
 Information about how to create a Bug BBQ website - coming soon!
 
-##### Announcing a Bug BBQ (Blog post template)
+#### Announcing a Bug BBQ (Blog post template)
 
 The Carpentries are preparing to publish {{ lesson list }} on [Zenodo](https://zenodo.org/) in {{ month(s) }}. This will be the first publication for our new {{ new lesson list }} lessons. We regularly [publish our lessons](https://zenodo.org/communities/swcarpentry/) to provide stable identifiers for polished versions of the lessons. This enables referenced discussions of the lesson materials and gives contributors a verifiable product to cite on their CVs or resumes.  
 
@@ -38,9 +36,9 @@ Join with the community in a hacky-day to submit Issues and PRs to identify and 
 We’re excited to work with the community to release {{ lessons }}. Put these dates on your calendar, and we’ll send out reminders and updates too. These lessons belong to the community - help keep them great!
 
 <!--
-##### Announcing Bug BBQ (Twitter)
+#### Announcing Bug BBQ (Twitter)
 
-##### Announcing Bug BBQ (Discuss list)
+#### Announcing Bug BBQ (Discuss list)
 
-##### Announcing Bug BBQ (Maintainer list)
+#### Announcing Bug BBQ (Maintainer list)
 -->
