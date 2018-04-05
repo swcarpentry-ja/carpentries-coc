@@ -105,5 +105,5 @@ At minimum, in each session we recommend that you identify goals to be achieved,
 + Discuss current challenges around your mentoring topic questions. 
 + Set [SMART Goals](http://www.hr.virginia.edu/uploads/documents/media/Writing_SMART_Goals.pdf) to surmount the groups challenges.
 
-#### Contact Information
+### Contact Information
 If you have questions about the mentoring groups please contact [Kari L. Jordan](mailto:kariljordan@carpentries.org?subject=Mentoring%20Groups).

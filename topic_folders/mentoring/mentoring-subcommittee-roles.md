@@ -178,7 +178,7 @@ Our main checklist for actually leading discussions is [here](../checklists-disc
 
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 
-### Committee Liaison(s)
+### Committee Liaisons
 
 The Mentoring Subcommittee benefits from regular updates from other committees within the organisation.
 Currently, the committee receives updates from the Steering and Training Committees.
