@@ -1,14 +1,14 @@
-### Discussion Sessions
+## Discussion Sessions
 
 This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](#checklists-instructor-discussion-sessions).  
 
-#### Terminology
+### Terminology
 
 -   **Instructor discussion session**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of the Carpentries community who facilitates a discussion session.
 -   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling etherpad and emailing invitations to instructors. Further information about the role, including relevant checklists and email templates, can be found on the [Mentoring Subcommittee repository](https://github.com/carpentries/mentoring/blob/master/roles/discussion-coordinators.md).
 
-#### Motivation
+### Motivation
 
 1. The Carpentries are community based projects and the community needs opportunity to interact.
 
@@ -16,7 +16,7 @@ This document describes how instructor discussion sessions are organized and con
 
 1. The Carpentries are continuing to increase the number of instructors and develop new lessons. New instructors would like to hear from experienced teachers who have recently taught to help prepare for upcoming workshops.
 
-#### Who can host?
+### Who can host?
 
 Hosting discussion sessions is a great way to meet more people in the Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
@@ -28,7 +28,7 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 Discussion sessions are organized and conducted through [this etherpad](http://pad.software-carpentry.org/instructor-discussion)
 
-#### Before the Discussion Session
+### Before the Discussion Session
 
 The Mentoring Subcommittee is responsible for organizing the instructor discussion sessions so that
 
@@ -56,7 +56,7 @@ The dates of instructor discussion sessions are also listed in the Carpentries [
 1.  Email `team@carpentries.org` with any instructors with missing or invalid emails.
 
 
-#### Leading the Discussion
+### Leading the Discussion
 
 Meetings will be hosted on a Zoom videoconference, linked via the [instructor discussion etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
@@ -116,7 +116,7 @@ questions described in the checkout procedure.
 > If there are more than 5 workshops represented by attendees, the discussion session should be split into two groups, to make sure everyone has enough time to share.  When dividing attendees into two groups, try to balance the number of people who are de-briefing, who are there for pre-workshop help, and who are instructor trainees.  If there are exactly 5 workshops represented, it is at the discretion of the host whether to split the group.  
 
 
-#### After the discussion
+### After the discussion
 - Archive the etherpad by clicking on the star in the top right corner.  
 - **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
     - *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
