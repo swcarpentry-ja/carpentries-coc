@@ -1,6 +1,6 @@
 ### Checklists - Instructor Discussion Sessions
 
-This document contains checklists for the people involved in instructor discussion sessions.  The full procedure is described on [this page](procedure-discussion-session.md).  
+This document contains checklists for the people involved in instructor discussion sessions.  The full procedure is described on [this page](../mentoring/discussion-session.md).
 
 Discussion sessions are organized and conducted through [this etherpad](http://pad.software-carpentry.org/instructor-discussion)
 
@@ -90,10 +90,11 @@ questions described in the checkout procedure.
 
 
 #### After the discussion
+
 - Archive the etherpad by clicking on the star in the top right corner.  
 - **Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)**
     - *Note:* Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
     - This questionnaire will automatically send an email to the mentoring co-chairs and to checkout@carpentries.org.
 - Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - (Optional) write a blog post about interesting points that came up in discussion; see 
-[this template](template-blog-about-debriefing-session.md) as a starting point.
+[this post](https://software-carpentry.org/blog/2016/04/discussion-session-summary.html) as an example.

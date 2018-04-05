@@ -16,10 +16,10 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Work with the Carpentries Program Manager and Workshop Administrator to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
-* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help other learn.
+* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.
 * Advertise your workshop. The Workshop Administrator can help by creating an Eventbrite registration page.
 * Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administrator creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-* Work with the Carpentries Program Manager and Business Administrator to make arrangements to pay the workshop fee. This includes being sure vendor forms or other documentation is in place. The actual invoice will be issued after the workshop is complete.
+* Work with the Carpentries Program Manager and Business Administrator to make arrangements to pay the workshop fee. This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
 * Make travel arrangements for visiting instructors (or determine process to reimburse them for their expenses)
 * Get emergency contact information for instructors in case of last minute changes
 * Arrange for [required materials and equipment](workshop_needs.html)
@@ -42,13 +42,13 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 
 **Before the workshop, instructors will**
 
-* Decide on the order of lessons and who will teach what module
+* Decide on the order of the lessons and who will teach what modules
 * Set up the workshop website using the [Software Carpentry](https://github.com/swcarpentry/workshop-template) or [Data Carpentry](https://github.com/datacarpentry/workshop-template) templates
-* Create an [Etherpad](pad.software-carpentry.org/) for the workshop
+* Create an [Etherpad](http://pad.software-carpentry.org) for the workshop
 * Assist the host in recruiting helpers if possible
 * Assist the host in ensuring the workshop location is accessible 
 * Share emergency contact information with host in case of last minute changes
-* Practice teaching your material
+* Practice teaching the material
 * Remind the host of the [necessary equipment](workshop_needs.html)
 * Join a [pre-workshop discussion session](http://pad.software-carpentry.org/instructor-discussion)
 
@@ -69,7 +69,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 
 #### Helper Checklist
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers suppport learners one on one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.  
+Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers suppport learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.  
 
 **Before a workshop helpers will**
 
@@ -81,8 +81,8 @@ Helpers are often recruited from the local community at the host site to support
 
 **During the workshop helpers will**
 
-* Help learners with setup problems or anywhere else the get stuck
-* Monitor room for anyone who may need help.  They may put up a red sticky note or indicate in other ways that they are stuck.
+* Help learners with setup problems or anywhere else they get stuck
+* Monitor room for anyone who may need help.  Learners may put up a red sticky note or indicate in other ways that they are stuck.
 * Monitor any questions that come up on the etherpad and answer them or remind the instructor about them during a break.
 
 **After the workshop helpers will**
