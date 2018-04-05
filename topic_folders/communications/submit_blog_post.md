@@ -44,13 +44,13 @@ The Carpentries welcomes blog posts from our community members including worksho
 1.  Images should be uploaded to the `images` folder. Images should be linked using Markdown, and paths to the image should be relative. 
     
     Example: 
-    ```
+    ```md
     ![Image Description]({{ site.filesurl }}/images/myimage.jpg)
     ```
     A web link should be used for images hosted elsewhere. Please be sure you have rights to use this image before including it.
 
     Example: 
-    ``` 
+    ```md
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
@@ -98,7 +98,7 @@ The Carpentries welcomes blog posts from our community members including worksho
     
     Example: 
     
-    ```
+    ```md
     ![Image Description]({{ site.filesurl }}/2017/07/myimage.jpg)
     ```
     
@@ -106,7 +106,7 @@ The Carpentries welcomes blog posts from our community members including worksho
 
     Example: 
     
-    ``` 
+    ```md
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
