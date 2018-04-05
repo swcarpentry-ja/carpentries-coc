@@ -1,8 +1,8 @@
-### Mentoring Committee Roles
+## Mentoring Subcommittee Roles
 
-#### Co-Chairs
+### Co-Chairs
 
-##### Responsibilities
+#### Responsibilities
 
 The co-chairs of the mentoring committee are responsible for: 
 
@@ -19,24 +19,24 @@ The co-chairs of the mentoring committee are responsible for:
 9. Evaluating committee roles on a yearly basis.
 
 
-##### Time Commitment
+#### Time Commitment
 
 - 1-2 hours/week 
 - 1 year term 
     - Co-Chair 1: Start in January. 
     - Co-Chair 2: Start in March.  
 
-##### Requirements
+#### Requirements
 
 - Member of the mentoring subcommittee
 
-##### To Volunteer
+#### To Volunteer
 
 - Join the mentoring committee and host/co-host at least one [instructor discussion](http://pad.software-carpentry.org/instructor-discussion). 
 
-##### Resources and Checklists
+#### Resources and Checklists
 
-###### Organizing Meetings
+##### Organizing Meetings
 
 - Before the meeting
     - [ ] Set date of meeting (see below)
@@ -67,13 +67,13 @@ The co-chairs of the mentoring committee are responsible for:
     - [ ] Click on the star on the top right of the etherpad to archive a copy of the etherpad (Mentorship secretary also does this, but it doesn’t hurt to do it twice!)
 
 
-###### Meeting Times
+##### Meeting Times
 
 Typically, twice in one day (to accomodate time zones) on the final Monday of every month at the following times:  
 - 13:00 UTC (Hosted by co-chair 1 or 2) 
 - 22:00 UTC (Hosted by the other co-chair)
 
-###### Creating a Calendar Event
+##### Creating a Calendar Event
 
 When creating a new event or updating a old one.
 
@@ -96,9 +96,9 @@ When creating a new event or updating a old one.
 
 
 
-#### Discussion Session Coordinators
+### Discussion Session Coordinators
 
-##### Responsibilities
+#### Responsibilities
 
 The primary responsibilities of the Discussion Session Coordinators are:
 
@@ -108,23 +108,23 @@ The primary responsibilities of the Discussion Session Coordinators are:
 - Maintaining the [instructor discussion Etherpad](http://pad.software-carpentry.org/instructor-discussion) with upcoming dates
 - Checking in with hosts the week of their discussion sessions
 
-##### Time commitment
+#### Time commitment
 
 1 hour a week, 3 month term
 
-##### Requirements
+#### Requirements
 
 - Member of the Mentoring Subcommittee
 
-##### To Volunteer
+#### To Volunteer
 
 - Join the Mentoring Subcommittee, and contact the chair(s) when the position is open
 
-##### Checklists and Resources
+#### Checklists and Resources
 
 To get access to AMY and to the Community Calendar, [contact Carpentries staff](mailto:team@carpentries.org).
 
-##### Ongoing
+#### Ongoing
 
 - Send out emails to the discussion hosts list as needed, asking for volunteers
 - Set up discussion times:
@@ -133,11 +133,11 @@ To get access to AMY and to the Community Calendar, [contact Carpentries staff](
 - Recruit discussion leaders and add them to the discussion-hosts lists. Email request templates are provided to make things easier
 - Provide updates and ask for community input on how discussions are going during the Mentoring Subcommittee meetings
 
-##### Weekly: Set Up Discussions
+#### Weekly: Set Up Discussions
 
 Use the [discussion session checklist](discussion_session_checklist.html)
 
-##### Follow up
+#### Follow up
 - Facilitate discussion among hosts about the discussion sessions.
 - Ask for additional questions to be added temporarily to the agenda.
 
@@ -145,31 +145,31 @@ Use the [discussion session checklist](discussion_session_checklist.html)
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 
 
-#### Discussion Hosts
+### Discussion Hosts
 
-##### Responsibilities
+#### Responsibilities
 
 - Facilitate discussion among Software and Data Carpentry instructors, based 
 on a standard discussion agenda.  
 
-##### Time commitment (per session)
+#### Time commitment (per session)
 
 - 1 hour + approx 10 minutes. We would like hosts to join and participate in at least one discussion session 
 per month - more frequently is also okay! 
 
-##### Requirements
+#### Requirements
 
 - Is a certified Software or Data Carpentry Instructor and has taught at least 
 one workshop in the past year.  
 
-##### To Volunteer
+#### To Volunteer
 
 - Contact the [Discussion Session Coordinators](../README.md)
 - Join the [Discussion Hosts mailing list][host-mailing-list]
 - Sign up!  We do recommend that you observe or co-host a session before 
 being the main host.  
 
-##### Checklists and Resources
+#### Checklists and Resources
 
 To host a discussion session, sign up on 
 the [etherpad](http://pad.software-carpentry.org/instructor-discussion).  
@@ -178,35 +178,35 @@ Our main checklist for actually leading discussions is [here](../checklists-disc
 
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 
-#### Committee Liaison(s)
+### Committee Liaison(s)
 
 The Mentoring Subcommittee benefits from regular updates from other committees within the organisation.
 Currently, the committee receives updates from the Steering and Training Committees.
 
-##### Responsibilities
+#### Responsibilities
 
 - Advise mentoring committee on decisions or actions that should be brought to the representative's committee
 - Update the representative's committee on mentoring committee activities
 - Bring items requiring representative's committee approval before that committee and
 report back to the mentoring committee
 
-##### Time Commitment
+#### Time Commitment
 
 1-2 hours a month, one year term
 
-##### Requirements
+#### Requirements
 
 - Member of the mentoring subcommittee
 - Member of the steering or training committee
 
-##### To Volunteer
+#### To Volunteer
 
 - Join the mentoring committee
 - Discuss with other steering/training committee members
 
-#### Staff Liaison
+### Staff Liaison
 
-##### Responsibilities
+#### Responsibilities
 
 - Serving as liaison between the subcommittee and the Carpentries staff.
 - Providing resources for subcommittee functioning (staff time, tools, etc.)
@@ -215,84 +215,17 @@ report back to the mentoring committee
 - Communicating progress of subcommittee activities to the staff at least once per month. 
 - Providing pertinent updates to the subcommittee that will affect their goals.
  
-##### Time Commitment
+#### Time Commitment
 
 ~5 hours a month
 
-##### Requirements
+#### Requirements
 
 - Member of the mentoring subcommittee
 
-#### Mentees
+### Secretary
 
-##### Responsibilities
-
-* Communicate with your Mentor about your goals and needs.
-* Attend scheduled meetings and participate actively or let your Mentor know you won’t be attending.
-* Be respectful of other Mentees and Mentors. Provide a safe space for questions and mistakes.
-
-##### Time commitment
-
-1 hour a month
-
-##### Requirements
-
-Be either a newly certified Software or Data Carpentry instructor or 
-be in the process of completing certification. Generally Mentees will have 
-taught one or no workshops, but may have been helpers before.
-
-##### To Participate
-
-The join the mentoring program, email the Deputy Director of Assessment, Kari L Jordan at kariljordan@carpentries.org.
-
-##### Resources and Checklists
-
-[Program Outline](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md)
-
-#### Mentoring Coordinator
-
-##### Responsibilities
-
-- Recruit mentors and mentees for the Mentoring Program.  
-- Pair Mentors and Mentees based on responses to Google form surveys.  
-- Set up virtual meeting rooms and Etherpads for each mentoring team.  
-- Send email introductions for each mentoring team.  
-- Follow up with each mentoring team on a monthly basis and ask if there's anything you can do to help.  
-- Keep track of program completion rates to assess success.  
-- Get feedback from Mentors and Mentees about program.  
-
-#### Mentors
-
-##### Responsibilities
-
-- Decide on a meeting schedule with your Mentees.  
-- Personalize meetings based on Mentee’s needs and desires.  
-- Respond promptly to emails from your Mentees.  
-- Follow up with Mentees who miss meetings.  
-- Be respectful of Mentees. Provide a safe space for questions and mistakes.  
-- Report Mentee attendance and progress to mentoring coordinator. 
-
-##### Time commitment
-
-~4 hours/month for 3-5 months (or longer if accepting new Mentees), 
-this breaks down to about 2 hours prep, 1 hour meeting and 1 hour 
-answering emails per month. Variable depending on meeting frequency and prep time.
-
-##### Requirements
-
-Certified instructors who have taught at least 2 workshops.
-
-##### To Volunteer
-
-To join the mentoring program, email the Deputy Director of Assessment at kariljordan@carpentries.org.
-
-##### Resources and Checklists
-
-[Program Outline](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md)
-
-#### Secretary
-
-##### Responsibilities
+#### Responsibilities
 
 The primary responsibilities of the Secretary are:
 
@@ -300,22 +233,22 @@ The primary responsibilities of the Secretary are:
 - Submit (optionally summarised) notes to the board repostiory as a pull request after the meeting
 - Keep the `README` and repository contents up-to-date.
 
-##### Time commitment
+#### Time commitment
 
 1-2 hours a month
 
-##### Requirements
+#### Requirements
 
 - Member of the Mentoring Subcommittee
 
-##### To Volunteer
+#### To Volunteer
 
 - Join the Mentoring Subcommittee, and contact the Chair(s) when the position is open.
 
-##### Resources and Checklists
+#### Resources and Checklists
 Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
 
-##### Submitting meeting minutes
+#### Submitting meeting minutes
 
 - [ ] After each meeting, star the etherpad. You will find this option on the top
    right of the etherpad.
