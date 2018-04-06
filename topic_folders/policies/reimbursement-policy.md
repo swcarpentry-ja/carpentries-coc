@@ -1,8 +1,8 @@
- ### The Carpentries Reimbursement Policy
+### The Carpentries Reimbursement Policy
 
  *Designed to be consistent with Community Initiatives reimbursement policies.*
 
- #### I. Policy Statement
+**I. Policy Statement**
 
 Business expenses may be reimbursed if an individual paid the expense from personal funds.
 
@@ -11,11 +11,11 @@ This policy establishes the three components required for reimbursement of allow
 - Substantiation of the expense with receipts and expense report
 - Approval of the expense
 
-#### II. Who is Affected by this Policy
+**II. Who is Affected by this Policy**
 
 This policy affects all employees, volunteers, independent contractors, and guests seeking reimbursement or payment for necessary and reasonable non-compensation business expenses.
 
-#### III. Definitions
+**III. Definitions**
 
 *Necessary*  Minimum purchase or service required to achieve a particular objective.
 
@@ -29,7 +29,7 @@ This policy affects all employees, volunteers, independent contractors, and gues
 
 *Substantiation* Documentation to support an incurred business expense that includes the original receipt, documentation of business purpose, names of persons in attendance, and an appropriate expense report for the incurred cost.
 
-#### IV. Policy
+**IV. Policy**
 
 The Carpentries provides reimbursement for appropriate and allowable expenses. These are business and travel related expenses, including transportation, hotels, and food. These expenses must be reasonable and necessary, as well as job-related.
 
@@ -67,7 +67,7 @@ Community Initiatives will guide the process for repayment of funds.
 
 If individuals are volunteers, they will be expected to repay “excess amounts” and it may affect their volunteer status with the organization.
 
-#### V. Procedures
+**V. Procedures**
 
  REIMBURSEMENT REQUEST
 
@@ -83,11 +83,11 @@ Those expecting reimbursement are responsible for discerning appropriate and all
 
 Reimbursement requests should be approved by the Executive Director or the Executive Council Treasurer and sent to our fiscal sponsor for payment. Reimbursement workflow guidelines are available for staff.
 
-#### VI. Contact Roles and Responsibilities
+**VI. Contact Roles and Responsibilities**
 - Executive Director - Tracy Teal
 - Executive Council Treasurer - Sue McClatchy
 
-#### VII. Update Log
+**VII. Update Log**
 - Updated on 2018-03-06 to reflect that reimbursements cannot be denied due their time of submission.
 - Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts.
 - Updated on 2018-01-31 to refer to Community Initiatives as our fiscal sponsor.
