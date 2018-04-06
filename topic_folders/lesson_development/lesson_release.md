@@ -18,4 +18,4 @@ More information about lesson releases coming soon!
 
 ### Upcoming Lesson Releases
 
-TBA
+Information about upcoming lesson releases - coming soon!
