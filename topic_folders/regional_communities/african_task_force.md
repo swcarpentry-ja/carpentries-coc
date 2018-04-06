@@ -16,8 +16,6 @@ Some of the South African-based activities are funded through the Rural Campuses
 
 - Mentoring for Instructors and Helpers before a workshop: We will host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
 
-- Develop materials to support funding applications in various African countries: We will develop materials including blogs, short write-ups, and more which may be of use for people who want to apply for larger grants to run Carpentry activities in their own countries.
-
 ### Join US
 
 Email the [African Task Force](mailto:admin-afr@carpentries.org) to get involved.
