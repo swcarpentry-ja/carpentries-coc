@@ -1,9 +1,4 @@
-### Workshop checklists
-
-For centrally organized workshops, the Workshop Administrator will guide the host and instructor on following through on all these steps.
-
-For self organized workshops, the host and instructor are directly responsible for ensuring all the steps below are followed.  They are expected take on the additional role of Workshop Administrator as described below.
-
+### Workshop checklists 
 
 #### Host checklist
 
