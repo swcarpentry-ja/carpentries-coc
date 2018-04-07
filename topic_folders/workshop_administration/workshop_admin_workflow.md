@@ -63,7 +63,7 @@
 
 1. Workshop Administrator records this in AMY.
 
-1. Workshop Administrator sets up surveys in Survey Monkey and emails results links to hosts and instructors.
+1. Workshop Administrator sets up surveys in Survey Monkey and emails results links to hosts and instructors. Explain to the hosts and instructors that this link should not be shared. Workshop Administrator informs hosts and instructors where to find the pre and post survey links to distribute to learners.
 
 1. In weeks leading up to workshop, Workshop Administrator sends check in emails to be sure planning is progressing smoothly. This is optional as instructors and hosts should not be expecting direct support from us.
 
