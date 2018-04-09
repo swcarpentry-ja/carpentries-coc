@@ -108,6 +108,24 @@ Best,
 
 [ sender name ]
 
+##### Accepted in open online training
+*This email is usually sent with a script. The canonical version of the text is the version below.*
+
+Subject: Carpentries instructor training: Application Accepted
+
+Hi [ name ],
+
+Thank you for applying to become an instructor with Software and Data Carpentry. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
+
+We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in an instructor training event July 10th and 11th. This event will be held online over video conference 9 am - 5 pm in [time zone ]. Please click this link for your local start time: [ link ]. Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
+
+Please respond by [ date ] to let us know whether or not you will be able to attend. If we haven’t heard from you by that time, we will offer the seat to another applicant, however, you will still remain at the top of the applicant list and we will happily try to accommodate you at a later training.
+
+If you have any questions about the training, please let me know. We’re looking forward to having you as a Carpentry instructor!
+
+Best,
+
+[ sender name ]
 
 ##### Checkout deadline approaching
 
@@ -125,8 +143,6 @@ Best wishes,
 
 [ sender name ]
 
-
-
 ##### Checkout extension granted
 
 Subject: Carpentries instructor training: Extension granted
@@ -137,7 +153,6 @@ Thanks for getting in touch. I've recorded an extension for you through the end 
 
 Best,
 [ sender name ]
-
 
 ##### Checkout completed
 *This email is usually sent with a script. The canonical version of the text is the version below.*
@@ -162,11 +177,9 @@ Best,
 
 [ sender name ]
 
-
 ##### Trainee missing application
 
 Subject: Carpentries instructor training: Missing Application
-
 
 Hi [ trainee name ],
 
@@ -175,26 +188,6 @@ On [ training_dates ], you [ participated (or) will be participating ] in a Soft
 We will not be able to track your progress or award your instructor certificate without an application on file.
 
 Please contact checkout@carpentries.org with any questions as you complete the certification process.
-
-Best,
-
-[ sender name ]
-
-
-##### Accepted in open online training
-*This email is usually sent with a script. The canonical version of the text is the version below.*
-
-Subject: Carpentries instructor training: Application Accepted
-
-Hi [ name ],
-
-Thank you for applying to become an instructor with Software and Data Carpentry. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
-
-We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in an instructor training event July 10th and 11th. This event will be held online over video conference 9 am - 5 pm in [time zone ]. Please click this link for your local start time: [ link ]. Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
-
-Please respond by [ date ] to let us know whether or not you will be able to attend. If we haven’t heard from you by that time, we will offer the seat to another applicant, however, you will still remain at the top of the applicant list and we will happily try to accommodate you at a later training.
-
-If you have any questions about the training, please let me know. We’re looking forward to having you as a Carpentry instructor!
 
 Best,
 
@@ -257,10 +250,6 @@ I know that's a lot! Let me know if you have any questions. I'm looking forward 
 Best,
 [ name ]
 
-
-
-
-
 #### Emails from Trainers
 
 ##### Email after training event
@@ -276,7 +265,6 @@ Looking forward to having you as a Carpentry Instructor!
 Best,
 
 [ name ]
-
 
 ##### Reminder teaching demo
 
@@ -321,6 +309,7 @@ I’m happy to tell you that you have passed your teaching demonstration! You de
 Welcome to the Carpentry Instructor community!
 
 Best wishes,
+
 [ sender name ] 
 
 
@@ -371,5 +360,3 @@ Thanks very much for your lesson contribution. When you have a moment, please go
 Best, 
 
 [ name ]
-
-
