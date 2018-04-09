@@ -83,6 +83,26 @@ Best,
 
 [ sender name ]
 
+##### Zoom test invitation
+
+Hi [Host Name],
+
+Thank you for hosting a Carpentries Instructor Training on [ date/time including time zone]. We will be using the Zoom videoconferencing platform for this event.  To ensure that the training runs smoothly, I’d like to set up a Zoom test run with you prior to the event. This should not take much time, however, it is important that this happens to detect any problems and have time to troubleshoot them prior to the training. We all want to stick to the schedule, and want to avoid spending time troubleshooting on the morning of the event.
+
+A few things to consider when conducting the test:
+* Be in the room that the training will take place in. 
+* Have access to the audio system that will be used
+* Have access to the projector that will be used
+
+We will make sure that we can see and hear each other, and that I can see all the seats people will be in for the event itself.
+
+To schedule a test run you can [ email me/look at my calendar ]. Please let me know if you cannot find a time that works so we can look for some other options.
+
+I'm looking forward to having your team on board! Please let me know if you have any questions about how this works.
+
+Best, 
+[ sender name ]
+
 ##### Invitation to Open Training Event
 *This email is usually sent with a script. The canonical version of the text is the version below.*
 
