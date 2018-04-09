@@ -11,6 +11,7 @@ For Trainers
    duties_agreement.md
    trainers_guide.md
    trainers_training.md
+   email_templates_trainers.md
 
 For Administrators
 -----------------------
@@ -19,4 +20,4 @@ For Administrators
 
    tracking_checkout.md
    scheduling_training_events.md
-   email_templates.md
+   email_templates_admin.md
