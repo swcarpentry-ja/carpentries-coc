@@ -1,5 +1,5 @@
 WORKSHOP ADMINISTRATION
-------------------------
+========================
 
 .. toctree::
    :maxdepth: 2

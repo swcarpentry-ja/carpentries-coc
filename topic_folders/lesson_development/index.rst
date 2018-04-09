@@ -1,5 +1,5 @@
 LESSON DEVELOPMENT
-------------------------
+=======================
 
 .. toctree::
    :maxdepth: 2
