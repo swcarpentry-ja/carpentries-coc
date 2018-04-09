@@ -1,14 +1,22 @@
 INSTRUCTOR TRAINING
-------------------------
-
+=======================
 .. toctree::
-   :maxdepth: 2
-   :glob:
+   :maxdepth: 1
 
+For Trainers
+------------------------
+.. toctree::
+   :maxdepth: 1
 
    duties_agreement.md
+   trainers_guide.md
+   trainers_training.md
+
+For Administrators
+-----------------------
+.. toctree::
+   :maxdepth: 1
+
    tracking_checkout.md
    scheduling_training_events.md
-   trainers_training.md
-   trainers_guide.md
    email_templates.md
