@@ -17,7 +17,7 @@ Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpe
   * Time commitment: 4 hours one time
 * Teach once either online or in person with experienced Trainer (after finishing book club)
   * Time commitment: 2 days one time plus prep
-Agree to the [Trainer expectations](https://github.com/carpentries/policies/blob/master/trainer-agreement.md) 
+* Agree to the [Trainer Agreement](duties_agreement.html). 
 
 Total time commitment for continuing Trainers: 
 4 days per year + 2.5 hrs per month
