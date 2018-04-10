@@ -22,6 +22,20 @@ Best,
 [ your_name ]
 
 
+##### Confirming instructor availability
+
+Hi [ instructor name ],
+
+You signed up as interested in teaching the [ Carpentry type ] workshop at [ site name ] on [ scheduled dates ].  I'm writing to see if you are still interested and available in doing this, and what questions you may have about it. If this works, I'll send an email to you and the hosts at [ site name ] so we can get started planning. 
+
+Thanks so much for considering this - I'm hoping it works out for you. Can you let me know by [ date ]?  I look forward to hearing from you.
+
+Best,
+
+[ sender name ]
+
+
+
 ##### Host and instructor introductions
 
 Subject: Carpentries workshop at [ site_name ] [Date of Workshop] - Making introductions
