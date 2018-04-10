@@ -31,6 +31,12 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Send attendance and any other feedback to the Carpentries Workshop Administrator
 * Pay the workshop fee 
 
+#### Billing Guidelines
+Payment for workshops is generally due 30 days after the invoice is issued. 
+
+Invoices overdue 4 or more months may lead to the cessation of work on current activities involving the organization to whom the overdue invoice was issued until the payment process is addressed.
+
+
 #### Instructor Checklist
 
 The Program Manager or Workshop Administrator will introduce workshop hosts and instructors.
