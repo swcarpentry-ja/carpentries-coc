@@ -26,3 +26,5 @@ For Member Organizations
 -------------------------
 .. toctree::
    :maxdepth: 1
+
+   members_join.md
