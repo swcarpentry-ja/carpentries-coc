@@ -68,10 +68,6 @@ http://www.datacarpentry.org/lessons/
 
 to know who's teaching what. One of them will create the workshop's web page on GitHub, which will include workshop details and instructions on what learners will need to install on their computers. The template can be found here:
 
-https://github.com/datacarpentry/workshop-template
-
-OR
-
 https://github.com/swcarpentry/workshop-template
 
 Please use the workshop id [ workshop_id ]
