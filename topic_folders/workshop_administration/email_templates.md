@@ -142,22 +142,29 @@ Best,
 
 ##### Post workshop check in
 
-Hi  [ instructors ],
+Follow-up Email
 
-Thank you for volunteering your time to teach a Carpentry workshop on [ dates ] at [ site_name ]! We appreciate the dedication you’ve shown to help spread data literacy skills, and the hard work you put into preparing for and teaching your workshop.
+Hi  [ instructors/hosts ],
 
-In order to help us accurately report our progress, we need a few things from you. Please take a moment to provide us with the following information. It would be greatly appreciated.
+Thank you for volunteering your time to teach a Carpentry workshop on [ dates ] at [ site ]! We appreciate the dedication you’ve shown to help spread data management and computational programming skills, and the hard work you put into preparing for your workshop.
+
+In order to help us accurately report our progress, we need a few things from you. Please take a moment to provide us with the following information, it would be greatly appreciated.
 
 * The total number of learners registered
 * The total attendance for each day
 * Any additional feedback that you would like to share with us about the overall experience of your workshop
 
-Additionally, please remind your learners to complete the post-workshop survey. This survey asks them to self-evaluate how much they’ve learned and also to give their perspectives on the workshop’s major strengths and opportunities for improvement. Let me know if you need access to the survey results.
+Additionally, please remind your learners to complete the post-workshop survey. This survey asks them to self-evaluate how much they’ve learned and also to give their perspectives on the workshop’s major strengths and opportunities for improvement.
+
+Here are your pre and post survey response links for you to review.  As a reminder, please do not share these links publicly.
+* pre: [ LINK GOES HERE ]
+* post:[ LINK GOES HERE ]
 
 For your convenience, below you will find several resources that are available to you as an instructor.  
 
-* Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar here: http://pad.software-carpentry.org/instructor-discussion. Be sure to check your timezone :) 
-* Data Carpentry and Software Carpentry blogs include posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
+Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar [here](http://pad.software-carpentry.org/instructor-discussion). Be sure to check your timezone when you sign up.
+
+[Data Carpentry](http://www.datacarpentry.org/blog/) and [Software Carpentry](https://software-carpentry.org/blog/) also welcomes blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
 
 If you have any questions regarding anything I’ve shared do not hesitate to email me directly.  Thanks for all of your hard work running this workshop!
 
