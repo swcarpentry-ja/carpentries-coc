@@ -21,3 +21,8 @@ For Administrators
    tracking_checkout.md
    scheduling_training_events.md
    email_templates_admin.md
+
+For Member Organizations
+-------------------------
+.. toctree::
+   :maxdepth: 1
