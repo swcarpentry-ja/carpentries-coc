@@ -1,5 +1,7 @@
 ### Email templates
 
+#### From Workshops Administrators
+
 ##### General inquiry response
 
 Subject: About hosting a Carpentries Workshop
@@ -126,6 +128,7 @@ Best,
 
 [ sender name ]
 
+#### From Instructors and Hosts
 
 ##### For Self Organized Workshops: Recruiting Co-instructor
 
