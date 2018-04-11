@@ -10,14 +10,6 @@ Weekly:
 - If one week before the demo is scheduled to take place, there is still no Trainer available, email [team@carpentries.org](mailto:team@carpentries.org). The Carpentries staff will try to find a staff member to cover the demo.
 - If three business days before the demo, there is still no one available to lead, send [an email](#teaching-demo-cancelled-trainees) to the trainees who are signed up. Also, change the status to “Cancelled” on the Etherpad and [notify the Trainers group](#teaching-demo-cancelled-trainers) that we had to cancel an event.
 
-Monthly:
-- Send out reminders to the Trainers mailing list and Slack channel about upcoming [Trainer Discussion](#discussion-meeting-reminder) and [Business meetings](#business-meeting-reminder).
-- Take notes in Trainer Business meetings. 
-  - If not available to take notes, coordinate a replacement notetaker. 
-  - Submit notes as a pull request to the [Trainers’ GitHub repository](https://github.com/carpentries/trainers/tree/master/minutes).
-  - Send [email to Trainers mailing list](#business-meeting-notes-available) and post to Slack channel after Business meetings with a link to the notes.
-    - Note: There is no need to take notes in Trainer Discussion meetings.
-
 Bi-monthly:
 - Add sessions for the next two months to the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos). 
 - Use the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) to create a new event. Set the event location as “UTC”. 
@@ -28,6 +20,14 @@ Bi-monthly:
   - Events are listed on the community calendar as recurring with no end date. They will only need to be modified if there are changes made to the teaching demo schedule.
   - If you do not have edit access to the community calendar, contact [team@carpentries.org](mailto: team@carpentries.org).
 - [Email the Trainers mailing list](link to template) and post a message to the [Trainer Slack channel](#new-teaching-demos-available) asking people to sign up for teaching demos for the next two months. 
+
+Monthly:
+- Send out reminders to the Trainers mailing list and Slack channel about upcoming [Trainer Discussion](#discussion-meeting-reminder) and [Business meetings](#business-meeting-reminder).
+- Take notes in Trainer Business meetings. 
+  - If not available to take notes, coordinate a replacement notetaker. 
+  - Submit notes as a pull request to the [Trainers’ GitHub repository](https://github.com/carpentries/trainers/tree/master/minutes).
+  - Send [email to Trainers mailing list](#business-meeting-notes-available) and post to Slack channel after Business meetings with a link to the notes.
+    - Note: There is no need to take notes in Trainer Discussion meetings.
 
 ### Email templates (Trainer Coordinator) 
 
