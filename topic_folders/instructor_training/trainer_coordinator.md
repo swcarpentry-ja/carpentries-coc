@@ -40,14 +40,14 @@ Thanks to everyone for signing up for leading teaching demonstrations in the com
 
 Here are some additional events in the next month that don’t have a Trainer listed yet. Please sign up on the Etherpad if you’re available.
 
-[list available sessions by UTC and with time and date links]
-[list available sessions by UTC and with time and date links]
+- [list available sessions by UTC and with time and date links] 
+- [list available sessions by UTC and with time and date links]
 
 As always, if you haven’t led a teaching demo before, now’s a great time to start! You can get a feel for how they are run by observing someone else’s demo session or watching a recorded [teaching demo session](https://www.youtube.com/watch?v=FFO2cq-3PPg). If you’ll be attending someone else’s training, please let the Trainer who is running the session know that you’ll be there. 
 
 If you have any questions about running a teaching demo, please contact [Erin Becker](mailto: ebecker@carpentries.org).
 
-Thank you!
+Thank you!  
 [Name]
 
 
@@ -57,11 +57,13 @@ Subject: Teaching demo cancelled - please reschedule
 Dear checkout participant,
 
 Thank you for signing up to do your teaching demonstration next week at [time in UTC from Etherpad] [time and date link]. Unfortunately, due to lack of volunteer availability, we need to cancel this session. There are still spots open in the upcoming sessions listed below(for which we do have leaders confirmed!).
-[list available sessions by UTC and with time and date links]
-[list available sessions by UTC and with time and date links]
+
+- [list available sessions by UTC and with time and date links]
+- [list available sessions by UTC and with time and date links]
+
 Please add your name to one of these or another session. I apologize for any inconvenience this has caused for you and hope that you are able to reschedule your demonstration soon. I'm looking forward to having you in our instructor community.
 
-Sincerely,
+Sincerely,  
 [Name]
 
 #### Teaching demo cancelled - Trainers
@@ -73,7 +75,7 @@ This is just a quick notice that we’ve had to cancel a teaching demo for this 
 
 As always, if you haven’t led a teaching demo before, now’s a great time to start! You can get a feel for how they are run by observing someone else’s demo session or watching a recorded [teaching demo session](https://www.youtube.com/watch?v=FFO2cq-3PPg). If you’ll be attending someone else’s training, please let the Trainer who is running the session know that you’ll be there. 
 
-Best,
+Best,  
 [Name]
 
 
@@ -85,32 +87,32 @@ I've updated the teaching demo Etherpad to include dates through the end of [Mon
 
 A few events still need coverage in [Month]. Please sign up on the Etherpad if you can take any of the following: 
 
-[list available sessions by UTC and with time and date links]
-[list available sessions by UTC and with time and date links]
+- [list available sessions by UTC and with time and date links]
+- [list available sessions by UTC and with time and date links]
 
 As always, if you haven’t led a teaching demo before, now’s a great time to start! You can get a feel for how they are run by observing someone else’s demo session or watching a recorded [teaching demo session](https://www.youtube.com/watch?v=FFO2cq-3PPg). If you’ll be attending someone else’s training, please let the Trainer who is running the session know that you’ll be there. 
 
 Thanks!
 
-All the best,
+All the best,  
 [Name]
 
 #### Discussion Meeting reminder
 Subject: Trainer Discussion meeting this week
 
-Hi all,
+Hi all,  
 Just a quick reminder that we'll be having our Trainer Discussion meeting this week. Please join us to share your recent instructor training experience and get advice about upcoming events. Meeting details are here: http://pad.software-carpentry.org/trainers.
 
-All the best,
+All the best,  
 [Name]
 
 #### Business Meeting reminder
 Subject: Trainer Business meeting this week
 
-Hi all,
+Hi all,  
 Just a quick reminder that we’ll be having our Trainer Business meeting this week. Please check out the agenda and join here: http://pad.software-carpentry.org/trainers.
 
-All the best,
+All the best,  
 [Name]
 
 #### Business Meeting notes available
@@ -120,5 +122,5 @@ Hi all,
 
 Thank you to all who attended our Business meetings this week. For those who weren’t able to attend, please read through the meeting notes to stay informed about important issues affecting the Trainer community. If you have any questions or comments, contact [Erin Becker](mailto:ebecker@carpentries.org) or send a mail to the Trainers list.
 
-Best,
+Best,  
 [Name]
