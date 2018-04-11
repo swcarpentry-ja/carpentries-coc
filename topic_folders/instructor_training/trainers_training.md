@@ -84,7 +84,7 @@ Total time commitment for new Trainers:
 #### Reviewing New Trainer Applications
 
 1. Director of Instructor Training and Carpentries staff will decide on goals for Trainer recruitment.
-1. [Trainer Application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ/) will be modified to reflect these goals.
+1. [Trainer Application](https://docs.google.com/forms/d/e/1FAIpQLSchAJhZiLSVmqSab1QxG1H30tCAHg_BcUwfctnJpzIhOVo1Bg/closedform) will be modified to reflect these goals.
 1. Open application period will be announced via Carpentries platforms including Twitter, Facebook, the Discuss email list, and blogs. Ask relevant community members to promote within their networks as well.  Personal invitations can be sent with [this email template](email_templates.html#recruiting-new-trainers).
 1. Ensure communication emphasizes overall goals.
 1. Ask 2-3 existing Trainers to help review applications in line with defined goals. There is no rubric for this.  Reviewers should leave notes supporting their rankings.  
