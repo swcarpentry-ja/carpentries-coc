@@ -11,6 +11,7 @@ For Trainers
    duties_agreement.md
    trainers_guide.md
    trainers_training.md
+   trainer_coordinator.md
    email_templates_trainers.md
 
 For Administrators
