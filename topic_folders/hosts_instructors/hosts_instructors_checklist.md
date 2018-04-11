@@ -11,7 +11,7 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Work with the Carpentries Program Manager and Workshop Administrator to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
-* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.
+* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We reccommend 1 helper for every 8-10 students, not counting the two instructors. 
 * Advertise your workshop. The Workshop Administrator can help by creating an Eventbrite registration page.
 * Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administrator creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
 * Work with the Carpentries Program Manager and Business Administrator to make arrangements to pay the workshop fee. This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
