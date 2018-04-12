@@ -18,8 +18,8 @@ Bi-monthly:
   - Add the link to the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos).
 - Make sure that the sessions are also listed on the community calendar. 
   - Events are listed on the community calendar as recurring with no end date. They will only need to be modified if there are changes made to the teaching demo schedule.
-  - If you do not have edit access to the community calendar, contact [team@carpentries.org](mailto: team@carpentries.org).
-- [Email the Trainers mailing list](link to template) and post a message to the [Trainer Slack channel](#new-teaching-demos-available) asking people to sign up for teaching demos for the next two months. 
+  - If you do not have edit access to the community calendar, contact [team@carpentries.org](mailto:team@carpentries.org).
+- [Email the Trainers mailing list](#teaching-demos-without-hosts) and post a message to the [Trainer Slack channel](#new-teaching-demos-available) asking people to sign up for teaching demos for the next two months. 
 
 Monthly:
 - Send out reminders to the Trainers mailing list and Slack channel about upcoming [Trainer Discussion](#discussion-meeting-reminder) and [Business meetings](#business-meeting-reminder).
@@ -32,6 +32,7 @@ Monthly:
 ### Email templates (Trainer Coordinator) 
 
 #### Teaching demos without hosts
+
 Subject: Need hosts for upcoming teaching demos
 
 Dear Trainers, 
@@ -45,7 +46,7 @@ Here are some additional events in the next month that don’t have a Trainer li
 
 As always, if you haven’t led a teaching demo before, now’s a great time to start! You can get a feel for how they are run by observing someone else’s demo session or watching a recorded [teaching demo session](https://www.youtube.com/watch?v=FFO2cq-3PPg). If you’ll be attending someone else’s training, please let the Trainer who is running the session know that you’ll be there. 
 
-If you have any questions about running a teaching demo, please contact [Erin Becker](mailto: ebecker@carpentries.org).
+If you have any questions about running a teaching demo, please contact [Erin Becker](mailto:ebecker@carpentries.org).
 
 Thank you!  
 [Name]
