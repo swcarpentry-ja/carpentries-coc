@@ -7,7 +7,7 @@ This includes the following responsibilities
 
 * Attend monthly admin team meetings.  Time zones will be taken into consideration when scheduling these meetings.  Attending other Carpentries community meetings is also highly recommended.
 * Read emails sent to the admin group.
-Stay up to date on all Carpentries operations as outlined in the Administrator's’ Manual.  (link to be added)
+Stay up to date on all Carpentries operations as outlined in the [Carpentries handbook](https://docs.carpentries.org/index.html).
 Respond to workshop requests from host sites in your region within two business days. This may include, but is not limited to:
   * Sharing general Carpentries information
   * Recruiting instructors
