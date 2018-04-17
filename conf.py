@@ -147,7 +147,8 @@ html_context = {
   'display_github': True,
   'github_user': 'carpentries',
   'github_repo': 'handbook',
-  'github_version': 'master/'
+  'github_version': 'master/',
+  'theme_vcs_pageview_mode': 'blob'
 }
 
 
