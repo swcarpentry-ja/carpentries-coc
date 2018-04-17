@@ -146,7 +146,7 @@ html_sidebars = {
 html_context = {
   'display_github': True,
   'github_user': 'carpentries',
-  'github_repo': 'usersguides',
+  'github_repo': 'handbook',
   'github_version': 'master/'
 }
 
