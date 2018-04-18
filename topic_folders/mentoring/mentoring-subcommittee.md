@@ -9,12 +9,12 @@ Established in 2015 to develop and maintain a mentoring program, the program sup
 
 ### Committee Member Roles
 
-- [Co-Chairs](../mentoring-subcommittee-roles.html#co-chairs)
-- [Discussion Coordinators](../mentoring-subcommittee-roles.html#discussion-session-coordinators)
-- [Discussion Hosts](../mentoring-subcommittee-roles.html#discussion-hosts)
-- [Committee Liaison](../mentoring-subcommittee-roles.html#committee-liaisons)
-- [Staff Liaison](../mentoring-subcommittee-roles.html#staff-liaison)
-- [Secretary](../mentoring-subcommittee-roles.html#secretary)
+- [Co-Chairs](mentoring-subcommittee-roles.html#co-chairs)
+- [Discussion Coordinators](mentoring-subcommittee-roles.html#discussion-session-coordinators)
+- [Discussion Hosts](mentoring-subcommittee-roles.html#discussion-hosts)
+- [Committee Liaison](mentoring-subcommittee-roles.html#committee-liaisons)
+- [Staff Liaison](mentoring-subcommittee-roles.html#staff-liaison)
+- [Secretary](mentoring-subcommittee-roles.html#secretary)
 
 ### Monthly Meeting Topics
 * Instructor discussion sessions:
