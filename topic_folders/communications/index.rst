@@ -8,3 +8,4 @@ COMMUNICATION
    submit-news-item.md
    submit_blog_post.md
    newsletter.md
+   slack-and-email.md
