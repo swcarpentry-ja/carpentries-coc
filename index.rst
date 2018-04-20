@@ -1,4 +1,4 @@
-Carpentries Handbook
+The Carpentries Handbook
 ------------------------
 
 .. toctree::
