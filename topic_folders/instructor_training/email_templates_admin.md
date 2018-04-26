@@ -187,7 +187,7 @@ If you would like to be included on our online list of instructors, please
 
 1.  Take a moment to update your profile at https://amy.software-carpentry.org/workshops/update_profile/ so we know where you are and what you're comfortable teaching.
 
-2.  Send us a three-line bio and a photo to add to our team page at http://software-carpentry.org/team/.
+2.  Send us a three-line bio (written in third person) and a photo (jpg or png file format) to add to our team page at http://software-carpentry.org/team/.
 
 Please let us know if there's anything we can do to help and welcome to the community!
 
