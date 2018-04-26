@@ -40,7 +40,7 @@
 1. Workshop Administrator sets up surveys in Survey Monkey and emails results links to hosts and instructors.
 
 1. If needed Workshop Administrator sets up registration in Eventbrite. 
-    * If there is a registration fee, Program Manager informs Business Administrator that this will need to be refunded or applied to the workshop invoice.
+    * If there is a registration fee, Workshop Administrator informs Business Administrator that this will need to be refunded or applied to the workshop invoice.
 
 1.  In weeks leading up to workshop, Workshop Administrator sends check in emails to be sure planning is progressing smoothly.
 
