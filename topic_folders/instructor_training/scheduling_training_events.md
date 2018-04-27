@@ -20,6 +20,6 @@ One month prior to a scheduled training event, if no member sites have signed up
 
 If only one site has signed up, the Director of Instructor Training may opt to make this a hybrid event, with one site participating as a team with people from the open application process joining individually.
 
-If this becomes an open or hybrid training event, the Director of Instructor Trainingf will invite [people who have been accepted through the open training application process](https://drive.google.com/drive/u/0/folders/0B2Xc7BrFgkvUc2lKUHBRNXRFOGc) to join this event (link accessible to Carpentries staff only).  Applicants can confirm their participation by signing up on [this sheet](https://docs.google.com/spreadsheets/d/12V0gAApyS7HZbODoGCPcJ7ZuDmVS-1oN7rw0TVXr0Wc/edit#gid=0).
+If this becomes an open or hybrid training event, the Director of Instructor Training will invite [people who have been accepted through the open training application process](https://drive.google.com/drive/u/0/folders/0B2Xc7BrFgkvUc2lKUHBRNXRFOGc) to join this event (link accessible to Carpentries staff only).  Applicants can confirm their participation by signing up on [this sheet](https://docs.google.com/spreadsheets/d/12V0gAApyS7HZbODoGCPcJ7ZuDmVS-1oN7rw0TVXr0Wc/edit#gid=0).
 
 Director of Instructor Training will email trainees introductory information using [this email template](/instructor_training/trainers_guide.html#member-training-introductions).
