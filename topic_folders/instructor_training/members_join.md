@@ -1,4 +1,4 @@
-### Joining a training event
+### Joining a Training Event
 
 When a site signs a new member contract or otherwise schedules a training event with the Carpentries, the Program Manager will contact the site to discuss instructor training.  This includes reviewing the [training curriculum](https://carpentries.github.io/instructor-training/) and [certification process](https://carpentries.github.io/instructor-training/checkout/).  
 
@@ -6,7 +6,7 @@ The Program Manager will share the [member training process](http://carpentries.
 
 The Program Manager will [share information](email_templates_admin.html#member-training-introductions) about the training with all participants, including a link to our application form and some pre-reading material.
 
-### Host checklist
+### Host Checklist
 
 Our training events are typically offered using the Zoom videoconferencing platform.
 
@@ -18,9 +18,9 @@ Before the event, the Workshop Administrator will be in touch with the host site
 * make sure the person on the screen can see and hear all participants
 
 Other things to be set up for the event include:
-* Remind participants of the pre-reading material that was shared by the Program Manager
-* Reviewing the schedule to arrange for lunch and coffee breaks. Providing refreshments is suggested (people learn better with fuel!) but not mandatory.  A sample schedule is [here](https://carpentries.github.io/instructor-training/).
-* Allow for break out space during the event. The training includes partner and small group activities. If the room is big enough this can be done in different corners of the room.  Otherwise, a hallway alcove or nearby office may be a good fit.
+* Reminding participants of the pre-reading material that was shared by the Program Manager
+* Reviewing the schedule to arrange for lunch and coffee breaks. Providing refreshments is suggested (people learn better with fuel!), but not mandatory.  A sample schedule is [here](https://carpentries.github.io/instructor-training/).
+* Allowing for break out space during the event. The training includes partner and small group activities. If the room is big enough this can be done in different corners of the room.  Otherwise, a hallway alcove or nearby office may be a good fit.
 
 
 

@@ -1,12 +1,12 @@
 ### Newsletter
 
-Our newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH) appears every two weeks.  
+Our newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), appears every two weeks.  
 
 #### Newsletter content
 
 * *Highlights from the Software and Data Carpentry Community* and *Calendar*: Includes highlights from The Carpentries calendars, blog posts, tweets, and other media.
 * *Subcommittee Activity*: Includes announcements directly from committee chairs and summaries from meeting notes.
-* *What you may have missed on the blog and mailing lists*: Includes a summary of anything not included above including key conversations on the *Discuss* email list.
+* *What you may have missed on the blog and mailing lists*: Includes a summary of anything not included above, including key conversations on the *Discuss* email list.
 * *Papers & manuscripts from the community*: Includes announcements that were made on the the *Discuss* email list, Twitter, or other media.
 * *Tweet of the Week*: One noteworthy tweet is chosen and a screen captured image is included.
 * *Optional: Offcuts*: Includes other unusual news that may be of interest.
