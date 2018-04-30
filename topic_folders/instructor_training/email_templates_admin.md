@@ -32,13 +32,13 @@ Thank you for joining our upcoming instructor training session on  [ training_da
 
 This will be offered online with our instructor trainers, [ trainer1 ]  and [ trainer2 ]. You can read more about what you'll do these two days here: [ webpage ]
 
-If you haven't already, you must complete our on line application form here (https://amy.software-carpentry.org/forms/request_training/) so we can officially record your participation and track your progress towards becoming a certified Carpentries instructor. Please use the group code [ group_code ]
+If you haven't already, you must complete our online application form here (https://amy.software-carpentry.org/forms/request_training/) so we can officially record your participation and track your progress towards becoming a certified Carpentries instructor. Please use the group code [ group_code ]
 
 Participants from each site should be in the same room. Individuals can not join remotely as our training includes partner and group activities. All individual participants should have wifi access.
 
 Please plan to be present for the entire session both days. Participants who miss more than one hour will not pass our training requirements.
 
-A videoconferencing link will be shared with the organizers/hosts at each site before the meeting. You should be in a room with a screen and projector as well as a speaker and microphone.  This link is for the room; individual participants do not need this information. We highly encourage the host sites test this connection in advance, in the same room using the same equipment that you'll be in for the training itself. Please contact me directly if you'd like to set a time to do so. We will start promptly on time; any time lost due to troubleshooting connection problems may count against your attendance.
+A videoconferencing link will be shared with the organizers/hosts at each site before the meeting. You should be in a room with a screen and projector as well as a speaker and microphone.  This link is for the room; individual participants do not need this information. We highly encourage the host sites test this connection in advance, in the same room using the same equipment that you'll be using for the training itself. Please contact me directly if you'd like to set a time to do so. We will start promptly on time; any time lost due to troubleshooting connection problems may count against your attendance.
 
 *Some other things in order to prepare:*
 
@@ -48,13 +48,13 @@ A videoconferencing link will be shared with the organizers/hosts at each site b
 
 3. We will be recording one another teaching in pairs or threes during the class, so please bring a cell phone or hand-held camera that can record audio and video. It doesn't have to be high-quality, but it should be good enough that you can understand what someone is saying.
 
-4. Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet/Chromebook/etc won't be sufficient). No special setup on your own laptops is necessary.
+4. Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet/Chromebook/etc. won't be sufficient). No special setup on your own laptops is necessary.
 
 Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://carpentries.github.io/instructor-training/checkout/. If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
 *Episodes*
 
-Please read through *one* of the episodes below carefully, so that you can do some exercises based on it on the first day of the class.
+Please read carefully through *one* of the episodes below, so that you can do some exercises based on it on the first day of the class.
 
 Data Carpentry
 
@@ -94,7 +94,7 @@ A few things to consider when conducting the test:
 
 We will make sure that we can see and hear each other, and that I can see all the seats people will be in for the event itself.
 
-To schedule a test run you can [ email me/look at my calendar ]. Please let me know if you cannot find a time that works so we can look for some other options.
+To schedule a test run, you can [ email me/look at my calendar ]. Please let me know if you cannot find a time that works, so we can look for some other options.
 
 I'm looking forward to having your team on board! Please let me know if you have any questions about how this works.
 
@@ -135,7 +135,7 @@ Hi [ name ],
 
 Thank you for applying to become an instructor with Software and Data Carpentry. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
 
-We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in an instructor training event July 10th and 11th. This event will be held online over video conference 9 am - 5 pm in [time zone ]. Please click this link for your local start time: [ link ]. Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
+We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in an instructor training event [ date ]. This event will be held online over video conference 9 am - 5 pm in [ time zone ]. Please click this link for your local start time: [ link ]. Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
 
 Please respond by [ date ] to let us know whether or not you will be able to attend. If we haven’t heard from you by that time, we will offer the seat to another applicant, however, you will still remain at the top of the applicant list and we will happily try to accommodate you at a later training.
 
@@ -201,7 +201,7 @@ Subject: Carpentries instructor training: Missing Application
 
 Hi [ trainee name ],
 
-On [ training_dates ], you [ participated (or) will be participating ] in a Software Carpentry and Data Carpentry training event at [ online (or) sitename ].  We'd like to be sure we can track your progress towards instructor certification.  Please fill out the instructor application form here (https://amy.software-carpentry.org/forms/request_training/) putting down [ group_code ]  as your group name.  As a reminder, here are the steps you need to complete to earn your certification: http://carpentries.github.io/instructor-training/checkout/
+On [ training_dates ], you [ participated (or) will be participating ] in a Software Carpentry and Data Carpentry training event at [ online (or) sitename ].  We'd like to be sure we can track your progress towards instructor certification.  Please fill out the instructor application form here (https://amy.software-carpentry.org/forms/request_training/), putting down [ group_code ]  as your group name.  As a reminder, here are the steps you need to complete to earn your certification: http://carpentries.github.io/instructor-training/checkout/
 
 We will not be able to track your progress or award your instructor certificate without an application on file.
 
@@ -249,15 +249,15 @@ We'll be starting our new cohort of instructor Trainers in [ month ]. Our cohort
 
 If you're interested in being part of this cohort, please try to complete the following by [ deadline ] so that we can finalize the schedule and start our meetings!
 
-1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the day and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accomodate all time zones, but you will only need to attend one of the weekly meetings.
+1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accomodate all time zones, but you will only need to attend one of the weekly meetings.
 
 2) Please take a look over the process for trainer training and make sure that all of the requirements of becoming a Trainer work with your schedule and other responsibilities. We're excited to have you in the Trainer community, but do want to make sure that all Trainers are able to commit the time required, so that we are able to realistically determine the number of instructors we train per year.
 
 3) Please get a copy of our text [ link ]. I'll send out reading assignments and discussion guides in a later email. 
 
-4) Please also fill out your availability for instructor training events for  [ month through month ] and add your name to the Trainers list in the second tab. This cohort of Trainers will be ready to co-teach instructor training events by the end of [ month ] and to teach on their own shortly after that.
+4) Please also fill out your availability for instructor training events for [ month through month ] and add your name to the Trainers list in the second tab. This cohort of Trainers will be ready to co-teach instructor training events by the end of [ month ] and to teach on their own shortly after that.
 
-5) Please add upcoming Trainer Business and Discussion meetings (http://pad.software-carpentry.org/trainers) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones each, you don't need to attend both meetings - but you're welcome to!
+5) Please add upcoming Trainer Business and Discussion meetings (http://pad.software-carpentry.org/trainers) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
 
 6) Please sign up for the Trainers email list (http://lists.software-carpentry.org/listinfo/trainers) if you haven't already done so.
 
