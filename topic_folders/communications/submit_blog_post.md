@@ -54,6 +54,11 @@ The Carpentries welcomes blog posts from our community members including worksho
     
 1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries staff will review and merge your Pull Request or reach out to you with more questions.
 
+##### Alternative Ways to Post
+If you are new to GitHub and want to submit a blog post without using this workflow, you can submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and we will post it to the blog for you.
+
+If you wish to submit a blog post about a favourite tool or research workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
+
 #### How to Contribute a Blog Post to Data Carpentry
 
 1.  If you wish to contribute a blog post,
@@ -110,6 +115,10 @@ The Carpentries welcomes blog posts from our community members including worksho
     
 1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries staff will review and merge your Pull Request or reach out to you with more questions.
 
+##### Alternative Ways to Post
+If you are new to GitHub and want to submit a blog post without using this workflow, you can submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and we will post it to the blog for you.
+
+If you wish to submit a blog post about a favourite tool or research workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
 
 
 #### How to Contribute a Blog Post to Software Carpentry
@@ -165,6 +174,11 @@ The Carpentries welcomes blog posts from our community members including worksho
     If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
     
 7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
+
+##### Alternative Ways to Post
+If you are new to GitHub and want to submit a blog post without using this workflow, you can submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and we will post it to the blog for you.
+
+If you wish to submit a blog post about a favourite tool or research workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
 
 #### Troubleshooting
 
