@@ -183,7 +183,7 @@ Hi [ trainee name ],
 
 Thank you for completing your checkout. I've updated your status in our database and you are now an officially certified [ Data/Software ] Carpentry instructor. Your certificate is attached. Congratulations!
 
-If you haven't already, please be sure to join the instructors mailing list (http://lists.software-carpentry.org/listinfo/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://lists.software-carpentry.org/listinfo/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
+If you haven't already, please be sure to join the instructors mailing list (http://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
 
 If you would like to be included on our online list of instructors, please 
 
@@ -261,7 +261,7 @@ If you're interested in being part of this cohort, please try to complete the fo
 
 5) Please add upcoming Trainer Business and Discussion meetings (http://pad.software-carpentry.org/trainers) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
 
-6) Please sign up for the Trainers email list (http://lists.software-carpentry.org/listinfo/trainers) if you haven't already done so.
+6) Please sign up for the Trainers email list (http://carpentries.topicbox.com/groups/trainers) if you haven't already done so.
 
 7) Please respond to this email with a quick introduction so that we can all get to know each other. I'll send out my introduction as a separate email following this.
 
