@@ -176,9 +176,9 @@ If you wish to submit a blog post about a favourite tool or research workflow, y
 7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
 
 ##### Alternative Ways to Post
-If you are new to GitHub and want to submit a blog post without using this workflow, you can submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and we will post it to the blog for you.
+If you are new to GitHub and want to submit a general blog post without using this workflow, you can submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and we will post it to the blog for you.
 
-If you wish to submit a blog post about a favourite tool or research workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
+If you wish to submit a blog post specifically about a favourite tool or research workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
 
 #### Troubleshooting
 
