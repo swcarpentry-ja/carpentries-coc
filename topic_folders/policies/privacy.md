@@ -1,53 +1,92 @@
-### The Carpentries Privacy Policy
+# The Carpentries Privacy Policy
 
-The Carpentries (TC) is dedicated to the security and privacy of your data. We want you to know what data we collect, how we collect it, and what we do with it so that you may decide whether or not to provide information to us.
+This Privacy Policy covers personally identifiable information that may be provided to The Carpentries, including data provided at in-person events (e.g., workshops and conferences) and online. Changes to this Privacy Policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.
+Information obtained and how it is used is described in sections below for
 
-By visiting TC websites or are otherwise providing your personal information to us via any other means, you are accepting and consenting to the practices described in this Policy. Unless specified otherwise, the term "visitor" includes both TC members and nonmembers, whether you upload information to our websites, download information, or are merely visiting.  Becoming a member of the TC will require us to ask for and store additional information.
+I. [Workshop participants](#workshop-participants)
+II. [Instructors](#instructors)
+III. [Online spaces](#online-spaces)
+IV. [Opt-in surveys](#opt-in-surveys)
+V. [All participants](#all-participants)
 
-This privacy policy will govern our use of your information, regardless of what information we collect.
+
+## Definitions
+
+- *Workshop participants* - people participating, including but not limited to as learner, helper, or instructor in a Carpentries workshop
+- *Hosts* - people organizing a workshop at their local site
+- *Instructors and Trainers* - people who are teaching a Carpentries workshop
+- *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification
+- * The Carpentries staff* - people employed by The Carpentries
+- *Authorized administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop coordinators or subcommittee representatives.
+
+#### How is personally identifiable information stored?
+
+Personally identifiable information is stored in secure databases. Refer to [Limitations](#limitations) section below.
 
 
-1. What information do we collect?
+#### Who has access to personally identifiable information?
 
-    We collect basic usage information in the form of logs from all visitors. When you visit any TC-controlled website, our server logs your IP address, the time and duration of your visit, and the time and duration of the pages on our website you view. We may also capture information about your computer system, such as your browser type and operating system.
+Access will be limited to The Carpentries staff and authorized administrators.
 
-    We will likely place a cookie on your hard drive during the web visit. If you do not wish cookies to be placed on your computer, then they can be disabled in your web browser. However, please note that disabling cookies in your browser may hinder your use of our some of our websites.
+## Section I: Workshop Participants
+Workshop participants include Learners, Helpers and Hosts
 
-    For those who are or wish to become members of the TC, we need to collect some personally identifiable information, including your name, email address, and country of residence. If you are a supporting or sponsoring member of the TC, or wish to make a donation, we will also ask for the information necessary to process a payment and reduce our risk of fraud. We may ask for other information, but providing such information is completely optional.
+#### What information do we obtain?
+We may obtain the name, email address and event attended of workshop participants. If you are a learner or helper, this information may be provided by you or by the workshop host. See [Section V] for information on our Opt-In surveys.
 
-    Voting Members will need to provide us with email contact information during their enrollment. However, that information is never made generally available outside of the Foundation, neither on this website nor anywhere else public.
-<br><br>
-1. What do we use this information for?
+#### How is this information used?
+We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use  your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants with volunteers, partners or third parties, including but not limited to funding entities.
+See [Section V: All Participants](#section-v-all-participants) for further information
 
-    **Basic usage information.** We use basic usage information to protect against unauthorized intrusion into TC-controlled servers, as well as monitor and improve the availability and performance of TC-controlled websites. We may also use information collected from you to personalize your interactions with TC-controlled websites.
+## Section II: Instructors
 
-    **Personally identifiable information.** We use contact information to communicate with members or with others that have accounts with the TC, to provide access to secure areas of our websites, and to provide the services identified on our sites. We also use the information we collect to improve the content of our websites We also use this information to prevent or detect fraud or abuses of our websites and to enable third parties to carry out
-    technical, logistical or other functions on our behalf.   Financial information and payment card details. We may ask those who want to donate to the TC, become a sponsor member, or become a supporting member to enter credit card or account information in order to process payments to the TC. Financial information provided via our websites is transferred over a secure connection. We collect this information on a transaction-by-transaction basis
-    and will not authorize the release of the information with anyone not directly involved in processing the transaction. This information may be encrypted and stored for logging purposes in accordance with applicable regulatory requirements. Credit card numbers are used only for processing payments and are not used for any other purposes. When we use third party service providers for credit card processing services we will enter into a written agreement  with such third party ensuring appropriate security and confidentiality measures are in place in safeguarding your personal data.
-<br><br>
-1. Disclosure of personal information
+Instructors includes Instructors, Instructor Trainees and Applicants
 
-    We will not disclose any information we collect to any third party unless it is:
+#### What information do we obtain?
+We may obtain the name and email address of participants at instructor training events and current instructors. This information may be provided by the participant or event host. If you choose to complete an instructor profile, we may store your name, email address, gender, nearest airport location, organizational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
 
-    * Specifically authorized by you; or
-    * Necessary to perform the functions requested by you (and only to the extent absolutely necessary to perform the function); or
-    * Required to check for fraud or other misuse of TC resources; or
-    * Required by law.
+#### How is this information used?
+We use this information to communicate with instructors, including for instructor training events, training completion materials, communication about the organizations and opportunities to volunteer. Additionally, we may use instructor information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide participant information to any third party. However, we may share aggregate or summary information regarding participants with partners or third parties, including funding entities.
+See [Section V: All Participants]() for further information
 
-    In particular, we may release the information we collect to third parties when  we believe it is appropriate to comply with the law, to enforce our legal rights, to protect the rights and safety of others, or to assist with industry efforts to control fraud, spam or other undesirable conduct.
+## Section III: Online Spaces
+This Privacy Policy is applicable to information that you provided/collected through physical (such as a paper form) and online means, including through our websites or other external online spaces (including but not limited to GitHub repositories, Etherpads, Google Documents, EventBrite and mailing lists). By using these spaces, you agree to the terms of this Privacy Policy. Some of these tools and services (including but not limited to GitHub, Google Documents, EventBrite and SurveyMonkey) have their own independent privacy policies. See [Section IV: Opt-In Surveys](), for information specifically on survey information.
 
-    If the TC contracts with a third party to provide a particular service, we may release the information we collect to that third party, provided that the third party has agreed to use at least the same level of privacy protections described in this Privacy Policy, and is permitted to use the information only for the purpose of providing services to us.
-<br><br>
-1. Communications are opt-in
+#### What information do we obtain?
+We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.
+In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.
+If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our staff and to the staff of our fiscal sponsor who is involved in processing financial transactions. We  engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
 
-    All communications from the TC will be opt-in except for email messages necessary for you to maintain membership in the TC.
-<br><br>
-1. Security and accuracy of your information.
+#### What  do we do with this information?
+We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide participant information to any third party. However, we may share aggregate or summary information regarding participants with partners or third parties, including funding entities.
+We may use publicly available data of the external online services in programmatic analysis and evaluation.
+See [Section V: All Participants]() for further information
 
-    The TC is committed to use industry best practices approaches concerning security measures to prevent the loss, misuse and alteration of the information in our possession. We use various security measures to protect the information we collect, as appropriate to the type of information, including encryption, firewalls, and access controls. We store information you provide to us on a computer system located in a controlled facility with limited access. We take reasonable steps to ensure that data is accurate, complete, and current.  If you believe that any personal information we have about you is incorrect, or is, has been, or might be used inappropriately, please [contact us](mailto:team@carpentries.org) and we will take steps to correct, delete, or restrict the use of the information, as appropriate.
-<br><br>
-1. Changes
+## Section IV: Opt-in Surveys
+Community participants are also invited to participate in a variety of opt-in surveys. These include but are not limited to pre-workshop surveys, post-workshop surveys of learners, various survey instruments to better understand our learners, volunteers and community members.
 
-    Our Privacy Policy may change from time to time, and the new policy will be posted prominently on software-carpentry.org. We will never materially change our policies and practices to make them less protective of personal information collected in the past without your prior consent. This Privacy Policy was last updated on March 16, 2016.
+#### What information do we obtain?
+Opt-in surveys are conducted to help us better serve our community. These are entirely voluntary and their information is not collected in a way that it is linked to personally identifiable responses without the respondent’s consent to self-identify.
+Surveys collect information particular to the event or product being surveyed. These include perspectives on the event or product, and may include information on the person completing the survey, such as career stage and area of research. Demographic data, when collected, is only collected from participants in the United States.
 
-    Adapted from the [privacy policy](https://www.python.org/privacy/) of the Python Software Foundation.
+#### What  do we do with this information?
+We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. In some cases, where we’d like to share testimonials we always ask for explicit consent to allow de-indentifed responses to be shared, and always give an option to have these shared anonymously.
+See [Section V: All Participants]() for further information
+
+## Section V: All Participants
+
+#### Can I decide what communications to receive?
+Yes. All communication with us is opt-in, except for participants receiving information about their program and for instructors, information required to maintain instructor status. You may occasionally be sent emails asking if you would like to opt-in to communication channels that we feel may be of interest to you (for example, a mailing list dedicated to your geographical area). In the absence of specific action from you, we will assume you choose not to join these channels.
+
+#### Removing personal information
+Participants may choose to disallow us from retaining their personal information at any time by notifying [admin@carpentries.org](mailto:admin@carpentries.org). If you choose to exclude your information, we will delete your personal information from our databases. This may interfere with our ability to give you credit for training events you have completed or to contact you about upcoming events in your area.
+
+#### Limitations
+Your privacy is very important to us. However, due to the existing legal and technical environment (e.g., third party interception of information), we cannot ensure that your personally identifiable information will not be disclosed to third parties in ways not described in this policy.
+We may disclose information when we believe such disclosure is necessary to comply with the law; enforce our agreements, or protect the rights, property or safety of our users or others.
+
+#### What about third party links on our websites?
+Our websites provide links to third party sites as a service to visitors. We are not responsible for the privacy practices, security measures or data collection practices of third party sites or for their content. The choice to access these sites is at the visitor’s own risk.
+
+#### Who should be contacted regarding this Privacy Policy?
+For questions or comments about this Privacy Policy, please contact [admin@carpentries.org](mailto:admin@carpentries.org).
