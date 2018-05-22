@@ -16,6 +16,7 @@ V. [All participants](#all-participants)
 - *Hosts* - people organizing a workshop at their local site
 - *Instructors and Trainers* - people who are teaching a Carpentries workshop
 - *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification
+- *Lesson contributors and maintainers* - people who contribute to or maintain lessons
 - * The Carpentries staff* - people employed by The Carpentries
 - *Authorized administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop coordinators or subcommittee representatives.
 
@@ -38,15 +39,15 @@ We may obtain the name, email address and event attended of workshop participant
 We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use  your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants with volunteers, partners or third parties, including but not limited to funding entities.
 See [Section V: All Participants](#section-v-all-participants) for further information
 
-## Section II: Instructors
+## Section II: Volunteers
 
-Instructors includes Instructors, Instructor Trainees and Applicants
+Volunteers includes Instructors, Trainers, Instructor Trainees, Instructor Applicants, Lesson Contributors and Maintainers
 
 #### What information do we obtain?
-We may obtain the name and email address of participants at instructor training events and current instructors. This information may be provided by the participant or event host. If you choose to complete an instructor profile, we may store your name, email address, gender, nearest airport location, organizational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
+We may obtain the name and email address of participants at instructor training events and current instructors. This information may be provided by the participant or event host. If you choose to complete a volunteer profile, we may store your name, email address, gender, nearest airport location, organizational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
 
 #### How is this information used?
-We use this information to communicate with instructors, including for instructor training events, training completion materials, communication about the organizations and opportunities to volunteer. Additionally, we may use instructor information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide participant information to any third party. However, we may share aggregate or summary information regarding participants with partners or third parties, including funding entities.
+We use this information to communicate with volunteers, including for instructor training events, training completion materials, communication about the organization, lesson releases and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide participant information to any third party. However, we may share aggregate or summary information regarding participants with partners or third parties, including funding entities.
 See [Section V: All Participants]() for further information
 
 ## Section III: Online Spaces
