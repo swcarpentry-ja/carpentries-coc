@@ -50,7 +50,7 @@ A videoconferencing link will be shared with the organizers/hosts at each site b
 
 4. Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet/Chromebook/etc. won't be sufficient). No special setup on your own laptops is necessary.
 
-5. Please complete this pre-assessment survey: https://www.surveymonkey.com/r/D7LM7DW?workshop_id=[workshop_id_value]. This survey, along with our post-assessment, provides valuable information that we use to improve our program and report on our impacts.
+5. Please complete this pre-assessment survey: [INSERT PRE-SURVEY LINK HERE]. This survey, along with our post-assessment, provides valuable information that we use to improve our program and report on our impacts.
 
 Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://carpentries.github.io/instructor-training/checkout/. If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
