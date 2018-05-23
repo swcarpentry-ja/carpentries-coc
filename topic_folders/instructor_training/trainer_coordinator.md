@@ -11,7 +11,7 @@ Weekly:
 - If three business days before the demo, there is still no one available to lead, send [an email](#teaching-demo-cancelled-trainees) to the trainees who are signed up. Also, change the status to “Cancelled” on the Etherpad and [notify the Trainers group](#teaching-demo-cancelled-trainers) that we had to cancel an event.
 
 Bi-monthly:
-- Add sessions for the next two months to the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos). 
+- Add teaching demonstration sessions for the next two months to the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos). 
 - Use the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) to create a new event. Set the event location as “UTC”. 
   - Set the month, day, year, hour, minute, and second to reflect the recurring times on the Community Calendar. 
   - Click “show result” and verify that the event is displaying in UTC. It will also display in your computer’s system time. 
@@ -20,9 +20,12 @@ Bi-monthly:
   - Events are listed on the community calendar as recurring with no end date. They will only need to be modified if there are changes made to the teaching demo schedule.
   - If you do not have edit access to the community calendar, contact [team@carpentries.org](mailto:team@carpentries.org).
 - [Email the Trainers mailing list](#teaching-demos-without-hosts) and post a message to the [Trainer Slack channel](#new-teaching-demos-available) asking people to sign up for teaching demos for the next two months. 
+- Add Trainer Discussion and Business meetings to the [Trainers Etherpad](http://pad.software-carpentry.org/trainers-backup) using the template at the bottom of the Etherpad. 
+
+Bi-weekly:
+- Send out reminders to the Trainers mailing list and Slack channel about upcoming [Trainer Discussion](#discussion-meeting-reminder) and [Business meetings](#business-meeting-reminder).
 
 Monthly:
-- Send out reminders to the Trainers mailing list and Slack channel about upcoming [Trainer Discussion](#discussion-meeting-reminder) and [Business meetings](#business-meeting-reminder).
 - Take notes in Trainer Business meetings. 
   - If not available to take notes, coordinate a replacement notetaker. 
   - Submit notes as a pull request to the [Trainers’ GitHub repository](https://github.com/carpentries/trainers/tree/master/minutes).
