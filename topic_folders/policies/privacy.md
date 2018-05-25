@@ -68,20 +68,20 @@ This Privacy Policy is applicable to information that you provided/collected thr
 #### What information do we obtain?
 We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.
 In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.
-If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our staff and to the staff of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
+If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our staff or authorized adminstrators and to the staff of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
 
 #### What  do we do with this information?
 We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding vistors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
 ## Section V: Opt-in Surveys
-Community participants are also invited to participate in a variety of opt-in surveys to better serve our community. These include but are not limited to pre-workshop and post-workshop surveys of learners and various survey instruments to evaluate programs or events. 
+Community and workshop participants are invited to participate in a variety of opt-in surveys to better serve our community. These include but are not limited to pre-workshop and post-workshop surveys of learners and various survey instruments to evaluate programs or events. 
 
 #### What information do we obtain?
 Opt-in surveys are entirely voluntary and information is not collected in a way that it is linked to personally identifiable responses without the respondent’s consent to self-identify.
 Surveys collect information particular to the event or program being evaluated and optional information about the participant. Gender and ethnicity data, when collected, is only collected from participants in the United States.
 
-#### What  do we do with this information?
+#### What do we do with this information?
 We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-indentifed responses.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
