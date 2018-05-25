@@ -1,6 +1,6 @@
 # The Carpentries Privacy Policy
 
-Effective date: 25 May 2018
+*Effective date: 25 May 2018*
 
 This Privacy Policy covers personally identifiable information that may be provided to The Carpentries, including data provided at in-person events (e.g., workshops and conferences) and online. Changes to this Privacy Policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.
 Information obtained and how it is used is described in sections below for
