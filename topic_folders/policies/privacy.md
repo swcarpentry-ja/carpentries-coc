@@ -4,10 +4,10 @@ This Privacy Policy covers personally identifiable information that may be provi
 Information obtained and how it is used is described in sections below for
 
 I. [Workshop participants](#section-i-workshop-participants)  
-II. [Instructors](#section-ii-instructors)  
+II. [Volunteers](#section-ii-volunteers)  
 III. [Online spaces](#section-iii-online-spaces)  
 IV. [Opt-in surveys](#section-iv-opt-in-surveys)  
-V. [All participants](#secction-v-all-participants)
+V. [All participants](#section-v-all-participants)
 
 
 ## Definitions
