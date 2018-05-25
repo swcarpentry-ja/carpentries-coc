@@ -34,7 +34,7 @@ Access will be limited to The Carpentries staff and Authorized administrators.
 Workshop participants include Learners, Helpers and Hosts
 
 #### What information do we obtain?
-We may obtain the name, email address and event attended of workshop participants. If you are a learner or helper, this information may be provided by you or by the workshop host. See [Section VI](#section-vi-all-participants) for information on our Opt-In surveys.
+We may obtain the name, email address and event attended of workshop participants. If you are a learner or helper, this information may be provided by you or by the workshop host. See [Section V: Opt-in Surveys](#section-v-opt-in-surveys) for information on our Opt-In surveys.
 
 #### How is this information used?
 We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants publicly or with volunteers, partners or third parties, including but not limited to funding entities.
