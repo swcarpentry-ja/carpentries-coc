@@ -19,7 +19,7 @@ VI. [All participants](#section-vi-all-participants)
 - *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification
 - *Lesson contributors and maintainers* - people who contribute to or maintain lessons
 - *The Carpentries staff* - people employed by The Carpentries
-- *Authorized administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop coordinators or subcommittee representatives.
+- *Authorized administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop or volunteer coordinators
 
 #### How is personally identifiable information stored?
 
