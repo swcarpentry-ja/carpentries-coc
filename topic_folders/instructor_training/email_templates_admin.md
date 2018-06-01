@@ -22,6 +22,21 @@ Best,
 
 [ sender name ]
 
+##### Asking Trainers to set up website
+
+Dear [Trainers],
+
+Thanks for teaching the upcoming online Carpentries instructor training event on [ DATES & TIMEZONE ].  This event will include trainees from [Site 1 and Site 2, as well as some trainees from our open applicant pool].
+
+Can you please set up the workshop website and etherpad?  You can find the template for the website and etherpad here:  https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#four-weeks-before-the-event
+
+Would you be able to share it by  [ DATES ] so that I can share it with our trainees?  Thanks so much, and please let me know if you need anything else from me.
+
+Best
+
+[ sender name ]
+
+
 ##### Member training introductions
 
 Subject: Carpentries Instructor Training Introductions
