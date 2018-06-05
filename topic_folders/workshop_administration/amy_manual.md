@@ -228,6 +228,17 @@ On the screen above, select 'DC Demo' or 'SWC Demo' depending on which lesson th
 
 On the screen above, select 'DC Homework' or 'SWC Homework' depending on which lesson they used for their contribution, and note whether they passed or failed.  In the notes section, link to their lesson contribution.  
 
+### Issueing badges
+
+The Carpentries has various badges that can be issued, including Data Carpentry Instructor, Software Carpentry Instructor, Trainer, Maintainer, and more.  
+
+An individual badge can be issued by going to a person's record and clicking the `Edit` button.  
+
+![AMY edit person](images/amy_edit_person.png)
+
+Choose the `Awards` tab on the next screen.  Select the Badge type from the drop down menu, and fill in the date it was awarded. The associated event (such as a training event) and awarded by fields are optional.  Click `Submit` to save the entry.
+
+![AMY issue badge](images/amy_issue_badge.png)
 
 ### Reports
 
