@@ -60,7 +60,7 @@ templates_path = ['_templates']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Carpentries Handbook'
+project = 'The Carpentries Handbook'
 copyright = '2018, The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
 author = 'Authors'
 
