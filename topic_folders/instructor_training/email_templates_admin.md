@@ -13,7 +13,7 @@ We have a calendar ready for online training events in [ date_range ].
 You can read more about the whole process here:  http://carpentries.github.io/instructor-training/partners/
 
 and check out our training calendar here:  https://carpentries.github.io/instructor-training/training_calendar/
-
+pr
 I'm excited to see you build a team of Carpentries instructors at %site_name% which will put you on track to running Carpentries workshops with onsite instructors. If you'd prefer to wait until [ next_time_frame ] for this training, I'll have a [ next_time_frame ] calendar ready in [ month ].  In any case, you'll have six slots available, and they must all attend the same event together.  
 
 Let me know if you have questions about how all this works.  I'd be happy to answer any questions by email or set some time to talk by phone. Thanks -  I'm looking forward to get your team on board!
@@ -65,7 +65,7 @@ A videoconferencing link will be shared with the organizers/hosts at each site b
 
 4. Please also bring a laptop powerful enough to teach on so that you can take part in all of the practical exercises (a tablet/Chromebook/etc. won't be sufficient). No special setup on your own laptops is necessary.
 
-5. Please complete this pre-assessment survey: [INSERT PRE-SURVEY LINK HERE]. This survey, along with our post-assessment, provides valuable information that we use to improve our program and report on our impacts.
+5. Please complete the pre-assessment survey, found on the website above. This survey, along with our post-assessment, provides valuable information that we use to improve our program and report on our impacts.
 
 Please note that after this course is over, you will be asked to do three short follow-up exercises online in order to finish qualifying as an instructor: the details are available at http://carpentries.github.io/instructor-training/checkout/. If you have any questions about the workshop, the reading material, or anything else, please get in touch.
 
