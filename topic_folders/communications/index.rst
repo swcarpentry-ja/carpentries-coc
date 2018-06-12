@@ -9,3 +9,4 @@ COMMUNICATION
    submit_blog_post.md
    newsletter.md
    slack-and-email.md
+   commons.md
