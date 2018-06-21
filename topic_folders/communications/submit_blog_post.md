@@ -29,7 +29,7 @@ The Carpentries welcomes blog posts from our community members including worksho
     title: "Launching The Carpentries Website"
     date: 2018-04-25
     time: "09:00:00"
-    category: [ "Website"]
+    tags: [ "Website", "Communications"]
     ---
     ```
 
