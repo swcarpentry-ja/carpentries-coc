@@ -142,6 +142,37 @@ Best,
 
 [ sender name ]
 
+##### Response to Instructor Training Application
+*This email is usually sent with a script. The canonical version of the text is the version below.*
+
+Hi [ name ], 
+
+Thank you for applying for The Carpentries Instructor Training program. We’re excited to have you as part of our community.
+
+If you submitted your application for a specific instructor training workshop, please disregard the message below.
+
+We receive hundreds of applications, and we cannot provide no-cost training for every applicant. Please, don't let that discourage you!
+We'd like to help you bring workshops and instructor training to your organization. We’re working on ways to increase our capacity to
+offer trainings to individuals not affiliated with member institutions, and hope to be able to offer more of these trainings soon. Your
+application has been placed on our waiting list while we grow our capacity.
+
+If you’d like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
+your organization. In the meantime, please get involved!  
+  - Join our discussion email list (https://carpentries.topicbox.com/groups/discuss)
+  - Follow us on Twitter (@thecarpentries, @datacarpentry, and @swcarpentry)
+  - Help at a local workshop (http://www.datacarpentry.org/workshops-upcoming/ or https://software-carpentry.org/workshops/)
+  - Learn about our community (https://carpentries.org/community/)
+                 
+Learn more about us! 
+  - Read our blogs (https://carpentries.org/blog/, http://www.datacarpentry.org/blog/, and https://software-carpentry.org/blog/)  
+  - Sign-up for our newsletter (https://carpentries.org/newsletter/)
+                 
+Most of our instructor training events are offered as part of institutional memberships and Member organizations receive training priority. To fast-track your application, consider becoming a Member. For more information see: https://carpentries.org/membership/. 
+                 
+If you have questions about your application, please contact team@carpentries.org. Thanks again for applying!
+                 
+Best, 
+[ sender name ]
 
 ##### Invitation to Open Training Event
 *This email is usually sent with a script. The canonical version of the text is the version below.*
