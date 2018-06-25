@@ -252,20 +252,21 @@ Subject: Carpentries instructor training: Checkout completed
 
 Hi [ trainee name ],
 
-Thank you for completing your checkout. I've updated your status in our database and you are now an officially certified [ Data/Software ] Carpentry instructor. Your certificate is attached. Congratulations!
+Thank you for completing your checkout. I've updated your status in our database and you are now officially certified as a Carpentries instructor. Your certificate is attached. Congratulations!
 
-If you haven't already, please be sure to join the instructors mailing list (http://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
+Please note that although your certificate reads either Software Carpentry or Data Carpentry you are fully certified to teach both Software and Data Carpentry workshops.
 
-If you would like to be included on our online list of instructors, please 
-
+If you haven't already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (https://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at Carpentries-organized workshops, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
+               
+If you would like to be included on our online list of instructors, please: 
+               
 1.  Take a moment to update your profile at https://amy.software-carpentry.org/workshops/update_profile/ so we know where you are and what you're comfortable teaching.
-
-2.  Send us a three-line bio (written in third person) and a photo (jpg or png file format) to add to our team page at http://software-carpentry.org/team/.
-
+               
+2.  Send a three-line bio and a photo to instructorbio@carpentries.org to add to our team page at http://software-carpentry.org/team/.
+               
 Please let us know if there's anything we can do to help and welcome to the community!
-
-Best,
-
+               
+Best,  
 [ sender name ]
 
 ##### Trainee missing application
