@@ -79,7 +79,7 @@ Data Carpentry
 * Faceting and Clustering in OpenRefine (Ecology): http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine
 * Basic Queries in SQL (Ecology): http://www.datacarpentry.org/sql-ecology-lesson/01-sql-basic-queries
 * Starting with Data in R (Ecology): http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data
-* Starting with Data in Python (Ecology): http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data
+* Starting with Data in Python (Ecology): http://www.datacarpentry.org/python-ecology-lesson/02-starting-with-data
 * Quality Assurance in Spreadsheets (Social Science): http://www.datacarpentry.org/spreadsheets-socialsci/04-quality-assurance/
 * Filtering and Sorting with Open Refine (Social Science): http://www.datacarpentry.org/openrefine-socialsci/03-filter-sort/
 * Starting with Data in R (Social Science): http://www.datacarpentry.org/r-socialsci/02-starting-with-data/
