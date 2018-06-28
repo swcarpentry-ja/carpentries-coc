@@ -20,7 +20,7 @@ taught one or no workshops, but may have been helpers before.
 
 #### To Participate
 
-The join the mentoring program, email the Deputy Director of Assessment, Kari L Jordan at kariljordan@carpentries.org.
+The join the mentoring program, email the Director of Assessment and Community Equity, Kari L. Jordan at kariljordan@carpentries.org.
 
 #### Resources and Checklists
 
@@ -49,7 +49,7 @@ Certified instructors who have taught at least 2 workshops.
 
 #### To Volunteer
 
-To join the mentoring program, email the Deputy Director of Assessment at kariljordan@carpentries.org.
+To join the mentoring program, email the Director of Assessment and Community Equity at kariljordan@carpentries.org.
 
 #### Resources and Checklists
 
