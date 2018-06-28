@@ -91,3 +91,6 @@ Helpers are often recruited from the local community at the host site to support
 * Send their own feedback to the instructors and the Workshop Administrator including any configuration problems
 * Consider applying to become a certified Carpentries instructor
 
+#### Email Templates
+
+Use [these](https://docs.carpentries.org/topic_folders/workshop_administration/email_templates.html#from-instructors-and-hosts) templated emails for communicating with the learners
