@@ -142,6 +142,37 @@ Best,
 
 [ sender name ]
 
+##### Response to Instructor Training Application
+*This email is usually sent with a script. The canonical version of the text is the version below.*
+
+Hi [ name ], 
+
+Thank you for applying for The Carpentries Instructor Training program. We’re excited to have you as part of our community.
+
+If you submitted your application for a specific instructor training workshop, please disregard the message below.
+
+We receive hundreds of applications, and we cannot provide no-cost training for every applicant. Please, don't let that discourage you!
+We'd like to help you bring workshops and instructor training to your organization. We’re working on ways to increase our capacity to
+offer trainings to individuals not affiliated with member institutions, and hope to be able to offer more of these trainings soon. Your
+application has been placed on our waiting list while we grow our capacity.
+
+If you’d like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
+your organization. In the meantime, please get involved!  
+  - Join our discussion email list (https://carpentries.topicbox.com/groups/discuss)
+  - Follow us on Twitter (@thecarpentries, @datacarpentry, and @swcarpentry)
+  - Help at a local workshop (http://www.datacarpentry.org/workshops-upcoming/ or https://software-carpentry.org/workshops/)
+  - Learn about our community (https://carpentries.org/community/)
+                 
+Learn more about us! 
+  - Read our blogs (https://carpentries.org/blog/, http://www.datacarpentry.org/blog/, and https://software-carpentry.org/blog/)  
+  - Sign-up for our newsletter (https://carpentries.org/newsletter/)
+                 
+Most of our instructor training events are offered as part of institutional memberships and Member organizations receive training priority. To fast-track your application, consider becoming a Member. For more information see: https://carpentries.org/membership/. 
+                 
+If you have questions about your application, please contact team@carpentries.org. Thanks again for applying!
+                 
+Best, 
+[ sender name ]
 
 ##### Invitation to Open Training Event
 *This email is usually sent with a script. The canonical version of the text is the version below.*
@@ -221,20 +252,21 @@ Subject: Carpentries instructor training: Checkout completed
 
 Hi [ trainee name ],
 
-Thank you for completing your checkout. I've updated your status in our database and you are now an officially certified [ Data/Software ] Carpentry instructor. Your certificate is attached. Congratulations!
+Thank you for completing your checkout. I've updated your status in our database and you are now officially certified as a Carpentries instructor. Your certificate is attached. Congratulations!
 
-If you haven't already, please be sure to join the instructors mailing list (http://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (http://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at workshops organized by [Data/Software] Carpentry, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: http://www.datacarpentry.org/self-organized-workshops/
+Please note that although your certificate reads either Software Carpentry or Data Carpentry you are fully certified to teach both Software and Data Carpentry workshops.
 
-If you would like to be included on our online list of instructors, please 
-
+If you haven't already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list (https://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to teach at Carpentries-organized workshops, you are also able to organize and host your own local workshops. You can find more information about running a workshop here: https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
+               
+If you would like to be included on our online list of instructors, please: 
+               
 1.  Take a moment to update your profile at https://amy.software-carpentry.org/workshops/update_profile/ so we know where you are and what you're comfortable teaching.
-
-2.  Send us a three-line bio (written in third person) and a photo (jpg or png file format) to add to our team page at http://software-carpentry.org/team/.
-
+               
+2.  Send a three-line bio and a photo to instructorbio@carpentries.org to add to our team page at http://software-carpentry.org/team/.
+               
 Please let us know if there's anything we can do to help and welcome to the community!
-
-Best,
-
+               
+Best,  
 [ sender name ]
 
 ##### Trainee missing application
