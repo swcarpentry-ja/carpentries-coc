@@ -81,13 +81,15 @@ Those expecting reimbursement are responsible for discerning appropriate and all
 - If a meal for business purposes besides travel, the people in attendance at the meal
 - Additional notes
 
-Reimbursement requests should be approved by the Executive Director or the Executive Council Treasurer and sent to our fiscal sponsor for payment. Reimbursement workflow guidelines are available for staff.
+Reimbursement requests and documentation should be submitted to the Business Administrator. The Business Administrator will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment. Reimbursement workflow guidelines are available for staff.
 
 **VI. Contact Roles and Responsibilities**
 - Executive Director - Tracy Teal
 - Executive Council Treasurer - Sue McClatchy
+- Business Administrator - Elizabeth Williams
 
 **VII. Update Log**
+- Updated on 2018-07-06 to include Business Administrator in procedures.
 - Updated on 2018-03-06 to reflect that reimbursements cannot be denied due their time of submission.
 - Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts.
 - Updated on 2018-01-31 to refer to Community Initiatives as our fiscal sponsor.
