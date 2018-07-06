@@ -19,7 +19,7 @@ This policy affects all employees, volunteers, independent contractors, and gues
 
 *Necessary*  Minimum purchase or service required to achieve a particular objective.
 
-*Reasonable* An expense that is ordinary and reflects a prudent decision to incur the expense on behalf of The Carpentries business. Not extreme or excessive.
+*Reasonable* An expense that is ordinary and reflects a prudent decision to incur the expense on behalf of The Carpentries business. Not extreme or excessive. Travel expenses should not exceed the current [US federal per diem rates](https://aoprals.state.gov/web920/per_diem.asp) for the location of travel. If an expense exceeds these rates, a justification for additional spending should be included in the description of that expense.
 
 *Appropriate expense* An expense that is suitable or fitting for a particular valid The Carpentries business purpose or activity.
 
@@ -81,7 +81,7 @@ Those expecting reimbursement are responsible for discerning appropriate and all
 - If a meal for business purposes besides travel, the people in attendance at the meal
 - Additional notes
 
-Reimbursement requests and documentation should be submitted to the Business Administrator. The Business Administrator will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment. Reimbursement workflow guidelines are available for staff.
+Reimbursement requests and documentation should be submitted to the Business Administrator at finance@carpentries.org. The Business Administrator will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff.
 
 **VI. Contact Roles and Responsibilities**
 - Executive Director - Tracy Teal
@@ -89,7 +89,7 @@ Reimbursement requests and documentation should be submitted to the Business Adm
 - Business Administrator - Elizabeth Williams
 
 **VII. Update Log**
-- Updated on 2018-07-06 to include Business Administrator in procedures.
+- Updated on 2018-07-06 to include Business Administrator in procedures and add federal per diem rates as guideline for expenses.
 - Updated on 2018-03-06 to reflect that reimbursements cannot be denied due their time of submission.
 - Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts.
 - Updated on 2018-01-31 to refer to Community Initiatives as our fiscal sponsor.
