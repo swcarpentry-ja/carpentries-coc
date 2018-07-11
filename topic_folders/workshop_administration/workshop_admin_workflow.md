@@ -22,17 +22,17 @@
         * Ask them to complete the official request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/) if they have not already 
     * Program Manager or Workshop Administrator records request form in AMY.
 
-1. For non-member sites, Program Manager asks host for invoicing contact, and introduces them to the Business Administrator to begin the invoicing process.
+1. For non-member sites, Workshop Administrator asks host for invoicing contact, and introduces them to the Business Administrator to begin the invoicing process.
 
-1. Program Manager or Workshop Administrator adds workshop to appropriate tab (by geography) on call for instructors [sign up sheet](https://docs.google.com/spreadsheets/d/1gYmN7zn1dcrQTFGunsCq6Pqj82Hs2csoCL9hjt0o3uo/edit#gid=0) and sends email to instructors list notifying them of upcoming opportunities.
+1. Workshop Administrator adds workshop to appropriate tab (by geography) on call for instructors [sign up sheet](https://docs.google.com/spreadsheets/d/1gYmN7zn1dcrQTFGunsCq6Pqj82Hs2csoCL9hjt0o3uo/edit#gid=0) and sends email to instructors list notifying them of upcoming opportunities.
 
-1. Program Manager or Workshop Administrator reviews list of instructors signed up as interested in upcoming workshops and tentatively places them based on experience, geography, and skill set. See [blog post for details](https://software-carpentry.org/blog/2018/01/assign-instructors.html).
+1. Workshop Administrator reviews list of instructors signed up as interested in upcoming workshops and tentatively places them based on experience, geography, and skill set. See [blog post for details](https://software-carpentry.org/blog/2018/01/assign-instructors.html).
 
-1. Program Manager or Workshop Administrator emails these instructors to confirm their availability, and returns back to the other instructors on the list if a conflict has since come up.
+1. Workshop Administrator emails these instructors to confirm their availability, and returns back to the other instructors on the list if a conflict has since come up.
 
-1.  Program Manager or Workshop Administrator sends email to workshop instructors and hosts with [introductory information](email_templates.html#host-and-instructor-introductions).  This includes links to guides for roles of host, instructor, and helper.
+1.  Workshop Administrator sends email to workshop instructors and hosts with [introductory information](email_templates.html#host-and-instructor-introductions).  This includes links to guides for roles of host, instructor, and helper.
 
-1. Program Manager or Workshop Administrator emails everyone else who signed up for that event thanking them for their time, letting them know other instructors were placed, and encouraging them to sign up for other opportunities.
+1. Workshop Administrator emails everyone else who signed up for that event thanking them for their time, letting them know other instructors were placed, and encouraging them to sign up for other opportunities.
 
 1. Workshop Administrator reminds instructors to set up a workshop website using the
 [workshop template](https://github.com/carpentries/workshop-template).
@@ -51,7 +51,7 @@
 
 #### For self organized workshops
  
-1. Instructors notify Program Manager or Workshop Administrator about upcoming self organized workshop.
+1. Instructors notify Workshop Administrator about upcoming self organized workshop.
     * Software Carpentry - remind them that a [$500 contribution](https://software-carpentry.org/workshops/request/) is suggested but not required.
     * Data Carpentry - remind them that there is a [$500 fee](http://www.datacarpentry.org/workshops-host/) but we can consider waiving it. 
     * If a fee is due, Program Manager asks host for invoicing contact, and introduces them to Business Administrator to begin invoicing process.
