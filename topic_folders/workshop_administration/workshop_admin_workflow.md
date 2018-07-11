@@ -51,10 +51,7 @@
 
 #### For self organized workshops
  
-1. Instructors notify Workshop Administrator about upcoming self organized workshop.
-    * Software Carpentry - remind them that a [$500 contribution](https://software-carpentry.org/workshops/request/) is suggested but not required.
-    * Data Carpentry - remind them that there is a [$500 fee](http://www.datacarpentry.org/workshops-host/) but we can consider waiving it. 
-    * If a fee is due, Program Manager asks host for invoicing contact, and introduces them to Business Administrator to begin invoicing process.
+1. Instructors notify Workshop Administrator about upcoming self organized workshop. This is no fee (suggested or mandated) for a self organized workshop.
 
 1. Workshop Administrator reminds them that as a self organized workshop they will have access to our surveys but will not receive any other support in coordinating this workshop.
 
