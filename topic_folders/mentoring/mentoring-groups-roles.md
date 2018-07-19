@@ -8,10 +8,6 @@
 * Attend scheduled meetings and participate actively or let your Mentor know you won’t be attending.
 * Be respectful of other Mentees and Mentors. Provide a safe space for questions and mistakes.
 
-#### Time commitment
-
-1 hour a month
-
 #### Requirements
 
 Be either a newly certified Software or Data Carpentry instructor or 
@@ -21,10 +17,6 @@ taught one or no workshops, but may have been helpers before.
 #### To Participate
 
 The join the mentoring program, email the Director of Assessment and Community Equity, Kari L. Jordan at kariljordan@carpentries.org.
-
-#### Resources and Checklists
-
-[Program Outline](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md)
 
 ### Mentors
 
@@ -49,20 +41,22 @@ Certified instructors who have taught at least 2 workshops.
 
 #### To Volunteer
 
-To join the mentoring program, email the Director of Assessment and Community Equity at kariljordan@carpentries.org.
-
-#### Resources and Checklists
-
-[Program Outline](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md)
+To join a mentoring group, email the Director of Assessment and Community Equity at kariljordan@carpentries.org.
 
 ### Mentoring Coordinator
 
 #### Responsibilities
 
 - Recruit mentors and mentees for the Mentoring Program.  
-- Pair Mentors and Mentees based on responses to Google form surveys.  
-- Set up virtual meeting rooms and Etherpads for each mentoring team.  
+- Pair Mentors and Mentees based on responses to Google form surveys.    
 - Send email introductions for each mentoring team.  
 - Follow up with each mentoring team on a monthly basis and ask if there's anything you can do to help.  
 - Keep track of program completion rates to assess success.  
 - Get feedback from Mentors and Mentees about program.  
+
+#### Resources and Checklists
+
+- [Program Outline](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md)
+- [Mentoring Session Checklist](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/resources/mentoring-session-checklist.md)   
+- [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw)    
+- [Archived Info Session Notes](https://docs.google.com/a/carpentries.org/document/d/1PntCtUWVp0u3qC_pyHtchcCCQ8Wb48_VYaUalnV7z_Q/edit?usp=sharing)
