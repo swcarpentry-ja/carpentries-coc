@@ -33,19 +33,19 @@ We are offering curriculum-specific mentoring this time around. Both mentors and
 
 Once a topic has been picked, participants can choose the type of mentoring they want for their chosen tool:
 + Lesson Maintenance  
-- Contributing to current lesson development  
-- Contributing to lesson maintenance  
+  - Contributing to current lesson development  
+  - Contributing to lesson maintenance  
 + Teaching Workshops  
-- Developing confidence and skill in teaching  
-- Preparing to teach a specific lesson (i.e. Python)  
+  - Developing confidence and skill in teaching  
+  - Preparing to teach a specific lesson (i.e. Python)  
 
 We will also offer mentoring that is more general in nature. For those who would like to develop greater skill in community building, either of these mentoring opportunities might suit:
 + Organizing Workshops   
-- Logistics of organizing a workshop (e.g. marketing, registration)  
-- Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
+  - Logistics of organizing a workshop (e.g. marketing, registration)  
+  - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
 + Community Building  
-- Strategies to build local communities  
-- Tried-and-true events that help foster local communities  
+  - Strategies to build local communities  
+  - Tried-and-true events that help foster local communities  
 
 An additional highlight includes the opportunity to participate in in-person mentoring groups. 
 
