@@ -10,13 +10,11 @@
 
 #### Requirements
 
-Be either a newly certified Software or Data Carpentry instructor or 
-be in the process of completing certification. Generally Mentees will have 
-taught one or no workshops, but may have been helpers before.
+Be either a newly certified Software or Data Carpentry instructor or be in the process of completing certification. Generally Mentees will have taught one or no workshops, but may have been helpers before.
 
 #### To Participate
 
-The join the mentoring program, email the Director of Assessment and Community Equity, Kari L. Jordan at kariljordan@carpentries.org.
+To join the mentoring program, email the Director of Assessment and Community Equity, Kari L. Jordan at kariljordan@carpentries.org.
 
 ### Mentors
 
@@ -31,9 +29,7 @@ The join the mentoring program, email the Director of Assessment and Community E
 
 #### Time commitment
 
-~4 hours/month for 3-5 months (or longer if accepting new Mentees), 
-this breaks down to about 2 hours prep, 1 hour meeting and 1 hour 
-answering emails per month. Variable depending on meeting frequency and prep time.
+~4 hours/month for 3-5 months (or longer if accepting new Mentees). This breaks down to about 2 hours prep, 1 hour meeting and 1 hour answering emails per month. Variable depending on meeting frequency and prep time.
 
 #### Requirements
 
