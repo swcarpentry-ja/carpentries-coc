@@ -27,7 +27,7 @@ Within each folder's `index.rst` file, the section heading is defined by a strin
 
 
 #### Additional information
-This site is built from the master branch of [this repo](https://github.com/carpentries/handbook/). Changes can be previewed live [here](http://docs-src.carpentries.org/).  Changes to the [actual site](https://docs.carpentries.org/) will take several hours to go live.
+This site is built from the master branch of [this repo](https://github.com/carpentries/handbook/). Changes can be previewed live [here](http://docs-src.carpentries.org/).  Changes to the [actual site](https://docs.carpentries.org/) will take several hours to go live as they're hosted by CDN.
 
 If you are making experimental changes to live content please be sure to do so in another branch. Draft content can be added to the [drafts folder](https://github.com/carpentries/usersguides/tree/master/drafts) in the master branch without breaking anything.
 
