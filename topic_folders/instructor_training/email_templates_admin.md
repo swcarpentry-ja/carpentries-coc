@@ -43,7 +43,7 @@ Subject: Carpentries Instructor Training Introductions
 
 Hello everyone,
 
-Thank you for joining our upcoming instructor training session on  [ training_date ] with  [ site_names ]. As a reminder, this is a training for people who want to become instructors with Software Carpentry and Data Carpentry. The workshop is a mix of lectures and hands-on lessons where you practice giving a short lesson using approaches learned and implement some of the teaching techniques which we will discuss. This is training for teaching, not technical training; you do not need any particular technical background, and we will not be teaching that. This workshop is based on our constantly revised and updated curriculum (https://carpentries.github.io/instructor-training/).
+Thank you for joining our upcoming instructor training session on  [ DATE-TIME-TIMEZONE ] with  [ site_names ]. As a reminder, this is a training for people who want to become instructors with Software Carpentry and Data Carpentry. The workshop is a mix of lectures and hands-on lessons where you practice giving a short lesson using approaches learned and implement some of the teaching techniques which we will discuss. This is training for teaching, not technical training; you do not need any particular technical background, and we will not be teaching that. This workshop is based on our constantly revised and updated curriculum (https://carpentries.github.io/instructor-training/).
 
 This will be offered online with our instructor trainers, [ trainer1 ]  and [ trainer2 ]. You can read more about what you'll do these two days here: [ webpage ]
 
