@@ -6,7 +6,7 @@ The mentoring committee’s main duty is to lead and organize the instructor dis
 
 -   **Instructor discussion session**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of the Carpentries community who facilitates a discussion session.
--   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](../mentoring-subcommittee-roles/#discussion-session-coordinators).
+-   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
 
 ### Motivation
 
