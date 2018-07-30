@@ -9,8 +9,8 @@ Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpe
 
 * Read [How Learning Works](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/) by Susan Ambrose and discuss in book club format with Trainers-in-training. Preliminary reading schedule.
   * Time commitment: 1 hour per week for 8 weeks meetings; can miss one meeting; ~10 hours reading
-* Join Trainer Discussion and Business meetings 
-  * Time commitment: 1 hour every 2 weeks for 3 months; can miss one of each meeting
+* Join Trainer meetings 
+  * Time commitment: 1 hour per month; can miss one meeting
 * Shadow a teaching demonstration session (after finishing book club)
   * Time commitment: 1 hour one time
 * Shadow at least half a day of an online instructor training event (after finishing book club)
