@@ -1,7 +1,7 @@
 ### Trainers Guide
 
 #### Trainer Meetings
-The Trainers group meets regularly. Our meetings include three sections: 1)Discussion, where we share experiences and get advice about running instructor training events, 2) Announcements, and 3) a Topic of the Month, which may include curriculum updates, active conversations about instructor training occurring elsewhere, guest presentations, etc. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
+The Trainers group meets regularly. Our meetings include three sections: 1) Discussion, where we share experiences and get advice about running instructor training events, 2) Announcements, and 3) Topic of the Month, which may include curriculum updates, active conversations occurring on GitHub or other Trainer channels, guest presentations, etc. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
 
 #### Signing up to Teach an Instructor Training Event
 
