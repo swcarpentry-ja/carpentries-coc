@@ -331,7 +331,7 @@ If you're interested in being part of this cohort, please try to complete the fo
 
 4) Please also fill out your availability for instructor training events for [ month through month ] and add your name to the Trainers list in the second tab. This cohort of Trainers will be ready to co-teach instructor training events by the end of [ month ] and to teach on their own shortly after that.
 
-5) Please add upcoming Trainer Business and Discussion meetings (http://pad.software-carpentry.org/trainers) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
+5) Please add upcoming Trainer meetings (http://pad.software-carpentry.org/trainers-backup) to your calendar. These are also on the Community Calendar. Each of these is held in two different time zones - you don't need to attend both meetings, but you're welcome to!
 
 6) Please sign up for the Trainers email list (http://carpentries.topicbox.com/groups/trainers) if you haven't already done so.
 

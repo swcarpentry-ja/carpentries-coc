@@ -1,7 +1,7 @@
 ### Trainers Guide
 
 #### Trainer Meetings
-The Trainers group meets regularly. We have two types of meetings - business meetings, focused on discussing curricular and policy changes, and discussion meetings, where we share experiences and get advice about running instructor training events. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
+The Trainers group meets regularly. Our meetings include three sections: 1) Discussion, where we share experiences and get advice about running instructor training events, 2) Announcements, and 3) Topic of the Month, which may include curriculum updates, active conversations occurring on GitHub or other Trainer channels, guest presentations, etc. Upcoming meetings are listed on [our Etherpad][trainer-pad] and on the [Community Calendar][community-calendar]. If you are not a Trainer, but are interested in joining a meeting, please contact Erin Becker (ebecker@carpentries.org). Minutes for these meetings [are available][trainer-minutes].
 
 #### Signing up to Teach an Instructor Training Event
 
@@ -44,7 +44,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 -  File any relevant issues or PRs to the [instructor training repo][training-repo].  
 
 ###### Long-term after the event 
--  Join a [Trainer discussion meeting][trainer-pad] to discuss how your event went.   
+-  Join a [Trainer meeting][trainer-pad] to discuss how your event went.   
 
 #### Differences Between In-person and Online Training Events
 
@@ -162,7 +162,7 @@ Any episode other than those listed below should make an okay starting point for
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
-[trainer-pad]: http://pad.software-carpentry.org/trainers
+[trainer-pad]: http://pad.software-carpentry.org/trainers-backup
 [community-calendar]: https://software-carpentry.org/join/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
