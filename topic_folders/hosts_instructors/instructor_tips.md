@@ -28,9 +28,7 @@ Software installation can be frustrating, but in the end, it almost always gets 
 
 If there's absolutely no way that you'll be able to install the software locally on someone's computer, consider using the following: 
 
-* "The cloud"
-	* https://rstudio.cloud
-	* http://jupyter.org/try
+* The "cloud" variants of [RStudio](https://rstudio.cloud) or [Jupyter](http://jupyter.org/try).
 * If your institution's library does laptop rentals, rent 1-2 laptops and set them up with the software before the workshop and keep them on hand as loaners during the workshop.  
 
 #### Talking About the Code of Conduct
