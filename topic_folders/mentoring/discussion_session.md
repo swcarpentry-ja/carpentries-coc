@@ -20,7 +20,7 @@ The mentoring committee’s main duty is to lead and organize the instructor dis
 
 Hosting discussion sessions is a great way to meet more people in the Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of the Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Mentoring Subcommittee](http://pad.software-carpentry.org/scf-mentoring) and hosts are encouraged to join the meetings of this committee. Subcommittee meetings include an update on discussion sessions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts.
+Any instructor with experience of organising/teaching workshops and a good knowledge of the Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Mentoring Subcommittee](https://pad.carpentries.org/scf-mentoring) and hosts are encouraged to join the meetings of this committee. Subcommittee meetings include an update on discussion sessions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
@@ -30,6 +30,7 @@ A great way to get into hosting these sessions is to first attend as an observer
 * Type your name in the “Host” or “Co-host/notetaker” slot for the session you’ve chosen (email next to your name optional, however, if you provide your e-mail it may help facilitate communication before and after the discussion)
 * Add the time/date details of the discussion session you’re going to be a “Host” or "Co-host/notetaker" for on your calendar
 * Copying the etherpad link in your calendar event is a good idea, too!
+* Make sure that you're subscribed to the (discussion-hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 #### Host Expectations
 * Primary role is to facilitate the instructor discussion sessions using the agenda at the bottom of the etherpad.
