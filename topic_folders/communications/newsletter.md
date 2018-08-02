@@ -32,6 +32,8 @@ Select *Edit design* to add newsletter content. When the newsletter opens, click
 
 Remove old content and paste in the new.
 
+Be sure to update the date at the top of the email as well. 
+
 Highlight each paragraph and click *Clear styles* if anything you are copying in appears in bold when you don't want it to.
 
 Add images by clicking on the *Image* icon in the edit window.  All images must be no more than 550px wide to render properly. These can be resized within MailChimp by working with the image styling and location.
