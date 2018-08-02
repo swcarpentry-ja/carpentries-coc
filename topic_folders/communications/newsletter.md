@@ -40,10 +40,10 @@ Add images by clicking on the *Image* icon in the edit window.  All images must 
 
 Go to *Preview and Test* to preview the newsletter before sending it out. This includes a desktop and mobile version preview.  Send a test email to yourself to preview it in your email client.
 
-*Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the staff channel so staff have a chance to review the newsletetr before it goes out.
+*Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the staff channel so staff have a chance to review the newsletter before it goes out.
 
 The newsletter will now be locked.  If any changes need to be made after it has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
 
-After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is correctly set as this will often default to the current time, rather than the original scheduled time.
+After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
 
 As soon as the newsletter has been sent out, move it to the **Carpentry Clippings** folder. This adds it to the [searchable online archive](https://carpentries.org/newsletter/) findable through our website. To move it, check the box next to the newsletter and select the Carpentry Clippings folder when the `Move to` option appears.
