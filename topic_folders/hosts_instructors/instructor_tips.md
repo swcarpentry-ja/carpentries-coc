@@ -99,6 +99,10 @@ Carpentries workshops frequently include many people with widely varying skills 
 
 It can be daunting to look at a Carpentries lesson and figure out just exactly how you're going to teach it.  Here are some suggestions for tackling a new lesson that you've never taught before: 
 
+**Read through the Instructor Guide for the Lesson**
+
+Most Software Carpentry lessons include a guide for instructors. These are great for novices preparing to teach a lesson for the first time. As an example, see the [instructor notes](http://swcarpentry.github.io/shell-novice/guide/) for the Software Carpentry [Unix Shel](http://swcarpentry.github.io/shell-novice/) lesson. Find instructor notes for other lessons through the **Extras** menu on each lesson's home page. 
+
 **Pick Exercises**
 
 Most of the lessons have more exercises than you will want to use.  Go through the lesson and pick the ones that you think will be most helpful for your audience.  If you anticipate mostly novices, look for easier or more scaffolded exercises.  For a more advanced audience, a more general exercise might be better.  If you'll have both, have an option for each!  
