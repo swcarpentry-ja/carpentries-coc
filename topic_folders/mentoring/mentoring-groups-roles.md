@@ -14,7 +14,7 @@ Be either a newly certified Software or Data Carpentry instructor or be in the p
 
 #### To Participate
 
-To join the mentoring program, email the Director of Assessment and Community Equity, Kari L. Jordan at kariljordan@carpentries.org.
+To join the mentoring program as a mentee, complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfShPoHabyLUMe5894zn-h5hJGY6OH1sffBYKZML3QfHHfSWQ/viewform).
 
 ### Mentors
 
@@ -37,7 +37,7 @@ Certified instructors who have taught at least 2 workshops.
 
 #### To Volunteer
 
-To join a mentoring group, email the Director of Assessment and Community Equity at kariljordan@carpentries.org.
+To join a mentoring group as a mentor, complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSfXySJkJrl4uVQyyUmohBnBGlJMfPj7Mis0JqU-awOHvGug2A/viewform).
 
 ### Mentoring Coordinator
 
@@ -52,7 +52,8 @@ To join a mentoring group, email the Director of Assessment and Community Equity
 
 #### Resources and Checklists
 
-- [Program Outline](https://github.com/datacarpentry/mentoring-program/blob/master/program-outline.md)
+- [2018-2019 Schedule](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/2018-2019-schedule.md)
+- [Program Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)
 - [Mentoring Session Checklist](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/resources/mentoring-session-checklist.md)   
 - [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw)    
 - [Archived Info Session Notes](https://docs.google.com/a/carpentries.org/document/d/1PntCtUWVp0u3qC_pyHtchcCCQ8Wb48_VYaUalnV7z_Q/edit?usp=sharing)
