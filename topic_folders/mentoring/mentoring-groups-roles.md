@@ -55,5 +55,6 @@ To join a mentoring group as a mentor, complete [this form](https://docs.google.
 - [2018-2019 Schedule](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/2018-2019-schedule.md)
 - [Program Outline](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/program-outline.md)
 - [Mentoring Session Checklist](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/resources/mentoring-session-checklist.md)   
-- [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw)    
+- [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw)   
+- [Mentor Onboarding Document](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/mentoring-groups-onboarding.md)
 - [Archived Info Session Notes](https://docs.google.com/a/carpentries.org/document/d/1PntCtUWVp0u3qC_pyHtchcCCQ8Wb48_VYaUalnV7z_Q/edit?usp=sharing)
