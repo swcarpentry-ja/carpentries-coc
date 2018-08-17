@@ -122,7 +122,7 @@ please use x11 instead", have them log out of Zoom and log back in. On the login
 ##### Not Good Starting Points for Demos
 Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
 
-*  SWC
+###### SWC
   * [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
     * [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) - no live coding
   * [Version Control with Git](http://swcarpentry.github.io/git-novice/)
@@ -140,7 +140,7 @@ Any episode other than those listed below should make an okay starting point for
   *  [Automation and Make](http://swcarpentry.github.io/make-novice/) 
       * anything after [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles/) - dependencies
 
-*  DC (published lessons only)
+###### DC (published lessons only)
   * Ecology
      * [Data Cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
         * anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
@@ -159,6 +159,23 @@ Any episode other than those listed below should make an okay starting point for
       * [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/)
         * [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) - no live coding  
         * anything after [Introducing dplyr and tidyr](http://www.datacarpentry.org/r-socialsci/03-dplyr-tidyr/) - dependencies
+  * Geospatial
+        * [Geospatial Project Organization and Management](https://datacarpentry.org/organization-geospatial/)
+          * no live coding, do not use for teaching demos
+        * [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/)
+          * all episodes are good starting points
+        * [Introduction to Geospatial Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)
+          * Many episodes in this lesson rely on data that learners have loaded from previous episodes. 
+          The following episodes **do not** rely on data loaded in previous episodes and are therefor good starting points:
+                * [Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/index.html)
+                * [Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/index.html)
+                * [Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/index.html)
+                * [Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/index.html)
+                * [Handling Spatial Projection & CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/index.html)
+                * [Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/index.html)
+                * [Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/index.html)
+                The remaining episodes in this lesson **can still be used as starting points**, but trainees may need an extra minute
+                to set up their environment.
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
