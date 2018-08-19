@@ -6,7 +6,7 @@ The Carpentries is a community-led project. We value the involvement of everyone
 
 To make clear what is expected, everyone participating in Carpentry activities is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, online forums and on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.  
 
-If you believe someone is violating the Code of Conduct we ask that you report it to The Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or Cam Macdonell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow the reporting guidelines detailed [here](../policies/code-of-conduct.html#reporting-guidelines). All reports will be reviewed by the Policy subcommittee. A detailed enforcement policy can be found [here](../policies/code-of-conduct.html#enforcement-manual).  
+If you believe someone is violating the Code of Conduct we ask that you report it to the Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) or Cam Macdonell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow the reporting guidelines detailed [here](../policies/code-of-conduct.html#reporting-guidelines). All reports will be reviewed by the Code of Conduct Committee. A detailed enforcement policy can be found [here](../policies/code-of-conduct.html#enforcement-manual).  
 
 #### Code of Conduct
 
@@ -26,20 +26,20 @@ Harassment is any form of behaviour intended to exclude, intimidate, or cause di
 
 Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Carpentry interactions should be professional regardless of location: harassment is prohibited whether it occurs on- or offline, and the same standards apply to both.  
 
-Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Any changes to the meaning of this  Code of Conduct must be approved by majority vote of both the Policy subcommittee and The Carpentries Executive Council. The Carpentry Community will be informed of these changes and any concerns that are raised will be discussed by the Policy committee.  
+Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Any changes to the meaning of this Code of Conduct must be approved by majority vote of both the Code of Conduct Committee and The Carpentries Executive Council. The Carpentries Community will be informed of these changes and any concerns that are raised will be discussed by the Code of Conduct Committee.  
 
 Thank you for helping make this a welcoming, friendly community for all.  
 
-This code of conduct is a modified version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
+This Code of Conduct is a modified version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
 
 #### Reporting Guidelines
 
-If you believe someone is violating the Code of Conduct we ask that you report it to The Carpentry Policy subcommittee by emailing [policy@carpentries.org](mailto:policy@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org).
+If you believe someone is violating the Code of Conduct we ask that you report it to the Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org).
 
 **All reports will be kept confidential.** <br> In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.  
 
-If the violation occurred at an in-person event, please contact the event host and/or coordinator so that they can take any appropriate immediate response, as well as contacting the subcommittee. You can also contact The Carpentries Executive Director Tracy Teal by telephone at 1-530-341-3230.  
+If the violation occurred at an in-person event, please contact the event host and/or coordinator so that they can take any appropriate immediate response, as well as contacting the Code of Conduct Committee. You can also contact The Carpentries Executive Director Tracy Teal by telephone at 1-530-341-3230.  
 
 **If you believe anyone is in physical danger, please notify appropriate law enforcement first.** <br> If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.  
 
@@ -53,7 +53,7 @@ Reports can be filed anonymously with minimal details. If you don’t feel you c
 - If you believe this incident is ongoing.  
 - Any other information you believe we should have.  
 
-**What happens after you file a report?** <br> The recipient of the report will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event. You will receive an email from the Policy subcommittee (“the committee”) acknowledging receipt within 24 hours (and we’ll aim for much more quickly than that). The committee will make all efforts to meet within two days to review the incident and determine:  
+**What happens after you file a report?** <br> The recipient of the report will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event. You will receive an email from the Code of Conduct Committee (“the committee”) acknowledging receipt within 24 hours (and we’ll aim for much more quickly than that). The committee will make all efforts to meet within two days to review the incident and determine:  
 
 - Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.  
 - What happened.  
@@ -76,17 +76,17 @@ We'll respond within one week to the original reporter with either a resolution 
 
 Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we may decide not to act on that feedback.  
 
-Finally, the committee will make a report on the situation to the appropriate Carpentry steering committee. The steering committee may choose to make a public report of the incident, while maintaining anonymity of those involved.  
+Finally, the committee will make a report on the situation to the Executive Council. The Executive Council may choose to make a public report of the incident, while maintaining anonymity of those involved.  
 
-**Appealing** <br>Only resolutions with permanent consequences (such as bans) may be appealed. To appeal a decision of the committee, contact the Carpentry Executive Council at [executive-council@carpentries.org](mailto:executive-council@carpentries.org) with your appeal and the Executive Council will review the case.  
+**Appealing** <br>Only resolutions with permanent consequences (such as bans) may be appealed. To appeal a decision of the committee, contact the Carpentries Executive Council at [executive-council@carpentries.org](mailto:executive-council@carpentries.org) with your appeal and the Executive Council will review the case.  
 
 This reporting procedure is an adaptation of the one used by the [Django Project](https://www.djangoproject.com/conduct/reporting/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
 #### Enforcement Manual
 
-This is the enforcement manual followed by The Carpentries Policy subcommittee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interests of transparency. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviors.  
+This is the enforcement manual followed by The Carpentries Code of Conduct Committee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interests of transparency. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviors.  
 
-**The Policy Subcommittee** <br> All responses to reports of conduct violations will be managed by a Policy Subcommittee ("the committee"). The Carpentries Executive Council will jointly establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the Executive Council. The Executive Council will review membership on an annual basis.  
+**The Code of Conduct Committee** <br> All responses to reports of conduct violations will be managed by the Code of Conduct Committee ("the committee"). The Carpentries Executive Council will jointly establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the Executive Council. The Executive Council will review membership on an annual basis.  
 
 **How the committee will respond to reports** <br> When a report is sent to the committee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the committee should strive to respond much more quickly than that. See the [reporting guidelines](../policies/code-of-conduct.html#reporting-guidelines) for details of what reports should contain. If a report doesn't contain enough information, the committee will attempt to obtain all relevant data before acting. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved to get a more complete account of events. The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be "over the line" in any single incident, and thus may not generate a report.  
 
@@ -102,7 +102,7 @@ If the act is ongoing, any committee member may act immediately, before reaching
 - whether this event constitutes a code of conduct violation  
 - who, if anyone, was the bad actor  
 
-This information will be collected in writing, and whenever possible the committee's deliberations will be recorded and retained (i.e. email discussions, recorded voice conversations, etc). These records will be made available to Carpentry Executive Council and executive staff.
+This information will be collected in writing, and whenever possible the committee's deliberations will be recorded and retained (i.e. email discussions, recorded voice conversations, etc). These records will be made available to the Carpentries Executive Council and executive staff.
 
 The committee should aim to have a resolution agreed upon within one week. In the event that a resolution can't be determined in that time, the committee will respond to the reporter(s) with an update and projected timeline for resolution.  
 
@@ -120,11 +120,11 @@ Possible responses may include:
 Once a resolution is agreed upon, but before it is enacted, the committee will contact the original reporter and any other affected parties and explain the proposed resolution. The committee will ask if this resolution is acceptable, and must note feedback for the record. However, the committee is not required to act on this 
 feedback.  
 
-Finally the committee will make a report to the Carpentry Executive Council, as well as Carpentry directorship in the event of an ongoing resolution, such as a ban.  
+Finally the committee will make a report to the Carpentries Executive Council, as well as Carpentries directorship in the event of an ongoing resolution, such as a ban.  
 
-The Policy committee will never publicly discuss the details of the issue; all public statements will be made by the Carpentry Executive Council.  
+The Code of Conduct Committee will never publicly discuss the details of the issue; all public statements will be made by the Carpentries Executive Council.  
 
-At the end of every quarter, the Executive Council will publish an aggregated count of the incidents the Policy Subcommittee dealt with, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and for each of these which under part of the Code of Conduct the incident was classified.  
+At the end of every quarter, the Executive Council will publish an aggregated count of the incidents the Code of Conduct Committee dealt with, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and for each of these which under part of the Code of Conduct the incident was classified.  
 
 **Conflicts of Interest**<br> In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
