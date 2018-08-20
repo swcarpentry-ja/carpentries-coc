@@ -1,7 +1,5 @@
 ### Carpentries Instructors
 
-### Carpentries Instructors
-
 A Carpentries instructor is a person who has completed our two-day [instructor training course](http://carpentries.github.io/instructor-training/), and who has also performed a number of follow-up tasks to complete the checkout process to become a certified (or ‘badged’) instructor. Our instructor training has the following overall goals:
 
 - Introduce participants to evidence-based best-practices of teaching.
