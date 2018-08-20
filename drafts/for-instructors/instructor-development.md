@@ -28,6 +28,8 @@ People train as instructors for many reasons:
 
 7. *To make the world a better place.* 
 
+8. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). You can re-use and re-purpose this woridng for use in grant and job applications and for your CV.
+
 Read more about instructor motivations in Dr. Beth Duckles's report, [*Value of Software Carpentry to Instructors*](https://software-carpentry.org/files/bib/duckles-instructor-engagement-2016.pdf).
 
 ### Becoming an Instructor
