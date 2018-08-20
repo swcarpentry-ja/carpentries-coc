@@ -1,4 +1,4 @@
-## Mentoring Subcommittee
+## Mentoring Committee
 
 ### Mission Statement
 Established in 2015 to develop and maintain a mentoring program, the program supports instructors as they progress through training, teaching, curriculum development, and other community-related activities. We help promote community-building and networking, by providing virtual spaces where instructors from all over the world can share teaching success stories and discuss teaching strategies.
