@@ -1,4 +1,4 @@
-## Mentoring Subcommittee Roles
+## Mentoring Committee Roles
 
 ### Co-Chairs
 
@@ -6,15 +6,15 @@
 
 The co-chairs of the mentoring committee are responsible for: 
 
-1. Scheduling monthly mentoring subcommittee meetings.  
-    - Typically, meetings are the final Monday of every month and happen twice in one day (usually 13:00 UTC and 22:00 UTC)with each co-chair hosting one to accomodate time zones.
+1. Scheduling monthly mentoring committee meetings.  
+    - Typically, meetings are the final Monday of every month and happen twice in one day (usually 13:00 UTC and 22:00 UTC) with each co-chair hosting one to accommodate time zones.
 2. Working with fellow co-chair to plan and share the monthly meeting agenda in advance (i.e. 1 or 2 weeks ahead of time).   
-3. Leading one of the monthly subcommittee meetings (or delegate when absent).
+3. Leading one of the monthly committee meetings (or delegate when absent).
 4. Delegating tasks that come up each month. 
-    - This can be done through a co-chairs meeting after monthly subcommittee meeting.  
+    - This can be done through a co-chairs meeting after monthly committee meeting.  
 5. Following up with other mentoring committee members regarding their duties/concerns.
-6. Gathering feedback from community and other sub-committee members about desired mentoring efforts or outcomes.
-7. Facilitating the formation of task forces/sub-committees as appropriate to accomplish desired mentoring outcomes.
+6. Gathering feedback from community and other committee members about desired mentoring efforts or outcomes.
+7. Facilitating the formation of task forces/committees as appropriate to accomplish desired mentoring outcomes.
 8. Adding/modifying new committee roles as necessary.
 9. Evaluating committee roles on a yearly basis.
 
@@ -28,7 +28,7 @@ The co-chairs of the mentoring committee are responsible for:
 
 #### Requirements
 
-- Member of the mentoring subcommittee
+- Member of the mentoring committee
 
 #### To Volunteer
 
@@ -114,11 +114,11 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 #### Requirements
 
-- Member of the Mentoring Subcommittee
+- Member of the Mentoring Committee
 
 #### To Volunteer
 
-- Join the Mentoring Subcommittee, and contact the chair(s) when the position is open
+- Join the Mentoring Committee, and contact the chair(s) when the position is open
 
 #### Checklists and Resources
 
@@ -149,7 +149,7 @@ Use the [discussion session checklist](discussion_session_checklist.html)
 
 #### Responsibilities
 
-- Facilitate discussion among Software and Data Carpentry instructors, based 
+- Facilitate discussion among Software Carpentry and Data Carpentry instructors, based 
 on a standard discussion agenda.  
 
 #### Time commitment (per session)
@@ -159,7 +159,7 @@ per month - more frequently is also okay!
 
 #### Requirements
 
-- Is a certified Software or Data Carpentry Instructor and has taught at least 
+- Is a certified Software Carpentry or Data Carpentry Instructor and has taught at least 
 one workshop in the past year.  
 
 #### To Volunteer
@@ -180,8 +180,8 @@ Our main checklist for actually leading discussions is [here](../checklists-disc
 
 ### Committee Liaisons
 
-The Mentoring Subcommittee benefits from regular updates from other committees within the organisation.
-Currently, the committee receives updates from the Steering and Training Committees.
+The Mentoring Committee benefits from regular updates from other committees within the organisation.
+Currently, the committee receives updates from the Executive Council and the Trainers Group.
 
 #### Responsibilities
 
@@ -196,24 +196,24 @@ report back to the mentoring committee
 
 #### Requirements
 
-- Member of the mentoring subcommittee
-- Member of the steering or training committee
+- Member of the mentoring committee
+- Member of the Executive Council or the Trainers Group
 
 #### To Volunteer
 
 - Join the mentoring committee
-- Discuss with other steering/training committee members
+- Discuss with other Executive Council and/or Trainers Group members
 
 ### Staff Liaison
 
 #### Responsibilities
 
-- Serving as liaison between the subcommittee and the Carpentries staff.
-- Providing resources for subcommittee functioning (staff time, tools, etc.)
-- Engaging and assisting in subcommittee work where needed.
+- Serving as liaison between the committee and Carpentries staff.
+- Providing resources for committee functioning (staff time, tools, etc.)
+- Engaging and assisting in committee work where needed.
 - Encouraging open communication among members. 
-- Communicating progress of subcommittee activities to the staff at least once per month. 
-- Providing pertinent updates to the subcommittee that will affect their goals.
+- Communicating progress of committee activities to the staff at least once per month. 
+- Providing pertinent updates to the committee that will affect their goals.
  
 #### Time Commitment
 
@@ -221,7 +221,7 @@ report back to the mentoring committee
 
 #### Requirements
 
-- Member of the mentoring subcommittee
+- Member of the mentoring committee
 
 ### Secretary
 
@@ -230,7 +230,7 @@ report back to the mentoring committee
 The primary responsibilities of the Secretary are:
 
 - Take notes / organize note-taking during mentoring committee meetings
-- Submit (optionally summarised) notes to the board repostiory as a pull request after the meeting
+- Submit (optionally summarised) notes to the board repository as a pull request after the meeting
 - Keep the `README` and repository contents up-to-date.
 
 #### Time commitment
@@ -239,11 +239,11 @@ The primary responsibilities of the Secretary are:
 
 #### Requirements
 
-- Member of the Mentoring Subcommittee
+- Member of the Mentoring Committee
 
 #### To Volunteer
 
-- Join the Mentoring Subcommittee, and contact the Chair(s) when the position is open.
+- Join the Mentoring SCommittee, and contact the Chair(s) when the position is open.
 
 #### Resources and Checklists
 Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
