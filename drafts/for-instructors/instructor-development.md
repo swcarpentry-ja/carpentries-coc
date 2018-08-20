@@ -16,7 +16,7 @@ People train as instructors for many reasons:
 
 1. *To make their own lives better.* By teaching their fellow scientists how to build and share better software, our instructors are indirectly helping to create things that they themselves can use.
 
-2. *Because it's fun.* 
+2. *Because it's fun.* It really is !
 
 3. *To build a reputation.* Teaching a workshop is a great way for people to introduce themselves to places they would eventually like to work, and a great way to make contact with potential collaborators.
 
@@ -28,7 +28,7 @@ People train as instructors for many reasons:
 
 7. *To make the world a better place.* 
 
-8. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). You can re-use and re-purpose this woridng for use in grant and job applications and for your CV.
+8. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). You can re-use and re-purpose this wording for use in grant and job applications and for your CV.
 
 Read more about instructor motivations in Dr. Beth Duckles's report, [*Value of Software Carpentry to Instructors*](https://software-carpentry.org/files/bib/duckles-instructor-engagement-2016.pdf).
 
