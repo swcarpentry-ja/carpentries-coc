@@ -243,7 +243,7 @@ The primary responsibilities of the Secretary are:
 
 #### To Volunteer
 
-- Join the Mentoring SCommittee, and contact the Chair(s) when the position is open.
+- Join the Mentoring Committee, and contact the Chair(s) when the position is open.
 
 #### Resources and Checklists
 Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
