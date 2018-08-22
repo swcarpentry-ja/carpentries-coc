@@ -83,6 +83,9 @@ Data Carpentry
 * Quality Assurance in Spreadsheets (Social Science): http://www.datacarpentry.org/spreadsheets-socialsci/04-quality-assurance/
 * Filtering and Sorting with Open Refine (Social Science): http://www.datacarpentry.org/openrefine-socialsci/03-filter-sort/
 * Starting with Data in R (Social Science): http://www.datacarpentry.org/r-socialsci/02-starting-with-data/
+* Introduction to R for Geospatial Data: https://datacarpentry.org/r-intro-geospatial
+* R for Raster and Vector Data (Geospatial): https://datacarpentry.org/r-raster-vector-geospatial
+
 
 Software Carpentry
 
