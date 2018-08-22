@@ -10,4 +10,3 @@ COMMUNICATION
    newsletter.md
    slack-and-email.md
    commons.md
-   logos.md
