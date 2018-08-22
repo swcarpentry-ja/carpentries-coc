@@ -18,6 +18,12 @@ You are also welcome to use our logos if you are referencing The Carpentries, or
 
 If you are unsure about whether you are able to use the logo for a specific purpose, [please email us](mailto:team@carpentries.org) for permission.
 
+### Teaching commecially
+
+All our teaching materials are freely available for re-use, but if you are teaching commercially, you may not call your course "Software Carpentry" or "Data Carpentry" or "The Carpentries", or use any of our logos, without first obtaining permission</a> from us.
+
+To seek that permission, [please email us](mailto:team@carpentries.org).
+
 #### Where to find logos
 
 The Carpentries logos are stored here: [https://github.com/carpentries/logo](https://github.com/carpentries/logo).
