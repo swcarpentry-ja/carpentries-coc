@@ -128,7 +128,7 @@ I can help you with your registration. If you need my assistance, please provide
     * Refund policy (if there is a fee): 1/7/30/none days prior to event
     * Email address of those who will need access to the Eventbrite page to see registration and make changes 
 
-This page will complete once you have created the workshop url using the wokrshop id: [INSERT SLUG] 
+The registration form will be completed after the workshop website has been created and share with me. Please remember to use the workshop id: [INSERT SLUG] 
 
 Best,
 [SENDER]
