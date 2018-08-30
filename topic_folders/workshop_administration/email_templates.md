@@ -23,6 +23,18 @@ Best,
 
 [ your_name ]
 
+##### New Teaching Opportunities on Signup Sheet
+
+Subject: Upcoming Carpentries teaching opportunites in [REGION] 
+
+Hi Everyone,
+
+We have uploaded new teaching opportunities in [REGION]! Please take a moment to review the upcoming workshops and be sure to add your name if you are interested. Travel within [REGION] will be covered.
+
+Here is the signup sheet for your convenience: (INSERT THE LINK FOR THAT REGION FROM THE SIGN UP SHEET).
+
+Feel free to email me with any questions!
+(SENDER NAME)
 
 ##### Confirming instructor availability
 
@@ -97,6 +109,30 @@ This is to let you know we have placed other instructors there.  Thanks so much 
 Thanks!
 
 [ sender name ]
+
+
+##### Eventbrite information needed for Registration
+
+Subject: Carpentries workshop at [site name]: Eventbrite Registration Information
+
+Hi [names],
+
+I look forward to working with you to ensure you have a fantastic workshop!
+
+I can help you with your registration. If you need my assistance, please provide me with the following information:
+
+    * Exact location
+    * Number of registrants
+    * Time of event
+    * Fee (if any)
+    * Refund policy (if there is a fee): 1/7/30/none days prior to event
+    * Email address of those who will need access to the Eventbrite page to see registration and make changes 
+
+This page will complete once you have created the workshop url using the wokrshop id: [INSERT SLUG] 
+
+Best,
+[SENDER]
+
 
 ##### Sharing survey results
 
