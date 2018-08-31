@@ -142,14 +142,12 @@ Please see the table below for recommendations about choosing a starting point f
 | DC | Genomics | [Data Wrangling and Processing for Genomics](https://datacarpentry.org/wrangling-genomics/) | TBA | TBA | | 
 | DC | Genomics | [Introduction to Cloud Computing for Genomics](https://datacarpentry.org/cloud-genomics/) | TBA | TBA | | 
 | DC | Genomics | [Data Analysis and Visualization in R for Genomics](https://datacarpentry.org/R-genomics/) | TBA | TBA | This lesson is in alpha. Do not use for teaching demos. |
+| DC | Social Sciences | [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) | none | any episode | |
+| DC | Social Sciences | [Data Cleaning with OpenRefine for Social Scientists](http://www.datacarpentry.org/openrefine-socialsci/) | any other episode | [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) has no live coding. Later episodes have dependencies. |
+| DC | Social Sciences | [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/) | <ul><li>[Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/)</li><li>[Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/)</li></ul>| [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) has no live coding. [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/) has dependencies.|
+| DC | Social Sciences | | TBA | TBA | This lesson is in alpha. Do not use for teaching demos. |
+| DC | Social Sciences | | TBA | TBA | This lesson is in alpha. Do not use for teaching demos. |
 
-
-   * Social Sciences
-     * [Data Cleaning with OpenRefine for Social Scientists](http://www.datacarpentry.org/openrefine-socialsci/)
-        * anything after [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) - dependencies
-      * [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/)
-        * [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) - no live coding  
-        * anything after [Introducing dplyr and tidyr](http://www.datacarpentry.org/r-socialsci/03-dplyr-tidyr/) - dependencies
   * Geospatial
     * [Geospatial Project Organization and Management](https://datacarpentry.org/organization-geospatial/)  
       * no live coding, do not use for teaching demos  
