@@ -216,9 +216,9 @@ Best,
 
 I'm checking in to be sure you're ready for your upcoming workshop on [ WORKSHOP DATE ].   If there are any last minute questions you have please let me know. As a reminder please be sure to review the items below to help you prepare for your workshop. 
 
-* Review the [host checklist](hosts_instructors_checklist.html) 
-* Review the [accessibility checklist](workshop_needs.html#accessibility) for learners
-* Review the [equipment and materials](workshop_needs.html#equipment-and-materials) needed for workshop
+* Review the host checklist: (hosts_instructors_checklist.html) 
+* Review the accessibility checklist: (workshop_needs.html#accessibility) for learners
+* Review the equipment and materials: (workshop_needs.html#equipment-and-materials) needed for workshop
 * Lastly, please remember to take attendance daily. I will be asking for this information along with the total number registered each day along with any other feedback you would like to provide. 
 
 If you have any questions regarding any of this information, please do not hesitate to ask. Wishing you much success and I'll check back in after it's over to hear how it went. 
@@ -249,9 +249,9 @@ Here are your pre and post survey response links for you to review.  As a remind
 
 For your convenience, below you will find several resources that are available to you as an instructor.  
 
-Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar [here](http://pad.software-carpentry.org/instructor-discussion). Be sure to check your timezone when you sign up.
+Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar here (http://pad.software-carpentry.org/instructor-discussion). Be sure to check your timezone when you sign up.
 
-[Data Carpentry](http://www.datacarpentry.org/blog/) and [Software Carpentry](https://software-carpentry.org/blog/) also welcomes blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
+Data Carpentry (http://www.datacarpentry.org/blog/), Software Carpentry (https://software-carpentry.org/blog/), and The Carpentries (https://carpentries.org/blog/) also welcome blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
 
 If you have any questions regarding anything I’ve shared do not hesitate to email me directly.  Thanks for all of your hard work running this workshop!
 
@@ -388,7 +388,7 @@ Some links that will be used in the workshop: workshop page [ link to workshop p
 
 Getting to the workshop: [ add directions to your workshop location ]  
 
-Please read the Carpentries [Code of Conduct](http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
+Please read the Carpentries Code of Conduct (http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
 
 We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
 
