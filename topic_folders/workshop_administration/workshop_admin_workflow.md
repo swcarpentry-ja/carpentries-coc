@@ -32,7 +32,7 @@
 
 1.  Workshop Administrator sends email to workshop instructors and hosts with [introductory information](email_templates.html#host-and-instructor-introductions).  This includes links to guides for roles of host, instructor, and helper.
 
-1. Workshop Administrator emails everyone else who signed up for that event thanking them for their time, letting them know other instructors were placed, and encouraging them to sign up for other opportunities.
+1. Workshop Administrator [emails everyone else](email_templates.html#other-instructors-placed) who signed up for that event thanking them for their time, letting them know other instructors were placed, and encouraging them to sign up for other opportunities.
 
 1. Workshop Administrator reminds instructors to set up a workshop website using the
 [workshop template](https://github.com/carpentries/workshop-template).
