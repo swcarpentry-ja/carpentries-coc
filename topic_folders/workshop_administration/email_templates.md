@@ -23,6 +23,23 @@ Best,
 
 [ your_name ]
 
+##### Logistics Information from Host
+
+Hi [Host Name], 
+
+Thanks so much for planning a Carpentries workshop at [site name]. I'm excited to work with you to ensure you have a successful workshop!
+
+A few questions to get started planning:
+
+* Can you provide me with the dates you are interested in hosting the workshop. If you do not have an exact date at this time, that is ok. If you could provide a date range, that would be enough for now. Please note that we require 2-3 months lead time to plan.
+
+* Which curriculum would you like to have taught? For Software Caprentry Workshops, please identify if you would like R or Python as the programming language.
+
+* Please tell me a bit about your expected audience (their goals, background, etc.)? This will help me recruit and prepare instructors.
+
+Let me know about the above, and what other questions you have for me. Thanks again!
+[sender name]
+
 
 ##### Confirming instructor availability
 
