@@ -23,6 +23,21 @@ Best,
 
 [ your_name ]
 
+
+##### New Teaching Opportunities on Signup Sheet
+
+Subject: Upcoming Carpentries teaching opportunites in [REGION] 
+
+Hi Everyone,
+
+We have uploaded new teaching opportunities in [REGION]! Please take a moment to review the upcoming workshops and be sure to add your name if you are interested. Travel within [REGION] will be covered.
+
+Here is the signup sheet for your convenience: (INSERT THE LINK FOR THAT REGION FROM THE SIGN UP SHEET).
+
+Feel free to email me with any questions!
+(SENDER NAME)
+
+
 ##### Logistics Information from Host
 
 Hi [Host Name], 
@@ -39,7 +54,6 @@ A few questions to get started planning:
 
 Let me know about the above, and what other questions you have for me. Thanks again!
 [sender name]
-
 
 ##### Confirming instructor availability
 
@@ -115,6 +129,28 @@ Thanks!
 
 [ sender name ]
 
+##### Eventbrite information needed for Registration
+
+Subject: Carpentries workshop at [site name]: Eventbrite Registration Information
+
+Hi [names],
+
+I look forward to working with you to ensure you have a fantastic workshop!
+
+I can help you with your registration. If you need my assistance, please provide me with the following information:
+
+    * Exact location
+    * Number of registrants
+    * Time of event
+    * Fee (if any)
+    * Refund policy (if there is a fee): 1/7/30/none days prior to event
+    * Email address of those who will need access to the Eventbrite page to see registration and make changes 
+
+The registration form will be completed after the workshop website has been created and share with me. Please remember to use the workshop id: [INSERT SLUG] 
+
+Best,
+[SENDER]
+
 ##### Eventbrite Registration Setup
 Hi [insert name]
 
@@ -151,15 +187,14 @@ Please let me know if you have any other questions!
 Best,
 [sender name]
 
-
 ##### Sharing survey results
 
 Hi Everyone,
 
 Below you will find the pre & post survey result links for your workshop on [ DATE/LOCATION] . Please do not share these links with the learners - these are just for your review. These are for you as instructors and hosts to prepare for and reflect on this workshop and as constructive feedback to prepare for future workshops.
 
-​pre: [ LINK GOES HERE ]
-post:[ LINK GOES HERE ]
+* pre: [ LINK GOES HERE ]
+* post:[ LINK GOES HERE ]
   
 As a reminder, the actual survey links for learners are found on the workshop github page [ LINK ]. 
 
