@@ -200,9 +200,9 @@ As a reminder, the actual survey links for learners are found on the workshop gi
 
 Here are a few things for you to keep in mind as you prepare for your workshop: 
 
-* Review the [host checklist](hosts_instructors_checklist.html) - this will provide you with a detailed list of the items you should consider having in place prior to the workshop.
-* Review the [accessibility checklist](workshop_needs.html#accessibility) for learners - it is important that all of the learners attending the workshop have accessibility. The checklist will help to make sure you have taken the necessary steps to provide the needs of everyone. 
-* Review the [equipment and materials](workshop_needs.html#equipment-and-materials) - There may be a few things that may need to be supplied/purchased including two colors of sticky notes. These are essential to the way our operations run. 
+* Review the host checklist (hosts_instructors_checklist.html) - this will provide you with a detailed list of the items you should consider having in place prior to the workshop.
+* Review the accessibility checklist (workshop_needs.html#accessibility) for learners - it is important that all of the learners attending the workshop have accessibility. The checklist will help to make sure you have taken the necessary steps to provide the needs of everyone. 
+* Review the equipment and materials (workshop_needs.html#equipment-and-materials) - There may be a few things that may need to be supplied/purchased including two colors of sticky notes. These are essential to the way our operations run. 
 
 As you prepare for your workshop, please remember to take attendance daily. I will be asking for this information along with the total number registered each day along with any other feedback you would like to provide. Thanks so much for all you are doing - I look forward to hearing how it all goes.
 
