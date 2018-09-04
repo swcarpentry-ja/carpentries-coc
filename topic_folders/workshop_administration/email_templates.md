@@ -23,6 +23,7 @@ Best,
 
 [ your_name ]
 
+
 ##### New Teaching Opportunities on Signup Sheet
 
 Subject: Upcoming Carpentries teaching opportunites in [REGION] 
@@ -35,6 +36,24 @@ Here is the signup sheet for your convenience: (INSERT THE LINK FOR THAT REGION 
 
 Feel free to email me with any questions!
 (SENDER NAME)
+
+
+##### Logistics Information from Host
+
+Hi [Host Name], 
+
+Thanks so much for planning a Carpentries workshop at [site name]. I'm excited to work with you to ensure you have a successful workshop!
+
+A few questions to get started planning:
+
+* Can you provide me with the dates you are interested in hosting the workshop. If you do not have an exact date at this time, that is ok. If you could provide a date range, that would be enough for now. Please note that we require 2-3 months lead time to plan.
+
+* Which curriculum would you like to have taught? For Software Caprentry Workshops, please identify if you would like R or Python as the programming language.
+
+* Please tell me a bit about your expected audience (their goals, background, etc.)? This will help me recruit and prepare instructors.
+
+Let me know about the above, and what other questions you have for me. Thanks again!
+[sender name]
 
 ##### Confirming instructor availability
 
@@ -110,7 +129,6 @@ Thanks!
 
 [ sender name ]
 
-
 ##### Eventbrite information needed for Registration
 
 Subject: Carpentries workshop at [site name]: Eventbrite Registration Information
@@ -133,6 +151,41 @@ The registration form will be completed after the workshop website has been crea
 Best,
 [SENDER]
 
+##### Eventbrite Registration Setup
+Hi [insert name]
+
+I look forward to working with you to ensure you have a fantastic workshop!
+
+I can help you with your registration. If you need my assistance, please provide me with the following information:
+
+* Exact location
+* Number of registrants
+* Time of event
+* Fee (if any)
+* Refund policy (if there is a fee): 1/7/30/none days prior to event
+* Who will need access to the Eventbrite page to see registration and make changes
+
+Also, once you have created the workshop url, please remember to share. Using the workshop id:[ workshop_id in form of YYYY-MM-DD-sitename ]
+
+Best,
+[sender name]
+
+##### Eventbrite Registration Complete
+
+Hi [insert name],
+
+Here is your link to the Eventbrite page: **[insert eventbrite registration link]**
+
+Currently, there is a password **[insert password]** for you to go in and make any changes. Once you have approved, the password will be removed.
+
+I have granted access for you to make edits to the emails you provided, please check your email. Feel free to update or edit when you see the need, this will eliminate you having to wait for me, if there is something urgent.
+
+The Eventbrite Key is **[insert eventbrite key, which is the the 11 trailing numbers of of the registration link]** for you to add to your workshop url.
+
+Please let me know if you have any other questions!
+
+Best,
+[sender name]
 
 ##### Sharing survey results
 
@@ -140,8 +193,8 @@ Hi Everyone,
 
 Below you will find the pre & post survey result links for your workshop on [ DATE/LOCATION] . Please do not share these links with the learners - these are just for your review. These are for you as instructors and hosts to prepare for and reflect on this workshop and as constructive feedback to prepare for future workshops.
 
-​pre: [ LINK GOES HERE ]
-post:[ LINK GOES HERE ]
+* pre: [ LINK GOES HERE ]
+* post:[ LINK GOES HERE ]
   
 As a reminder, the actual survey links for learners are found on the workshop github page [ LINK ]. 
 
