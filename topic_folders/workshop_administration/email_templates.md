@@ -98,6 +98,43 @@ Thanks!
 
 [ sender name ]
 
+##### Eventbrite Registration Setup
+Hi [insert name]
+
+I look forward to working with you to ensure you have a fantastic workshop!
+
+I can help you with your registration. If you need my assistance, please provide me with the following information:
+
+* Exact location
+* Number of registrants
+* Time of event
+* Fee (if any)
+* Refund policy (if there is a fee): 1/7/30/none days prior to event
+* Who will need access to the Eventbrite page to see registration and make changes
+
+Also, once you have created the workshop url, please remember to share. Using the workshop id:[ workshop_id in form of YYYY-MM-DD-sitename ]
+
+Best,
+[sender name]
+
+##### Eventbrite Registration Complete
+
+Hi [insert name],
+
+Here is your link to the Eventbrite page: **[insert eventbrite registration link]**
+
+Currently, there is a password **[insert password]** for you to go in and make any changes. Once you have approved, the password will be removed.
+
+I have granted access for you to make edits to the emails you provided, please check your email. Feel free to update or edit when you see the need, this will eliminate you having to wait for me, if there is something urgent.
+
+The Eventbrite Key is **[insert eventbrite key, which is the the 11 trailing numbers of of the registration link]** for you to add to your workshop url.
+
+Please let me know if you have any other questions!
+
+Best,
+[sender name]
+
+
 ##### Sharing survey results
 
 Hi Everyone,
