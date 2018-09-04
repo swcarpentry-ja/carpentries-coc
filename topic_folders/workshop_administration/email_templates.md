@@ -139,19 +139,21 @@ I look forward to working with you to ensure you have a fantastic workshop!
 
 I can help you with your registration. If you need my assistance, please provide me with the following information:
 
-    * Exact location
-    * Number of registrants
-    * Time of event
-    * Fee (if any)
-    * Refund policy (if there is a fee): 1/7/30/none days prior to event
-    * Email address of those who will need access to the Eventbrite page to see registration and make changes 
+* Exact location
+* Number of registrants
+* Time of event
+* Fee (if any)
+* Refund policy (if there is a fee): 1/7/30/none days prior to event
+* Email address of those who will need access to the Eventbrite page to see registration and make changes 
 
 The registration form will be completed after the workshop website has been created and share with me. Please remember to use the workshop id: [INSERT SLUG] 
 
 Best,
+
 [SENDER]
 
 ##### Eventbrite Registration Setup
+
 Hi [insert name]
 
 I look forward to working with you to ensure you have a fantastic workshop!
@@ -168,6 +170,7 @@ I can help you with your registration. If you need my assistance, please provide
 Also, once you have created the workshop url, please remember to share. Using the workshop id:[ workshop_id in form of YYYY-MM-DD-sitename ]
 
 Best,
+
 [sender name]
 
 ##### Eventbrite Registration Complete
@@ -185,6 +188,7 @@ The Eventbrite Key is **[insert eventbrite key, which is the the 11 trailing num
 Please let me know if you have any other questions!
 
 Best,
+
 [sender name]
 
 ##### Sharing survey results
@@ -279,9 +283,10 @@ If the person processing the invoice is someone other than you, it is probably b
 Please feel free to work with Elizabeth directly. Elizabeth will take care of all of the billing from here. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
 
 Best, 
+
 [Sender]
 
-##### Host and Business Administrator Introductions (members w/ Eventbrite)
+##### Host and Business Administrator Introductions (members using Eventbrite)
 
 Subject: [SWC/DC/LC] Carpentries Workshop @ [LOCATION/DATE]: Introducing Business Administrator
 
@@ -289,7 +294,7 @@ Subject: [SWC/DC/LC] Carpentries Workshop @ [LOCATION/DATE]: Introducing Busines
 
 Host,
 
-This is EW, our BA, who will be working with you to handle the Eventbrite revenue from your [WORKSHOP TYPE (SWC/DC/LC)] workshop on (DATE) at (LOCATION).
+This is to introduce Elizabeth Williams, our Business Administrator, who will be working with you to handle the Eventbrite revenue from your [WORKSHOP TYPE (SWC/DC/LC)] workshop on (DATE) at (LOCATION).
 
 This revenue can either be donated to The Carpentries or returned to you by check (or wire, if needed) after the completion of the workshop.
 
@@ -300,6 +305,7 @@ Eventbrite revenue is received by us 5-7 days after the event registration close
 Please feel free to work with Elizabeth directly. Elizabeth will take care of all of getting you the Eventbrite funds. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
 
 Best, 
+
 [Sender]
 
 
