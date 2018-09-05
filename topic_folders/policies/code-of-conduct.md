@@ -1,86 +1,74 @@
 ### The Carpentries Code of Conduct
 
-#### About Our Code of Conduct
+1. Introduction 
 
-The Carpentries is a community-led project. We value the involvement of everyone in this community - learners, instructors, hosts, developers, Executive Council members and staff. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.  
+The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 
-To make clear what is expected, everyone participating in Carpentry activities is required to conform to the following Code of Conduct. This code of conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, online forums and on GitHub. Workshop hosts are expected to assist with enforcement of the Code of Conduct.  
+To make clear what is expected, everyone participating in Carpentry activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct.  
 
-If you believe someone is violating the Code of Conduct we ask that you report it to the Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) or Cam Macdonell at [confidential@carpentries.org](mailto:confidential@carpentries.org), and if the violation occurs during a workshop or other in-person event, by contacting the host and/or coordinator. All reports will be kept confidential.  When possible, please follow the reporting guidelines detailed [here](../policies/code-of-conduct.html#reporting-guidelines). All reports will be reviewed by the Code of Conduct Committee. A detailed enforcement policy can be found [here](../policies/code-of-conduct.html#enforcement-manual).  
+The Carpentry Code of Conduct Committee is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). 
+All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. 
+ 
 
-#### Code of Conduct
+2. The Carpentries Code of Conduct
 
-The Carpentries are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. However, we recognise that some groups in our community are subject to historical and ongoing discrimination, and may be vulnerable or disadvantaged. Membership in such a specific group can be on the basis of characteristics such as gender, sexual orientation, disability, physical appearance, body size, race, nationality, sex, colour, ethnic or social origin, pregnancy, citizenship, familial status, veteran status, genetic information, religion or belief, political or any other opinion, membership of a national minority, property, birth, age, or choice of text editor. We do not tolerate harassment of participants on the basis of these categories, or for any other reason.
+The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level. 
 
-Harassment is any form of behaviour intended to exclude, intimidate, or cause discomfort. Because we are a diverse community, we may have different ways of communicating and of understanding the intent behind actions. Therefore we have chosen to prohibit certain forms of behaviour in our community, regardless of intent. Prohibited harassing behaviour includes but is not limited to:  
+Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which the Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information. 
 
-- written or verbal comments which have the effect of excluding people on the basis of membership of a specific group listed above  
+2.1 Expected Behavior
+
+All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+
+Use welcoming and inclusive language
+Be respectful of different viewpoints and experiences
+Gracefully accept constructive criticism
+Focus on what is best for the community
+Show courtesy and respect towards other community members
+
+Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
+
+2.2 Unacceptable Behavior
+
+Examples of unacceptable behavior by participants at any Carpentries event/platform include:
+
+- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
 - causing someone to fear for their safety, such as through stalking, following, or intimidation  
+- violent threats or language directed against another person
 - the display of sexual or violent images  
 - unwelcome sexual attention  
 - nonconsensual or unwelcome physical contact  
-- sustained disruption of talks, events or communications  
+- sustained disruption of talks, events or communications
+- insults or put downs  
+- sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+- excessive swearing
 - incitement to violence, suicide, or self-harm  
 - continuing to initiate interaction (including photography or recording) with someone after being asked to stop  
 - publication of private communication without consent  
 
-Behaviour not explicitly mentioned above may still constitute harassment. The list above should not be taken as exhaustive but rather as a guide to make it easier to enrich all of us and the communities in which we participate. All Carpentry interactions should be professional regardless of location: harassment is prohibited whether it occurs on- or offline, and the same standards apply to both.  
+2.3 Consequences of Unacceptable Behavior
 
-Enforcement of the Code of Conduct will be respectful and not include any harassing behaviors. Any changes to the meaning of this Code of Conduct must be approved by majority vote of both the Code of Conduct Committee and The Carpentries Executive Council. The Carpentries Community will be informed of these changes and any concerns that are raised will be discussed by the Code of Conduct Committee.  
+Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+3. Incident Reporting Guidelines
+3.1 Contact points
 
-Thank you for helping make this a welcoming, friendly community for all.  
+If someone violates the Code of Conduct during a Carpentries related event we ask that you report it to the event host, organiser, or a designated incident response person. The person you have talked to should make a report to the Carpentries about the incident by emailing the Carpentries Code of Conduct Committee [coc@carpentries.org](mailto:coc@carpentries.org). If this is not possible for some reason, we would be very grateful if you could report the incident yourself.
 
-This Code of Conduct is a modified version of that used by PyCon, which in turn is forked from a template written by the Ada Initiative and hosted on the Geek Feminism Wiki. Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
+If a violation occurs in an online space outside of organised events, please email coc@carpentries.org about the incident.
 
+3.2 Alternate contact points
 
-#### Reporting Guidelines
+An email to coc@carpentries.org will be seen by all of the Code of Conduct Committee, who are listed at (URL). If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org). The Carpentries Executive Director Tracy Teal can also be contacted by telephone at 1-530-341-3230.
+3.3 What to do if someone is in physical danger
 
-If you believe someone is violating the Code of Conduct we ask that you report it to the Code of Conduct Committee by emailing [coc@carpentries.org](mailto:coc@carpentries.org) or C. MacDonnell at [confidential@carpentries.org](mailto:confidential@carpentries.org).
+If you believe someone is in physical danger, please ask a staff member or volunteer to contact appropriate emergency responders. All event organizers should, before the event, figure out who it would be appropriate to contact in case of an incident.
 
-**All reports will be kept confidential.** <br> In some cases we may determine that a public statement will need to be made. If that's the case, the identities of all victims and reporters will remain confidential unless those individuals instruct us otherwise.  
+Once the incident has been resolved, we ask that it be reported to the Code of Conduct committee in the same way as all other incidences.
 
-If the violation occurred at an in-person event, please contact the event host and/or coordinator so that they can take any appropriate immediate response, as well as contacting the Code of Conduct Committee. You can also contact The Carpentries Executive Director Tracy Teal by telephone at 1-530-341-3230.  
+3.4 Code of Conduct Enforcement
 
-**If you believe anyone is in physical danger, please notify appropriate law enforcement first.** <br> If you are unsure which law enforcement agency is appropriate, please include this in your report and we will attempt to notify them.  
+A detailed enforcement policy is available in the Enforcement Manual.
 
-Reports can be filed anonymously with minimal details. If you don’t feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide however, so, if you can, please include in your report:  
-
-- Your contact info (so we can get in touch with you if we need to follow up).  
-- Names (real, nicknames, or pseudonyms) of any individuals involved. If there were other witnesses besides you, please try to include them as well.  
-- When and where the incident occurred. Please be as specific as possible.  
-- Your account of what occurred. If there is a publicly available record (e.g. a mailing list archive or a GitHub discussion) please include a link.  
-- Any extra context you believe existed for the incident.  
-- If you believe this incident is ongoing.  
-- Any other information you believe we should have.  
-
-**What happens after you file a report?** <br> The recipient of the report will attempt to ensure your safety and help with any immediate needs, particularly at an in-person event. You will receive an email from the Code of Conduct Committee (“the committee”) acknowledging receipt within 24 hours (and we’ll aim for much more quickly than that). The committee will make all efforts to meet within two days to review the incident and determine:  
-
-- Whether this is an ongoing situation, or if there is a threat to anyone's physical safety.  
-- What happened.  
-- Whether this event constitutes a code of conduct violation.  
-- Who the bad actor was, if any.  
-
-If this is determined to be an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.  
-
-Once the committee has a complete account of the events they will make a decision as to how to respond. Responses may include:  
-
-- Nothing (if we determine that no violation occurred)  
-- A private reprimand from the committee to the individual(s) involved  
-- A public announcement that an incident occurred  
-- An imposed vacation (i.e. asking someone to "take a week off" from a mailing list) 
-- A permanent or temporary ban from some or all Carpentry spaces (mailing lists, GitHub repos, in-person events, etc.)  
-- Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies  
-
-
-We'll respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
-
-Once we've determined our final action, we'll contact the original reporter to let them know what action (if any) we'll be taking. We'll take into account feedback from the reporter on the appropriateness of our response, but we may decide not to act on that feedback.  
-
-Finally, the committee will make a report on the situation to the Executive Council. The Executive Council may choose to make a public report of the incident, while maintaining anonymity of those involved.  
-
-**Appealing** <br>Only resolutions with permanent consequences (such as bans) may be appealed. To appeal a decision of the committee, contact the Carpentries Executive Council at [executive-council@carpentries.org](mailto:executive-council@carpentries.org) with your appeal and the Executive Council will review the case.  
-
-This reporting procedure is an adaptation of the one used by the [Django Project](https://www.djangoproject.com/conduct/reporting/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
 #### Enforcement Manual
 
@@ -129,3 +117,6 @@ At the end of every quarter, the Executive Council will publish an aggregated co
 **Conflicts of Interest**<br> In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
 This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
+
+Update Log
+- Updated on 2018-09-11 to address issues with enforcing the CoC and adjudicating reported Code of Conduct violations.
