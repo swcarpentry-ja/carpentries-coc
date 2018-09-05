@@ -6,7 +6,7 @@ It uses the [Sphinx](https://github.com/rtfd/sphinx_rtd_theme) theme.
 
 #### Required dependencies
 ```
-pip install Sphinx sphinx_rtd_theme recommonmark
+pip install -r requirements.txt 
 ```
 
 After installing Read the Docs packages and the Sphinx theme, build the site locally using
