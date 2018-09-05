@@ -188,7 +188,7 @@ Currently, there is a password **[insert password]** for you to go in and make a
 
 I have granted access for you to make edits to the emails you provided, please check your email. Feel free to update or edit when you see the need, this will eliminate you having to wait for me, if there is something urgent.
 
-The Eventbrite Key is **[insert eventbrite key, which is the the 11 trailing numbers of of the registration link]** for you to add to your workshop url.
+The Eventbrite Key is **[insert eventbrite key, which is the 11 trailing numbers of the registration link]** for you to add to your workshop url.
 
 Please let me know if you have any other questions!
 
