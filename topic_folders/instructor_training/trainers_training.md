@@ -11,9 +11,9 @@ Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpe
   * Time commitment: 1 hour per week for 8 weeks meetings; can miss one meeting; ~10 hours reading
 * Join Trainer meetings 
   * Time commitment: 1 hour per month; can miss one meeting
-* Shadow a teaching demonstration session (after finishing book club)
+* Shadow a teaching demonstration session 
   * Time commitment: 1 hour one time
-* Shadow at least half a day of an online instructor training event (after finishing book club)
+* Shadow at least half a day of an online instructor training event 
   * Time commitment: 4 hours one time
 * Teach once either online or in person with experienced Trainer (after finishing book club)
   * Time commitment: 2 days one time plus prep
@@ -27,58 +27,7 @@ Total time commitment for new Trainers:
 
 #### Trainers Training Reading Schedule
 
-###### Week 1
-* **Readings:**  Forward, About the Authors, Introduction, Chapter 1 (pages xiii-xvi, xix-9; 10-39) 
-* **Curriculum Review**
-    * Setup 
-    * Welcome
-    * How Learning Works: The Importance of Practice
-
-###### Week 2
-* **Readings** Chapter 2, Appendix A, Appendix  B (pages 40-65; 225-230)
-* **Curriculum Review**
-    * How Learning Works: Expertise and Instruction
-    * How Learning Works: Working Memory and Cognitive Load
-
-###### Week 3
-* **Readings** Chapter 3 (pages 66-90)
-* **Curriculum Review**
-    * Building Teaching Skill: Getting Feedback
-    * Creating a Positive Learning Environment: Motivation and Demotivation
-
-
-###### Week 4
-* **Readings** Chapter 4, Appendix D (pages 91-120, 244-7)
-* **Curriculum Review**
-    * Creating a Positive Learning Environment: Mindset
-    * Building Teaching Skill: The Importance of Practice
-    * Wrap-Up and Homework for Tomorrow
-
-###### Week 5
-* **Readings** Chapter 5 (pages 121-152)
-* **Curriculum Review**
-    * Building Teaching Skill: Lesson Study
-    * Building Teaching Skill: Live Coding
-    * Building Teaching Skill: Performance Revised
-
-###### Week 6
-* **Readings** Chapter 6 (pages 152-187) 
-* **Curriculum Review**
-    * The Carpentries: Workshop Introductions
-    * Code of Conduct
-
-###### Week 7
-* **Readings** Chapter 7 (pages 188-216)
-* **Curriculum Review**
-    * The Carpentries: How We Operate
-    * The Carpentries: Teaching Practices
-    * Afternoon Wrap-Up 
-    * Operations guide
-
-###### Week 8
-* **Readings** Conclusion (pages 217-224)
-* **Curriculum Review**
-    * Homework
+For the most recent Trainer Training schedule and discussion questions, see the [Trainer Training Curriculum](https://carpentries.github.io/trainer-training/)
 
 
 #### Reviewing New Trainer Applications
