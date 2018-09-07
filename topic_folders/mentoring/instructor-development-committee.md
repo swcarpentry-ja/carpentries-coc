@@ -6,12 +6,12 @@ The Committee also organises and oversees the work of Mentoring Groups. These gr
 
 ### Committee Member Roles
 
-- [Co-Chairs](instructor-development-committee-roles.md#co-chairs)
-- [Discussion Coordinators](mentoring-subcommittee-roles.html#discussion-session-coordinators)
-- [Discussion Hosts](mentoring-subcommittee-roles.html#discussion-hosts)
-- [Committee Liaison](mentoring-subcommittee-roles.html#committee-liaisons)
-- [Staff Liaison](mentoring-subcommittee-roles.html#staff-liaison)
-- [Secretary](mentoring-subcommittee-roles.html#secretary)
+- [Co-Chairs](instructor-development-committee-roles.html#co-chairs)
+- [Discussion Coordinators](instructor-development-committee-roles.html#discussion-session-coordinators)
+- [Discussion Hosts](instructor-development-committee-roles.html#discussion-hosts)
+- [Committee Liaison](instructor-development-committee-roless.html#committee-liaisons)
+- [Staff Liaison](instructor-development-committee-roles.html#staff-liaison)
+- [Secretary](instructor-development-committee-roles.html#secretary)
 
 ### Monthly Meeting Topics
 * Instructor discussion sessions
