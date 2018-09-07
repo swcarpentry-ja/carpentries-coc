@@ -6,7 +6,7 @@ The Committee also organises and oversees the work of Mentoring Groups. These gr
 
 ### Committee Member Roles
 
-- [Co-Chairs](mentoring-subcommittee-roles.html#co-chairs)
+- [Co-Chairs](instructor-development-committee-roles.md#co-chairs)
 - [Discussion Coordinators](mentoring-subcommittee-roles.html#discussion-session-coordinators)
 - [Discussion Hosts](mentoring-subcommittee-roles.html#discussion-hosts)
 - [Committee Liaison](mentoring-subcommittee-roles.html#committee-liaisons)
