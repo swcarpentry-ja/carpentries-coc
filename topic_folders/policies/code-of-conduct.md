@@ -49,26 +49,35 @@ Examples of unacceptable behavior by participants at any Carpentries event/platf
 2.3 Consequences of Unacceptable Behavior
 
 Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
-3. Incident Reporting Guidelines
-3.1 Contact points
+
+Update Log:
+
+- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behavior. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+
+### Incident Reporting Guidelines
+1. Contact points
 
 If someone violates the Code of Conduct during a Carpentries related event we ask that you report it to the event host, organiser, or a designated incident response person. The person you have talked to should make a report to the Carpentries about the incident by emailing the Carpentries Code of Conduct Committee [coc@carpentries.org](mailto:coc@carpentries.org). If this is not possible for some reason, we would be very grateful if you could report the incident yourself.
 
 If a violation occurs in an online space outside of organised events, please email coc@carpentries.org about the incident.
 
-3.2 Alternate contact points
+1.2 Alternate contact points
 
 An email to coc@carpentries.org will be seen by all of the Code of Conduct Committee, who are listed at (URL). If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org). The Carpentries Executive Director Tracy Teal can also be contacted by telephone at 1-530-341-3230.
-3.3 What to do if someone is in physical danger
+
+1.3 What to do if someone is in physical danger
 
 If you believe someone is in physical danger, please ask a staff member or volunteer to contact appropriate emergency responders. All event organizers should, before the event, figure out who it would be appropriate to contact in case of an incident.
 
 Once the incident has been resolved, we ask that it be reported to the Code of Conduct committee in the same way as all other incidences.
 
-3.4 Code of Conduct Enforcement
+1.4 Code of Conduct Enforcement
 
 A detailed enforcement policy is available in the Enforcement Manual.
 
+Update Log:
+
+- 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 #### Enforcement Manual
 
@@ -116,7 +125,6 @@ At the end of every quarter, the Executive Council will publish an aggregated co
 
 **Conflicts of Interest**<br> In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
-This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal.
 
-Update Log
-- Updated on 2018-09-11 to address issues with enforcing the CoC and adjudicating reported Code of Conduct violations.
+Update Log:
+- 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. 
