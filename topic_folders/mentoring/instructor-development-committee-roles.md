@@ -41,14 +41,14 @@ The co-chairs of the Instructor Development Committee are responsible for:
 - Before the meeting
     - [ ] Set date of meeting (see below)
     - [ ] Add to the community calendar (see below)
-    - [ ] Email Instructor Development Committee email list . 
+    - [ ] Email Instructor Development Committee email list. 
         - [ ] Tweet about the meeting
         - [ ] Email individual people and encourage them to join
     - [ ] Create agenda for the meeting at least one week in advance on this [Etherpad](http://pad.software-carpentry.org/scf-mentoring) and solicit additions.  
         - [ ] Send an announcement to the committee at least one week in advance.  
         - [ ] Send another reminder for the meeting 1-2 days in advance.
-    - [ ] Look at [last month's meeting’s minutes](https://github.com/carpentries/mentoring/tree/master/minutes) to see if there’s anything that you want to follow up with or continue . 
-    - [ ] Email the following liasons for updates to write at the top of the etherpad:
+    - [ ] Look at [last month's meeting's minutes](https://github.com/carpentries/mentoring/tree/master/minutes) to see if there's anything that you want to follow up with or continue. 
+    - [ ] Email the following liaisons for updates to write at the top of the etherpad:
         - [ ] Executive Council: Raniere Silva
         - [ ] Trainers Committee: Erin Becker
         - [ ] Mentoring Groups: Kari L. Jordan 
@@ -61,21 +61,20 @@ The co-chairs of the Instructor Development Committee are responsible for:
         - Something you did in the past week that was fun / meaningful
     - [ ] If appropriate, generate + assign action items
 - After the meeting
-    - [ ] Secretary should [post the meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
+    - [ ] Secretary should [post the meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes).
     - [ ] Follow up with committee members regarding action items.  
     - [ ] Have a debriefing meeting with the other co-chair to delegate tasks moving forward and for next month's committee meeting. 
     - [ ] Click the star on the top right of the etherpad to archive a copy of the etherpad. The Secretary also does this, but it doesn’t hurt to do it twice!
 
-
 ##### Meeting Times
 
-Typically, twice in one day (to accomodate time zones) on the third Monday of every month at the following times:  
+Typically, twice in one day (to accommodate time zones) on the third Monday of every month at the following times:  
 - 13:00 UTC (Hosted by co-chair 1 or 2) 
 - 22:00 UTC (Hosted by the other co-chair)
 
 ##### Creating a Calendar Event
 
-When creating a new event or updating a old one.
+When creating a new event or updating an old one.
 
 <!-- ![Calendar event steps](/img/calendar-event.png) -->
 
@@ -85,7 +84,7 @@ When creating a new event or updating a old one.
 
 3. Set the location with the link to the zoom room.
 
-4. Set the description including the [link to the Etherpad](http://pad.software-carpentry.org/scf-mentoring)
+4. Set the description including the [link to the Etherpad](http://pad.software-carpentry.org/scf-mentoring).
 
 5. Set notifications. It is good to have one notification on the day before and another 10 minutes before the meeting as email.
 
@@ -138,7 +137,6 @@ Use the [discussion session checklist](discussion_session_checklist.html)
 #### Follow up
 - Facilitate discussion among hosts about the discussion sessions.
 - Ask for additional questions to be added temporarily to the agenda.
-
 
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 
