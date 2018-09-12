@@ -22,6 +22,26 @@ Best,
 
 [ sender name ]
 
+##### Introducin Host and Trainer (in person)
+
+Subject: Carpentries Instructor Training [date] @ [site name]: Making Introductions
+
+
+Hi all,
+
+This email is to introduce [ host_name ] of [ site_name ] with trainers [ instructor1_name ] and [ instructor2_name ] They will be teaching an in-person Carpentries Instructor Training on  [ workshop_date ] at  [site_name] .
+
+Instructors will work directly with  [host_name] to make travel arrangements. We are not part of this process. This may include airfare, ground travel, hotel, and meals/incidentals.  [host_name], it is up to you whether you want to book things directly or have instructors make their own arrangements and get reimbursed. Either way, please keep in mind our instructors are volunteering two days of their time to train your participants, so please support them in making travel and reimbursement as smooth as possible.
+
+[ instructor1_name ] and [ instructor2_name ] , please feel free to introduce yourselves and share a bit about your backgrounds. We value the background and expertise you bring to this, and want to hear about you.
+
+[ admin_name ]  will be sending an email to all of the trainees [ month when email will be sent ] with information needed to prepare for the workshop. I will also be supporting all the administrative details to make this event a success.
+
+Please let me know if you have any questions or concerns,
+
+Best,
+[ sender name ]
+
 ##### Asking Trainers to set up website
 
 Dear [Trainers],
