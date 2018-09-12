@@ -1,20 +1,20 @@
-## Mentoring Committee Roles
+## Instructor Development Committee Roles
 
 ### Co-Chairs
 
 #### Responsibilities
 
-The co-chairs of the mentoring committee are responsible for: 
+The co-chairs of the Instructor Development Committee are responsible for: 
 
-1. Scheduling monthly mentoring committee meetings.  
-    - Typically, meetings are the final Monday of every month and happen twice in one day (usually 13:00 UTC and 22:00 UTC) with each co-chair hosting one to accommodate time zones.
+1. Scheduling monthly committee meetings.  
+    - Meetings are the third Monday of every month and happen twice in one day with each co-chair hosting one to accommodate time zones.
 2. Working with fellow co-chair to plan and share the monthly meeting agenda in advance (i.e. 1 or 2 weeks ahead of time).   
 3. Leading one of the monthly committee meetings (or delegate when absent).
 4. Delegating tasks that come up each month. 
     - This can be done through a co-chairs meeting after monthly committee meeting.  
-5. Following up with other mentoring committee members regarding their duties/concerns.
-6. Gathering feedback from community and other committee members about desired mentoring efforts or outcomes.
-7. Facilitating the formation of task forces/committees as appropriate to accomplish desired mentoring outcomes.
+5. Following up with other committee members regarding their duties/concerns.
+6. Gathering feedback from community and other committee members about desired instructor development efforts and/or outcomes.
+7. Facilitating the formation of task forces/committees as appropriate to accomplish desired outcomes.
 8. Adding/modifying new committee roles as necessary.
 9. Evaluating committee roles on a yearly basis.
 
@@ -28,11 +28,11 @@ The co-chairs of the mentoring committee are responsible for:
 
 #### Requirements
 
-- Member of the mentoring committee
+- Member of the Instructor Development Committee
 
 #### To Volunteer
 
-- Join the mentoring committee and host/co-host at least one [instructor discussion](http://pad.software-carpentry.org/instructor-discussion). 
+- Join the Instructor Development Committee and host/co-host at least one [instructor discussion](http://pad.software-carpentry.org/instructor-discussion). 
 
 #### Resources and Checklists
 
@@ -41,41 +41,40 @@ The co-chairs of the mentoring committee are responsible for:
 - Before the meeting
     - [ ] Set date of meeting (see below)
     - [ ] Add to the community calendar (see below)
-    - [ ] Email mentoring committee email list . 
+    - [ ] Email Instructor Development Committee email list. 
         - [ ] Tweet about the meeting
         - [ ] Email individual people and encourage them to join
-    - [ ] Create agenda for the meeting with one week (ideally two weeks) in advance on [Mentoring Etherpad](http://pad.software-carpentry.org/scf-mentoring) and solicit additions.  
-        - [ ] Send an announcement to the committee one week (ideally two weeks) in advance.  
-        - [ ] Send another reminder for the meeting 1-2 days in advance
-    - [ ] Look at [last month's meeting’s minutes](https://github.com/carpentries/mentoring/tree/master/minutes) to see if there’s anything that you want to follow up with or continue . 
-    - [ ] Email the following liasons for updates to write at the top of the etherpad:
-        - [ ] Steering Committee: Christina Koch
+    - [ ] Create agenda for the meeting at least one week in advance on this [Etherpad](http://pad.software-carpentry.org/scf-mentoring) and solicit additions.  
+        - [ ] Send an announcement to the committee at least one week in advance.  
+        - [ ] Send another reminder for the meeting 1-2 days in advance.
+    - [ ] Look at [last month's meeting's minutes](https://github.com/carpentries/mentoring/tree/master/minutes) to see if there's anything that you want to follow up with or continue. 
+    - [ ] Email the following liaisons for updates to write at the top of the etherpad:
+        - [ ] Executive Council: Raniere Silva
         - [ ] Trainers Committee: Erin Becker
-        - [ ] Mentoring Groups: Kari Jordan 
+        - [ ] Mentoring Groups: Kari L. Jordan 
 - During the meeting
-    - [ ] Sign on to meeting at appointed time
-    - [ ] It can be nice to start the meeting with introductions/hellos.  Even if everyone knows each other, asking for everyone to say hi builds connection in the group.  (Ask someone who will be brief to go first as a model.)  Possible questions include:  
+    - [ ] Sign on to meeting at appointed time.
+    - [ ] Start the meeting with introductions.  Even if everyone knows each other, asking for everyone to say hi builds connection in the group. (Ask someone who will be brief to go first as a model.)  Possible questions include:  
         - Something you’re looking forward to soon
         - Something that’s happening in your area/location
         - What you were just working on before the meeting
         - Something you did in the past week that was fun / meaningful
     - [ ] If appropriate, generate + assign action items
 - After the meeting
-    - [ ] Secretary should [post the meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes)
-    - [ ] Follow up with committee members re: action itmes . 
-    - [ ] Have a debriefing meeting with the other co-chair to deletgate tasks moving forward and for next month's subcommittee meeting. 
-    - [ ] Click on the star on the top right of the etherpad to archive a copy of the etherpad (Mentorship secretary also does this, but it doesn’t hurt to do it twice!)
-
+    - [ ] Secretary should [post the meeting minutes](https://github.com/carpentries/mentoring/tree/master/minutes).
+    - [ ] Follow up with committee members regarding action items.  
+    - [ ] Have a debriefing meeting with the other co-chair to delegate tasks moving forward and for next month's committee meeting. 
+    - [ ] Click the star on the top right of the etherpad to archive a copy of the etherpad. The Secretary also does this, but it doesn’t hurt to do it twice!
 
 ##### Meeting Times
 
-Typically, twice in one day (to accomodate time zones) on the final Monday of every month at the following times:  
+Typically, twice in one day (to accommodate time zones) on the third Monday of every month at the following times:  
 - 13:00 UTC (Hosted by co-chair 1 or 2) 
 - 22:00 UTC (Hosted by the other co-chair)
 
 ##### Creating a Calendar Event
 
-When creating a new event or updating a old one.
+When creating a new event or updating an old one.
 
 <!-- ![Calendar event steps](/img/calendar-event.png) -->
 
@@ -85,16 +84,14 @@ When creating a new event or updating a old one.
 
 3. Set the location with the link to the zoom room.
 
-4. Set the description including the [link to the Mentoring Etherpad](http://pad.software-carpentry.org/scf-mentoring)
+4. Set the description including the [link to the Etherpad](http://pad.software-carpentry.org/scf-mentoring).
 
 5. Set notifications. It is good to have one notification on the day before and another 10 minutes before the meeting as email.
 
-6. Set guests. For mentoring subcommittee meetings those are all the members of the subcommittee. For discussion sessions those are all the instructors that you invited.
+6. Set guests. For committee meetings - invite members of the committee. For discussion sessions - invite instructors and/or check-out participants who have signed up.
 
 [repository]: https://github.com/carpentries/mentoring
 [minutes-repository]: https://github.com/carpentries/mentoring/tree/master/minutes
-
-
 
 ### Discussion Session Coordinators
 
@@ -114,11 +111,11 @@ The primary responsibilities of the Discussion Session Coordinators are:
 
 #### Requirements
 
-- Member of the Mentoring Committee
+- Member of the Instructor Development Committee
 
 #### To Volunteer
 
-- Join the Mentoring Committee, and contact the chair(s) when the position is open
+- Join the Instructor Development Committee, and contact the co-chair when the position is open.
 
 #### Checklists and Resources
 
@@ -130,8 +127,8 @@ To get access to AMY and to the Community Calendar, [contact Carpentries staff](
 - Set up discussion times:
     - add times and sign-up space to [Etherpad](http://pad.software-carpentry.org/instructor-discussion)
     - add times to Community calendar
-- Recruit discussion leaders and add them to the discussion-hosts lists. Email request templates are provided to make things easier
-- Provide updates and ask for community input on how discussions are going during the Mentoring Subcommittee meetings
+- Recruit discussion leaders and add them to the discussion hosts lists. Email request templates are provided to make things easier
+- Provide updates and ask for community input on how discussions are going during the Instructor Development Committee meetings.
 
 #### Weekly: Set Up Discussions
 
@@ -141,7 +138,6 @@ Use the [discussion session checklist](discussion_session_checklist.html)
 - Facilitate discussion among hosts about the discussion sessions.
 - Ask for additional questions to be added temporarily to the agenda.
 
-
 [host-mailing-list]: https://groups.google.com/a/carpentries.org/forum/#!forum/discussion-hosts
 
 
@@ -149,8 +145,7 @@ Use the [discussion session checklist](discussion_session_checklist.html)
 
 #### Responsibilities
 
-- Facilitate discussion among Software Carpentry and Data Carpentry instructors, based 
-on a standard discussion agenda.  
+- Facilitate discussion among The Carpentries instructors, based on a standard discussion agenda.  
 
 #### Time commitment (per session)
 
@@ -159,15 +154,13 @@ per month - more frequently is also okay!
 
 #### Requirements
 
-- Is a certified Software Carpentry or Data Carpentry Instructor and has taught at least 
-one workshop in the past year.  
+- Is a certified Software Carpentry or Data Carpentry Instructor and has taught at least one workshop in the past year.  
 
 #### To Volunteer
 
 - Contact the [Discussion Session Coordinators](../README.md)
 - Join the [Discussion Hosts mailing list][host-mailing-list]
-- Sign up!  We do recommend that you observe or co-host a session before 
-being the main host.  
+- Sign up! We do recommend that you observe or co-host a session before being the main host.  
 
 #### Checklists and Resources
 
@@ -180,15 +173,14 @@ Our main checklist for actually leading discussions is [here](../checklists-disc
 
 ### Committee Liaisons
 
-The Mentoring Committee benefits from regular updates from other committees within the organisation.
+The Instructor Development Committee benefits from regular updates from other committees within the organisation.
 Currently, the committee receives updates from the Executive Council and the Trainers Group.
 
 #### Responsibilities
 
-- Advise mentoring committee on decisions or actions that should be brought to the representative's committee
-- Update the representative's committee on mentoring committee activities
-- Bring items requiring representative's committee approval before that committee and
-report back to the mentoring committee
+- Advise committee on decisions or actions that should be brought to the representative's committee
+- Update the representative's committee on committee activities
+- Bring items requiring representative's committee approval before that committee and report back to the committee
 
 #### Time Commitment
 
@@ -196,12 +188,12 @@ report back to the mentoring committee
 
 #### Requirements
 
-- Member of the mentoring committee
+- Member of the Instructor Development Committee
 - Member of the Executive Council or the Trainers Group
 
 #### To Volunteer
 
-- Join the mentoring committee
+- Join the Instructor Development Committee
 - Discuss with other Executive Council and/or Trainers Group members
 
 ### Staff Liaison
@@ -221,7 +213,7 @@ report back to the mentoring committee
 
 #### Requirements
 
-- Member of the mentoring committee
+- Member of the Instructor Development Committee
 
 ### Secretary
 
@@ -229,7 +221,7 @@ report back to the mentoring committee
 
 The primary responsibilities of the Secretary are:
 
-- Take notes / organize note-taking during mentoring committee meetings
+- Take notes / organize note-taking during committee meetings
 - Submit (optionally summarised) notes to the board repository as a pull request after the meeting
 - Keep the `README` and repository contents up-to-date.
 
@@ -239,14 +231,14 @@ The primary responsibilities of the Secretary are:
 
 #### Requirements
 
-- Member of the Mentoring Committee
+- Member of the Instructor Development Committee
 
 #### To Volunteer
 
-- Join the Mentoring Committee, and contact the Chair(s) when the position is open.
+- Join the Instructor Development Committee, and contact the co-chairs when the position is open.
 
 #### Resources and Checklists
-Mentoring committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
+Instructor Development Committee documents are located in their own [repository](/) within the [Carpentries organisation](https://github.com/carpentries).
 
 #### Submitting meeting minutes
 
