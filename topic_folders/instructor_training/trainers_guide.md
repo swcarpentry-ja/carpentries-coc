@@ -119,63 +119,42 @@ please use x11 instead", have them log out of Zoom and log back in. On the login
 -  Clear Etherpad of data from your session.  
 -  Send each trainee an email letting them know they [passed](email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
-##### Not Good Starting Points for Demos
-Any episode other than those listed below should make an okay starting point for a teaching demonstration. 
+##### Starting Points for Demos
+Please see the table below for recommendations about choosing a starting point for trainee teaching demonstrations. 
 
-###### SWC
-  * [The Unix Shell](http://swcarpentry.github.io/shell-novice/)
-    * [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) - no live coding
-  * [Version Control with Git](http://swcarpentry.github.io/git-novice/)
-    * [Automated Version Control](https://swcarpentry.github.io/git-novice/01-basics/) - no live coding
-    *  anything after [Tracking Changes](https://swcarpentry.github.io/git-novice/04-changes) - dependencies
-  * [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/)
-    *  [Automated Version Control](https://swcarpentry.github.io/hg-novice/01-basics/) - no live coding
-    *  anything after [Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/) - dependencies
-  * [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/)
-    *  [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) - no live coding
-  * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
-     * [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) - no live coding
-  * [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/)
-     * [Writing Good Software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) - no live coding
-  *  [Automation and Make](http://swcarpentry.github.io/make-novice/) 
-      * anything after [Makefiles](https://swcarpentry.github.io/make-novice/02-makefiles/) - dependencies
-
-###### DC (published lessons only)
-  * Ecology
-     * [Data Cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
-        * anything after [Working with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine/) - dependencies
-    * [Data Management with SQL](http://www.datacarpentry.org/sql-ecology-lesson/)
-      * [Databases using SQL](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) - live coding doesn't start until middle of episode
-    * [Data Analysis and Visualization in R](http://www.datacarpentry.org/R-ecology-lesson/)
-        * [Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) - no live coding  
-        * anything after [Manipulating data frames](http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html) - dependencies
-    * [Data Analysis and Visualization in Python](http://www.datacarpentry.org/python-ecology-lesson/)
-        * anything after [Data workflows and automation](http://www.datacarpentry.org/python-ecology-lesson/05-loops-and-functions/) - dependencies
-   * Genomics 
-      * TBA
-   * Social Sciences
-     * [Data Cleaning with OpenRefine for Social Scientists](http://www.datacarpentry.org/openrefine-socialsci/)
-        * anything after [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) - dependencies
-      * [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/)
-        * [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) - no live coding  
-        * anything after [Introducing dplyr and tidyr](http://www.datacarpentry.org/r-socialsci/03-dplyr-tidyr/) - dependencies
-  * Geospatial
-    * [Geospatial Project Organization and Management](https://datacarpentry.org/organization-geospatial/)  
-      * no live coding, do not use for teaching demos  
-    * [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/)  
-      * all episodes are good starting points  
-    * [Introduction to Geospatial Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)  
-      * Many episodes in this lesson rely on data that learners have loaded from previous episodes.   
-      The following episodes **do not** rely on data loaded in previous episodes and are therefor good starting points:  
-        * [Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/index.html)  
-        * [Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/index.html)  
-        * [Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/index.html)  
-        * [Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/index.html)  
-        * [Handling Spatial Projection & CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/index.html)  
-        * [Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/index.html)  
-        * [Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/index.html)
-        The remaining episodes in this lesson **can still be used as starting points**, but trainees may need an extra minute
-        to set up their environment.  
+| Carpentry | Curriculum | Lesson  | Avoid | Good Starting Points | Notes | 
+| --------- | ---- | ------- | ------ | ----- | ----- | 
+| SWC | |  [The Unix Shell](http://swcarpentry.github.io/shell-novice/) | [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) | any other episode | [Introducing the Shell](https://swcarpentry.github.io/shell-novice/01-intro) has no live coding. |
+| SWC | |  [Version Control with Git](http://swcarpentry.github.io/git-novice/) | any other episode | <ul><li>[Setting up Git](http://swcarpentry.github.io/git-novice/02-setup)</li><li>[Creating a Repository](http://swcarpentry.github.io/git-novice/03-create)</li><li>[Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes)</li></ul> | [Automated Version Control](http://swcarpentry.github.io/git-novice/01-basics) has no live coding. Later episodes have dependencies. | 
+| SWC | | [Version Control with Mercurial](http://swcarpentry.github.io/hg-novice/) | any other episode | <ul><li>[Configuring Mercurial](http://swcarpentry.github.io/hg-novice/02-configuration/)</li><li>[Creating a Repository](http://swcarpentry.github.io/hg-novice/03-create-repo/)</li><li>[Tracking Changes to Files](http://swcarpentry.github.io/hg-novice/04-tracking/)</li></ul> | [Automated Version Control](http://swcarpentry.github.io/hg-novice/01-basics/) has no live coding. Later episodes have dependencies. | 
+| SWC | | [Using Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/) | [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) | any other episode | [Data Hygiene](https://swcarpentry.github.io/sql-novice-survey/08-hygiene/) has no live coding. |
+| SWC | | [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) | [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) | any other episode | [Debugging](https://swcarpentry.github.io/python-novice-inflammation/09-debugging/) has no live coding. | 
+| SWC | | [R for Reproducible Scientific Analysis](http://swcarpentry.github.io/r-novice-gapminder/) | [Writing Good Software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) | any other episode | [Writing Good Software](https://swcarpentry.github.io/r-novice-gapminder/16-wrap-up/) has no live coding. |
+| SWC | | [Automation and Make](http://swcarpentry.github.io/make-novice/) | any other episode | <ul><li>[Introduction](http://swcarpentry.github.io/make-novice/01-intro)</li><li>[Makefiles](http://swcarpentry.github.io/make-novice/02-makefiles)</li></ul> | Later episodes have dependencies. | 
+| | | | | | | |
+| DC | Ecology | [Data Organization in Spreadsheets for Ecologists](https://datacarpentry.org/spreadsheet-ecology-lesson/) | none | any episode | |
+| DC | Ecology | [Data Cleaning with OpenRefine for Ecologists](https://datacarpentry.org/OpenRefine-ecology-lesson/) | any other episode | [Working with OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/01-working-with-openrefine) | [Introduction](https://datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started) has no live coding. Later episodes have dependencies. |
+| DC | Ecology | [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/) | <ul><li>[Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html)</li><li>[Data Visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html)</li><li>[SQL Databases and R](https://datacarpentry.org/R-ecology-lesson/05-r-and-databases.html)</li></ul> | any other episode |  [Before We Start](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html) has no live coding. [Data Visualization with ggplot2](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html) has dependecies. [SQL Databases and R](https://datacarpentry.org/R-ecology-lesson/05-r-and-databases.html) is generally not taught in a 2 day workshop. |
+| DC | Ecology | [Data Management with SQL for Ecologists ](http://www.datacarpentry.org/sql-ecology-lesson/) | [Databases using SQL](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) | any other episode | Live coding in [Databases using SQL](http://www.datacarpentry.org/sql-ecology-lesson/00-sql-introduction/) starts in the middle of the episode. | 
+| DC | Ecology | [Data Analysis and Visualization in Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/) | any other episode | <ul><li>[Short Introduction to Programming in Python](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python/)</li><li>[Starting with Data](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data/)</li><li>[Indexing, Slicing, and Subsetting DataFrames in Python](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset/)</li><li>[Data Types and Formats](https://datacarpentry.org/python-ecology-lesson/04-data-types-and-format/)</li><li>[Combining DataFrames with Pandas](https://datacarpentry.org/python-ecology-lesson/05-merging-data/)</li><li>[Data Workflows and Automation](https://datacarpentry.org/python-ecology-lesson/06-loops-and-functions/)</li></ul> | [Before we Start](https://datacarpentry.org/python-ecology-lesson/00-before-we-start/) has no live coding. Later episodes have dependencies. | 
+| | | | | | | |
+| DC | Genomics | [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/) | TBA | TBA | |
+| DC | Genomics | [Introduction to the Command Line for Genomics](https://datacarpentry.org/shell-genomics/) | TBA | TBA | |
+| DC | Genomics | [Data Wrangling and Processing for Genomics](https://datacarpentry.org/wrangling-genomics/) | TBA | TBA | | 
+| DC | Genomics | [Introduction to Cloud Computing for Genomics](https://datacarpentry.org/cloud-genomics/) | TBA | TBA | | 
+| DC | Genomics | [Data Analysis and Visualization in R for Genomics](https://datacarpentry.org/R-genomics/) | TBA | TBA | This lesson is in alpha. Do not use for teaching demos. |
+| | | | | | | |
+| DC | Social Sciences | [Data Organization in Spreadsheets for Social Scientists](https://datacarpentry.org/spreadsheets-socialsci/) | none | any episode | |
+| DC | Social Sciences | [Data Cleaning with OpenRefine for Social Scientists](http://www.datacarpentry.org/openrefine-socialsci/) | any other episode | [Working with OpenRefine](http://www.datacarpentry.org/openrefine-socialsci/02-working-with-openrefine/) | [Introduction](https://datacarpentry.org/openrefine-socialsci/01-introduction/) has no live coding. Later episodes have dependencies. |
+| DC | Social Sciences | [Data Analysis and Visualization with R for Social Scientists](http://www.datacarpentry.org/r-socialsci/) | <ul><li>[Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/)</li><li>[Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/)</li></ul>| any other episode | [Before We Start](http://www.datacarpentry.org/r-socialsci/00-intro/) has no live coding. [Data Visualization with ggplot2](https://datacarpentry.org/r-socialsci/04-ggplot2/) has dependencies. |
+| DC | Social Sciences | [Data Analysis and Visualization with Python for Social Scientists](https://datacarpentry.org/python-socialsci/) | TBA | TBA | This lesson is in alpha. Do not use for teaching demos. |
+| DC | Social Sciences | [Data Management with SQL for Social Scientists](https://datacarpentry.org/sql-socialsci/) | TBA | TBA | This lesson is in alpha. Do not use for teaching demos. |
+| | | | | | | |
+| DC | Geospatial | [Geospatial Project Organization and Management](https://datacarpentry.org/organization-geospatial/) | all episodes | none | This lesson has no live coding. Do not use for teaching demos. |
+| DC | Geospatial | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) | none | any episode | |
+| DC | Geospatial | [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) | any other episode | <ul><li>[Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/)</li><li>[Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/)</li><li>[Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/)</li><li>[Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/)</li><li>[Handling Spatial Projection & CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/)</li><li>[Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)</li><li>[Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/)</li></ul> | Many episodes rely on data that learners have loaded from previous episodes. These can be used as starting points, but trainees may need extra time to set up their environment. | 
+| | | | | | | |
+| LC |  | all lessons | TBA | TBA | These lessons have not yet been approved for Carpentry teaching demos. |
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
