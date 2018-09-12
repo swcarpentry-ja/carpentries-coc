@@ -48,7 +48,7 @@ Examples of unacceptable behavior by participants at any Carpentries event/platf
 
 2.3 Consequences of Unacceptable Behavior
 
-Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
 Update Log:
 
@@ -57,7 +57,7 @@ Update Log:
 ### Incident Reporting Guidelines
 1. Contact points
 
-If someone violates the Code of Conduct during a Carpentries related event we ask that you report it to the event host, organiser, or a designated incident response person. The person you have talked to should make a report to the Carpentries about the incident by emailing the Carpentries Code of Conduct Committee [coc@carpentries.org](mailto:coc@carpentries.org). If this is not possible for some reason, we would be very grateful if you could report the incident yourself.
+If someone violates the Code of Conduct during a Carpentries-related event we ask that you report it to the event host, organiser, or a designated incident response person. The person you have talked to should make a report to the Carpentries about the incident by emailing the Carpentries Code of Conduct Committee [coc@carpentries.org](mailto:coc@carpentries.org). If this is not possible for some reason, we would be very grateful if you could report the incident yourself.
 
 If a violation occurs in an online space outside of organised events, please email coc@carpentries.org about the incident.
 
