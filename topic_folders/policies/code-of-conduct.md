@@ -20,11 +20,11 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
-Use welcoming and inclusive language
-Be respectful of different viewpoints and experiences
-Gracefully accept constructive criticism
-Focus on what is best for the community
-Show courtesy and respect towards other community members
+- Use welcoming and inclusive language
+- Be respectful of different viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show courtesy and respect towards other community members
 
 Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
