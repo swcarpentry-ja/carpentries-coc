@@ -63,7 +63,7 @@ If a violation occurs in an online space outside of organised events, please ema
 
 1.2 Alternate contact points
 
-An email to coc@carpentries.org will be seen by all of the Code of Conduct Committee, who are listed at <https://carpentries.org/coc-ctte/>. If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org). The Carpentries Executive Director Tracy Teal can also be contacted by telephone at 1-530-341-3230.
+An email to coc@carpentries.org will be seen by all of the Code of Conduct Committee, who are listed at [https://carpentries.org/coc-ctte/](https://carpentries.org/coc-ctte/). If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org). The Carpentries Executive Director Tracy Teal can also be contacted by telephone at 1-530-341-3230.
 
 1.3 What to do if someone is in physical danger
 
@@ -73,7 +73,7 @@ Once the incident has been resolved, we ask that it be reported to the Code of C
 
 1.4 Code of Conduct Enforcement
 
-A detailed enforcement policy is available in the Enforcement Manual.
+A detailed enforcement policy is available in the Enforcement Manual below.
 
 Update Log:
 
