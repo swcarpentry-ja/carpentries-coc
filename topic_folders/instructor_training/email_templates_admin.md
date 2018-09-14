@@ -22,7 +22,7 @@ Best,
 
 [ sender name ]
 
-##### Introducin Host and Trainer (in person)
+##### Introducing Host and Trainer (in person)
 
 Subject: Carpentries Instructor Training [date] @ [site name]: Making Introductions
 
