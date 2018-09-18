@@ -1,12 +1,12 @@
 ## Instructor Discussion Sessions
 
-The mentoring committee’s main duty is to lead and organize the instructor discussion sessions. This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](#checklists-instructor-discussion-sessions).  
+The Instructor Development Committee leads and organizes the instructor discussion sessions. This document describes how instructor discussion sessions are organized and conducted.  Checklists for the hosts and discussion organizer are [here](#checklists-instructor-discussion-sessions).  
 
 ### Terminology
 
 -   **Instructor discussion session**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of the Carpentries community who facilitates a discussion session.
--   **Discussion Session Coordinator**: a volunteer from the Mentoring Subcommittee whose responsiblities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
+-   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsiblities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
 
 ### Motivation
 
@@ -20,7 +20,7 @@ The mentoring committee’s main duty is to lead and organize the instructor dis
 
 Hosting discussion sessions is a great way to meet more people in the Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of the Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Mentoring Subcommittee](https://pad.carpentries.org/scf-mentoring) and hosts are encouraged to join the meetings of this committee. Subcommittee meetings include an update on discussion sessions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+Any instructor with experience of organising/teaching workshops and a good knowledge of the Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/scf-mentoring) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on discussion sessions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
@@ -56,7 +56,7 @@ Discussion sessions are organized and conducted through [this Etherpad](http://p
 #### Discussion Session Coordinator
 ##### Before the Discussion Session
 
-The Mentoring Subcommittee is responsible for organizing the instructor discussion sessions so that
+The Instructor Development Committee is responsible for organizing the instructor discussion sessions so that
 
 -   each month has at least eight discussion sessions,
 
@@ -76,7 +76,7 @@ The dates of instructor discussion sessions are also listed in the Carpentries [
 
 1. Log in to [AMY](https://amy.software-carpentry.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as csv to easily read each instructor's email address.
 
-1. Send the templated email to all participants as `bcc`, and copy the Mentoring Committee Chairs as well as `team@carpentries.org`.
+1. Send the templated email to all participants as `bcc`, and copy the Instructor Development Committee Co-Chairs as well as `team@carpentries.org`.
 
 1.  Email `team@carpentries.org` with any instructors with missing or invalid emails.
 
@@ -85,7 +85,7 @@ The dates of instructor discussion sessions are also listed in the Carpentries [
 
 Meetings will be hosted on a Zoom videoconference, linked via the [instructor discussion Etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
-Each instructor discussion session session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the mentoring subcommittee. 
+Each instructor discussion session session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee. 
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
@@ -119,7 +119,7 @@ The agenda should be similar to the following:
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
-Based on discussion among the mentoring committee, temporary questions may be added to the agenda for a month of sessions, in order to collect data on specific issues.  
+Based on discussion among the Instructor Development Committee, temporary questions may be added to the agenda for a month of sessions, in order to collect data on specific issues.  
 
 - Take notes
 
@@ -129,7 +129,7 @@ Based on discussion among the mentoring committee, temporary questions may be ad
 - Archive the Etherpad by clicking on the star in the top right corner.  
 - Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)
     - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
-    - This questionnaire will automatically send an email to the mentoring co-chairs and to checkout@carpentries.org.
+    - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to checkout@carpentries.org.
 - Clear the information from your session (date/time, attendees, notes) from the etherpad. 
 - (Optional) write a blog post about interesting points that came up in discussion; see 
 [this template](template-blog-about-debriefing-session.md) as a starting point.
