@@ -49,24 +49,13 @@ New rooms can be added following [these instructions](#).
 
 #### Viewing Zoom Room availability
 
-some other tesxt here, is antying happening
 Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries staff members can actually book a room. If a room is available, please contact a staff member or team@carpentries.org if you would like to make a room reservation.
 
-Room availability can be viewed here: as you can see 
-and here
-
+Room availability can be viewed here.
 
 Beyond this, checking to see if a room is available is just like you might for a conference room in real life.  Your office may have a calendar booking system but peeking in is the only way to know if a room is actually occupied.  You may use a room if no one is in it, but may get bumped if someone has a reservation.
 
-
-
-<div id = 'cc'>XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx</div>
-
-
-
-
-
-
+<div id = 'cc'></div>
 
 #### Adding an Event to the Community Calendar
 
