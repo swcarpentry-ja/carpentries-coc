@@ -6,26 +6,10 @@
   var timezone = jstz.determine();
   var pref = '<https://calendar.google.com/calendar/embed?title=FAKETEST&amp;mode=WEEK&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=carpentries.org_3430303438333733343331%40resource.calendar.google.com&amp;color=%23B1365F&amp;ctz=';
   var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
-    var pref = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A&amp;ctz='
   var iframe_html = pref + timezone.name() + suff;
-  var x = document.getElementById("cc");
-   document.getElementById('cc').innerHTML = iframe_html
-  document.getElementById('cc').innerHTML = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Community%20Calendar%20&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&amp;color=%231B887A" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>';
-  console.log(timezone.name());
-  console.log(x);
-  var y = 999;
-  console.log(y)
+  document.getElementById('cc').innerHTML = iframe_html
   })
 </script>
-
-
-
-
-
-
-
-
-
 
 
 
