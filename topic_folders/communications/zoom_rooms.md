@@ -69,7 +69,7 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 * Select a room.
     * Hovering over a room will show a description of what that room is used for.
 
-![View Rooms](images/view_rooms.png)
+    ![View Rooms](images/view_rooms.png)
 
     * Only available rooms will be listed with the room's capacity.  If you are scheduling a recurring event, any future conflict will prevent a given room from being listed as available.
     * Multiple rooms can be selected for a single event.
