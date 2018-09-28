@@ -56,17 +56,27 @@ Beyond this, checking to see if a room is available is just like you might for a
 
 #### Adding an Event to the Community Calendar
 
-Note while anyone can view room availability, only Carpentries staff members may reserve a Zoom room.
+Note while anyone can view room availability, only Carpentries staff members may book events or reserve a Zoom room.
 
 To add an event to the [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&ctz=America%2FNew_York):
 
 * Give the event a meaningful title ("Demos" is not as good as "Instructor Training Teaching Demos")
 * List the time zone in UTC - not your local time zone.  Events set in local time zones do not always correctly adjust for daylight savings time.
 * Add a description, including a link to the relevant etherpad or other document.
+
+![Event Setup](images/event_setup.png)
+
 * Select a room.
-    * Only available rooms will be listed.  If you are scheduling a recurring event, any future conflict will prevent a given room from being lsited as available.
+    * Hovering over a room will show a description of what that room is used for.
+
+![View Rooms](images/view_rooms.png)
+
+    * Only available rooms will be listed with the room's capacity.  If you are scheduling a recurring event, any future conflict will prevent a given room from being listed as available.
     * Multiple rooms can be selected for a single event.
-    * If you select a room and immediately remove it, it may not immediately appear as available again until you close out the edit event screen and enter it again.
+    * If you select a room and immediately remove it, it may not appear as available again until you close out the edit event screen and enter it again.
+    * The event will now show up on the Carpentries Community Calendar and the Zoom Rooms Calendar.
+
+![View Rooms](images/view_rooms.png)
 
 
 #### Creating a Zoom Room Option on Google Calendars
