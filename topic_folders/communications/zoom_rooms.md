@@ -30,7 +30,7 @@ The Carpentries offers three Zoom rooms for public community events.  Zoom rooms
 
 #### General Room Usage and Links
 
-Rooms are generally used as follows.  However, any room can be used for other purposes if available.
+Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
 Links below will open Zoom and enter the respective room.
 
 * [**Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
@@ -67,13 +67,15 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 ![Event Setup](images/event_setup.png)
 
 * Select a room.
-    * Hovering over a room will show a description of what that room is used for.
+    * Hovering over a room will show a description of what that room is used for.  Click on the room to reserve it.
 
     ![View Rooms](images/view_rooms.png)
 
-    * Each available room will be listed with the room's capacity. If you are scheduling a recurring event, any future conflict will prevent a given room from being listed as available.
+    * Each available room will be listed (along with its capacity). If you are scheduling a recurring event, any future conflict will prevent a given room from being listed as available.
     * Multiple rooms can be selected for a single event.
+    * Click on a room to select it.
     * If you select a room and immediately remove it, it may not appear as available again until you close out the edit event screen and enter it again.
+    * Save the event.
     * The event will now show up on the Carpentries Community Calendar and the Zoom Rooms Calendar.
 
 ![View Rooms](images/view_rooms.png)
