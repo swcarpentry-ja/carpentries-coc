@@ -49,11 +49,13 @@ Beyond this, checking to see if a room is available is just like you might for a
 
 <div id = 'cc'>Text here to be replaced by calendar</div>
 
+<p>
+
 #### Adding an Event to the Community Calendar
 
 Note while anyone can view room availability, only Carpentries staff members may reserve a Zoom room.
 
-To add an event to the Community Calendar:
+To add an event to the [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&ctz=America%2FNew_York):
 
 * Give the event a meaningful title ("Demos" is not as good as "Instructor Training Teaching Demos")
 * List the time zone in UTC - not your local time zone.  Events set in local time zones do not always correctly adjust for daylight savings time.
