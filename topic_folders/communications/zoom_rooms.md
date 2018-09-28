@@ -30,7 +30,7 @@ The Carpentries offers three Zoom rooms for public community events.  Zoom rooms
 
 #### General Room Usage and Links
 
-Rooms are generally uses as follows.  However, any room can be used for other purposes if available.
+Rooms are generally used as follows.  However, any room can be used for other purposes if available.
 Links below will open Zoom and enter the respective room.
 
 * [**Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
