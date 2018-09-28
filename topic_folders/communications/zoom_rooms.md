@@ -28,6 +28,7 @@ The Carpentries offers three Zoom rooms for public community events.  Zoom rooms
 #### General Room Usage and Links
 
 Rooms are generally uses as follows.  However, any room can be used for other purposes if available.
+Links below will open Zoom and enter the respective room.
 
 * [**Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
 * [**Room 2:**](https://carpentries.zoom.us/my/carpentriesroom2) Instructor Training backup
@@ -42,7 +43,7 @@ Each room can have a host who will have privileges to mute people, create breako
 
 Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries staff members can actually book a room. If a room is available, please contact a staff member or team@carpentries.org if you would like to make a room reservation.
 
-Room availability can be viewed here.
+Room availability can be viewed below.
 
 Beyond this, checking to see if a room is available is just like you might for a conference room in real life.  Your office may have a calendar booking system but peeking in is the only way to know if a room is actually occupied.  You may use a room if no one is in it, but may get bumped if someone has a reservation.
 
