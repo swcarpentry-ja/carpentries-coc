@@ -79,6 +79,7 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 ![View Rooms](images/view_rooms.png)
 
 <p>
+
 #### Creating a Zoom Room Option on Google Calendars
 
 This will only need to be done once for each new room.  This is already done for Zoom Rooms 1, 2, and 3.  If additional Zoom rooms are added, they will need to be set up here.  This must be done by someone with admin access to The Carpentries' Google console.  
@@ -97,6 +98,6 @@ To add a new "room" in this "building" - click on the yellow plus sign next to "
 * Resource name: Give this an easily recognizable name like "Zoom Room 4"
 * Capacity: 100 (standard for all Zoom rooms)
 * Features: *leave blank*
-* User visible description: *leave blank*
+* User visible description: Note what this room is used for.
 
 When done, click "ADD RESOURCE" and this new room should be on your list of rooms.  This room will now be available for scheduling events as described below.
