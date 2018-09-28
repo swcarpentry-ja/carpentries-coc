@@ -4,17 +4,20 @@
 <script type="text/javascript">
   $(function(){
   var timezone = jstz.determine();
-  var pref = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%Zoom%20Room%20Calendar';
-  var room1 = 'src=carpentries.org_35343537393139313639@resource.calendar.google.com';
-  var room2 = 'src=carpentries.org_3339393239343835343734@resource.calendar.google.com';
-  var room3 = 'src=carpentries.org_3430303438333733343331@resource.calendar.google.com';
-  var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
+  // var pref = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar';
+  // var room1 = 'src=carpentries.org_35343537393139313639@resource.calendar.google.com';
+  // var room2 = 'src=carpentries.org_3339393239343835343734@resource.calendar.google.com';
+  // var room3 = 'src=carpentries.org_3430303438333733343331@resource.calendar.google.com';
+  // var suff = '" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe>';
   // var full_link = pref + '&' + room1 + '&' + room2 + '&' room3 + '&' + timezone.name() + '&' suff;
   // var pref = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%Zoom%20Room%20Calendar%20&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734%40resource.calendar.google.com&src=carpentries.org_3430303438333733343331%40resource.calendar.google.com&ctz=';
   // var iframe_html = pref + timezone.name() + suff;
-  var just_a_link = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734@resource.calendar.google.com&src=carpentries.org_3430303438333733343331@resource.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
-  document.getElementById('cc').innerHTML = just_a_link;
-  console.log('somethign here'); 
+  // var just_a_link = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734@resource.calendar.google.com&src=carpentries.org_3430303438333733343331@resource.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  var pt1 = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734@resource.calendar.google.com&src=carpentries.org_3430303438333733343331@resource.calendar.google.com&ctz='
+  var pt2 = '" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  full_link = pt1 + timezone.name() + pt2;
+  document.getElementById('cc').innerHTML = full_link;
+  console.log(full_link); 
   // console.log(iframe_html);  
   });
 </script>
