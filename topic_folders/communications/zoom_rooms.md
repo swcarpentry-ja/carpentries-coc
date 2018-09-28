@@ -71,14 +71,14 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 
     ![View Rooms](images/view_rooms.png)
 
-    * Only available rooms will be listed with the room's capacity.  If you are scheduling a recurring event, any future conflict will prevent a given room from being listed as available.
+    * Each available room will be listed with the room's capacity. If you are scheduling a recurring event, any future conflict will prevent a given room from being listed as available.
     * Multiple rooms can be selected for a single event.
     * If you select a room and immediately remove it, it may not appear as available again until you close out the edit event screen and enter it again.
     * The event will now show up on the Carpentries Community Calendar and the Zoom Rooms Calendar.
 
 ![View Rooms](images/view_rooms.png)
 
-
+<p>
 #### Creating a Zoom Room Option on Google Calendars
 
 This will only need to be done once for each new room.  This is already done for Zoom Rooms 1, 2, and 3.  If additional Zoom rooms are added, they will need to be set up here.  This must be done by someone with admin access to The Carpentries' Google console.  
