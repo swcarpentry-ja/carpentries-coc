@@ -7,7 +7,7 @@
   var pt1 = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734@resource.calendar.google.com&src=carpentries.org_3430303438333733343331@resource.calendar.google.com&ctz='
   var pt2 = '" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
   full_link = pt1 + timezone.name() + pt2;
-  document.getElementById('cc').innerHTML = full_link;
+  document.getElementById('zoom_calendar').innerHTML = full_link;
   console.log(full_link); 
   });
 </script>
@@ -35,7 +35,7 @@ Zoom room calendar views are public - anyone can view whether a room is availabl
 
 Room availability can be viewed below.  Remember, there are three separate rooms available.  If you see fewer than three rooms booked at any given time, at least one room is available for use.
 
-<div id = 'cc'>Placeholder: Embedded Zoom Room Calendar</div>
+<div id = 'zoom_calendar'>Placeholder: Embedded Zoom Room Calendar</div>
 
 <p>
 
