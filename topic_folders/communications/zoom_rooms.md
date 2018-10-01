@@ -29,9 +29,6 @@ Links below will open Zoom and enter the respective room.
 
 Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
 
-<!-- New rooms can be added following [these instructions](#). -->
-
-
 #### Viewing Zoom Room availability
 
 Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries staff members can actually book a room. If a room is available, please contact a staff member or team@carpentries.org if you would like to make a room reservation.
