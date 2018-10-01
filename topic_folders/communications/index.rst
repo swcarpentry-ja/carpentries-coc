@@ -10,4 +10,5 @@ COMMUNICATION
    newsletter.md
    slack-and-email.md
    commons.md
+   presentations.md
    zoom_rooms.md
