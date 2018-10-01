@@ -35,7 +35,7 @@ Zoom room calendar views are public - anyone can view whether a room is availabl
 
 Room availability can be viewed below.  Remember, there are three separate rooms available.  If you see fewer than three rooms booked at any given time, at least one room is available for use.
 
-<div id = 'cc'>Text here to be replaced by calendar</div>
+<div id = 'cc'>Placeholder: Embedded Zoom Room Calendar</div>
 
 <p>
 
