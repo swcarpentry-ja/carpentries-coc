@@ -33,9 +33,7 @@ Each room can have a host who will have privileges to mute people, create breako
 
 Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries staff members can actually book a room. If a room is available, please contact a staff member or team@carpentries.org if you would like to make a room reservation.
 
-Room availability can be viewed below.
-
-Beyond this, checking to see if a room is available is just like you might for a conference room in real life.  Your office may have a calendar booking system but peeking in is the only way to know if a room is actually occupied.  You may use a room if no one is in it, but may get bumped if someone has a reservation.
+Room availability can be viewed below.  Remember, there are three separate rooms available.  If you see fewer than three rooms booked at any given time, at least one room is available for use.
 
 <div id = 'cc'>Text here to be replaced by calendar</div>
 
