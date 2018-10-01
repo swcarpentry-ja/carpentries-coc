@@ -8,7 +8,7 @@
   var pt2 = '" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
   full_link = pt1 + timezone.name() + pt2;
   document.getElementById('zoom_calendar').innerHTML = full_link;
-  console.log(full_link); 
+  // console.log(full_link); 
   });
 </script>
 
