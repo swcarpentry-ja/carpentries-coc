@@ -12,8 +12,7 @@
   });
 </script>
 
-
-### Calendaring Events
+### Scheduling Online Community Events
 
 The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for events such as discussion sessions, teaching demos, and committee meetings.
 
