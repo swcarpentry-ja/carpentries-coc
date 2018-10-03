@@ -84,11 +84,9 @@ This email is to introduce [ host_name ] of [ site_name ] with instructors [ ins
 
 I also want to introduce our Workshop Administrator, [ admin_name ]. [ She or he ] will be supporting all of the logistical details with this workshop.
 
-Next steps:
+You can all read more about the roles of workshop hosts, instructors, and helpers here (http://docs.carpentries.org/topic_folders/hosts_instructors/index.html). I'll highlight a few things here.  There's a lot of information here, so please take some time to read through things carefully and ask questions as needed.
 
-Instructors will work directly with [ host_first_name ] to make travel arrangements. We are not part of this process. This may include airfare, ground travel, hotel, and meals/incidentals. [ host_first_name ], it is up to you whether you want to book things directly or have instructors make their own arrangements and get reimbursed. Either way, please keep in mind our instructors are volunteering two days of their time to teach with you, so please support them in making travel and reimbursement as smooth as possible.
-
-You can all read more about the roles of workshop hosts, instructors, and helpers here (http://docs.carpentries.org/topic_folders/hosts_instructors/index.html). I'll highlight a few things here.
+Instructors will work directly with [ host_first_name ] to make travel arrangements. We are not part of this process. This may include airfare, ground travel, hotel, and meals/incidentals. [ host_first_name ], it is up to you whether you want to book things directly or have instructors make their own arrangements and get reimbursed. Either way, please keep in mind our instructors are volunteering two days of their time to teach with you, so please support them in making travel and reimbursement as smooth as possible. Instructors, please be sure to review the site's policies around making travel arrangements and handling reimbursements - we want to be sure everything is handled quickly and efficiently.
 
 [ host_first_name ] , can you share a little about who your learners are and what you and they are expecting? That will help our instructors be prepared. We also like to have a couple of helpers at each workshop from the local community. Would you be able to help secure a couple of helpers? They don't need to be connected with us; they just need a good understanding of the technologies we teach and an enthusiasm to help others.
 
