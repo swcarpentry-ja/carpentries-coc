@@ -49,3 +49,9 @@ The newsletter will now be locked. If any changes need to be made after ther new
 After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
 
 As soon as the newsletter has been sent out, move it to the **Carpentry Clippings** folder. This adds it to the [searchable online archive](https://carpentries.org/newsletter/) findable through our website. To move it, check the box next to the newsletter and select the Carpentry Clippings folder when the `Move to` option appears.
+
+#### Tips and Tricks
+
+The Mailchimp editor is not entirely user-friendly.  Formatting changes may appear in the edit window but not in the preview document.  In this case you may need to select text beyond just the text you need to format, click *Clear styles*, and then re-format as needed.
+
+[Mailchimp customer service chat](https://us14.admin.mailchimp.com/support/) is hard to find on their website but quite responsive to requests for help.
