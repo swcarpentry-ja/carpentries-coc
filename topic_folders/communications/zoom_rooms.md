@@ -4,7 +4,7 @@
 <script type="text/javascript">
   $(function(){
   var timezone = jstz.determine();
-  var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=DAY&'
+  var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=WEEK&'
   var rm1 = 'src=carpentries.org_31323339303138313831%40resource.calendar.google.com&color=%23711616&'
   var rm2 = 'src=carpentries.org_32323738323534333230@resource.calendar.google.com&color=%23BE6D00&'
   var rm3 = 'src=carpentries.org_393634313731303431@resource.calendar.google.com&color=%232F6309&'
