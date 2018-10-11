@@ -4,12 +4,12 @@
 <script type="text/javascript">
   $(function(){
   var timezone = jstz.determine();
-  var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=WEEK&'
+  var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=DAY&'
   var rm1 = 'src=carpentries.org_31323339303138313831%40resource.calendar.google.com&color=%23711616&'
   var rm2 = 'src=carpentries.org_32323738323534333230@resource.calendar.google.com&color=%23BE6D00&'
   var rm3 = 'src=carpentries.org_393634313731303431@resource.calendar.google.com&color=%232F6309&'
   var tz_flag = 'ctz='
-  var frame_close = '" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>'
+  var frame_close = '" style="border: 0" width="700" height="550" frameborder="0" scrolling="no"></iframe>'
   var full_link =  frame_setup + rm1 + rm2 + rm3 + tz_flag + timezone.name() + frame_close;
   document.getElementById('zoom_calendar').innerHTML = full_link;
   // console.log(full_link); 
