@@ -6,7 +6,7 @@ Subject: Carpentries instructor training for [ site_name ]
 
 Hi [ site contact name ],
 
-I'm reviewing all our new Carpentries memberships and I see that [ site_name ] is about to join us as a member site. So I wanted to check in with you about online instructor training for your team -- one of the benefits offered to you as part of the membership package.
+I'm reviewing all our new Carpentries memberships and I see that [ site_name ] is about to [ join us / renew with us ] as a member site. So I wanted to check in with you about online instructor training for your team -- one of the benefits offered to you as part of the membership package.
 
 We have a calendar ready for online training events in [ date_range ].  
 
@@ -14,7 +14,7 @@ You can read more about the whole process here:  http://carpentries.github.io/in
 
 and check out our training calendar here:  https://carpentries.github.io/instructor-training/training_calendar/
 
-If you're interested in joining one of these events, please email me back to let me know.  Note that each event closes one month before the event.  If you'd prefer to wait until [ next_time_frame ] for this training, I'll have a [ next_time_frame ] calendar ready in [ month ].  In any case, you'll have [ number ]  slots available, and ideally they must all attend the same event together -- we want to build a cohort at your site. If this proves to be prohibitive please let me know so we can discuss other options.
+If you're interested in joining one of these events, please email me back to let me know.  Note that each event closes one month before the event.  If you'd prefer to wait until [ next_time_frame ] for this training, I'll have a [ next_time_frame ] calendar ready in [ month ].  In any case, you'll have [ number ]  slots available, and ideally they should all attend the same event together -- we want to build a cohort at your site. If this proves to be prohibitive please let me know so we can discuss other options.
 
 I'm excited to see you build a team of Carpentries instructors at [ site_name ] which will put you on track to running Carpentries workshops with onsite instructors. Let me know if you have questions about how all this works.  I'd be happy to answer any questions by email or set some time to talk by phone. Thanks -  I'm looking forward to get your team on board!
 
