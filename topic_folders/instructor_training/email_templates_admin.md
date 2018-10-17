@@ -145,26 +145,6 @@ Best,
 [ sender name ]
 
 
-##### Zoom information for Trainers
-
-Dear [Trainers],
-
-Thanks for teaching the upcoming online Carpentries instructor training event on [ DATES & TIMEZONE ].  This event will include trainees from [Site 1 and Site 2, as well as some trainees from our open applicant pool].
-
-For this event, you will be using this Zoom room. Logging in with these credentials will give you host access and will let you make break out rooms, mute people, etc.  Please do not share the credentials with anyone.  Participating sites have already been given the direct link.
-
-* Username: room1@carpentries.org
-* Password:  (hide for template email)
-* Direct link: https://carpentries.zoom.us/my/carpentriesroom1
-
-You can read more about how to use Zoom here (https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html?highlight=zoom#zoom-manual-online-trainings).
-
-Please let me know if you have questions about using Zoom or any other questions about this event.  Good luck with everything!
-
-Best,
-
-[ sender name ]
-
 ##### Response to Instructor Training Application
 *This email is usually sent with a script. The canonical version of the text is the version below.*
 
