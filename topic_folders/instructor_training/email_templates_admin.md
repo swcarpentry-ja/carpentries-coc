@@ -144,6 +144,20 @@ I'm looking forward to having your team on board! Please let me know if you have
 Best, 
 [ sender name ]
 
+##### Response to Instructor Training Inquiry
+Hi [ name ],
+
+Thank you for your interest in becoming a Carpentry Instructor! It sounds like you might be interested in applying to our Open Instructor Training program. Training slots are made available for Open applicants when they are not claimed by a member institution one month in advance. Because this happens unpredictably, we sometimes have a backlog of applications. We are currently working to address these needs and anticipate reduced wait times for Open training, but there may still be some delay.
+
+We rank applications on a rolling basis, and we encourage all interested parties to apply. Many things influence selection, including regional, institutional, discipline, and diversity-related priorities, as well as relevant background and involvement with the organization. Multiple applicants from a single institution generally will not be invited at once, but may be accepted individually over time. To more rapidly build a trainer community at your institution, consider becoming a Member. For more information see: https://software-carpentry.org/scf/join/ and http://www.datacarpentry.org/partnerships/.
+
+The instructor training application is here: https://amy.software-carpentry.org/forms/request_training/. In order to have your application considered for Open training, be sure to leave the “group” entry space blank. Note that the expectations for instructors are also listed on this page, and are a good idea to check before applying.
+
+Thank you again for your interest in the Carpentries! I look forward to seeing you around the community.
+
+Best regards,
+
+[ sender name ]
 
 ##### Response to Instructor Training Application
 *This email is usually sent with a script. The canonical version of the text is the version below.*
