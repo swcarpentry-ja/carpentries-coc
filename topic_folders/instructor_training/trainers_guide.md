@@ -24,15 +24,22 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 ###### Two weeks before the event
 -  Introduce yourself to your trainees.  
 
-###### One week before the event (if teaching remotely)   
--  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
--  Plan logistics with co-Trainer(s).  
--  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
--  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+###### One week before the event      
+-  Plan logistics with co-Trainer(s)
+-  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
+-  If teaching remotely: 
+  -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
+  -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
+  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+-  If teaching in person:
+  - Confirm with your host that breakout rooms are available or make an alternate plan
+  - Create a plan for printing handouts & determine who will bring sticky notes
+  - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
+  - Check on availability/timing of coffee, lunch, or any other details that matter to you 
 
 ###### During the event
 -  Take attendance.  
--  Remind trainees to fill out application (member events only).   
+-  Remind member trainees to fill out application (Open Training applicants have already done this).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
 -  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
@@ -163,12 +170,12 @@ Please see the table below for recommendations about choosing a starting point f
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
-[minute-cards-template]: https://docs.google.com/forms/d/1ZvNx2co9BLEBTzDavUE7ZkAhkekBa19_5aIRFAdQIqw/edit
+[minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
-[demo-pad]: http://pad.software-carpentry.org/teaching-demos
+[demo-pad]: http://pad.software-carpentry.org/teaching-demos-recovered
 [demo-rubric]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
 
 
