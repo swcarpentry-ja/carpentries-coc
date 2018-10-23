@@ -33,24 +33,21 @@ If there's absolutely no way that you'll be able to install the software locally
 
 #### Talking About the Code of Conduct
 
-The Carpentries Code of Conduct is a key tool for fostering and upholding an inclusive, respectful learning environment.  But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about.  Here's a sample of how you might introduce the Code of Conduct -- please don't use this verbatim, but adapt it to your own audience and style of introduction: 
+The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) is a key tool for fostering and upholding an inclusive, respectful learning environment.  But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about.  Here's a sample of how you might introduce the Code of Conduct -- please don't use this verbatim, but adapt it to your own audience and style of introduction: 
 
-> It is really important to us as Instructors that this workshop provide a welcoming environment for everyone. People learn best when they feel comfortable, when they feel they belong. Software and Data Carpentry both subscribe to a Code of Conduct - you can find a link to it on line x on the workshop etherpad.  The Code of Conduct is our way of saying that this is a place for you -- you belong here and deserve to be treated with respect while you are here.  The Code of Conduct could be summed up as "be kind and respectful."
+> The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 > 
-> What does that mean?
+> What kinds of behaivors are expected?
+>
+> All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+>
+> * Use welcoming and inclusive language
+> * Be respectful of different viewpoints and experiences
+> * Gracefully accept constructive criticism
+> * Focus on what is best for the community
+> * Show courtesy and respect towards other community members
 > 
-> Apart from prohibiting the obviously unacceptable stuff like harassing or vilifying anyone, it also means this:
-> 
-> * Please don't make someone feel stupid because they don't know what you know.
-> * Please don't try to make anyone feel bad because of the hardware or software tools they use.
-> * Please don't talk over people - everyone has an equal right to be heard.
-> * Please don't mock people's questions.
-> 
-> This is a workshop for beginners. If you know nothing at all about what we are going to be teaching here today, that means you're in the right place!
-> 
-> We are all learners here - including your Instructors! We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Observing the code makes the workshop better for everyone ... so ... what questions or comments do you have for me about that? ... If no-one has any questions or comments, then let's get started!"
-
-For details on how to handle Code of Conduct violations, see the policy page in the handbook: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines
+> Examples of unacceptable behavior by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the  details on how to handle Code of Conduct violations. 
 
 #### Using Exercises
 
