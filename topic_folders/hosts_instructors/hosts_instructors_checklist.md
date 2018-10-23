@@ -20,6 +20,7 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Arrange for [required materials and equipment](workshop_needs.html)
 * Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 * Email learners to remind them of workshop location, timing, and software installation requirements
+* Organize a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
 * Meet the instructors and learners
