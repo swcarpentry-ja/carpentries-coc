@@ -163,3 +163,7 @@ The Executive Council is responsible for advertising and interviewing for the po
 
 ### Bylaws
 Any changes to these bylaws require a majority vote of the Executive Council. The Executive Council must re-approve these rules or an amended version every two years.
+
+---
+Change log:
+- [Approved 2018-11-1 by the Executive Council](https://github.com/carpentries/executive-council-info/issues/7)
