@@ -21,6 +21,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * Name tags to help people get to know each other.
 * Extra pens and paper in case people want to take notes by hand
 * Sign in sheets
+* Flipchart or whiteboard with felt-tip pen (ideally several in different colors) for the instructor to visualise concepts or note important details.
 
 #### Accessibility
 
