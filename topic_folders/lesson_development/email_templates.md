@@ -20,7 +20,7 @@ This Committee will meet bi-annually to:
 
 Additionally Committee members are expected to:
 - Be familiar with [ carpentry org ] [ lesson title ] lesson content and respond to content-related issues on individual lessons as needed. 
-- Act as Maintainers for the '[ lesson title ] workshop' repository, making sure it’s up to date with the overall goals of the workshops  and correct links to curriculum and update as needed.
+- Act as Maintainers for the '[ lesson title ] workshop' repository, making sure it’s up to date with the overall goals of the workshops and correct links to curriculum and update as needed.
 
 Prior to lesson release (currently on a 6 month schedule): 
 - Review individual lessons to make sure curriculum-level learning objectives are being met by the set of lessons.
