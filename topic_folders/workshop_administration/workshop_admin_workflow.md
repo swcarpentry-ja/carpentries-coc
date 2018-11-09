@@ -53,7 +53,7 @@
 
 1. After workshop is over Workshop Administrator sends email asking how things went and collecting attendance data.
 
-1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents github repo](https://github.com/swcarpentry/workshop_documents).
+1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).
 
 
 #### For self organized workshops
@@ -73,4 +73,4 @@
 
 1. After workshop is over Workshop Administrator sends email asking how things went and collecting attendance data.
 
-1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents github repo](https://github.com/swcarpentry/workshop_documents).
+1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).

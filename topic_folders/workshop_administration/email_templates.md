@@ -203,7 +203,7 @@ Below you will find the pre & post survey result links for your workshop on [ DA
 * pre: [ LINK GOES HERE ]
 * post:[ LINK GOES HERE ]
   
-As a reminder, the actual survey links for learners are found on the workshop github page [ LINK ]. 
+As a reminder, the actual survey links for learners are found on the workshop GitHub page [ LINK ]. 
 
 Here are a few things for you to keep in mind as you prepare for your workshop: 
 
