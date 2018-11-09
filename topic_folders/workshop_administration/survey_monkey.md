@@ -78,7 +78,7 @@ It will be given a sequential number. Click on the `...` to rename it to the wor
 
 If requested, raw data as csv can be exported and shared with hosts and instructors.
 
-From the interal view of the survey results click the green `Save as` button at the top right. This time, click `Export file`.
+From the internal view of the survey results click the green `Save as` button at the top right. This time, click `Export file`.
 
 ![Survey results save as](images/surveymonkey_saveas.png)
 

@@ -4,7 +4,7 @@ We welcome blog posts from our community members about their experiences with th
 
 #### Blogging about instructor training events
 
-*What was interesting about your group of trainees?* Tell us about your trainees. Were they from a specific domain or field or spread across a wide range of fields? Do they come from a region or institutional type that is under-represented in the Carpentry community? What was their previous involvement with the Carpentries? What are they excited about about becoming Carpentry instructors?
+*What was interesting about your group of trainees?* Tell us about your trainees. Were they from a specific domain or field or spread across a wide range of fields? Do they come from a region or institutional type that is under-represented in the Carpentry community? What was their previous involvement with the Carpentries? What are they excited about becoming Carpentry instructors?
 
 *How did your trainees respond to the curriculum?* Did you do anything differently from the standard instructor training curriculum? How did it work out? What parts of the training resonated with your trainees? Were there any parts that didn’t go as well? Why do you think that was and what could be done differently next time?
 

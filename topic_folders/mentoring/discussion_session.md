@@ -85,7 +85,7 @@ The dates of instructor discussion sessions are also listed in the Carpentries [
 
 Meetings will be hosted on a Zoom videoconference, linked via the [instructor discussion Etherpad](http://pad.software-carpentry.org/instructor-discussion).
 
-Each instructor discussion session session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee. 
+Each instructor discussion session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee. 
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes

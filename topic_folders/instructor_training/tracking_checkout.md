@@ -26,7 +26,7 @@
 1. Discussion session hosts will email a list of trainees who attended a discussion session to [checkout@carpentries.org](mailto:checkout@carpentries.org).
 1. Carpentries Staff will go to this person's record in AMY and [mark this step as complete](../workshop_administration/amy_manual.html), including a link to their contribution.
 
-#### Recording Extentions to Complete Checkout
+#### Recording Extensions to Complete Checkout
 
 1. A trainee may ask for an extension on their three months to complete their checkout.  
 1. Carpentries staff will go to this person's record in AMY and make a comment in the notes field that an extension has been granted for three months from when requested.
