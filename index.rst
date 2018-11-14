@@ -17,6 +17,7 @@ The Carpentries Handbook
    topic_folders/regional_communities/index.rst
    topic_folders/hosts_instructors/index.rst
    topic_folders/workshop_administration/index.rst
+   topic_folders/governance/index.rst
 
 .. toctree::
    :maxdepth: 2
