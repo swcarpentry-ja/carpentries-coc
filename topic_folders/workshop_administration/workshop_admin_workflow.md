@@ -5,7 +5,7 @@
 1. One of the following occurs:
     * Someone submits a workshop request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/).
     * Someone emails team@carpentries.org to request a workshop.
-    * Someone contacts a staff memeber to request a workshop.
+    * Someone contacts a staff member to request a workshop.
 
 1. Program Manager or Workshop Administrator for that region responds to request by email or phone/video call.
     * Give them more information about the Carpentries as needed.
@@ -15,7 +15,7 @@
         * What curriculum content do they want to cover?
         * What timeframe are they looking to host a workshop?
             * Remind them we need 2-3 months notice
-            * Remind them to consider their own schedule and other events that may affect things like room availabiltiy
+            * Remind them to consider their own schedule and other events that may affect things like room availability
         * Remind them of the budget
             * US$2500 standard fee due to our fiscal sponsor (for non-member university, government, or non-profit sites only)
             * Costs for instructor travel (airfare, ground travel, hotel, and meals/incidentals) are managed entirely between host and instructors. We will look for local instructors but can not guarantee it. Member sites are still responsible for travel costs.
@@ -53,7 +53,7 @@
 
 1. After workshop is over Workshop Administrator sends email asking how things went and collecting attendance data.
 
-1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents github repo](https://github.com/swcarpentry/workshop_documents).
+1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).
 
 
 #### For self organized workshops
@@ -73,4 +73,4 @@
 
 1. After workshop is over Workshop Administrator sends email asking how things went and collecting attendance data.
 
-1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents github repo](https://github.com/swcarpentry/workshop_documents).
+1. Workshop Administrator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).

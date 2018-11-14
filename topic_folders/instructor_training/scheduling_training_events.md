@@ -2,7 +2,7 @@
 
 The Program Manager collects availability from Instructor Trainers and generates a four month training calendar (January-April, May-August, September-December) three times a year.
 
-Trainees will be asked for their availibility in October, March, and July for each four month block, and a calendar will be published 6-8 weeks before each four month block.
+Trainees will be asked for their availability in October, March, and July for each four month block, and a calendar will be published 6-8 weeks before each four month block.
 
 The calendar is updated on the [Member information page](https://carpentries.github.io/instructor-training/training_calendar/) and on the internal Carpentry staff Zoom calendars. The Program Manager or Workshop Administrator will [create events in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) for each of these scheduled trainings.
 

@@ -11,11 +11,11 @@ Software installation can be frustrating, but in the end, it almost always gets 
 
 * Plan for installation help at the start of both workshop days.  Put it on the schedule and make sure it's clear that people can and should show up during that time.  
 * Email the participants a week in advance and the day before to remind them to install the needed software before the workshops.  
-* If possible, recruit at least one helper who uses Windows and one who uses Mac.  
+* If possible, recruit at least one helper who uses Windows and one who uses macOS.
 * If you/helpers/instructors have time, test the install instructions on a fresh user account on your computer.
 * If you anticipate issues (or want to be extra prepared), have some of the emergency options listed below ready to go.  
 * If you're teaching for an organization where participants are bringing work laptops where they don't have administrative access (common in government organizations) -- ask about it.  Try to plan ahead either with their central IT organization or with the "emergency exits" listed below.  
-* Will you have decent wifi?  A bunch of people installing software at once can kill a poor internet connection.  If this is the case, prep a few flash drives with the relevant installers.  
+* Will you have decent Wi-Fi?  A bunch of people installing software at once can kill a poor internet connection.  If this is the case, prep a few flash drives with the relevant installers.  
 
 **On the day of:**
 

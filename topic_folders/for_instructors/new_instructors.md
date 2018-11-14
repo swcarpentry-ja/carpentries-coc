@@ -17,7 +17,7 @@ Instructor. Our Instructor training has the following overall goals:
 #### Who are the Instructors?
 
 Our [Instructor community](https://carpentries.org/instructors/) includes researchers, librarians, data scientists, and many others 
-from a wide range of  backgrounds, disciplines, career stages, and countries. Many of our Instructors are 
+from a wide range of backgrounds, disciplines, career stages, and countries. Many of our Instructors are 
 people who have attended a Carpentries workshop, and who have been inspired to go on and train as Instructors to 
 share the skills they learned and now use in their work.
 

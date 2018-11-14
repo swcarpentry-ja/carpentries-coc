@@ -70,7 +70,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 * Submit receipts for reimbursement
 * Send their own feedback to the Workshop Administrator including any configuration problems
 * Take part in an [instructor discussion session](https://pad.carpentries.org/instructor-discussion)
-* Report any lesson errors or suggest improvements on github or by email to the Carpentries Workshop Administrator
+* Report any lesson errors or suggest improvements on GitHub or by email to the Carpentries Workshop Administrator
 
 #### Helper Checklist
 

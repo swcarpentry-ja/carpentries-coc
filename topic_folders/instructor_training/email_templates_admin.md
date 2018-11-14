@@ -69,7 +69,7 @@ This will be offered online with our instructor trainers, [ trainer1 ]  and [ tr
 
 If you haven't already, you must complete our online application form here (https://amy.software-carpentry.org/forms/request_training/) so we can officially record your participation and track your progress towards becoming a certified Carpentries instructor. Please use the group code [ group_code ] 
 
-Participants from each site should be in the same room. Individuals can not join remotely as our training includes partner and group activities. All individual participants should have wifi access.
+Participants from each site should be in the same room. Individuals can not join remotely as our training includes partner and group activities. All individual participants should have Wi-Fi access.
 
 Please plan to be present for the entire session both days. Participants who miss more than one hour will not pass our training requirements.
 
