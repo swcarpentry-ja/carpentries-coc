@@ -37,7 +37,7 @@ The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/pol
 
 > The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 > 
-> What kinds of behaivors are expected?
+> What kinds of behaviors are expected?
 >
 > All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 >
