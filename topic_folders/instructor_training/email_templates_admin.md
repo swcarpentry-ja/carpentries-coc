@@ -63,7 +63,7 @@ Subject: Carpentries Instructor Training Introductions
 
 Hello everyone,
 
-Thank you for joining our upcoming instructor training session on  [ DATE-TIME-TIMEZONE ] with  [ site_names ]. As a reminder, this is a training for people who want to become instructors with Software Carpentry and Data Carpentry. The workshop is a mix of lectures and hands-on lessons where you practice giving a short lesson using approaches learned and implement some of the teaching techniques which we will discuss. This is training for teaching, not technical training; you do not need any particular technical background, and we will not be teaching that. This workshop is based on our constantly revised and updated curriculum (https://carpentries.github.io/instructor-training/).
+Thank you for joining our upcoming instructor training session on  [ DATE-TIME-TIMEZONE ] with  [ site_names ]. As a reminder, this is a training for people who want to become instructors with The Carpentries. The workshop is a mix of lectures and hands-on lessons where you practice giving a short lesson using approaches learned and implement some of the teaching techniques which we will discuss. This is training for teaching, not technical training; you do not need any particular technical background, and we will not be teaching that. This workshop is based on our constantly revised and updated curriculum (https://carpentries.github.io/instructor-training/).
 
 This will be offered online with our instructor trainers, [ trainer1 ]  and [ trainer2 ]. You can read more about what you'll do these two days here: [ webpage ]
 
@@ -149,9 +149,9 @@ Hi [ name ],
 
 Thank you for your interest in becoming a Carpentry Instructor! It sounds like you might be interested in applying to our Open Instructor Training program. Training slots are made available for Open applicants when they are not claimed by a member institution one month in advance. Because this happens unpredictably, we sometimes have a backlog of applications. We are currently working to address these needs and anticipate reduced wait times for Open training, but there may still be some delay.
 
-We rank applications on a rolling basis, and we encourage all interested parties to apply. Many things influence selection, including regional, institutional, discipline, and diversity-related priorities, as well as relevant background and involvement with the organization. Multiple applicants from a single institution generally will not be invited at once, but may be accepted individually over time. To more rapidly build a trainer community at your institution, consider becoming a Member. For more information see: https://software-carpentry.org/scf/join/ and http://www.datacarpentry.org/partnerships/.
+We rank applications on a rolling basis, and we encourage all interested parties to apply. Many things influence selection, including regional, institutional, discipline, and diversity-related priorities, as well as relevant background and involvement with The Carpentries. Multiple applicants from a single institution generally will not be invited at once, but may be accepted individually over time. To more rapidly build an Instructor community at your institution, consider becoming a Member. For more information see: https://carpentries.org/membership/.
 
-The instructor training application is here: https://amy.software-carpentry.org/forms/request_training/. In order to have your application considered for Open training, be sure to leave the “group” entry space blank. Note that the expectations for instructors are also listed on this page, and are a good idea to check before applying.
+The instructor training application is here: https://amy.software-carpentry.org/forms/request_training/. In order to have your application considered for Open training, be sure to leave the “group” entry space blank. Note that the expectations for Instructors are also listed on this page, and are a good idea to check before applying.
 
 Thank you again for your interest in the Carpentries! I look forward to seeing you around the community.
 
@@ -176,12 +176,12 @@ application has been placed on our waiting list while we grow our capacity.
 If you’d like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
 your organization. In the meantime, please get involved!  
   - Join our discussion email list (https://carpentries.topicbox.com/groups/discuss)
-  - Follow us on Twitter (@thecarpentries, @datacarpentry, and @swcarpentry)
-  - Help at a local workshop (http://www.datacarpentry.org/workshops-upcoming/ or https://software-carpentry.org/workshops/)
+  - Follow us on Twitter (@thecarpentries, @datacarpentry, @swcarpentry, and @libcarpentry)
+  - Help at a local workshop (https://carpentries.org/)
   - Learn about our community (https://carpentries.org/community/)
                  
 Learn more about us! 
-  - Read our blogs (https://carpentries.org/blog/, http://www.datacarpentry.org/blog/, and https://software-carpentry.org/blog/)  
+  - Read our blogs (https://carpentries.org/blog/, http://www.datacarpentry.org/blog/, https://software-carpentry.org/blog/, and https://librarycarpentry.org/blog/)  
   - Sign-up for our newsletter (https://carpentries.org/newsletter/)
                  
 Most of our instructor training events are offered as part of institutional memberships and Member organizations receive training priority. To fast-track your application, consider becoming a Member. For more information see: https://carpentries.org/membership/. 
@@ -198,7 +198,7 @@ Subject: New Carpentry Instructor Training Events Available
 
 Hi [ name ], 
 
-Thank you for applying to become an instructor with Software and Data Carpentry. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
+Thank you for applying to become an Instructor with The Carpentries. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
 
 We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in one of our upcoming instructor training events. 
                   
@@ -206,7 +206,7 @@ Please look at what events are available and register by adding your name to the
                   
 All listed events will be held online over video conference at the times listed. Please be sure to check the local start time before registering.
 
-Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
+Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Instructors for The Carpentries. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
 
 Please register by [ register_date ] to let us know whether or not you will be able to attend. If we haven’t heard from you by that time, we will offer the seat to another applicant, however, you will still remain at the top of the applicant list and we will happily try to accommodate you at a later training.
                  
@@ -223,9 +223,9 @@ Subject: Carpentries instructor training: Application Accepted
 
 Hi [ name ],
 
-Thank you for applying to become an instructor with Software and Data Carpentry. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
+Thank you for applying to become an instructor with The Carpentries. We received many more applications than we expected and it has taken us some time to review applications. Thank you for your patience!
 
-We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in an instructor training event [ date ]. This event will be held online over video conference 9 am - 5 pm in [ time zone ]. Please click this link for your local start time: [ link ]. Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Software and Data Carpentry instructors. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
+We are excited about your application and are looking forward to having you as a member of our instructor community. We’d like to invite you to participate in an instructor training event [ date ]. This event will be held online over video conference 9 am - 5 pm in [ time zone ]. Please click this link for your local start time: [ link ]. Because the group will be meeting by video conference, you will need a consistent and strong internet connection throughout the two-day event. All training participants do need to attend the entirety of the training event in order to become certified Instructors with The Carpentries. If you have any conflicts with this time, please let us know and we will try to find you a seat at a later training event.
 
 Please respond by [ date ] to let us know whether or not you will be able to attend. If we haven’t heard from you by that time, we will offer the seat to another applicant, however, you will still remain at the top of the applicant list and we will happily try to accommodate you at a later training.
 
@@ -241,7 +241,7 @@ Subject: Carpentries instructor training: Deadline approaching
 
 Hi everyone,
 
-You’re receiving this email because you recently attended a training event to become a Software and Data Carpentry instructor, but haven’t yet completed the follow-up tasks to become certified. We generally require new instructors to complete certification within three months of their training, to ensure that they are up to date on our teaching methods and practices. If you are still planning on certifying and would like an extension on your deadline, please send an email to checkout@carpentries.org. If you believe you’re receiving this email in error and have already completed the checkout process, please get in touch as we may have missed recording one of your checkout steps.
+You’re receiving this email because you recently attended a training event to become an Instructor with The Carpentries, but haven’t yet completed the follow-up tasks to become certified. We generally require new instructors to complete certification within three months of their training, to ensure that they are up to date on our teaching methods and practices. If you are still planning on certifying and would like an extension on your deadline, please send an email to checkout@carpentries.org. If you believe you’re receiving this email in error and have already completed the checkout process, please get in touch as we may have missed recording one of your checkout steps.
 
 If you have any questions about the checkout process, please take a look at our checklist: http://www.datacarpentry.org/checkout/ and feel free to send any questions to checkout@carpentries.org.
 
@@ -272,8 +272,7 @@ Hi [ trainee name ],
 Thank you for completing your checkout. I've updated your status in our database and you are now officially certified as a Carpentries
 instructor. Your certificate is attached. Congratulations! 
 
-Please note that although your certificate reads either Software Carpentry or Data Carpentry you are fully certified to teach both 
-Software and Data Carpentry workshops.
+Please note that although your certificate reads either Software Carpentry, Data Carpentry, or Library Carpentry you are fully certified to teach all workshops for The Carpentries.
 
 If you haven't already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This
 is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list 
@@ -292,7 +291,7 @@ Subject: Carpentries instructor training: Missing Application
 
 Hi [ trainee name ],
 
-On [ training_dates ], you [ participated (or) will be participating ] in a Software Carpentry and Data Carpentry training event at [ online (or) sitename ].  We'd like to be sure we can track your progress towards instructor certification.  Please fill out the instructor application form here (https://amy.software-carpentry.org/forms/request_training/), putting down [ group_code ]  as your group name.  As a reminder, here are the steps you need to complete to earn your certification: http://carpentries.github.io/instructor-training/checkout/
+On [ training_dates ], you [ participated (or) will be participating ] in an Instructor training event for The Carpentries at [ online (or) sitename ].  We'd like to be sure we can track your progress towards instructor certification.  Please fill out the instructor application form here (https://amy.software-carpentry.org/forms/request_training/), putting down [ group_code ]  as your group name.  As a reminder, here are the steps you need to complete to earn your certification: http://carpentries.github.io/instructor-training/checkout/
 
 We will not be able to track your progress or award your instructor certificate without an application on file.
 
@@ -308,7 +307,7 @@ Subject: Opportunity to join Carpentries trainers community
 
 Hi [ name ],
 
-I wanted to get in touch with you about an opportunity to get involved with the Software and Data Carpentry community. Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initaitives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
+I wanted to get in touch with you about an opportunity to get involved with The Carpentries community. Software Carpentry (SWC), Library Carpentry (LC), and Data Carpentry (DC) are lesson programs of The Carpentries (a fiscally sponsored project of Community Initaitives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
 
 Our workshops are taught by volunteers who go through a two-day training program focused on pedagogy and cognitive psychology. These training events are run by our Instructor Trainers who also help to develop and maintain our instructor training curriculum. 
 
@@ -318,7 +317,7 @@ If you’re interested in joining the Trainer community, please apply here (http
 
 If you have any questions about the training process or the expectations for being a Trainer, please contact team@carpentries.org
 
-To learn more about what we teach, check out our lessons here: (https://software-carpentry.org/lessons/) and here: (http://www.datacarpentry.org/lessons/).
+To learn more about what we teach, check out our lessons here: (https://software-carpentry.org/lessons/), here: (http://www.datacarpentry.org/lessons/), and here: (https://librarycarpentry.org/lessons/).
 More detailed information about what Trainers do can be found here: (https://github.com/carpentries/policies/blob/master/trainer-agreement.md).
 
 Looking forward to seeing an application from you!
