@@ -102,6 +102,41 @@ I understand that it is important to keep in touch with The Carpentries communit
 ### Mentor Onboarding
 - [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw) 
 
+### Mentoring Groups Recruitment Strategy
+
++ **Recruitment**
+  + Mentoring groups are open to any individual who has completed [Carpentries instructor training](https://carpentries.github.io/instructor-training/).
+  + Community members who have taught fewer than two workshops (or no workshops at all yet) are invited as mentees.
+  + Certified Carpentries instructors who have taught three or more workshops are invited to lead mentoring groups.
++ **Activities & Timing**
+  + Mentoring groups run for between eight and 12 weeks.
+  + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
+  + Mentors and mentees will be asked to complete a short [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) halfway through the 8-12 week period.
+  + The 8-12 week period will end with a virtual showcase.
+  + Mentors and mentees will be asked to complete asecond short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
++ **Exposure**
+  + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
+  + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of Kari Jordan.
+  + The Mentoring Subcommittee will be instrumental in getting the word out about mentoring groups.
+
+
+
+
+
+
+### Mentoring Groups: Guidelines for Certificates
+
+#### Mentors
+- Attend a mentoring onboarding session.
+- Attend regular meetings with your mentees.
+- Attend the virtual showcase.
+- Attend the power check-in.
+- Complete the post-program survey.
+
+#### Mentees
+- Attend at least two mentoring meetings.
+- Attend the virtual showcase.
+- Complete the post-program survey.
 
 
 
@@ -158,3 +193,16 @@ To join a mentoring group as a mentor, complete [this form](https://docs.google.
 - Keep track of program completion rates to assess success.  
 - Get feedback from Mentors and Mentees about program.  
 
+
+### Mentoring Groups Virtual Showcase
+
+The Carpentries' community is invited to participate in a Virtual Showcase of our mentoring groups' projects.  These will be scheduled at the end of each mentoring group term.
+
+  - __What to expect:__ Each group will present one slide outlining something they learned or completed with their mentoring group. We will also answer questions from the community and discuss the benefits of mentoring.
+  - __Why attend:__ Be inspired by the projects of __your__ global community members! Be empowered to start a new project, contribute to a lesson, or prepare to teach a lesson. Explore the benefits of mentoring and being a part of a global community.
+
+#### Sign-Up
+Please visit this [Etherpad](http://pad.software-carpentry.org/carpentries-mentors) to view notes from past meetings or sign up for upcoming meetings.
+
+#### Contact
+For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 
