@@ -49,7 +49,7 @@ People train as Instructors for many reasons:
 4. *To help get people of diverse backgrounds into the pipeline.* Some of our Instructors are involved in part because they want computational science to include people from a broader range of backgrounds.
 5. *Teaching forces you to learn new things, or learn old things in more detail than you already know.* See this paper: [Graduate Students' Teaching Experiences Improve Their Methodological Research Skills](http://science.sciencemag.org/content/333/6045/1037)".
 6. *To make the world a better place.* 
-7. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-Instructors.md). You can re-use and re-purpose this wording for use in grant and job applications and for your CV.
+7. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). You can re-use and re-purpose this wording for use in grant and job applications and for your CV.
 8. *To join a community* of people who care about inclusive teaching of computational skills. 
 9. *Because it's fun.* It really is !
 
