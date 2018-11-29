@@ -25,3 +25,5 @@ The Carpentries Handbook
    :glob:
 
    readme
+   LICENSE
+   

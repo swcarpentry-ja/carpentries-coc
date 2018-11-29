@@ -1,4 +1,6 @@
-## Documentation
+## License
+
+### Documentation
 
 The Carpentries documentation material in this repository is
 made available under the [Creative Commons Attribution
@@ -40,7 +42,7 @@ Notices:
   rights such as publicity, privacy, or moral rights may limit how you
   use the material.
 
-## Software
+### Software
 
 Except where otherwise noted, the example programs and other software
 provided by The Carpentries are made available under the
@@ -66,7 +68,7 @@ LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## Trademark
+### Trademark
 
 "The Carpentries", "Software Carpentry", "Data Carpentry", and "Library Carpentry" and their respective logos
 are registered trademarks of [Community Initiatives][CI].
