@@ -9,6 +9,7 @@ The Carpentries Handbook
    topic_folders/assessment/index.rst
    topic_folders/communications/index.rst
    topic_folders/for_instructors/index.rst
+   topic_folders/instructor_development.rst
    topic_folders/instructor_training/index.rst
    topic_folders/lesson_development/index.rst
    topic_folders/maintainers/index.rst
