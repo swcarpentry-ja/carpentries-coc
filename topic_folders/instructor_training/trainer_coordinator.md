@@ -11,11 +11,11 @@ Weekly:
 - If three business days before the demo, there is still no one available to lead, send [an email](#teaching-demo-cancelled-trainees) to the trainees who are signed up. Also, change the status to “Cancelled” on the Etherpad and [notify the Trainers group](#teaching-demo-cancelled-trainers) that we had to cancel an event.
 
 Bi-monthly:
-- Add teaching demonstration sessions for the next two months to the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos). 
+- Add teaching demonstration sessions for the next two months to the [teaching demonstration Etherpad](https://pad.carpentries.org/teaching-demos-recovered). 
 - Use the [Event Time Announcer](https://www.timeanddate.com/worldclock/fixedform.html) to create a new event. Set the event location as “UTC”. 
   - Set the month, day, year, hour, minute, and second to reflect the recurring times on the Community Calendar. 
   - Click “show result” and verify that the event is displaying in UTC. It will also display in your computer’s system time. 
-  - Add the link to the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos).
+  - Add the link to the [teaching demonstration Etherpad](https://pad.carpentries.org/teaching-demos-recovered).
 - Make sure that the sessions are also listed on the community calendar. 
   - Events are listed on the community calendar as recurring with no end date. They will only need to be modified if there are changes made to the teaching demo schedule.
   - If you do not have edit access to the community calendar, contact [team@carpentries.org](mailto:team@carpentries.org).

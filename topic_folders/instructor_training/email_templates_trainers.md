@@ -20,7 +20,7 @@ Subject: Software/Data Carpentry teaching demonstration
 
 Hi,
 
-According to http://pad.software-carpentry.org/teaching-demos you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
+According to https://pad.carpentries.org/teaching-demos-recovered you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
 
 I wanted to make it very clear that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach 5 minutes from a particular section and nothing else, and these often have to reschedule as they seldom are assigned the section they have prepared for. A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ and http://www.datacarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 

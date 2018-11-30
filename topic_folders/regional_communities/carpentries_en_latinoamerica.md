@@ -30,7 +30,7 @@ To contact this group, email [latinoamerica@carpentries.org](mailto:latinoameric
 
 ### Reuniones bilingües / Bilingual meetings 
 
-- Hacemos reuniones mensuales bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](http://pad.software-carpentry.org/teaching-demos) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
+- Hacemos reuniones mensuales bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](https://pad.carpentries.org/teaching-demos-recovered) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
 
 - We host monthly bilingual meetings for the "Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).
 Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
