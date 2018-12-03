@@ -54,7 +54,7 @@ Set the following options:
 * Access: Private. This means anyone with the link can view the results. You can make this password protected by selecting "Restricted." You can then share passwords with hosts, instructors, and anyone else who may need access.
 * Page Title: This will prepopulate with a default value. You can change this as you wish.
 * Page Description: Add any other information about the workshop.
-* Include: Be sure to check off Open-Ended Responses, Data Trends, and Individual Responses.
+* Include: Be sure to check off Open-Ended Responses and Data Trends. Individual Responses should **not** be checked.
 * Branding: Leave this unchecked.
 
 Click `Get link`.
