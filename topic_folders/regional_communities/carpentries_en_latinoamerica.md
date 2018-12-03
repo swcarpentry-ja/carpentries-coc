@@ -1,8 +1,8 @@
 ## Carpentries en América Latina
 
-La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas diferentes: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Este repositorio sirve como punto de entrada para este grupo de actividades.
+La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Este repositorio sirve como punto de entrada para este grupo de actividades.
 
-Building a sustainable and active community in Latin America include several different iniatives: lesson translation, instructor training, workshop coordination, and fundraising. This respository serves as a landing point for this diverse group of activies.  
+Building a sustainable and active community in Latin America include several iniatives: lesson translation, instructor training, workshop coordination, and fundraising. This respository serves as a landing point for this diverse group of activies.  
 
 ### Como puedes ayudar / Ways to help
 
@@ -19,9 +19,9 @@ If you can help in any of these ways, or know of another way you can support dev
 
 ### Cómo participar / How to get involved
 
-Para ponerse en contacto con este grupo, envía un correo electrónico a [latinoamerica@carpentries.org](mailto:latinoamerica@carpentries.org). Para unirse a la lista de correo electrónico, visita [nuestro Grupo de Google](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica).
+Para ponerse en contacto con este grupo, envía un correo electrónico a [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). Para unirse a la lista de correo electrónico, visita [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). Para contactarnos directamente te invitamos a usar [slack](https://swc-slack-invite.herokuapp.com/) en el canal **carpentries_es**.
 
-To contact this group, email [latinoamerica@carpentries.org](mailto:latinoamerica@carpentries.org). To join the email list, visit [our Google Group page](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica).
+To contact this group, email [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). To join the email list, visit [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). To contact us directly you are invited to join [slack](https://swc-slack-invite.herokuapp.com/) in the **carpentries_es** channel.
 
 ### ¿Quién está involucrado? / Who is already involved? 
 
@@ -30,9 +30,9 @@ To contact this group, email [latinoamerica@carpentries.org](mailto:latinoameric
 
 ### Reuniones bilingües / Bilingual meetings 
 
-- Hacemos reuniones mensuales bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](https://pad.carpentries.org/teaching-demos-recovered) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
+- Hacemos reuniones bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](https://pad.carpentries.org/teaching-demos-recovered) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
 
-- We host monthly bilingual meetings for the "Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).
+- We host bilingual meetings for the "Teaching Demo Sessions"  part of [Instructor Training Checkout](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html).
 Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or read the [bilingual instructions](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) for how the demo sessions work. 
 
 ### Traducciones / Translations
