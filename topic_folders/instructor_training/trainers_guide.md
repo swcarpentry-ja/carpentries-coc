@@ -177,6 +177,6 @@ Please see the table below for recommendations about choosing a starting point f
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
 [demo-pad]: http://pad.software-carpentry.org/teaching-demos-recovered
-[demo-rubric]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
+[demo-rubric]: http://carpentries.github.io/instructor-training/demos_rubric/
 
 
