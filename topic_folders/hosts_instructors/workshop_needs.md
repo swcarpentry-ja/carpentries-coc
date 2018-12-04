@@ -9,7 +9,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * Tables arranged so participants can watch the instructor, use their laptops, and talk with their peers.  Fold up desks are usually not a good choice.
 * Tables should also be arranged so helpers and instructors can easily mingle around the room.
 * The room should have a projector and screen that everyone can see, with HDMI, VGA, and Mac adapters to allow anyone to plug in their laptop.
-* Hi speed  wifi internet access that can withstand everyone using it together. This may include securing guest access codes.
+* High speed Wi-Fi internet access that can withstand everyone using it together. This may include securing guest access codes.
 * Power outlets for all participants. This may include setting up extension cords or power strips.
 * High table or podium that instructor can stand at while teaching.  A flat podium is important; it's difficult to use a laptop on a slanted podium.
 * Refreshments. People learn better when they are well fed.  They also won't lose as much instructional time if they don't have to leave to get coffee.
@@ -21,6 +21,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * Name tags to help people get to know each other.
 * Extra pens and paper in case people want to take notes by hand
 * Sign in sheets
+* Flipchart or whiteboard with felt-tip pen (ideally several in different colors) for the instructor to visualise concepts or note important details.
 
 #### Accessibility
 

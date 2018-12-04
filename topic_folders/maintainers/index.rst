@@ -1,5 +1,5 @@
 LESSON MAINTENANCE
-------------------------
+=======================
 
 .. toctree::
    :maxdepth: 2

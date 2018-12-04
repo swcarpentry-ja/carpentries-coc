@@ -1,5 +1,5 @@
 REGIONAL COMMUNITIES
-------------------------
+=======================
 
 .. toctree::
     :maxdepth: 2

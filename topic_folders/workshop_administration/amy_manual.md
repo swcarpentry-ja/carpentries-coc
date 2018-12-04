@@ -66,9 +66,9 @@ Enter in the airport's IATA code, full name, country, and latitude and longitude
 ### Adding a new event
 
 New events can be created one of several ways:
-* By manually entering all information on the [new event page](#)
-* By importing from URL on the [new event page](#)
-* By accepting a [workshop request](#)
+* By manually entering all information on the [new event page](#creating-a-new-event-manually)
+* By importing from URL on the [new event page](#creating-a-new-event-from-url)
+* By accepting a [workshop request](#creating-a-new-event-from-a-workshop-request)
 
 #### Creating a new event manually
 
@@ -81,7 +81,7 @@ New events can be created one of several ways:
 ![AMY new event dates](images/amy_new_event_dates.png)
 
 
-* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organization](#).
+* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organization](#adding-a-new-organization).
 
 ![AMY new event host](images/amy_new_event_host.png)
 
@@ -135,7 +135,7 @@ If you already have the event's URL with properly formatted metadata, the follow
 * Start and end dates
 * Location details
 
-Instructor and helper names will be in the notes field but not assigned in the database.  All people will need to be [assigned to the event](#).
+Instructor and helper names will be in the notes field but not assigned in the database.  All people will need to be [assigned to the event](#assigning-people-to-events).
 
 All other information will need to be entered in as above.
 
@@ -170,7 +170,7 @@ To add a new person to the event, start typing the person's name in the "Person"
 
 Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organizer). "Contributed to Lesson Materials" is not used in this context. "Title" and "URL" are also not used in this context.
 
-If a person's name does not appear in the dropdown, they may need to be [added to the database](#).
+If a person's name does not appear in the dropdown, they may need to be [added to the database](#adding-a-new-person).
 
 Below this form, a list of all people assigned to this event is displayed. A person's role can not be directly changed. Instead, delete the item and enter a new one.
 
@@ -228,6 +228,17 @@ On the screen above, select 'DC Demo' or 'SWC Demo' depending on which lesson th
 
 On the screen above, select 'DC Homework' or 'SWC Homework' depending on which lesson they used for their contribution, and note whether they passed or failed.  In the notes section, link to their lesson contribution.  
 
+### Issueing badges
+
+The Carpentries has various badges that can be issued, including Data Carpentry Instructor, Software Carpentry Instructor, Trainer, Maintainer, and more.  
+
+An individual badge can be issued by going to a person's record and clicking the `Edit` button.  
+
+![AMY edit person](images/amy_edit_person.png)
+
+Choose the `Awards` tab on the next screen.  Select the Badge type from the drop down menu, and fill in the date it was awarded. The associated event (such as a training event) and awarded by fields are optional.  Click `Submit` to save the entry.
+
+![AMY issue badge](images/amy_issue_badge.png)
 
 ### Reports
 
