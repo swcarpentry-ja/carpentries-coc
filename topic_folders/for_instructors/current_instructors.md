@@ -54,7 +54,7 @@ information **will not** be included in our listing.
 username/password or GitHub account](https://docs.carpentries.org/_images/amy_login_screen.png)
 
 #### Setting up a workshop
-Please see our [Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_Instructors/index.html) section for 
+Please see our [Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) section for 
 instructions on setting up and running workshops. This includes links to our checklists and describes the surveys we use to assess learners' and Instructors' experiences. Also check out our [Workshop Administration section](https://docs.carpentries.org/topic_folders/workshop_administration/index.html)
 
 ### Setting up a workshop website
