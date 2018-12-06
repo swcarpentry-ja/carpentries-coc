@@ -35,7 +35,7 @@ code with your trainees. For guidance about how to select your
 trainees, please visit our Information for Member Organisations page
 at http://carpentries.github.io/instructor-training/members/. 
 
-You can use this email template (link) to send this information to 
+You can use this email template (https://docs.carpentries.org/topic_folders/instructor_training/email_templates_admin.html#initial-trainee-contact-email-from-member-site-to-their-prospective-trainees-online-training) to send this information to 
 your group. If one of your affiliates is not able to attend after 
 they've registered for an event, please get in touch with us at 
 team@carpentries.org as soon as possible. In some cases, we will be 
