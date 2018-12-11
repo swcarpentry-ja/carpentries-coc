@@ -85,8 +85,7 @@ Lastly, both mentors and mentees will receive a certificate!
 
 ### Mentor Agreement
 
-I agree to follow the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/) in all communications and interactions 
-with The Carpentries community and to [promptly report any violations of the CoC](https://software-carpentry.org/CoC-reporting/) that I become aware of.
+I agree to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with The Carpentries community and to [promptly report any violations of the CoC](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines) that I become aware of.
 
 When interacting with my mentoring group, I agree to 
 + communicate The Carpentries community values to mentees and model that behaviour myself in how I mentor,   
@@ -153,7 +152,7 @@ I understand that it is important to keep in touch with The Carpentries communit
 
 ##### Requirements
 
-Be either a newly certified Software or Data Carpentry instructor or be in the process of completing certification. Generally Mentees will have taught one or no workshops, but may have been helpers before.
+Be either a newly certified Carpentries instructor or be in the process of completing certification. Generally Mentees will have taught one or no workshops, but may have been helpers before.
 
 ##### To Participate
 
