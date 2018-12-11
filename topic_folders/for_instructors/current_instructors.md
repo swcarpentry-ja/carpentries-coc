@@ -6,7 +6,7 @@ building skills and community among continuing Instructors, we have a number of 
 
 #### Instructor discussions
 These hour-long sessions are organised by 
-the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee.html) and 
+the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html) and 
 serve a number of purposes. Trainee Instructors use them as part of their checkout process. There they can raise questions about 
 teaching workshops and other matters and get advice from more experienced Instructors. All sessions are run by volunteers. 
 Instructors preparing to teach can attend to ask questions, get tips, and find useful examples or analogies they can use. 
@@ -19,7 +19,7 @@ community members learn and grow. Whether you are a new Instructor preparing to 
 hoping to run workshops in a new community, or an Instructor excited about getting involved with lesson development and maintenance, 
 mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. Mentoring 
 groups run in specified rounds at regular intervals. See 
-the [Mentoring Groups section](https://docs.carpentries.org/topic_folders/mentoring/mentoring-groups.html) for more information. 
+the [Mentoring Groups section](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html) for more information. 
 
 #### Carpentries Champions
 If you are interested in building a local community, then consider joining 
@@ -36,7 +36,7 @@ If you are attending a conference or event and would like to network with other 
 please add the details of the event and your own details to our [meetups etherpad](https://pad.carpentries.org/swc-events-meetup).
 
 #### Mentoring and Development
-The [Instructor Development Committee](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee.html) 
+The [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html) 
 (formerly known as the Mentoring Subcommittee) manages the mentoring program, which supports Instructors as they progress 
 through training, teaching, curriculum development, and other community-related activities.
 
