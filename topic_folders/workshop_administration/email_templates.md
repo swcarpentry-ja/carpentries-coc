@@ -10,7 +10,7 @@ Dear [ name ],
 
 Thanks so much for inquiring about hosting a Carpentries workshop at [ site_name ].  Here's some background about our programs and how we run.
 
-Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initiatives). Both programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ).
+Software Carpentry (SWC), Data Carpentry (DC), and Library Carpentry (LC) are programs of The Carpentries (a fiscally sponsored project of Community Initiatives). All programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ). Library Carpentry workshops teach people working in library- and information-related roles how to apply concepts from software development fields in library tasks and identify and use best practices in data structures.
 
 All workshops have a standard fee of US$2500, plus any costs for instructor travel (which may include airfare, ground travel, hotel, and meals/incidentals).
 You can read more about the costs and how to request a workshop here for Software Carpentry (https://software-carpentry.org/workshops/request/) and here for Data Carpentry (http://www.datacarpentry.org/workshops-host/).
@@ -100,6 +100,10 @@ OR
 
 http://www.datacarpentry.org/lessons/
 
+OR
+
+https://librarycarpentry.org/lessons/
+
 to know who's teaching what. One of them will create the workshop's web page on GitHub, which will include workshop details and instructions on what learners will need to install on their computers. The template can be found here:
 
 https://github.com/carpentries/workshop-template
@@ -124,7 +128,7 @@ Subject: Carpentries workshop at [ site_name ]: Other instructors placed
 
 Hi [ names ],
 
-You signed up as interested in teaching at the [ Software_or_Data ] Carpentry workshop at [ site_name ] scheduled for [ date ].
+You signed up as interested in teaching at the [ Software_/ Data / Library ] Carpentry workshop at [ site_name ] scheduled for [ date ].
 
 This is to let you know we have placed other instructors there.  Thanks so much for signing up and please keep an eye out for other opportunities to teach.  We'll be sure to get you in on another workshop. Any questions please let me know.
 
@@ -258,7 +262,7 @@ For your convenience, below you will find several resources that are available t
 
 Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar here (http://pad.software-carpentry.org/instructor-discussion). Be sure to check your timezone when you sign up.
 
-Data Carpentry (http://www.datacarpentry.org/blog/), Software Carpentry (https://software-carpentry.org/blog/), and The Carpentries (https://carpentries.org/blog/) also welcome blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
+Data Carpentry (http://www.datacarpentry.org/blog/), Software Carpentry (https://software-carpentry.org/blog/), Library Carpentry (https://librarycarpentry.org/blog/) and The Carpentries (https://carpentries.org/blog/) also welcome blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
 
 If you have any questions regarding anything I’ve shared do not hesitate to email me directly.  Thanks for all of your hard work running this workshop!
 
