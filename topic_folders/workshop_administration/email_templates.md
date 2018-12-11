@@ -271,7 +271,7 @@ Best,
 
 Subject: [SWC/DC/LC] Carpentries Workshop @ [LOCATION/DATE]: Introducing Business Administrator
 
-*(send to host and cc ewilliams@carpentries.org)*
+*(send to host and cc finance@carpentries.org)*
 
 Host, 
 
@@ -279,7 +279,7 @@ This is Elizabeth Williams, our Business Administrator, who will be assisting fr
 
 [PROVIDE ELIZABETH SHORT DESCRIPTION OF WORKSHOP, I.E. BILLING AMOUNT, WHETHER OR NOT THEY WILL HAVE EVENTBRITE, ANY OTHER INFORMATION YOU HAVE RELEVANT TO BILLING]
 
-She has put together this list of questions (in a Typeform) that usually gives her everything she needs to complete the invoicing process, including information about the billing contact, vendor registration paperwork, and POs. 
+She has put together this list of questions (https://carpentries.typeform.com/to/T1qPcJ) that usually gives her everything she needs to complete the invoicing process, including information about the billing contact, vendor registration paperwork, and POs. 
 
 If the person processing the invoice is someone other than you, it is probably best that they fill out this form, and Elizabeth will reach out with any questions and follow up on any paperwork that your organisation’s process requires. Alternatively, please feel free to connect Elizabeth directly with your billing contact or respond to her directly with any information that is appropriate!
 
