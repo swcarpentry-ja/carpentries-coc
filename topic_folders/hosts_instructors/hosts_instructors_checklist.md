@@ -6,8 +6,8 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 
 **Before the workshop, the host will**
 
-* Decide on the [Software Carpentry](https://software-carpentry.org/lessons/) or [Data Carpentry](http://www.datacarpentry.org/lessons/) curriculum that would best serve your learners
-* Fill out the workshop request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/)
+* Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
+* Fill out the [workshop request form](https://amy.software-carpentry.org/forms/workshop/)
 * Work with the Carpentries Program Manager and Workshop Administrator to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
