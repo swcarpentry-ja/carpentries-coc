@@ -27,7 +27,7 @@ Maintainers represent the Carpentry community and should strive to embody the Ca
     - Keep language motivating. 
     - Emphasize the importance of continued learning and improvement.
 
-Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Software and Data Carpentry Maintainers. 
+Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Carpentries lesson Maintainers. 
 
 
 ## Maintainer Onboarding
