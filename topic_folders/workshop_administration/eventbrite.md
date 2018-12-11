@@ -18,7 +18,7 @@ You'll see Live, Draft, and Past workshops. To create a new event, you can use o
 
 ![Eventbrite events](images/eventbrite_livedraftpast.png)
 
-Select "Manage" under the template for Software Carpentry or Data Carpentry.
+Select "Manage" under the template for the appropriate Carpentries lesson program.
 
 ![Eventbrite select draft](images/eventbrite_selectdraft.png)
 
