@@ -17,6 +17,8 @@ Our pre- and post-workshop surveys can be previewed here:
 - [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
 - [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
 - [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
+- [Library Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=8nI_2B0DOHLP4jHhTsSCOYU9TSqrZDqKTG_2Bn1_2FhGgs9YI3kytep_2FN1pWBK4XdrYKMR)  
+- [Library Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Tv4sTDYjGsYVjZR5zHb9_2BtDV1DPSY42j3dKbSAKU5ET9I40TLpByeEnTIiSf8eNK)
 
 ## Programmatic Assessment
 
