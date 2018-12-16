@@ -533,16 +533,17 @@ Best,
 
 ##### Follow-up - Trainers Attendance List
 
-HI [INSERT TRAINERS NAMES], 
+Hi [INSERT TRAINERS NAMES], 
 
 Thank you for taking time to teach the Carpentries Instructor Training on [INSERT DATES]! I hope you had a great experience. I am following up with you to obtain the attendance from the training. 
 
-For your inconvenience, I have included the names of trainees in this [INSERT FILE]. Please indicate the attendance for both days so that I can begin to record their process. 
+For your convenience, I have included the names of trainees in this [INSERT FILE]. Please indicate the attendance for both days so that I can record their progress and get them on track to becoming certified Carpentries instructors! 
 
 Please let me know if you have any questions.  
 
 Best, 
-Sher! 
+
+[ sender name ]
 
 
 ##### Zoom test invitation to host site
