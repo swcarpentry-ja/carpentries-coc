@@ -4,14 +4,10 @@
 As part of welcoming and orienting new Instructors to our community, and enriching and 
 building skills and community among continuing Instructors, we have a number of ways to support you.
 
-#### Instructor discussions
+#### Community discussions
 These hour-long sessions are organised by 
 the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html) and 
-serve a number of purposes. Trainee Instructors use them as part of their checkout process. There they can raise questions about 
-teaching workshops and other matters and get advice from more experienced Instructors. All sessions are run by volunteers. 
-Instructors preparing to teach can attend to ask questions, get tips, and find useful examples or analogies they can use. 
-Instructors who have recently taught can attend to debrief about what went well, and what might have gone better, so they can 
-plan for next time. Sessions are coordinated through this [etherpad](https://pad.carpentries.org/Instructor-discussion). 
+serve a number of purposes. Trainee Instructors use them as part of their checkout process. There they can raise questions about teaching workshops and other matters and get advice from more experienced Instructors. All sessions are run by volunteers. Instructors preparing to teach can attend to ask questions, get tips, and find useful examples or analogies they can use. Instructors who have recently taught can attend to debrief about what went well, and what might have gone better, so they can plan for next time. Sessions are coordinated through this [etherpad](https://pad.carpentries.org/community-discussions). 
 
 #### Mentoring groups
 Mentoring is a professional development opportunity that the Carpentries offers our growing Instructor pool to help 
