@@ -53,7 +53,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 * Share emergency contact information with host in case of last minute changes
 * Practice teaching the material
 * Remind the host of the [necessary equipment](workshop_needs.html)
-* Join a [pre-workshop discussion session](https://pad.carpentries.org/instructor-discussion)
+* Join a [community discussion](https://pad.carpentries.org/community-discussions)
 * Confirm criteria for reimbursement (*per diem* or save receipts)
 
 **During the workshop instructors will**
@@ -69,7 +69,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 * Remind the host to send workshop attendance data to the Carpentries Workshop Administrator
 * Submit receipts for reimbursement
 * Send their own feedback to the Workshop Administrator including any configuration problems
-* Take part in an [instructor discussion session](https://pad.carpentries.org/instructor-discussion)
+* Take part in a [community discussion](https://pad.carpentries.org/community-discussions)
 * Report any lesson errors or suggest improvements on GitHub or by email to the Carpentries Workshop Administrator
 
 #### Helper Checklist
