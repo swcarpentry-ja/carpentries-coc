@@ -34,7 +34,7 @@ The co-chairs of the Instructor Development Committee are responsible for:
 
 ##### To Volunteer
 
-- Join the Instructor Development Committee and host/co-host at least one [instructor discussion](http://pad.software-carpentry.org/instructor-discussion). 
+- Join the Instructor Development Committee and host/co-host at least one [community discussion](http://pad.software-carpentry.org/community-discussions). 
 
 #### Discussion Session Coordinators
 
@@ -45,7 +45,7 @@ The primary responsibilities of the Discussion Session Coordinators are:
 - Emailing workshop instructors about discussion sessions (before and after they teach)
 - Recruiting/emailing discussion hosts about hosting
 - Maintaining the [discussion hosts mailing list](mailto:discussion-hosts@carpentries.org)
-- Maintaining the [instructor discussion Etherpad](http://pad.software-carpentry.org/instructor-discussion) with upcoming dates
+- Maintaining the [community discussions Etherpad](http://pad.software-carpentry.org/community-discussions) with upcoming dates
 - Checking in with hosts the week of their discussion sessions
 
 ##### Time commitment
