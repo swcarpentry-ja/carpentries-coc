@@ -5,7 +5,7 @@
 <!-- and running:                                                          -->
 <!--   carpenter::document_github_labels("data/github_labels.csv")         -->
 <!-- the canonical definition of the GitHub labels is stored in the CSV    -->
-<!-- file hosted  https://github.com/carpentries/handbook/blob/master/data/github_labels.csv -->
+<!-- file hosted https://github.com/carpentries/handbook/blob/master/data/github_labels.csv -->
 
 <ul><h3>"status" labels</h3> <li><span style="font-family: monospace; font-weight: bold; font-size: 1.2em; color: #222222; background-color: #DCECC7; border-radius: 4px; padding: 4px;">help wanted</span>
   <ul>

@@ -19,7 +19,7 @@ This view can be filtered to show workshops assigned to the logged in administra
 * *Uninvoiced workshops* are those the invoice status is marked "Invoice not requested".
 * *Unpublished workshops* are all workshops that do not meet the criteria to be published.
 
-Published workshops will show up on the Software Carpentry or Data Carpentry website, depending on how they are tagged.
+Published workshops will show up on the Software Carpentry, Data Carpentry, or Library Carpentry website, depending on how they are tagged.
 
 From here you can also add new persons, events, organizations, or airports to the database.
 

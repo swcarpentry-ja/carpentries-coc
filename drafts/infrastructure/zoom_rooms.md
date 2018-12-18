@@ -23,18 +23,23 @@ Zoom room calendar views are public - anyone can view whether a room is availabl
 
 Room availability can be viewed here:
 
-[Zoom Room Availability](https://calendar.google.com/calendar/embed?title=Carpentries%20Zoom%20Rooms&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734%40resource.calendar.google.com&src=carpentries.org_3430303438333733343331%40resource.calendar.google.com)
+<!-- [Zoom Room Availability](https://calendar.google.com/calendar/embed?title=Carpentries%20Zoom%20Rooms&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734%40resource.calendar.google.com&src=carpentries.org_3430303438333733343331%40resource.calendar.google.com&ctz=America%2FNew_York)
 
 
 <iframe src="https://calendar.google.com/calendar/embed?src=carpentries.org_35343537393139313639%40resource.calendar.google.com" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
+https://calendar.google.com/calendar/embed?ctz=America%2FNew_York&title=Carpentries%20Zoom%20Rooms&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734%40resource.calendar.google.com&src=carpentries.org_3430303438333733343331%40resource.calendar.google.com
 
-
-
-
+https://calendar.google.com/calendar/embed?&title=Carpentries%20Zoom%20Rooms&mode=WEEK&src=carpentries.org_35343537393139313639%40resource.calendar.google.com&src=carpentries.org_3339393239343835343734%40resource.calendar.google.com&src=carpentries.org_3430303438333733343331%40resource.calendar.google.com -->
 
 Beyond this, checking to see if a room is available is just like you might for a conference room in real life.  Your office may have a calendar booking system but peeking in is the only way to know if a room is actually occupied.  You may use a room if no one is in it, but may get bumped if someone has a reservation.
+
+
+
+
+
+
 
 
 

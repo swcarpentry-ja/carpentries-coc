@@ -20,11 +20,11 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
-- Use welcoming and inclusive language
-- Be respectful of different viewpoints and experiences
-- Gracefully accept constructive criticism
-- Focus on what is best for the community
-- Show courtesy and respect towards other community members
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
 
 Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
@@ -67,7 +67,7 @@ An email to coc@carpentries.org will be seen by all of the Code of Conduct Commi
 
 1.3 What to do if someone is in physical danger
 
-If you believe someone is in physical danger, please ask a staff member or volunteer to contact appropriate emergency responders. All event organizers should, before the event, figure out who it would be appropriate to contact in case of an incident.
+If you believe someone is in physical danger, please ask a staff member or volunteer to contact appropriate emergency responders. All event organizers should, before the event, determine who it would be appropriate to contact in case of an incident.
 
 Once the incident has been resolved, we ask that it be reported to the Code of Conduct committee in the same way as all other incidences.
 
@@ -83,7 +83,7 @@ Update Log:
 
 This is the enforcement manual followed by The Carpentries Code of Conduct Committee. It's used when we respond to an issue to make sure we're consistent and fair. It should be considered an internal document, but we're publishing it publicly in the interests of transparency. Enforcement of the Code of Conduct should be respectful and not include any harassing behaviors.  
 
-**The Code of Conduct Committee** <br> All responses to reports of conduct violations will be managed by the Code of Conduct Committee ("the committee"). The Carpentries Executive Council will jointly establish this committee, comprised of at least three members. One member will be designated chair of the group and will be responsible for all reports back to the Executive Council. The Executive Council will review membership on an annual basis.  
+**The Code of Conduct Committee** <br> All responses to reports of conduct violations will be managed by the Code of Conduct Committee ("the committee"). The Carpentries Executive Council will jointly establish this committee, comprised of at least three members. One member will be designated chair of the Committee and will be responsible for all reports back to the Executive Council. The Executive Council will review membership on an annual basis.  
 
 **How the committee will respond to reports** <br> When a report is sent to the committee they will immediately reply to the report to confirm receipt. This reply must be sent within 24 hours, and the committee should strive to respond much more quickly than that. See the [reporting guidelines](../policies/code-of-conduct.html#reporting-guidelines) for details of what reports should contain. If a report doesn't contain enough information, the committee will attempt to obtain all relevant data before acting. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved to get a more complete account of events. The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is disrupting or harassing. Such behaviour might not be "over the line" in any single incident, and thus may not generate a report.  
 
@@ -108,7 +108,7 @@ The committee should aim to have a resolution agreed upon within one week. In th
 Possible responses may include:  
 
 - Taking no further action (if we determine no violation occurred).  
-- A private reprimand from the committee to the individual(s) involved. In this case, the committee chair will deliver that reprimand to the individual(s) over email, cc'ing the group.  
+- A private reprimand from the committee to the individual(s) involved. In this case, the committee chair will deliver that reprimand to the individual(s) over email, cc'ing the Committee.  
 - A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.). The committee may choose to publish this message elsewhere for posterity.  
 - An imposed vacation (i.e. asking someone to "take a week off" from a listserv or the Carpentries’ GitHub repos). The committee chair will communicate this "vacation" to the individual(s). They'll be asked to take this vacation voluntarily, but if they don't agree then a temporary ban may be imposed to enforce this vacation.  
 - A permanent or temporary ban from some or all Carpentry spaces (listservs, GitHub, in-person events including workshops, etc). The committee will maintain records of all such bans so that they may be reviewed in the future, extended to new Carpentry communication forums, or otherwise maintained.  

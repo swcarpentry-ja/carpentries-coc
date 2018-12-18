@@ -6,12 +6,12 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 
 **Before the workshop, the host will**
 
-* Decide on the [Software Carpentry](https://software-carpentry.org/lessons/) or [Data Carpentry](http://www.datacarpentry.org/lessons/) curriculum that would best serve your learners
-* Fill out the workshop request form for [Software Carpentry](https://software-carpentry.org/workshops/request/) or [Data Carpentry](http://www.datacarpentry.org/workshops-host/)
+* Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
+* Fill out the [workshop request form](https://amy.software-carpentry.org/forms/workshop/)
 * Work with the Carpentries Program Manager and Workshop Administrator to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
-* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We reccommend 1 helper for every 8-10 students, not counting the two instructors.
+* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
 * Advertise your workshop. The Workshop Administrator can help by creating an Eventbrite registration page.
 * Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administrator creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
 * Work with the Carpentries Program Manager and Business Administrator to make arrangements to pay the workshop fee. This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
@@ -20,6 +20,7 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Arrange for [required materials and equipment](workshop_needs.html)
 * Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 * Email learners to remind them of workshop location, timing, and software installation requirements
+* Organize a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
 * Meet the instructors and learners
@@ -52,7 +53,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 * Share emergency contact information with host in case of last minute changes
 * Practice teaching the material
 * Remind the host of the [necessary equipment](workshop_needs.html)
-* Join a [pre-workshop discussion session](https://pad.carpentries.org/instructor-discussion)
+* Join a [community discussion](https://pad.carpentries.org/community-discussions)
 * Confirm criteria for reimbursement (*per diem* or save receipts)
 
 **During the workshop instructors will**
@@ -68,8 +69,8 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 * Remind the host to send workshop attendance data to the Carpentries Workshop Administrator
 * Submit receipts for reimbursement
 * Send their own feedback to the Workshop Administrator including any configuration problems
-* Take part in an [instructor discussion session](https://pad.carpentries.org/instructor-discussion)
-* Report any lesson errors or suggest improvements on github or by email to the Carpentries Workshop Administrator
+* Take part in a [community discussion](https://pad.carpentries.org/community-discussions)
+* Report any lesson errors or suggest improvements on GitHub or by email to the Carpentries Workshop Administrator
 
 #### Helper Checklist
 

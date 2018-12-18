@@ -16,13 +16,13 @@ Best,
 
 ##### Reminder teaching demo
 
-Subject: Software/Data Carpentry teaching demonstration
+Subject: The Carpentries teaching demonstration
 
 Hi,
 
-According to http://pad.software-carpentry.org/teaching-demos you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
+According to https://pad.carpentries.org/teaching-demos-recovered you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
 
-I wanted to make it very clear that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach 5 minutes from a particular section and nothing else, and these often have to reschedule as they seldom are assigned the section they have prepared for. A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ and http://www.datacarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
+I wanted to make it very clear that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach 5 minutes from a particular section and nothing else, and these often have to reschedule as they seldom are assigned the section they have prepared for. A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
 For example, if you have chosen The Unix Shell, I may assign you any episode listed at http://swcarpentry.github.io/shell-novice/.
 
@@ -52,7 +52,7 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated good command of the subject material and a solid understanding of Carpentry teaching methods. We are excited about having you as a Carpentry instructor. I’ve forward this information to our staff. If this was the last stage in your instructor training checkout, you should get your official Carpentry Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
+I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of Carpentry teaching methods. We are excited about having you as a Carpentry instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official Carpentry Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
 
 Welcome to the Carpentry Instructor community!
 
@@ -82,29 +82,4 @@ Best/Saludos,
 [ sender name ]
 
 
-##### Completed everything except lesson contribution
 
-Subject: Carpentries instructor training: Lesson Contribution
-
-Hi [ trainee name ],
-
-Thank you for participating in an instructor discussion session and a teaching demonstration. I’d like to check you off in our system and issue you your instructor certification, but I don’t currently have a record of your lesson contribution. If you’ve already made a contribution, please send me a link to the PR or issue. If you’re working on your contribution, please check out these guidelines for some tips.
-
-Please get in touch if you have any questions.
-
-Best,
-
-[ sender name ]
-
-
-##### Completed lesson contribution
-
-Subject: Carpentries instructor training: Discussion and teaching demo
-
-Hi [ trainee_name ],
-
-Thanks very much for your lesson contribution. When you have a moment, please go to the instructor discussion etherpad here: (http://pad.software-carpentry.org/instructor-discussion) to sign up for a discussion session, and then to the teaching demo etherpad (http://pad.software-carpentry.org/teaching-demos) to sign up for your final demo. For more information about completing your instructor certification, please see our simplified checklist: (http://www.datacarpentry.org/checkout/) and let us know if you have any questions.
-
-Best, 
-
-[ name ]

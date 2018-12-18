@@ -85,7 +85,7 @@ Reimbursement requests and documentation should be submitted to the Business Adm
 
 **VI. Contact Roles and Responsibilities**
 - Executive Director - Tracy Teal
-- Executive Council Treasurer - Sue McClatchy
+- Executive Council Treasurer - Raniere Silva
 - Business Administrator - Elizabeth Williams
 
 **VII. Update Log**

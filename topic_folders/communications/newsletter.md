@@ -6,13 +6,13 @@ Our newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), appears every
 
 * *Highlights from the Carpentries Community Calendar*: Includes items from The Carpentries calendar, such as upcoming events.
 * *Community News*: A place to report on all kinds of things - events, workshop or conference reports, awards, lesson releases, new reports ...
-* *Subcommittee Activity*: Includes announcements directly from task force and committee chairs and summaries from meeting notes.
+* *Committee and Task Force Activity*: Includes announcements directly from task force and committee chairs and summaries from meeting notes.
 * *What you may have missed on the blog and mailing lists*: Includes highlights of key conversations on the *Discuss* email list, other lists or things on the blog that need further highlighting.
 * *Tweet of the Week*: One noteworthy tweet is chosen and a screen captured image is included.
-* *Papers & manuscripts for and from the community*: Includes announcements that were made on the the *Discuss* email list, Twitter, or other media.
+* *Papers & manuscripts for and from the community*: Includes announcements that were made on the *Discuss* email list, Twitter, or other media.
 * *Optional: Offcuts*: Includes other unusual news that may be of interest.
 * *Optional: Joinery*: Includes other ways to get involved in the Carpentries community and ways the Carpentries community is involved in other conferences, etc.
-* *Optional: Toolshed (Posts from our Past)*: A place to highlight handy posts from the blog or discussion list archives.
+* *Optional: Toolshed (Posts from our Past)*: A place to highlight handy posts from the blog or discussion list archives that might still be relevant to postings to lists and other issues.
 * *Community Job postings*: Includes information that has come through on the *Discuss* email list, Twitter, and other media.
 * *Other places to connect*: This section is standardized for all newsletter issues.
 
@@ -28,9 +28,11 @@ Check the *To* field is correctly set as going to *x* number of newsletter subsc
 
 Check the *From* field is correctly set as coming from *The Carpentries*.
 
+Make sure the date in the *Subject* line is changed to the new newsletter date.
+
 Select *Edit design* to add newsletter content. When the newsletter opens, click the pencil icon in the newsletter on the left to open the newsletter for editing. (Editing is all done within the right pane; the left pane renders the public view as you edit.)
 
-Remove old content and paste in the new.
+Remove the old content and paste in the new, leaving the headings so that the formatting for them is not disturbed.
 
 Be sure to update the date at the top of the email as well. 
 
@@ -42,8 +44,20 @@ Go to *Preview and Test* to preview the newsletter before sending it out. This i
 
 *Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the staff channel so staff have a chance to review the newsletter before it goes out.
 
-The newsletter will now be locked.  If any changes need to be made after it has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
+The newsletter will now be locked. If any changes need to be made after ther newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
 
 After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
 
 As soon as the newsletter has been sent out, move it to the **Carpentry Clippings** folder. This adds it to the [searchable online archive](https://carpentries.org/newsletter/) findable through our website. To move it, check the box next to the newsletter and select the Carpentry Clippings folder when the `Move to` option appears.
+
+#### Tips and Tricks
+
+The Mailchimp editor is not entirely user-friendly.  Formatting changes may appear in the edit window but not in the preview document. The easiest workaround for this is to:
+1. Copy and paste text in the Mailchimp editor.
+1. Select all text in the Mailchimp editor and click *Clear Styles*.
+1. Select all text and set font to Arial 12 point.
+1. Select the title ("Carpentries Clippings, <date>") and set font to 18 pt bold.
+1. Select each subheading one by one (*Highlights from the Carpentries Community Calendar*, *Community News*, etc.) and set font to 16 pt bold.
+1. Select each item heading one by one and set font to 14 point regular.
+
+[Mailchimp customer service chat](https://us14.admin.mailchimp.com/support/) is hard to find on their website but quite responsive to requests for help.

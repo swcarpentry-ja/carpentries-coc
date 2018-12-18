@@ -11,11 +11,11 @@ Software installation can be frustrating, but in the end, it almost always gets 
 
 * Plan for installation help at the start of both workshop days.  Put it on the schedule and make sure it's clear that people can and should show up during that time.  
 * Email the participants a week in advance and the day before to remind them to install the needed software before the workshops.  
-* If possible, recruit at least one helper who uses Windows and one who uses Mac.  
+* If possible, recruit at least one helper who uses Windows and one who uses macOS.
 * If you/helpers/instructors have time, test the install instructions on a fresh user account on your computer.
 * If you anticipate issues (or want to be extra prepared), have some of the emergency options listed below ready to go.  
 * If you're teaching for an organization where participants are bringing work laptops where they don't have administrative access (common in government organizations) -- ask about it.  Try to plan ahead either with their central IT organization or with the "emergency exits" listed below.  
-* Will you have decent wifi?  A bunch of people installing software at once can kill a poor internet connection.  If this is the case, prep a few flash drives with the relevant installers.  
+* Will you have decent Wi-Fi?  A bunch of people installing software at once can kill a poor internet connection.  If this is the case, prep a few flash drives with the relevant installers.  
 
 **On the day of:**
 
@@ -33,24 +33,21 @@ If there's absolutely no way that you'll be able to install the software locally
 
 #### Talking About the Code of Conduct
 
-The Carpentries Code of Conduct is a key tool for fostering and upholding an inclusive, respectful learning environment.  But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about.  Here's a sample of how you might introduce the Code of Conduct -- please don't use this verbatim, but adapt it to your own audience and style of introduction: 
+The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) is a key tool for fostering and upholding an inclusive, respectful learning environment.  But for people who are new to the idea of a Code of Conduct, it can be a little awkward to talk about.  Here's a sample of how you might introduce the Code of Conduct -- please don't use this verbatim, but adapt it to your own audience and style of introduction: 
 
-> It is really important to us as Instructors that this workshop provide a welcoming environment for everyone. People learn best when they feel comfortable, when they feel they belong. Software and Data Carpentry both subscribe to a Code of Conduct - you can find a link to it on line x on the workshop etherpad.  The Code of Conduct is our way of saying that this is a place for you -- you belong here and deserve to be treated with respect while you are here.  The Code of Conduct could be summed up as "be kind and respectful."
+> The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 > 
-> What does that mean?
+> What kinds of behaviors are expected?
+>
+> All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
+>
+> * Use welcoming and inclusive language
+> * Be respectful of different viewpoints and experiences
+> * Gracefully accept constructive criticism
+> * Focus on what is best for the community
+> * Show courtesy and respect towards other community members
 > 
-> Apart from prohibiting the obviously unacceptable stuff like harassing or vilifying anyone, it also means this:
-> 
-> * Please don't make someone feel stupid because they don't know what you know.
-> * Please don't try to make anyone feel bad because of the hardware or software tools they use.
-> * Please don't talk over people - everyone has an equal right to be heard.
-> * Please don't mock people's questions.
-> 
-> This is a workshop for beginners. If you know nothing at all about what we are going to be teaching here today, that means you're in the right place!
-> 
-> We are all learners here - including your Instructors! We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Observing the code makes the workshop better for everyone ... so ... what questions or comments do you have for me about that? ... If no-one has any questions or comments, then let's get started!"
-
-For details on how to handle Code of Conduct violations, see the policy page in the handbook: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines
+> Examples of unacceptable behavior by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the  details on how to handle Code of Conduct violations. 
 
 #### Using Exercises
 
@@ -126,3 +123,7 @@ As an example: the shell lesson has 7 sections -- the first three are about basi
 	* Rstudio: Rstudio can be particularly challenging because of all the panes.  Reducing the size of the two right panes is usually needed to have enough space in the script/console panes. 
 	* Jupyter notebooks: you can toggle the headers/toolbar off so that you have more scripting space
 * If you have the time, doing a full run-through where you actually practice what you're going to say can be extremely valuable.  Words are hard when you're also trying to type and manage a classroom, so having said them once in practice gives you one less new thing to think about.  
+
+**Join a community discussion**
+
+* Joining a [community discussion before your workshop](https://pad.carpentries.org/community-discussions) is a great way to ask/resolve your questions about your coming workshop and also learn from the experience of other instructors! 

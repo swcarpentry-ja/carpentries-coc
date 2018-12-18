@@ -10,7 +10,7 @@ Dear [ name ],
 
 Thanks so much for inquiring about hosting a Carpentries workshop at [ site_name ].  Here's some background about our programs and how we run.
 
-Software Carpentry (SWC) and Data Carpentry (DC) are two programs of The Carpentries (a fiscally sponsored project of Community Initiatives). Both programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ).
+Software Carpentry (SWC), Data Carpentry (DC), and Library Carpentry (LC) are programs of The Carpentries (a fiscally sponsored project of Community Initiatives). All programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ). Library Carpentry workshops teach people working in library- and information-related roles how to apply concepts from software development fields in library tasks and identify and use best practices in data structures.
 
 All workshops have a standard fee of US$2500, plus any costs for instructor travel (which may include airfare, ground travel, hotel, and meals/incidentals).
 You can read more about the costs and how to request a workshop here for Software Carpentry (https://software-carpentry.org/workshops/request/) and here for Data Carpentry (http://www.datacarpentry.org/workshops-host/).
@@ -84,11 +84,9 @@ This email is to introduce [ host_name ] of [ site_name ] with instructors [ ins
 
 I also want to introduce our Workshop Administrator, [ admin_name ]. [ She or he ] will be supporting all of the logistical details with this workshop.
 
-Next steps:
+You can all read more about the roles of workshop hosts, instructors, and helpers here (http://docs.carpentries.org/topic_folders/hosts_instructors/index.html). I'll highlight a few things here.  There's a lot of information here, so please take some time to read through things carefully and ask questions as needed.
 
-Instructors will work directly with [ host_first_name ] to make travel arrangements. We are not part of this process. This may include airfare, ground travel, hotel, and meals/incidentals. [ host_first_name ], it is up to you whether you want to book things directly or have instructors make their own arrangements and get reimbursed. Either way, please keep in mind our instructors are volunteering two days of their time to teach with you, so please support them in making travel and reimbursement as smooth as possible.
-
-You can all read more about the roles of workshop hosts, instructors, and helpers here (http://docs.carpentries.org/topic_folders/hosts_instructors/index.html). I'll highlight a few things here.
+Instructors will work directly with [ host_first_name ] to make travel arrangements. We are not part of this process. This may include airfare, ground travel, hotel, and meals/incidentals. [ host_first_name ], it is up to you whether you want to book things directly or have instructors make their own arrangements and get reimbursed. Either way, please keep in mind our instructors are volunteering two days of their time to teach with you, so please support them in making travel and reimbursement as smooth as possible. Instructors, please be sure to review the site's policies around making travel arrangements and handling reimbursements - we want to be sure everything is handled quickly and efficiently.
 
 [ host_first_name ] , can you share a little about who your learners are and what you and they are expecting? That will help our instructors be prepared. We also like to have a couple of helpers at each workshop from the local community. Would you be able to help secure a couple of helpers? They don't need to be connected with us; they just need a good understanding of the technologies we teach and an enthusiasm to help others.
 
@@ -101,6 +99,10 @@ https://software-carpentry.org/lessons/
 OR
 
 http://www.datacarpentry.org/lessons/
+
+OR
+
+https://librarycarpentry.org/lessons/
 
 to know who's teaching what. One of them will create the workshop's web page on GitHub, which will include workshop details and instructions on what learners will need to install on their computers. The template can be found here:
 
@@ -126,7 +128,7 @@ Subject: Carpentries workshop at [ site_name ]: Other instructors placed
 
 Hi [ names ],
 
-You signed up as interested in teaching at the [ Software_or_Data ] Carpentry workshop at [ site_name ] scheduled for [ date ].
+You signed up as interested in teaching at the [ Software_/ Data / Library ] Carpentry workshop at [ site_name ] scheduled for [ date ].
 
 This is to let you know we have placed other instructors there.  Thanks so much for signing up and please keep an eye out for other opportunities to teach.  We'll be sure to get you in on another workshop. Any questions please let me know.
 
@@ -205,7 +207,7 @@ Below you will find the pre & post survey result links for your workshop on [ DA
 * pre: [ LINK GOES HERE ]
 * post:[ LINK GOES HERE ]
   
-As a reminder, the actual survey links for learners are found on the workshop github page [ LINK ]. 
+As a reminder, the actual survey links for learners are found on the workshop GitHub page [ LINK ]. 
 
 Here are a few things for you to keep in mind as you prepare for your workshop: 
 
@@ -260,7 +262,7 @@ For your convenience, below you will find several resources that are available t
 
 Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar here (http://pad.software-carpentry.org/instructor-discussion). Be sure to check your timezone when you sign up.
 
-Data Carpentry (http://www.datacarpentry.org/blog/), Software Carpentry (https://software-carpentry.org/blog/), and The Carpentries (https://carpentries.org/blog/) also welcome blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
+Data Carpentry (http://www.datacarpentry.org/blog/), Software Carpentry (https://software-carpentry.org/blog/), Library Carpentry (https://librarycarpentry.org/blog/) and The Carpentries (https://carpentries.org/blog/) also welcome blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
 
 If you have any questions regarding anything I’ve shared do not hesitate to email me directly.  Thanks for all of your hard work running this workshop!
 
@@ -273,7 +275,7 @@ Best,
 
 Subject: [SWC/DC/LC] Carpentries Workshop @ [LOCATION/DATE]: Introducing Business Administrator
 
-*(send to host and cc ewilliams@carpentries.org)*
+*(send to host and cc finance@carpentries.org)*
 
 Host, 
 
@@ -281,7 +283,7 @@ This is Elizabeth Williams, our Business Administrator, who will be assisting fr
 
 [PROVIDE ELIZABETH SHORT DESCRIPTION OF WORKSHOP, I.E. BILLING AMOUNT, WHETHER OR NOT THEY WILL HAVE EVENTBRITE, ANY OTHER INFORMATION YOU HAVE RELEVANT TO BILLING]
 
-She has put together this list of questions (in a Typeform) that usually gives her everything she needs to complete the invoicing process, including information about the billing contact, vendor registration paperwork, and POs. 
+She has put together this list of questions (https://carpentries.typeform.com/to/T1qPcJ) that usually gives her everything she needs to complete the invoicing process, including information about the billing contact, vendor registration paperwork, and POs. 
 
 If the person processing the invoice is someone other than you, it is probably best that they fill out this form, and Elizabeth will reach out with any questions and follow up on any paperwork that your organisation’s process requires. Alternatively, please feel free to connect Elizabeth directly with your billing contact or respond to her directly with any information that is appropriate!
 
@@ -439,7 +441,7 @@ We are excited to meet you at the upcoming [ Data/Software/Library Carpentry wor
 
 Your responses will be recorded anonymously. Your IP address will be registered; however, your responses will remain anonymous. You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. You may quit the survey at any time, or skip any item other than those required to correctly sort your responses. 
 
-If you have any questions about our assessment strategy, please contact  Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org.
+If you have any questions about our assessment strategy, please contact Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org.
 
 Our best,  
 Your instructors
@@ -448,9 +450,9 @@ Your instructors
 
 Hello,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We'd like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (https://www.surveymonkey.com/r/dcpostworkshopassessment  OR https://www.surveymonkey.com/r/swc_post_workshop_v1 ) as soon as possible.
+Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We'd like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (https://www.surveymonkey.com/r/dcpostworkshopassessment OR https://www.surveymonkey.com/r/swc_post_workshop_v1 ) as soon as possible.
 
-If you have any questions about our assessment strategy, please contact  Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org. We look forward to your continued involvement with our community!
+If you have any questions about our assessment strategy, please contact Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org. We look forward to your continued involvement with our community!
 
 Our best,  
 Your instructors

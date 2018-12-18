@@ -24,15 +24,22 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 ###### Two weeks before the event
 -  Introduce yourself to your trainees.  
 
-###### One week before the event (if teaching remotely)   
--  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
--  Plan logistics with co-Trainer(s).  
--  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
--  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+###### One week before the event      
+-  Plan logistics with co-Trainer(s)
+-  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
+-  If teaching remotely: 
+  -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
+  -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
+  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+-  If teaching in person:
+  - Confirm with your host that breakout rooms are available or make an alternate plan
+  - Create a plan for printing handouts & determine who will bring sticky notes
+  - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
+  - Check on availability/timing of coffee, lunch, or any other details that matter to you 
 
 ###### During the event
 -  Take attendance.  
--  Remind trainees to fill out application (member events only).   
+-  Remind member trainees to fill out application (Open Training applicants have already done this).   
 -  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
 -  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
 -  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
@@ -91,7 +98,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - [listed below](#not-good-starting-points-for-demos). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
+-  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - [listed below](#starting-points-for-demos). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### Shortly Before the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
@@ -154,7 +161,8 @@ Please see the table below for recommendations about choosing a starting point f
 | DC | Geospatial | [Introduction to R for Geospatial Data](https://datacarpentry.org/r-intro-geospatial/) | none | any episode | |
 | DC | Geospatial | [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/) | any other episode | <ul><li>[Intro to Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/)</li><li>[Reproject Raster Data in R](https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/)</li><li>[Work with Multi-Band Rasters in R](https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/)</li><li>[Open and Plot Shapefiles in R](https://datacarpentry.org/r-raster-vector-geospatial/06-vector-open-shapefile-in-r/)</li><li>[Handling Spatial Projection & CRS in R](https://datacarpentry.org/r-raster-vector-geospatial/09-vector-when-data-dont-line-up-crs/)</li><li>[Convert from a .csv to a Shapefile in R](https://datacarpentry.org/r-raster-vector-geospatial/10-vector-csv-to-shapefile-in-r/)</li><li>[Raster Time Series Data in R](https://datacarpentry.org/r-raster-vector-geospatial/12-time-series-raster/)</li></ul> | Many episodes rely on data that learners have loaded from previous episodes. These can be used as starting points, but trainees may need extra time to set up their environment. | 
 | | | | | | | |
-| LC |  | all lessons | TBA | TBA | These lessons have not yet been approved for Carpentry teaching demos. |
+| LC | | [Library Carpentry: The Shell Lesson](https://librarycarpentry.github.io/lc-shell/) | [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/)  | <ul><li>[ Navigating the filesystem](https://librarycarpentry.github.io/lc-shell/02-navigating-the-filesystem/index.html)</li><li>[Working with files and directories](https://librarycarpentry.github.io/lc-shell/03-working-with-files-and-folders/index.html)</li><li>[Automating the tedious with loops](https://librarycarpentry.github.io/lc-shell/04-loops/index.html)</li><li>[Counting and mining with the shell](https://librarycarpentry.github.io/lc-shell/05-counting-mining/index.html)</li><li>[Working with free text](https://librarycarpentry.github.io/lc-shell/06-free-text/index.html)</li></ul> |  [What is the shell?](https://librarycarpentry.github.io/lc-shell/01-intro-shell/) has no live coding. |
+| LC | | [Library Carpentry OpenRefine](https://librarycarpentry.org/lc-open-refine/) | any other episode | [Importing data into OpenRefine](https://librarycarpentry.org/lc-open-refine/02-importing-data/index.html) | [Introduction to OpenRefine](Introduction to OpenRefine) has no live coding. Later episodes have dependencies. |
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
@@ -163,12 +171,12 @@ Please see the table below for recommendations about choosing a starting point f
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
 [training-template]: https://github.com/carpentries/training-template
-[minute-cards-template]: https://docs.google.com/forms/d/1ZvNx2co9BLEBTzDavUE7ZkAhkekBa19_5aIRFAdQIqw/edit
+[minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
-[demo-pad]: http://pad.software-carpentry.org/teaching-demos
-[demo-rubric]: https://github.com/carpentries/instructor-training/blob/gh-pages/files/teaching-demo-rubric.md
+[demo-pad]: http://pad.software-carpentry.org/teaching-demos-recovered
+[demo-rubric]: http://carpentries.github.io/instructor-training/demos_rubric/
 
 
