@@ -84,11 +84,11 @@ Best/Saludos,
 
 ##### Spanish: trainee did not pass teaching demo
 
-Subject: Carpentries instructor training: Teaching Demo
+Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
 
 Hola [nombre del aprendiz],
 
-Gracias por presentar tu Demostración de enseñanza. A pesar de que has demostrado un buen conocimiento de los temas cubiertos, he determinado no pasarte basada/o en [razón]. [Explicar la razón]. Estamos muy emocionados por recibirte como instructor de las Carpentries en el futuro y me gustaría verte hacer otra demostración [especifical los cambios necesarios] para certificarte como instructor.
+Gracias por presentar tu Demostración de enseñanza. A pesar de que has demostrado un buen conocimiento de los temas cubiertos, he determinado no pasarte basada/o en [razón]. [Explicar la razón]. Estamos muy emocionados por recibirte como instructor de las Carpentries en el futuro y me gustaría verte hacer otra demostración [especificar los cambios necesarios] para certificarte como instructor.
 
 Por favor, hazme saber si tienes alguna pregunta o inquietud.
 
@@ -98,7 +98,7 @@ Saludos,
 
 ##### Spanish: trainee did pass teaching demo
 
-Subject: Carpentries instructor training: Teaching Demo
+Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
 
 Hola [nombre del aprendiz],
 
