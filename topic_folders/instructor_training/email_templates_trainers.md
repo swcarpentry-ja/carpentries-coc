@@ -102,7 +102,7 @@ Subject: Entrenamiento para instructor de las Carpentries: Demostración de ense
 
 Hola [nombre del aprendiz],
 
-Estoy muy contenta/o de informarte que has pasado tu Demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries. Estamos muy emocionados de recibirte como instructor de las Carpentries. Ya he mandado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación recibirás tu certificado oficial de las Carpentries en alrededor de una semana junto con las instrucciones para inscribirte para impartir talleres. Si aún tienes que completar algunos pasos en tu proceso de certificación asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor manda un correo a heckout@carpentries.org.
+Estoy muy contenta/o de informarte que has pasado tu Demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries. Estamos muy emocionados de recibirte como instructor de las Carpentries. Ya he mandado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación recibirás tu certificado oficial de las Carpentries en alrededor de una semana junto con las instrucciones para inscribirte para impartir talleres. Si aún tienes que completar algunos pasos en tu proceso de certificación asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor manda un correo a checkout@carpentries.org.
 
 Bienvenida/o a la comunidad de las Carpentries.
 
