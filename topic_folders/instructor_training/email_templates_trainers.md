@@ -1,5 +1,9 @@
 ### Email Templates (Trainers)
 
+This section contains email templates for English and Spanish activities.
+
+#### Templates in English
+
 ##### Email after training event
 
 Subject: Thanks for attending Carpentries Instructor Training!
@@ -60,6 +64,7 @@ Best wishes,
 
 [ sender name ] 
 
+#### Templates in Spanish
 
 ##### Bilingual Demo Session Reminder Email
 
@@ -73,7 +78,7 @@ Please let me know if you have any questions or concerns.
 
 Hola,
 
-Gracias por inscribirte para completar tu "Demostración de enseñanza" como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee ésta breve descripción bilingüe de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
+Gracias por inscribirte para completar tu "Demostración de enseñanza" como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee [ésta breve descripción bilingüe](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
 
 Por favor, hazme saber si tienes alguna pregunta o inquietud.
 
@@ -88,7 +93,7 @@ Subject: Entrenamiento para instructor de las Carpentries: Demostración de ense
 
 Hola [nombre del aprendiz],
 
-Gracias por presentar tu Demostración de enseñanza. A pesar de que has demostrado un buen conocimiento de los temas cubiertos, he determinado no pasarte basada/o en [razón]. [Explicar la razón]. Estamos muy emocionados por recibirte como instructor de las Carpentries en el futuro y me gustaría verte hacer otra demostración [especificar los cambios necesarios] para certificarte como instructor.
+Gracias por presentar tu demostración de enseñanza. A pesar de que has demostrado un buen conocimiento de los temas cubiertos, he determinado no aprobarte basada/o en [razón]. [Explicar la razón]. Estaremos muy contentos de recibirte como instructor de las Carpentries en el futuro y me gustaría verte hacer otra demostración [especificar los cambios necesarios] para certificarte como instructor.
 
 Por favor, hazme saber si tienes alguna pregunta o inquietud.
 
@@ -102,7 +107,7 @@ Subject: Entrenamiento para instructor de las Carpentries: Demostración de ense
 
 Hola [nombre del aprendiz],
 
-Estoy muy contenta/o de informarte que has pasado tu Demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries. Estamos muy emocionados de recibirte como instructor de las Carpentries. Ya he mandado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación recibirás tu certificado oficial de las Carpentries en alrededor de una semana junto con las instrucciones para inscribirte para impartir talleres. Si aún tienes que completar algunos pasos en tu proceso de certificación asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor manda un correo a heckout@carpentries.org.
+Estoy muy contenta/o de informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries. EEs un gusto recibirte como instructor/a de las Carpentries. Ya he mandado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación recibirás tu certificado oficial de las Carpentries en alrededor de una semana junto con las instrucciones para inscribirte para impartir talleres. Si aún tienes que completar algunos pasos en tu proceso de certificación asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor manda un correo a heckout@carpentries.org.
 
 Bienvenida/o a la comunidad de las Carpentries.
 
