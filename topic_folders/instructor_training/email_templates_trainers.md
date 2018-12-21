@@ -78,7 +78,7 @@ Please let me know if you have any questions or concerns.
 
 Hola,
 
-Gracias por inscribirte para completar tu "Demostración de enseñanza" como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee [ésta breve descripción bilingüe](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
+Gracias por inscribirte para completar tu demostración de enseñanza como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee [ésta breve descripción bilingüe](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
 
 Por favor, hazme saber si tienes alguna pregunta o inquietud.
 
