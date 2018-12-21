@@ -244,6 +244,21 @@ Choose the `Awards` tab on the next screen.  Select the Badge type from the drop
 
 ![AMY issue badge](images/amy_issue_badge.png)
 
+### Memberships
+
+AMY is also used to track all Carpentries memberships.  To create a new membership, the site must first be listed as an [organization](#adding-a-new-organization) in AMY.
+
+On the organization's page, click the green "Add a membership" button.  Enter the following information:
+
+* Variant (membership type)
+* Agreement start and end dates
+* Contribution type (Financial, Person-days, or other)
+* Workshops without admin fee per agreement
+* Self organized workshops per agreement (can be left blank as this is typically unlimited)
+* Instructor training seats (actual number alloted in contract)
+* Additional instructor training seats (any additional seats allowed beyond contracted amount)
+* Notes.
+
 ### Reports
 
 AMY comes with several built in reporting features that can be accessed by clicking `Reports` in the top menu. Most reports include an api link for further analysis.
