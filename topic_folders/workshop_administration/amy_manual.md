@@ -198,9 +198,13 @@ This will return you to the search screen, and this person's record will be upda
 
 Continue doing this until all relevant applications have a new trainee account. This must be done individually; it can not be done in bulk.
 
-Once all trainees for a given event have trainee accounts, we can assign them to a specific training event. This part can be done in bulk. The event must have already been created in AMY.
+Once all trainees for a given event have trainee accounts, we can assign them to a specific training event and associate them with a specific member contract. This part can be done in bulk for each group of trainees with a unique training date and member site affiliation. The event and the member agreement must already have been created in AMY.
 
-Check all the names to be assigned to the training event, and then select the training event from the drop down menu. Click "Match selected trainees to chosen training." The search screen will then update to show that the trainees have been matched to this event. The event page will also update to list these trainees as learners at that event.
+Check all the names to be assigned to the training event and membership, and then select the training event from the first drop down menu.  Select the member agreement from the second drop down menu. If the trainees are coming through the open application process rather than a member agreement, check this box instead of choosing a member agreement.
+
+Click "Accept & match selected trainees to chosen training." The search screen will then update to show that the trainees have been matched to this event. The event page will also update to list these trainees as learners at that event.
+
+![Match trainees to instructor training event](images/amy_instructor_training_match.png)
 
 #### Tracking checkout progress
 
