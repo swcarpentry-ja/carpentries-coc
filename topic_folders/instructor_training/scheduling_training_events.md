@@ -40,38 +40,3 @@ After the event, the Workshop Administrator:
 * [asks Trainers to send attendance list](email_templates_admin.html#attendance-checkout)
 * [records people who completed training and subsequent checkout steps in AMY](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#tracking-checkout-progress)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-If no member site signs up for an event one month in advance, the Director of Instructor Training decides to convert this into an open training event or to cancel the event.
-
-Once a member site has chosen a training date, they must share a list of names and emails of participants with the Program Manager no later than three weeks before the event.  The Program Manager will email all participants, hosts, and trainers information about the training event using [this email template](email_templates_admin.html#member-training-introductions).  The Workshop Administrator will enter the [training information in AMY](../workshop_administration/amy_manual.html#instructor-training), including assigning trainee applications to this event.  The Instructor Trainers will prepare for the event as outlined in the [trainers' guide](/instructor_training/trainers_guide.html).
-
-The Program Manager, Workshop Administrator, or Trainer will schedule a time for the site(s) to do a test run of Zoom.
-
-#### For Open or Hybrid Training Events
-
-One month prior to a scheduled training event, if no member sites have signed up, this event will be closed to member sites.  The Director of Instructor Training will determine whether to change this to an open training event or to cancel the event entirely.  Carpentries staff will notify trainers scheduled to lead this event of this decision.
-
-If only one site has signed up, the Director of Instructor Training may opt to make this a hybrid event, with one site participating as a team with people from the open application process joining individually.
-
-If this becomes an open or hybrid training event, the Director of Instructor Training will invite [people who have been accepted through the open training application process](https://drive.google.com/drive/u/0/folders/0B2Xc7BrFgkvUc2lKUHBRNXRFOGc) to join this event (link accessible to Carpentries staff only).  Applicants can confirm their participation by signing up on [this sheet](https://docs.google.com/spreadsheets/d/12V0gAApyS7HZbODoGCPcJ7ZuDmVS-1oN7rw0TVXr0Wc/edit#gid=0).
-
-The Director of Instructor Training will email trainees introductory information using [this email template](/instructor_training/trainers_guide.html#member-training-introductions).
