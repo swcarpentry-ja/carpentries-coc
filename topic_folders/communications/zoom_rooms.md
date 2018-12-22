@@ -84,7 +84,7 @@ This will only need to be done once for each new room.  This is already done for
 
 Go to the [Google admin console](https://admin.google.com/AdminHome?hl=en).  Click on "Buildings and Resources" and then click "Edit Resources" under "Resource Management."
 
-You will see all existing buildings and rooms listed. This feature is meant for physical buildings; we are using it for virtual videoconferencing rooms. One "building" is set up, called "Zoom Rooms" that contains three resouces -- Zoom Room 1, Zoom Room 2, and Zoom Room 3.  
+You will see all existing buildings and rooms listed. This feature is meant for physical buildings; we are using it for virtual videoconferencing rooms. One "building" is set up, called "Zoom Rooms" that contains three resources -- Zoom Room 1, Zoom Room 2, and Zoom Room 3.  
 
 To add a new "room" in this "building" - click on the yellow plus sign next to "Resources."  Fill out the following information:
 
