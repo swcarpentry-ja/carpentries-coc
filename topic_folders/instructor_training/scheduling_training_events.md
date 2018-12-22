@@ -38,5 +38,5 @@ After the event, the Workshop Administrator:
 
 * [emails trainees missing applications](email_templates_admin.html#missing-instructor-training-applications)
 * [asks Trainers to send attendance list](email_templates_admin.html#attendance-checkout)
-* [records people who completed training and subsequent checkout steps in AMY](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#tracking-checkout-progress)
+* [records people who completed training and subsequent checkout steps in AMY](https://docs.carpentries.org/topic_folders/workshop_administration/amy_manual.html#tracking-checkout-progress).  Emails about the training and checkout progress are typically sent to checkout@carpentries.org, a mailbox in Helpscout.
 
