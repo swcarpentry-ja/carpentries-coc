@@ -110,7 +110,7 @@ Speaking of priorities...
 
 **Prioritize**
 
-All of The Carpentries lessons have more material than you can easily cover in a half day, especially with a novice group.  The Data Carpentry materials are closer to realistic workshop time estimates, but can still run slowly depending on the group.  
+All of The Carpentries lessons have more material than you can easily cover in the time alloted, especially with a novice group.  The Data Carpentry materials are closer to realistic workshop time estimates, but can still run slowly depending on the group.  
 
 So no matter what, go through the lesson in advance and decide what is most important to cover and what you would feel okay skipping (either skipping outright, or dropping it if you don't have time).  
 
