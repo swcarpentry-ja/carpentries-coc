@@ -4,14 +4,11 @@ The Instructor Development Committee leads and organizes Community Discussions. 
 
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
-1. __Pre- and Post-Workshop Discussions__  
-Description: These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community. 
+1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community. 
 
-2. __Themed Discussion Sessions__  
-Description: These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies. 
+2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies. 
 
-3.	__Carpentries Conversations__  
-Description: These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:   
+3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. African Task Force  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Carpentries en Latinoamérica  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. CarpentryCon Task Force  
