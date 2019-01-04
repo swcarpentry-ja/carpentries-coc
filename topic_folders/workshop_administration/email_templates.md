@@ -40,21 +40,13 @@ Feel free to email me with any questions!
 
 ##### Logistics Information from Host
 
-* Use this template if the host did not provide enough information about the workshop in their workshop request.*
+* Use this template if the host did not fill out a workshop request form.*
 
 Hi [Host Name], 
 
 Thanks so much for planning a Carpentries workshop at [site name]. I'm excited to work with you to ensure you have a successful workshop!
 
-A few questions to get started planning:
-
-* Can you provide me with the dates you are interested in hosting the workshop? If you do not have an exact date at this time, that is ok. We can work with a date range. Please note that we require 2-3 months lead time to plan.
-
-* Which curriculum would you like to have taught? For Software Caprentry Workshops, please identify if you would like R or Python as the programming language.  You can read more about our Software Carpentry (https://software-carpentry.org/lessons) and Data Carpentry (https://datacarpentry.org/lessons/) lessons.  
-
-* Please tell me a bit about your expected audience (their goals, background, etc.). This will help me recruit and prepare instructors.
-
-Let me know about the above, and what other questions you have for me. Thanks again!
+To help us learn more about what you want to do and support you accordingly, please fill out our workshop request form here (https://amy.software-carpentry.org/forms/workshop/).  We'll follow up with you promptly so we can get started planning.
 
 Best,
 
