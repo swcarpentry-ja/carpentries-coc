@@ -154,7 +154,7 @@ Based on discussion among the Instructor Development Committee, temporary questi
     - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
     - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to checkout@carpentries.org.
 - Clear the information from your session (date/time, attendees, notes) from the etherpad. 
-- (Optional) write a blog post about interesting points that came up in discussion.
+- (Optional) write a [blog post](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html#how-to-contribute-a-blog-post-to-the-carpentries-blog) about interesting points that came up in discussion.
 
 
 ### Email Templates
