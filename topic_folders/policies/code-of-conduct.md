@@ -6,7 +6,7 @@ The Carpentries is a community-led project. We value the involvement of everyone
 
 To make clear what is expected, everyone participating in Carpentry activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct.  
 
-The Carpentry Code of Conduct Committee is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). 
+The Carpentry [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). 
 All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. 
  
 
