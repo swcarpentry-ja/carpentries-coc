@@ -156,20 +156,24 @@ Dear future Carpentries Instructor,
 
 Thank you again for applying to our open Instructor Training program. 
 We are excited to offer you the opportunity to register for an 
-upcoming instructor training event next month. Don’t worry if you’re 
-not able to attend this event, you will continue to receive 
-invitations for upcoming events until you are placed at a training.
+upcoming online instructor training event.  You can check out our calendar
+of events here: (https://carpentries.github.io/instructor-training/training_calendar/) 
+and sign up for any event that is less than one month away. 
 
-To register for this event, please follow this link: 
-(INSERT EVENTBRITE REGISTRATION LINK) and use the following code: 
-[INSERT CODE]. Registration will close for this event on 
-[INSERT DATE (ONE WEEK BEFORE EVENT)], so be sure to register before
-that time to ensure your place in the event.
+To register, click on the event you are interested in and use the following 
+code on the Eventbrite page: [INSERT CODE]. Registration for open training 
+applicants begins one month before each event, and closes one week before 
+each event.
+
+We will send you a reminder at the beginning of each month, but you can
+register for an event at any time, provided it is no more than one month away.
 
 Please let me know if you have any questions or if you would like to
-unsubscribe from these event invitations. 
+unsubscribe from these event invitations. We look forward to you
+joining The Carpentries community!
 
 Best, 
+
 [INSERT SENDER’S NAME]
 
 ##### One Month Trainer Email (online training)
