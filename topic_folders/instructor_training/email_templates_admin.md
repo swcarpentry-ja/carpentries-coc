@@ -31,7 +31,9 @@ Training workshop registration page
 (http://carpentries.github.io/instructor-training/training_calendar/index.html). 
 Your trainees should register with the code: [ insert code here in bold ]. 
 This code can be used [ number ] times. Please be sure to share this
-code with your trainees. For guidance about how to select your 
+code with your trainees. They should also fill out our application form
+( https://amy.software-carpentry.org/forms/request_training/ )
+using the same code. For guidance about how to select your 
 trainees, please visit our Information for Member Organisations page
 at http://carpentries.github.io/instructor-training/members/. 
 
@@ -125,9 +127,11 @@ I would like to invite you to you to become one of our Carpentries
 instructors. Instructor training is held online via video-conference, 
 over two consecutive days. If you are interested in becoming a 
 Carpentries instructor, please register for one of the training 
-events listed here: ( link ) Please note you must use this code to 
-register:  [ code ]. You will also need to complete The Carpentries
-instructor training application form: 
+events listed here: 
+( https://carpentries.github.io/instructor-training/training_calendar/ ) 
+Please note you must use this code to register:  [ code ]. You 
+will also need to complete The Carpentries instructor training application 
+form using the same registration code: 
 https://amy.software-carpentry.org/forms/request_training/. This 
 application is a formality - you are guaranteed to be accepted into 
 the training program - but The Carpentries staff needs this 
