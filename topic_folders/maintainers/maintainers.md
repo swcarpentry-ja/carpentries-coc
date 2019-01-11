@@ -29,6 +29,30 @@ Maintainers represent the Carpentry community and should strive to embody the Ca
 
 Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Carpentries lesson Maintainers. 
 
+## How to stay in touch 
+
+The overall Maintainer community communicates using our [mailing list](http://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with the Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
+
+The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://carpentries.org/community/#community-events).
+
+Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found
+in the README file in your lesson repository. 
+
+## How to handle issues
+
+Information coming soon. 
+
+## How to get help
+
+There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `help wanted` or `good first issue` labels.
+
+If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's [Curriculum Advisory Subcommittee](../lesson_development/lesson_development_roles.html#curriculum-advisory-committee) by using the `status:refer-to-cac` label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question.
+
+You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel. 
+
+## How to suggest changes to the styling for all lessons
+
+Information coming soon.
 
 ## Maintainer Onboarding
 
@@ -72,31 +96,3 @@ the onboarding process.
 15) Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
 
 16) Announce new Maintainers in the next newsletter.
-
-## How to stay in touch 
-
-The overall Maintainer community communicates using our [mailing list](http://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with the Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
-
-The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://carpentries.org/community/#community-events).
-
-Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found
-in the README file in your lesson repository. 
-
-## How to handle issues
-
-Information coming soon. 
-
-## How to get help
-
-There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `help wanted` or `good first issue` labels.
-
-If an issue affects the overall structure or scope of the lesson, you can refer the issue to your curriculum's [Curriculum Advisory Subcommittee](../lesson_development/lesson_development_roles.html#curriculum-advisory-committee) by using the `status:refer-to-cac` label. Remember that the Curriculum Advisors only meet once every six months (in advance of lesson releases) and they will likely not be able to provide a quick response to your question.
-
-You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel. 
-
-## How to suggest changes to the styling for all lessons
-
-Information coming soon.
-
-
-
