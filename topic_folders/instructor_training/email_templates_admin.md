@@ -165,9 +165,9 @@ of events here: (https://carpentries.github.io/instructor-training/training_cale
 and sign up for any event that is less than one month away. 
 
 To register, click on the event you are interested in and use the following 
-code on the Eventbrite page: [INSERT CODE]. Registration for open training 
-applicants begins one month before each event, and closes one week before 
-each event.
+code on the Eventbrite page: [INSERT CODE]. **Please do not share this code.** 
+Registration for open training applicants begins one month before each event, 
+and closes one week before each event.
 
 We will send you a reminder at the beginning of each month, but you can
 register for an event at any time, provided it is no more than one month away.
