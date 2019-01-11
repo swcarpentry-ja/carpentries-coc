@@ -77,7 +77,7 @@ the onboarding process.
 
 The overall Maintainer community communicates using our [mailing list](http://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with the Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
 
-The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://software-carpentry.org/join/#calendar).
+The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://carpentries.org/community/#community-events).
 
 Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found
 in the README file in your lesson repository. 

@@ -35,7 +35,7 @@ Before our first meeting, please:
 
 1) Sign up for the [Maintainer mailing list](http://carpentries.topicbox.com/groups/maintainers). This is a low-volume channel for communicating about issues relevant to the Maintainer community.
 
-2) Add Maintainer meetings to your schedule. The meeting times are listed on the [Maintainer Etherpad](http://pad.software-carpentry.org/maintainers) and on the [Community Calendar](https://software-carpentry.org/join/#calendar). The Maintainer monthly meetings are not mandatory, but are encouraged as a way of getting to know the more experienced Maintainers.
+2) Add Maintainer meetings to your schedule. The meeting times are listed on the [Maintainer Etherpad](http://pad.software-carpentry.org/maintainers) and on the [Community Calendar](https://carpentries.org/community/#community-events). The Maintainer monthly meetings are not mandatory, but are encouraged as a way of getting to know the more experienced Maintainers.
 
 If you have any questions, please let me know.
 
