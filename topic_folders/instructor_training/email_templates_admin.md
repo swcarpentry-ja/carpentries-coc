@@ -118,7 +118,7 @@ As part of our Carpentries membership, we are able to have
 [ number ] people from [ site name ] complete The Carpentries’ 
 instructor training program (https://carpentries.github.io/
 instructor-training/) and become certified Carpentries instructors.
-Certified instructors can teach Carpentries workshops here, helping 
+Certified instructors can teach Carpentries workshops (https://carpentries.org/workshops/), helping 
 us reach more people and build these skills across our community. 
 Instructors also have the opportunity to travel to teach Carpentries 
 workshops at other institutions around the globe. 
