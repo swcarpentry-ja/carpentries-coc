@@ -28,6 +28,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 -  If teaching remotely: 
+  -  Get acquanted with using [Zoom](../communications/zoom_rooms.html/zoom-manual) for videoconferencing.
   -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
   -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
   -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
