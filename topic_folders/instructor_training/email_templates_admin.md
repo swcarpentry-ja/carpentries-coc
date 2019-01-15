@@ -379,8 +379,8 @@ Best,
 Dear [ Trainer names ],
 
 Thank you for volunteering to teach The Carpentries Instructor 
-Training on [ dates/ time/timezone  ]. Unfortunately, we have had no
-member sites registered for this event and so will be cancelling the
+Training on [ dates/ time/timezone  ]. Unfortunately, due
+to low enrollment, we will be cancelling this
 event. We are working on ways to better estimate our capacity needs 
 so that we won’t need to cancel events in the future. Thank you again 
 for all of the time you give to the community - I greatly appreciate
