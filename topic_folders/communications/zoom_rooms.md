@@ -35,15 +35,15 @@ Each room can have a host who will have privileges to mute people, create breako
 
 
 #### Zoom Manual 
-Online Carpentry community events are held on [Zoom][zoom-home]. You can set up a personal Zoom account for yourself for free. This personal account will be able to attend the training event (or any other online Carpentry event), but will not be able to act as host.   
+Online Carpentry community events are held on [Zoom][zoom-home].  Carpentries staff will set up host access to our Zoom rooms for people leading community events. No login is needed for event guests; however a browser plug in may be required.
 
-About a week before your event, you will be given login credentials for a Carpentry account. This account will be the host for the event and will have extra privileges including the ability to mute participants and assign participants into breakout rooms. Decide ahead of time with your co-Trainer(s) who will log-in with these credentials. The host can transfer host privileges to other participants, so you will be able to trade host status back and forth with your co-Trainers during the event.  
+If you are leading an event, you will be given host acccess to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. The host can transfer host privileges to other participants, so you will be able to trade host status with co-facilitators during the event if needed.
 
 All Carpentry online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.
 
 ##### Host abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
-- When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while your co-Trainer teaches.  
+- When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
 - Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants assignments manually if desired.  
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
@@ -52,14 +52,6 @@ All Carpentry online events are set up such that participants can enter the room
 - “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
 - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
 - The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.  
-
-
-
-
-
-
-
-
 
 
 #### Viewing Zoom Room availability
