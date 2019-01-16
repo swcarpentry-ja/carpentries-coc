@@ -119,7 +119,7 @@ To add a new "room" in this "building" - click on the yellow plus sign next to "
 * Features: *leave blank*
 * User visible description: Note what this room is used for.
 
-When done, click "ADD RESOURCE" and this new room should be on your list of rooms.  This room will now be available for scheduling events as described below.
+When done, click "ADD RESOURCE" and this new room should be on your list of rooms.  This room will now be available for scheduling events as described above.
 
 
 [zoom-home]: https://www.zoom.us/
