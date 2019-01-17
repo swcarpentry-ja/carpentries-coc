@@ -93,11 +93,12 @@ about you.
 for the workshop. I will also be supporting all the administrative 
 details to make this event a success.
 
-[ host_name ] as you prepare for the training please keep in mind that there will be several breakout sessions during the training. If possible, please researve at least 2 additional rooms for this to take place. Also, the instructors will be using stickynotes throughout the training, please have 2 colors of sticky notes (enough for each person to have at least 4 of each color).  These are essential to the way we operate. 
+[ host_name ] as you prepare for the training please keep in mind that there will be several breakout sessions during the training. If possible, please reserve at least 2 additional rooms for this to take place. Also, the instructors will be using sticky notes throughout the training, so please have 2 colors of sticky notes (enough for each person to have at least 4 of each color).  These are essential to the way we operate. 
 
 Please let me know if you have any questions or concerns,
 
 Best,
+
 [ sender name ]
 
 ##### Initial Trainee Contact Email  (from member site to their prospective trainees - online training)
