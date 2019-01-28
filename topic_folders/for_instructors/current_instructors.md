@@ -60,8 +60,7 @@ the [workshop template home page](https://github.com/carpentries/workshop-templa
 #### Other ways to contribute
 
 There are many other ways you can contribute to the Carpentries beyond teaching workshops. These include helping 
-keep lessons updated by becoming a maintainer; helping grow the Instructor pool by becoming a Trainer; 
-contributing to email lists like Discuss or topic- or region-specific lists; serving on committees such as 
+keep lessons updated by becoming a maintainer; coordinating Carpentries-based workshops, helping grow the Instructor pool by becoming a Trainer; contributing to email lists like Discuss or topic- or region-specific lists; serving on committees such as 
 Instructor Development; serving on Task Forces such as CarpentryCon; helping translate our 
 lessons into other languages; running a mentoring group; hosting discussion sessions - the list goes on. 
 You can find a number of contacts for specific areas of work on our [Get Involved](https://carpentries.org/community/) page. 
