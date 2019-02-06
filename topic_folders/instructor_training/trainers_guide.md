@@ -81,7 +81,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  Get acquanted with using [Zoom](../communications/zoom_rooms.html/zoom-manual) for videoconferencing.
+-  Get acquanted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - [listed below](#starting-points-for-demos). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### Shortly Before the Demo
