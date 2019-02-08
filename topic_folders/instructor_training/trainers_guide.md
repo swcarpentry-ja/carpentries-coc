@@ -18,7 +18,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 
 ###### Four weeks before the event
 -  Contact your co-Trainer(s) and decide who will teach what.  
--  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc and a workshop website (using the [training template][training-template]).  
+-  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (using the [Google Doc template][googledoc-template]) and a workshop website (using the [training template][training-template]).  *Note the Google Doc is not currently maintained and may not be in sync with lesson materials.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
 ###### Two weeks before the event
@@ -154,6 +154,7 @@ Please see the table below for recommendations about choosing a starting point f
 [community-calendar]: https://software-carpentry.org/join/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [etherpad-template]: http://pad.software-carpentry.org/ttt-template
+[googledoc-template]: https://docs.google.com/document/d/1P_w1rgdVk4SpXvILSS-ZKz8Ujqklfujpc_zHf8D-G1A/edit
 [training-template]: https://github.com/carpentries/training-template
 [minute-cards-template]: https://docs.google.com/forms/d/1p7iOV5HNvy4POS4g6eottY8RSfKq4kaoKz1-jIFYTMI/edit
 [checkout-checklist]: http://www.datacarpentry.org/checkout/
