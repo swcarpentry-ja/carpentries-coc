@@ -19,7 +19,7 @@ The Carpentries welcomes blog posts from our community members including worksho
     
     `2018-04-29-book-review-teaching.md`
     
-1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://raw.githubusercontent.com/carpentries/carpentries.org/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/carpentries/carpentries.org/blob/gh-pages/_posts/2018/04/2018-04-25-website-launch.md), e.g.
 
     ```
     ---
@@ -50,7 +50,7 @@ The Carpentries welcomes blog posts from our community members including worksho
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
-    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/datacarpentry/datacarpentry.github.io/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
     
 1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries staff will review and merge your Pull Request or reach out to you with more questions.
 
@@ -77,7 +77,7 @@ If you wish to submit a blog post about a favourite tool or research workflow, y
     
     `2017-07-10-assess_report.md`
     
-1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://raw.githubusercontent.com/datacarpentry/datacarpentry.github.io/master/_posts/2015-01-23-genomics-hackathon.md), e.g.
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2015-01-23-genomics-hackathon.md), e.g.
 
     ```
     ---
@@ -112,7 +112,7 @@ If you wish to submit a blog post about a favourite tool or research workflow, y
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
-    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/datacarpentry/datacarpentry.github.io/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/datacarpentry/datacarpentry.github.io/blob/master/_posts/2017-12-19-frb_carpentry.md) and copy the formatting from there.
     
 1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries staff will review and merge your Pull Request or reach out to you with more questions.
 
@@ -169,7 +169,7 @@ If you wish to submit a blog post about a favourite tool or research workflow, y
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
-    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/LibraryCarpentry/librarycarpentry.github.io/master/_posts/2018/09/2018-09-12-data-in-the-desert.md) and copy the formatting from there.
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/LibraryCarpentry/librarycarpentry.github.io/blob/master/_posts/2018/09/2018-09-12-data-in-the-desert.md) and copy the formatting from there.
     
 1. Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly. Once tests have passed, Carpentries staff will review and merge your Pull Request or reach out to you with more questions.
 
@@ -194,7 +194,7 @@ If you are new to GitHub and want to submit a blog post without using this workf
     
     `2017-07-10-assess_report.md`
     
-1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md), e.g.
+1.  In order to render correctly, posts need to have a header block, which should be created like [this example](https://github.com/swcarpentry/website/blob/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md), e.g.
 
     ```
     ---
@@ -228,7 +228,7 @@ If you are new to GitHub and want to submit a blog post without using this workf
     ![Image Description](https://web_address/pathway_to_full_image_filename)
     ```
     
-    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://raw.githubusercontent.com/swcarpentry/website/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
+    If you are not sure how to add images in Markdown format, look at an [existing post with a locally hosted image](https://github.com/swcarpentry/website/blob/gh-pages/_posts/2017/06/2017-06-19-mqu-ttt.md) or [one with a web link](https://github.com/swcarpentry/website/blob/gh-pages/_posts/2017/07/2017-07-10-assess_report.md) and copy the formatting from there.
     
 7.  Once you have previewed your file, commit the Markdown file to your fork and start a Pull Request. We automatically run tests using [TravisCI](https://travis-ci.org/) on your Pull Requests. Please review your pull request a few minutes after you've submitted it to make sure those tests have passed. These tests look for valid YAML headers and make sure that the post will build properly.
 
