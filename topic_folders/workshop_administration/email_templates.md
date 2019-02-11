@@ -308,6 +308,22 @@ Best,
 [Sender]
 
 
+##### Instructions for Instructors to Update AMY Profile
+
+Hi [ person name ],
+
+Thank you for inquiring about how to update your profile in AMY (https://amy.software-carpentry.org/).  In order for you to be able to view and update your profile, we need to have a valid GitHub user ID for you. Once you share this with me, I will set up log in access for you. 
+
+From here you can update information such as your email address, twitter handle, location, and more.  You can also select your privacy settings if you would like your profile to be displayed on our website (https://carpentries.org/instructors/).  
+
+Please let me know if you have any other questions.
+
+Best,
+
+[sender name] 
+
+
+
 #### From Instructors and Hosts
 
 ##### For Self Organized Workshops: Recruiting Co-instructor
