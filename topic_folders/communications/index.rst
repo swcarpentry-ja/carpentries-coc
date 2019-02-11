@@ -12,3 +12,4 @@ COMMUNICATION
    commons.md
    presentations.md
    zoom_rooms.md
+   etherpads.md
