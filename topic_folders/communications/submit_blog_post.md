@@ -91,7 +91,7 @@ If you wish to submit a blog post about a favourite tool or research workflow, y
        - blog
     comments: true
     show_meta: true
-    authors: ["Tracy Teal"]
+    authors: ["Tracy Teal", "Belinda Weaver"]
     ---
     ```
 
@@ -143,7 +143,7 @@ If you wish to submit a blog post about a favourite tool or research workflow, y
     ```
     ---
     layout: page
-    authors: ["Jeff Oliver"]
+    authors: ["Tracy Teal", "Belinda Weaver"]
     title: "Data in the desert"
     teaser: "Library Carpentry workshop at the University of Arizona"
     date: 2018-09-12
@@ -203,7 +203,7 @@ If you are new to GitHub and want to submit a blog post without using this workf
     title: "Analysis of Software Carpentry Workshop Impact"
     date: 2017-07-10
     time: "08:00:00"
-    authors: ["Kari L. Jordan"]
+    authors: ["Tracy Teal", "Belinda Weaver"]
     category: ["surveys", "workshops", "impact", "assessment"]
     ---
     ```
