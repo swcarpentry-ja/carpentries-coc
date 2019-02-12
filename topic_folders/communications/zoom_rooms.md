@@ -51,7 +51,9 @@ All Carpentry online events are set up such that participants can enter the room
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
 - “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
 - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
-- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead.  
+- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead. 
+- If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
+please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
 
 
 #### Viewing Zoom Room availability
