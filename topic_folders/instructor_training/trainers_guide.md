@@ -101,8 +101,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  If all of your trainees passed, you can tell the group at the end of the demo session. If anyone did not pass, tell everyone you will send them each an email to let them know if they passed.  
 
 ##### During the Demo (Troubleshooting)
-- If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
-please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
+- Refer to the [Zoom](../communications/zoom_rooms.html#zoom-manual) guide to help troubleshoot connection issues.
 - If a trainee is teaching a Python lesson and their Jupyter notebook doesn't start, direct them to http://jupyter.org/try.
 
 ##### After the Demo 
