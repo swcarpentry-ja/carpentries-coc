@@ -12,6 +12,8 @@ Use of this service is restricted to members of The Carpentries community; this 
 
 Users are expected to follow our [code of conduct]( https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).  All content is publicly available under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/).
 
+A list of all commonly used Etherpads can be found on our [pad of pads](https://pad.carpentries.org/pad-of-pads). This list is manually created and typically only includes pads of interest to the general community.  It will not include pads specific to single events or groups.
+
 #### Troubleshooting
 
 While etherpads are generally reliable, you may find an etherpad not loading as expected.  In this case, you can try appending `/export/html` to an etherpad's url.  For example, if `https://pad.carpentries.org/committeename` is not loading, it may be possible to recover its text by going to `https://pad.carpentries.org/committeename/export/html`. This text content can then be copied and pasted to a new etherpad. Note this will not preserve the etherpad's history.  The chat will often still be active in the broken etherpad, so it is recommended that you link to the new etherpad in the broken etherpad's chat.
