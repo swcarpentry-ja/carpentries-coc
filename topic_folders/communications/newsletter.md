@@ -1,6 +1,6 @@
 ### Newsletter
 
-Our newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), appears every two weeks.  
+Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), appears every two weeks.  
 
 #### Newsletter content
 
