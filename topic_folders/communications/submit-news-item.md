@@ -2,7 +2,7 @@
 
 The Carpentries have a number of mechanisms for pushing out news. These include:
 
-- Our newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), which appears every two weeks.
+- Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), which appears every two weeks.
 - Our [Facebook page](https://www.facebook.com/carpentries), which community members are welcome to follow and comment on.
 - Twitter feeds for [The Carpentries](https://twitter.com/thecarpentries), [Software Carpentry](https://twitter.com/swcarpentry), [Data Carpentry](https://twitter.com/datacarpentry), and [Library Carpentry](https://twitter.com/libcarpentry).
 
