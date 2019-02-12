@@ -2,7 +2,7 @@
 
 Assessment plays a key role in ensuring the success, longevity, and evolution of the Carpentries workshops. The primary goal of our assessment efforts is to evaluate the impact we are having teaching data skills throughout our global community. Our assessment efforts are meant to guide the development, implementation, and instruction of our workshops. We are committed to providing directed feedback to our community regarding our assessment targets and using information collected from assessment to improve how we teach data skills and build learning communities.
 
-Our assessment tools will cover content knowledge, self-efficacy, and metacognitive strategies. Additionally, evaluation will occur at the end of each workshop and 6 months after a workshop with data releases published bi-annually, and an annual review of our impact will be published on our [website](http://www.datacarpentry.org/assessment/).
+Our assessment tools will cover content knowledge, self-efficacy, and metacognitive strategies. Additionally, evaluation will occur at the end of each workshop and 6 months after a workshop with data releases published bi-annually, and an annual review of our impact will be published on our [website](https://carpentries.org/assessment/).
 
 We are committed to supporting our learners, accommodating their differences, and encouraging them to grow individually and become part of our community of practice. We also encourage them to understand, reflect upon, and monitor their own learning.
 
