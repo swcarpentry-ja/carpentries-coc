@@ -17,14 +17,14 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Work with the Carpentries Program Manager and Business Administrator to make arrangements to pay the workshop fee (only for centrally organized workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
 * Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses)
 * Get emergency contact information for instructors in case of last minute changes
-* Arrange for [required materials and equipment](workshop_needs.html)
+* Arrange for [required materials and equipment](workshop_needs.md)
 * Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 * Email learners to remind them of workshop location, timing, and software installation requirements
 * Organize a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
 * Meet the instructors and learners
-* Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.html)
+* Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.md)
 * Periodically check in on the class to be sure things are running smoothly
 
 **After the workshop, the host will**
@@ -52,7 +52,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 * Assist the host in ensuring the workshop location is accessible
 * Share emergency contact information with host in case of last minute changes
 * Practice teaching the material
-* Remind the host of the [necessary equipment](workshop_needs.html)
+* Remind the host of the [necessary equipment](workshop_needs.md)
 * Join a [community discussion](https://pad.carpentries.org/community-discussions)
 * Confirm criteria for reimbursement (*per diem* or save receipts)
 
