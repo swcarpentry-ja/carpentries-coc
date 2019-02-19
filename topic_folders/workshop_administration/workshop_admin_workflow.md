@@ -24,7 +24,7 @@
         * Ask them to complete the [official request form](https://amy.carpentries.org/forms/workshop/)  
     * Program Manager or Workshop Administrator records request form in AMY.
 
-1. For non-member sites, Workshop Administrator asks host for invoicing contact, and introduces them to the Business Administrator to begin the invoicing process.
+1. For non-member sites, Workshop Administrator asks host for invoicing contact, and introduces them to the Administrative Support Specialist to begin the invoicing process.
 
 1. Workshop Administrator adds workshop to appropriate tab (by geography) on call for instructors [sign up sheet](https://docs.google.com/spreadsheets/d/1gYmN7zn1dcrQTFGunsCq6Pqj82Hs2csoCL9hjt0o3uo/edit#gid=0) and sends email to instructors list notifying them of upcoming opportunities.
 
