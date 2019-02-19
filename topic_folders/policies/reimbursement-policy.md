@@ -81,14 +81,15 @@ Those expecting reimbursement are responsible for discerning appropriate and all
 - If a meal for business purposes besides travel, the people in attendance at the meal
 - Additional notes
 
-Reimbursement requests and documentation should be submitted to the Business Administrator at finance@carpentries.org. The Business Administrator will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff.
+Reimbursement requests and documentation should be submitted to the Administrative Support Specialist at finance@carpentries.org. The Administrative Support Specialist will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff.
 
 **VI. Contact Roles and Responsibilities**
 - Executive Director - Tracy Teal
 - Executive Council Treasurer - Raniere Silva
-- Business Administrator - Elizabeth Williams
+- Administrative Support Specialist - Talisha Sutton-Kennedy
 
 **VII. Update Log**
+- Updated on 2019-02-19 to replace Business Administrator with Administrative Support Specialist
 - Updated on 2018-07-06 to include Business Administrator in procedures and add federal per diem rates as guideline for expenses.
 - Updated on 2018-03-06 to reflect that reimbursements cannot be denied due their time of submission.
 - Updated on 2018-02-23 to reflect updated workflow with Community Initiatives and approval contacts.
