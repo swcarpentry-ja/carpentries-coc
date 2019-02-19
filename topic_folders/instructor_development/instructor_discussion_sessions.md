@@ -97,7 +97,7 @@ The dates of community discussions are also listed in the Carpentries [community
 
 1. Use the [email templates](../instuctor_training/email_templates_trainers.md) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
 
-1. Log in to [AMY](https://amy.software-carpentry.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as csv to easily read each instructor's email address.
+1. Log in to [AMY](https://amy.carpentries.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as csv to easily read each instructor's email address.
 
 1. Send the templated email to all participants as `bcc`, and copy the Instructor Development Committee Co-Chairs as well as `team@carpentries.org`.
 

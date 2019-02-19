@@ -38,7 +38,7 @@ through training, teaching, curriculum development, and other community-related 
 
 #### Instructor Profile
 We maintain a record of information for each of our instructors in our AMY database system. 
-To keep your AMY profile up-to-date you can [login to AMY](https://amy.software-carpentry.org/) using your GitHub account. 
+To keep your AMY profile up-to-date you can [login to AMY](https://amy.carpentries.org/) using your GitHub account. 
 If you are unable to login to AMY, please submit your GitHub username to [team@carpentries.org](mailto:team@carpentries.org) 
 and the administrative team will get your profile updated allowing you to login. 
 We use instructor profiles to help us identify instructors for workshops and to keep track of when and where you teach workshops. 

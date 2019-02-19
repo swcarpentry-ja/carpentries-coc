@@ -69,7 +69,7 @@ we invite applicants in order of scoring to fill any training seats unclaimed by
 
 How do we score applicants? See our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md).
 
-To request training as an Instructor, please fill out this [form](https://amy.software-carpentry.org/forms/request_training/).
+To request training as an Instructor, please fill out this [form](https://amy.carpentries.org/forms/request_training/).
 
 Occasionally, open training events offered to the general public may be announced 
 in our [mailing list](https://carpentries.topicbox.com/groups/discuss), 

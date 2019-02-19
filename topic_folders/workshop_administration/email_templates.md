@@ -46,7 +46,7 @@ Hi [Host Name],
 
 Thanks so much for planning a Carpentries workshop at [site name]. I'm excited to work with you to ensure you have a successful workshop!
 
-To help us learn more about what you want to do and support you accordingly, please fill out our workshop request form here (https://amy.software-carpentry.org/forms/workshop/).  We'll follow up with you promptly so we can get started planning.
+To help us learn more about what you want to do and support you accordingly, please fill out our workshop request form here (https://amy.carpentries.org/forms/workshop/).  We'll follow up with you promptly so we can get started planning.
 
 Best,
 
@@ -312,7 +312,7 @@ Best,
 
 Hi [ person name ],
 
-Thank you for inquiring about how to update your profile in AMY (https://amy.software-carpentry.org/).  In order for you to be able to view and update your profile, we need to have a valid GitHub user ID for you. Once you share this with me, I will set up log in access for you. 
+Thank you for inquiring about how to update your profile in AMY (https://amy.carpentries.org/).  In order for you to be able to view and update your profile, we need to have a valid GitHub user ID for you. Once you share this with me, I will set up log in access for you. 
 
 From here you can update information such as your email address, twitter handle, location, and more.  You can also select your privacy settings if you would like your profile to be displayed on our website (https://carpentries.org/instructors/).  
 

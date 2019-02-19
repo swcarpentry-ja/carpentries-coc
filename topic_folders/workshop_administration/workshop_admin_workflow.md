@@ -3,7 +3,7 @@
 #### For centrally organized workshops
 
 1. One of the following occurs:
-    * Someone submits the [Carpentries workshop request form](https://amy.software-carpentry.org/forms/workshop/) 
+    * Someone submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) 
     * Someone emails team@carpentries.org to request a workshop.
     * Someone contacts a staff member to request a workshop.
 
@@ -21,7 +21,7 @@
         * Remind them of the budget
             * US$2500 standard fee due to our fiscal sponsor (for non-member university, government, or non-profit sites only)
             * Costs for instructor travel (airfare, ground travel, hotel, and meals/incidentals) are managed entirely between host and instructors. We will look for local instructors but can not guarantee it. Member sites are still responsible for travel costs.
-        * Ask them to complete the [official request form](https://amy.software-carpentry.org/forms/workshop/)  
+        * Ask them to complete the [official request form](https://amy.carpentries.org/forms/workshop/)  
     * Program Manager or Workshop Administrator records request form in AMY.
 
 1. For non-member sites, Workshop Administrator asks host for invoicing contact, and introduces them to the Business Administrator to begin the invoicing process.

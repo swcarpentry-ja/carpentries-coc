@@ -32,7 +32,7 @@ Training workshop registration page
 Your trainees should register with the code: [ insert code here in bold ]. 
 This code can be used [ number ] times. Please be sure to share this
 code with your trainees. They should also fill out our application form
-( https://amy.software-carpentry.org/forms/request_training/ )
+( https://amy.carpentries.org/forms/request_training/ )
 using the same code. For guidance about how to select your 
 trainees, please visit our Information for Member Organisations page
 at http://carpentries.github.io/instructor-training/members/. 
@@ -133,7 +133,7 @@ events listed here:
 Please note you must use this code to register:  [ code ]. You 
 will also need to complete The Carpentries instructor training application 
 form using the same registration code: 
-https://amy.software-carpentry.org/forms/request_training/. This 
+https://amy.carpentries.org/forms/request_training/. This 
 application is a formality - you are guaranteed to be accepted into 
 the training program - but The Carpentries staff needs this 
 application in order to get your information for training into their
@@ -347,7 +347,7 @@ in an Instructor Training event for The Carpentries, but we have not
 yet received an application from you. To ensure that we can get you 
 into our system and track your progress towards Instructor 
 certification, please fill out the Instructor application form here:
-https://amy.software-carpentry.org/forms/request_training/. 
+https://amy.carpentries.org/forms/request_training/. 
 
 Please use [ group_code ] as your group name. 
 
@@ -613,7 +613,7 @@ institution, consider becoming a Member. For more information see:
 https://carpentries.org/membership/.
 
 The instructor training application is here: 
-https://amy.software-carpentry.org/forms/request_training/. 
+https://amy.carpentries.org/forms/request_training/. 
 In order to have your application considered for Open training, 
 be sure to leave the “group” entry space blank. Note that the 
 expectations for Instructors are also listed on this page, 

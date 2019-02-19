@@ -2,7 +2,7 @@
 
 #### Accepting Trainee Applications
 
-1. All trainees will be reminded before and during the training event to complete the [instructor application](https://amy.software-carpentry.org/forms/request_training/).
+1. All trainees will be reminded before and during the training event to complete the [instructor application](https://amy.carpentries.org/forms/request_training/).
 1. Carpentries Staff will assign all applications to the relevant training event in [AMY](../workshop_administration/amy_manual.html#instructor-training).
 
 #### Tracking Training Event Attendance

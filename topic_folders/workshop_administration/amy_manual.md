@@ -2,7 +2,7 @@
 
 ### Logging in
 
-* Log in to AMY [here](https://amy.software-carpentry.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
+* Log in to AMY [here](https://amy.carpentries.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
 
 ![AMY login screen goes here](images/amy_login_screen.png)
 
@@ -184,9 +184,9 @@ See [section above](amy_manual.html#adding-bulk-records).
 
 #### Accepting Trainee Applications
 
-In addition to tracking workshops, AMY also allows us to track applications to instructor training events. The public facing application is [here](https://amy.software-carpentry.org/forms/request_training/). Applicants are given a group name if participating in a member training event. Open applicants will likely not have a group name.
+In addition to tracking workshops, AMY also allows us to track applications to instructor training events. The public facing application is [here](https://amy.carpentries.org/forms/request_training/). Applicants are given a group name if participating in a member training event. Open applicants will likely not have a group name.
 
-Once an individual submits the form, the record can be viewed by going to Requests --> [Training Requests](https://amy.software-carpentry.org/requests/training_requests/).  
+Once an individual submits the form, the record can be viewed by going to Requests --> [Training Requests](https://amy.carpentries.org/requests/training_requests/).  
 
 Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location.
 
@@ -281,7 +281,7 @@ What you are able to edit or view depends on your assigned role in AMY.
 
 ### Instructor login
 
-Instructors can log in to AMY to view and update their own information. To do so, they must have a valid GitHub username in their profile. Instructors should visit the [AMY login page](https://amy.software-carpentry.org/account/login/) and click on `Log in with your GitHub account`.
+Instructors can log in to AMY to view and update their own information. To do so, they must have a valid GitHub username in their profile. Instructors should visit the [AMY login page](https://amy.carpentries.org/account/login/) and click on `Log in with your GitHub account`.
 
 If an instructor is having trouble logging in, an administrator can verify the following information.
 
