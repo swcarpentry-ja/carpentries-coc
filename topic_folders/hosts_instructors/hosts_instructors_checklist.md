@@ -46,7 +46,7 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 **Before the workshop, instructors will**
 
 * Decide on the order of the lessons and who will teach what modules
-* Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to the Carpentries Workshop Administrator.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template/blob/gh-pages/README.md).
+* Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to the Carpentries Workshop Administrator.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
 * Create an [Etherpad](https://pad.carpentries.org/) for the workshop
 * Assist the host in recruiting helpers if possible
 * Assist the host in ensuring the workshop location is accessible
