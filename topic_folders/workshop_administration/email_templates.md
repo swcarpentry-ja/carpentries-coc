@@ -238,11 +238,10 @@ Hi  [ instructors/hosts ],
 
 Thank you for volunteering your time to teach a Carpentry workshop on [ dates ] at [ site ]! We appreciate the dedication you’ve shown to help spread data management and computational programming skills, and the hard work you put into preparing for your workshop.
 
-In order to help us accurately report our progress, we need a few things from you. Please take a moment to provide us with the following information, it would be greatly appreciated.
-
-* The total number of learners registered
-* The total attendance for each day
-* Any additional feedback that you would like to share with us about the overall experience of your workshop
+We want to be sure to give credit to all of our instructors and helpers in our database. Please take a moment to provide us with the following person's email address:
+    
+* [INSERT NAME 1]
+* [INSERT NAME 2]
 
 Additionally, please remind your learners to complete the post-workshop survey. This survey asks them to self-evaluate how much they’ve learned and also to give their perspectives on the workshop’s major strengths and opportunities for improvement.
 
