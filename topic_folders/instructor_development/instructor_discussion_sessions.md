@@ -81,10 +81,7 @@ Community discussions are organised and conducted through [this Etherpad](http:/
 
 The Instructor Development Committee is responsible for organizing the community discussions so that
 
--   each month has at least eight discussion sessions,
-
--   instructors are notified at least one week in advance and
-
+-   each month has at least eight discussion sessions, and
 -   each session has at least one host (preferably two) to conduct the discussion.
 
 The Discussion Session Coordinator is responsible for scheduling the events and inviting instructors who are about to teach and who have recently taught.
