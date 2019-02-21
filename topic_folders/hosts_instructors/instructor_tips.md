@@ -77,7 +77,9 @@ The introduction is one of the most important pieces of the workshop!  It sets t
 
 **Accessibility Check-In**
 
-Before you start, set up your computer and go to the back of the room.  Is your font big enough?  
+Before you start, review our  [accessibility checkist.](workshop_needs.html#accessibility).
+
+Set up your computer and go to the back of the room.  Is your font big enough?  
 
 If your room has a mic, use it, and have a helper stand in the back of the room as you start to confirm that you can be heard.  
 
