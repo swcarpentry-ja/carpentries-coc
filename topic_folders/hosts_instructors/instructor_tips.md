@@ -63,7 +63,7 @@ Once you've selected exercises, there are several ways to actually display them 
 * Put exercises in the etherpad
 	* If you do this in advance, pretty low-effort.
 	* Can also use this with any of the other strategies so people can find the exercise in two places.  
-* Online tool, like Socrative
+* Online tool, like [Socrative](https://www.socrative.com/)
 	* Requires time to set up, but is great for multiple choice and T/F questions and promotes participation
 
 In all of these examples, you'll have to switch from the tool you're using for live coding to however you're showing the exercises.  For something like R or Python, one way to reduce the amount of switching is to put all the exercises in an R script / Python notebook and have that open alongside your main working script/notebook so that it's relatively easy to switch back and forth.  
