@@ -73,7 +73,7 @@ In all of these examples, you'll have to switch from the tool you're using for l
 
 **Introductions**
 
-The introduction is one of the most important pieces of the workshop!  It sets the tone for the day.  See the [instructor training material](https://carpentries.github.io/instructor-training/19-introductions/) for some suggestions of how to build a good workshop introduction.  
+The introduction is one of the most important pieces of the workshop!  It sets the tone for the day.  See the [instructor training material](https://carpentries.github.io/instructor-training/23-introductions/index.html) for some suggestions of how to build a good workshop introduction.  
 
 **Accessibility Check-In**
 
