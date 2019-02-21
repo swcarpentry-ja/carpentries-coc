@@ -83,12 +83,13 @@ Set up your computer and go to the back of the room.  Is your font big enough?
 
 If your room has a mic, use it, and have a helper stand in the back of the room as you start to confirm that you can be heard.  
 
+<!---
 **Classroom Management**
-
 To be expanded, how to handle: 
 - someone asking very specific questions
 - interruptions
 - people not talking to each other
+-->
 
 **Varying Skill Level**
 
