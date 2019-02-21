@@ -19,8 +19,7 @@ Software installation can be frustrating, but in the end, it almost always gets 
 
 **On the day of:**
 
-* Wiki page with common problems: 
-	* https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions
+* Refer to our [Wiki page with common problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
 * If someone has come in early and the software still can't be installed by the time the workshop starts, try one of the "emergency exits" below or keep working with them one-on-one until they're able to start. 
 * If someone comes in late or is having such trouble with installation that they can't start, have them watch (and maybe work with a neighbor) until the first coffee break, when you can keep working on installation issues.  
 
