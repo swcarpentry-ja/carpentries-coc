@@ -120,26 +120,26 @@ Each session must have at least one host (although two hosts are preferred). Any
 
 The agenda should be similar to the following:
 
-- Welcome, introductions, and reminder of Code of Conduct (5 minutes)   
+- Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
   - Host introduction    
   - Co-host/notetaker introduction   
   - Attendee introductions    
     - Name, affiliation/position, purpose for attending   
-- Report from previous workshops (10 minutes)   
+- Report from previous workshops (10-25 minutes: 2-3 minutes per workshop plus about 5-10 minutes for questions)   
   - Share some significant accomplishments and obstacles.   
   - Any changes or additions to lesson material?  
 - Preparing for upcoming workshops (10 minutes)
   - Specific questions about teaching and/or lessons?
   - How are instructors sharing roles/responsibilities?  Is there a designated "lead instructor" or will you act as co-instructors?
-- Preparing for instructor training checkout (5 minutes)
-  - Questions about checkout procedure, lessons, or workshop organization?
-  - Have you asked a question here yet?
-- Breakout Rooms (15 minutes)
+- Discussion Questions [Use Zoom Breakout Rooms for large groups] (15 minutes)
   - Hosts: Choose 1-3 of these questions, or add your own.
   - What additional resources would be useful to you in teaching or preparing for a workshop?
   - Do you find the instructor notes helpful? How do you use them? How could they be more useful?
   - What are you most excited about for teaching with The Carpentries? 
-- Closing (Main Room) (10 minutes)   
+- Preparing for instructor training checkout (2 minutes)
+  - Questions about checkout procedure, lessons, or workshop organization?
+  - Have you asked a question here yet?
+- Closing (Main Room) (3 minutes)   
   - Reports from breakout rooms   
   - Q&A   
   - Reminders to discussion session participants   
