@@ -2,18 +2,18 @@
 
 #### Host checklist
 
-A workshop host contacts the Carpentries staff about running a workshop.  He or she will work with the Carpentries Program Manager and Workshop Administrator to plan and implement the workshop.
+A workshop host contacts the Carpentries staff about running a workshop.  He or she will work with the Carpentries Program Manager and Workshop Administration Team to plan and implement the workshop.
 
 **Before the workshop, the host will**
 
 * Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
 * Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/)
-* Work with the Carpentries Program Manager and Workshop Administrator to set dates and location for your workshop
+* Work with the Carpentries Program Manager and Workshop Administration Team to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
 * Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
-* Advertise your workshop. The Workshop Administrator can help by creating an Eventbrite registration page.
-* Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administrator creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
+* Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
+* Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
 * Work with the Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organized workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
 * Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses)
 * Get emergency contact information for instructors in case of last minute changes
@@ -29,7 +29,7 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 
 **After the workshop, the host will**
 * Collect workshop attendance
-* Send attendance and any other feedback to the Carpentries Workshop Administrator
+* Send attendance and any other feedback to the Carpentries Workshop Administration Team
 * Pay the workshop fee (only for centrally organized workshops)
 * Reimburse the instructors
 
@@ -41,12 +41,12 @@ Invoices overdue 4 or more months may lead to the cessation of work on current a
 
 #### Instructor Checklist
 
-The Program Manager or Workshop Administrator will introduce workshop hosts and instructors.
+The Program Manager or Workshop Administration Team will introduce workshop hosts and instructors.
 
 **Before the workshop, instructors will**
 
 * Decide on the order of the lessons and who will teach what modules
-* Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to the Carpentries Workshop Administrator.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
+* Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to the Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
 * Create an [Etherpad](https://pad.carpentries.org/) for the workshop
 * Assist the host in recruiting helpers if possible
 * Assist the host in ensuring the workshop location is accessible
@@ -66,11 +66,11 @@ The Program Manager or Workshop Administrator will introduce workshop hosts and 
 
 **After the workshop instructors will**
 
-* Remind the host to send workshop attendance data to the Carpentries Workshop Administrator
+* Remind the host to send workshop attendance data to the Carpentries Workshop Administration Team
 * Submit receipts for reimbursement
-* Send their own feedback to the Workshop Administrator including any configuration problems
+* Send their own feedback to the Workshop Administration Team including any configuration problems
 * Take part in a [community discussion](https://pad.carpentries.org/community-discussions)
-* Report any lesson errors or suggest improvements on GitHub or by email to the Carpentries Workshop Administrator
+* Report any lesson errors or suggest improvements on GitHub or by email to the Carpentries Workshop Administration Team
 
 #### Helper Checklist
 
@@ -92,7 +92,7 @@ Helpers are often recruited from the local community at the host site to support
 
 **After the workshop helpers will**
 
-* Send their own feedback to the instructors and the Workshop Administrator including any configuration problems
+* Send their own feedback to the instructors and the Workshop Administration Team including any configuration problems
 * Consider applying to become a certified Carpentries instructor
 
 #### Email Templates
