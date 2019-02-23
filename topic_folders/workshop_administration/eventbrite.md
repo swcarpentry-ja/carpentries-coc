@@ -4,7 +4,7 @@ Host sites can opt to use their own systems for registering learners at their wo
 
 #### Logging in
 
-Workshop Administrators will have log in credentials from the Carpentries. They will give hosts of individual events access to log in to that event only.
+The Workshop Administration Team will have log in credentials from the Carpentries. They will give hosts of individual events access to log in to that event only.
 
 Contact team@carpentries.org with questions about logging in.
 
