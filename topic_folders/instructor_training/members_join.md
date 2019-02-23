@@ -10,7 +10,7 @@ The Program Manager will [share information](email_templates_admin.html#member-t
 
 Our training events are typically offered using the Zoom videoconferencing platform.
 
-Before the event, the Workshop Administrator will be in touch with the host site to set a test run of the Zoom videoconferencing set up. For the test run, the host should:
+Before the event, the Workshop Administration Team will be in touch with the host site to set a test run of the Zoom videoconferencing set up. For the test run, the host should:
 
 * be in the same room as the event itself
 * use the same equipment (computer, projector, speakers, microphone) as the event itself
