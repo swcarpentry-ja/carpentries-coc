@@ -121,6 +121,7 @@ Each session must have at least one host (although two hosts are preferred). Any
 The agenda should be similar to the following:
 
 - Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
+  - Code of Conduct Link: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
   - Host introduction    
   - Co-host/notetaker introduction   
   - Attendee introductions    
