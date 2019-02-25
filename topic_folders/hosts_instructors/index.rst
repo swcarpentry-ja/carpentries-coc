@@ -7,6 +7,10 @@ For centrally organized workshops, the Workshop Administrator will guide the hos
 
 Certified instructors are also encouraged to run self organized workshops.  For self organized workshops, the host and instructor are directly responsible for ensuring all the steps below are followed without support from the Workshop Administrator.
 
+A global team of workshop administrators support the coordination of workshop activity and community building in regions around the world. [Read more](https://carpentries-work.github.io/carpentries.org/workshopadmins/) about who they are and what they do.
+
+
+
 .. toctree::
    :maxdepth: 2
    :glob:
