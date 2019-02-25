@@ -4,7 +4,7 @@ The Carpentries uses [Survey Monkey](https://www.surveymonkey.com/) to manage al
 
 #### Logging in
 
-Workshop Administrators will have log in credentials from the Carpentries to set up surveys.  They will share links to view survey results with workshop hosts and instructors. Hosts and instructors do not need log in credentials.
+The Workshop Administration Team will have log in credentials from the Carpentries to set up surveys.  They will share links to view survey results with workshop hosts and instructors. Hosts and instructors do not need log in credentials.
 
 Contact team@carpentries with questions about logging in.
 
