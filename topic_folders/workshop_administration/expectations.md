@@ -1,6 +1,6 @@
 ### Role and Expectations
 
-The role of the regional workshop administrator is to be the front face of the Carpentries, promoting our work and our culture in their geographical area.  The workshop administrator will manage workshop logistics, communicate with hosts and instructors, and respond to general inquiries.  As a team, all administrators will work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
+The role of the regional workshop administration team is to be the front face of the Carpentries, promoting our work and our culture in their geographical area.  The workshop administration team will manage workshop logistics, communicate with hosts and instructors, and respond to general inquiries.  As a team, all administrators will work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
 
 This includes the following responsibilities
@@ -17,7 +17,7 @@ Respond to workshop requests from host sites in your region within two business 
 * Follow up on all completed workshops to collect attendance data and other feedback, and record this in Carpentries’ systems.
 * Serve as the “front face” of the Carpentries in their region by responding to general public inquiries and supporting our larger communication efforts and other initiatives.
 * Communicate Carpentries community values to instructors, host sites, and others constituents. 
-* Communicate successes and challenges with Carpentries Program Manager and other workshop administrators.
+* Communicate successes and challenges with Carpentries Program Manager and other workshop administration teams.
 * Promote the Carpentries culture of an inclusive and supportive learning environment informed by best practices in pedagogical research. Follow the Carpentries Code of Conduct and report any violations.
 * Elevate questions and issues to Carpentries staff as needed.
 
