@@ -1,6 +1,6 @@
 ### Email templates
 
-#### From Workshop Administrators
+#### From Workshop Administration Team
 
 ##### General inquiry response
 
