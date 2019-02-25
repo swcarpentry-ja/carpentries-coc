@@ -44,7 +44,7 @@ team@carpentries.org as soon as possible. In some cases, we will be
 able to transfer your training seat to another event. However, 
 because the success of our program depends on accurately predicting 
 our capacity needs, we may not be able to accommodate changes in 
-registration unless we are notified in advance of the event.
+registration unless we are notified at least one week in advance of the event.
 
 For more information about our Instructor Training program, including 
 details about our curriculum, certification process, and logistical 
