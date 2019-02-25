@@ -81,10 +81,7 @@ Community discussions are organised and conducted through [this Etherpad](http:/
 
 The Instructor Development Committee is responsible for organizing the community discussions so that
 
--   each month has at least eight discussion sessions,
-
--   instructors are notified at least one week in advance and
-
+-   each month has at least eight discussion sessions, and
 -   each session has at least one host (preferably two) to conduct the discussion.
 
 The Discussion Session Coordinator is responsible for scheduling the events and inviting instructors who are about to teach and who have recently taught.
@@ -123,22 +120,32 @@ Each session must have at least one host (although two hosts are preferred). Any
 
 The agenda should be similar to the following:
 
-- Welcome and host introduction
-- Attendees introduction
-    - Name, affiliation/position, purpose for attending
-- Report from previous workshops
-    - Share some significant accomplishments and obstacles.
-    - Any changes or additions to lesson material?
-- Preparing for upcoming workshops
-    - Specific questions about teaching and/or lessons?
-- Preparing for instructor training checkout
-    - Questions about checkout procedure, lessons, or workshop organization?
-    - Have you asked a question here yet?
-- Closing
-    - What are you most excited about for teaching Software or Data Carpentry?  
-- Reminder to discussion session participants: 
-    - For big problems or concerns, start an issue on GitHub in the appropriate lesson or add to Google Doc of commonly mentioned concerns
-    - For small typos, submit pull request to appropriate lesson
+- Welcome, introductions, and reminder of Code of Conduct (5-10 minutes depending on number of participants)   
+  - Code of Conduct Link: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+  - Host introduction    
+  - Co-host/notetaker introduction   
+  - Attendee introductions    
+    - Name, affiliation/position, purpose for attending   
+- Report from previous workshops (10-25 minutes: 2-3 minutes per workshop plus about 5-10 minutes for questions)   
+  - Share some significant accomplishments and obstacles.   
+  - Any changes or additions to lesson material?  
+- Preparing for upcoming workshops (10 minutes)
+  - Specific questions about teaching and/or lessons?
+  - How are instructors sharing roles/responsibilities?  Is there a designated "lead instructor" or will you act as co-instructors?
+- Discussion Questions [Use Zoom Breakout Rooms for large groups] (15 minutes)
+  - Hosts: Choose 1-3 of these questions, or add your own.
+  - What additional resources would be useful to you in teaching or preparing for a workshop?
+  - Do you find the instructor notes helpful? How do you use them? How could they be more useful?
+  - What are you most excited about for teaching with The Carpentries? 
+- Preparing for instructor training checkout (2 minutes)
+  - Questions about checkout procedure, lessons, or workshop organization?
+  - Have you asked a question here yet?
+- Closing (Main Room) (3 minutes)   
+  - Reports from breakout rooms   
+  - Q&A   
+  - Reminders to discussion session participants   
+   - Export the etherpad (button at top right) if you'd like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
+   - For small typos in lessons, submit pull request to appropriate lesson   
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
 
