@@ -1,5 +1,20 @@
 ### The Carpentries Code of Conduct
 
+Code of Conduct
+
+Below is a summary of The Carpentries Code of Conduct. Continue reading for a more detailed description of the CoC; Incident Response Guidelines; Incident Reporting Guidelines; Enforcement; Termed Suspension Checklist.
+
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by  The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+
+* Use welcoming and inclusive language
+* Be respectful of different viewpoints and experiences
+* Gracefully accept constructive criticism
+* Focus on what is best for the community
+* Show courtesy and respect towards other community members
+
+If you believe someone is violating the Code of Conduct, we ask that you report it to the Carpentries Code of Conduct Committee by emailing coc@carpentries.org who will take the appropriate action to address the situation.
+
+
 1. Introduction 
 
 The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
