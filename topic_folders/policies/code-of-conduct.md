@@ -32,7 +32,7 @@ The Carpentries is dedicated to providing a welcoming and supportive environment
 
 Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which the Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information. 
 
-2.1 Expected Behavior
+2.1 Expected behaviour
 
 All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 
@@ -44,9 +44,9 @@ All participants in our events and communications are expected to show respect a
 
 Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations.
 
-2.2 Unacceptable Behavior
+2.2 Unacceptable behaviour
 
-Examples of unacceptable behavior by participants at any Carpentries event/platform include:
+Examples of unacceptable behaviour by participants at any Carpentries event/platform include:
 
 - written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
 - causing someone to fear for their safety, such as through stalking, following, or intimidation  
@@ -62,9 +62,9 @@ Examples of unacceptable behavior by participants at any Carpentries event/platf
 - continuing to initiate interaction (including photography or recording) with someone after being asked to stop  
 - publication of private communication without consent  
 
-2.3 Consequences of Unacceptable Behavior
+2.3 Consequences of Unacceptable behaviour
 
-Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
+Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
 #### Incident Response Guidelines
 
@@ -109,7 +109,7 @@ If a community member has violated the CoC via an online event, the CoC committe
 
 Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
 
-- It does not matter if they did not intend to hurt anyone; their behavior still impacted participants negatively.
+- It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively.
 - It is not your job to reassure or forgive them.
 - Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter.
 
@@ -140,7 +140,7 @@ You are welcome to report an incident anonymously. If you would like someone to 
 
 In rare cases the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Staff will be informed in order to prevent future harm to the community, and the Carpentries Staff [Immediate Response Checklist](#) will be employed. 
 
-Some incidents happen in one-on-one interactions, and though details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases we can compile several anonymized reports into a pattern of behavior, and take action on that pattern.
+Some incidents happen in one-on-one interactions, and though details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases we can compile several anonymized reports into a pattern of behaviour, and take action on that pattern.
 
 The Code of Conduct committee may determine that a public statement should be made about the incident and/or the action taken. If that is the case, the identities of all reporters and reportees will remain confidential unless those individuals instruct the CoC committee otherwise. 
 
@@ -202,7 +202,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 
 When a report is received, any one of the Code of Conduct committee members will reply to the reporter to confirm receipt. This reply will be sent within 24 hours of the incident being reported, and the CoCc will strive to respond much more quickly than that.
 
-For details about what the incident report should contain, see the [Incident Reporting Guidelines](#). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behavior that, taken as a whole over a long time period, is inappropriate. 
+For details about what the incident report should contain, see the [Incident Reporting Guidelines](#). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
 
 ##### Incident Response Assessment
 
@@ -210,7 +210,7 @@ Upon receiving a report of an incident at least three members of the CoCc will f
 
 - Assign an Incident Response Lead (IRL).
 - Review report documentation to determine the content and context of the incident.
-- Consult documentation of past incidents for patterns of behavior (if available and applicable).
+- Consult documentation of past incidents for patterns of behaviour (if available and applicable).
 - Discuss appropriate resolutions to the incident.
 - Determine the follow up actions for the reportee, reporter and anyone else named in the report who may have been impacted.
  
@@ -223,11 +223,11 @@ The committee will aim to have a resolution agreed upon within one week of recei
 When following up with the reportee, the CoCc representatives will:
 
 - Explain that an incident was reported that involves the reportee.
-- In this explanation, the focus will be on the impact of their behavior, not their intent.
-- Reiterate the Code of Conduct and that their behavior was deemed inappropriate.
-- Provide concrete examples of how they can improve their behavior.
+- In this explanation, the focus will be on the impact of their behaviour, not their intent.
+- Reiterate the Code of Conduct and that their behaviour was deemed inappropriate.
+- Provide concrete examples of how they can improve their behaviour.
 - Give them the opportunity to state their view of the incident.
-- Remind them of the consequences of their behavior, or future consequences if the behavior is repeated.
+- Remind them of the consequences of their behaviour, or future consequences if the behaviour is repeated.
 - Explain the possible resolutions that may be enforced should the CoCc determine there is a breach.
 
 ##### Resolutions
@@ -362,7 +362,7 @@ The suspended member shall not be involved in officially branded Carpentries wor
 If the suspension does affect employment duties or the suspended member is the key contact for a member site, the member will work with The Carpentries Executive Director to determine a course of action.
 
 ##### Lesson Development and Maintenance
-The suspended member will not be allowed to post PRs, issues, or comments to any repository in the carpentries, including but not limited to datacarpentry, swcarpentry, library carpentry, data-lessons, and carpentrieslab organizations. Administrative or write privileges to repositories in these organizations will be removed for the duration of the suspension.
+The suspended member will not be allowed to post PRs, issues, or comments to any repository in the carpentries, including but not limited to datacarpentry, swcarpentry, library carpentry, data-lessons, and carpentrieslab organisations. Administrative or write privileges to repositories in these organisations will be removed for the duration of the suspension.
 
 If the suspended member is a Maintainer, their name will be removed from the lessons page and they will not appear on the Maintainers page for the duration of their suspension. 
 
@@ -377,7 +377,7 @@ Involvement in all committees, communities, and task forces (African Task Force,
 
 #### Update Logs
 
-- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behavior. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 - 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
