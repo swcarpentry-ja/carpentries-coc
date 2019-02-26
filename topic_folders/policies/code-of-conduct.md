@@ -315,7 +315,7 @@ Revoke access from the following communication channels and communities:
     - [Software Carpentry](https://software-carpentry.org/blog/)
     - [Library Carpentry](https://librarycarpentry.org/blog/)
     - [The Carpentries](http://static.carpentries.org/blog/)
-- GitHub (carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
+- GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
 - Gitter - Library Carpentry Lobby
 - [Slack](https://swcarpentry.slack.com/messages)  
 - [Facebook](https://www.facebook.com/carpentries/) 
@@ -341,8 +341,8 @@ If the suspended member is a Workshop Administrator or serves in another role wh
 - Asana
 - HelpScout
 - Zoom
-- Workshop Administrator’s Slack Channel
-- Workshop Administrator’s Email List
+- Workshop Administrators Slack Channel
+- Workshop Administrators Email List
 
 ##### Instructor Training
 The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to: 
@@ -372,10 +372,8 @@ If the suspended member is a member of the Executive Council, they will not part
 ##### Committees, Task Forces, and Other Interactions
 Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended. 
 
-
 ##### Other Interactions
 - The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
-
 
 #### Update Logs
 
