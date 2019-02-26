@@ -66,7 +66,7 @@ Examples of unacceptable behavior by participants at any Carpentries event/platf
 
 Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
-#### Incident Repsonse Guidelines
+#### Incident Response Guidelines
 
 Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](#).
 
