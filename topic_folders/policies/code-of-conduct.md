@@ -156,7 +156,7 @@ Once a report is filed through the [Code of Conduct Incident Report Form][report
 
 #### Incident Response Procedure and Enforcement Guidelines
 
-This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form](https://goo.gl/forms/w9hhjhdxegIYsR9M2), or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, Community Initiatives, should there be a need. 
+This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form](https://goo.gl/forms/w9hhjhdxegIYsR9M2), or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, [Community Initiatives](https://communityin.org/), should there be a need. 
 
 The CoC committee will attempt to ensure your safety and help with any immediate needs, particularly at in-person events. The incident reporter(s) will receive an email from the Code of Conduct committee acknowledging receipt of an incident report within 24 hours of the form submission and aims for the same response time through other channels. 
 
