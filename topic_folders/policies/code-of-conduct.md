@@ -1,6 +1,6 @@
 ### The Carpentries Code of Conduct
 
-Code of Conduct
+#### Code of Conduct (Summary View)
 
 Below is a summary of The Carpentries Code of Conduct. Continue reading for a more detailed description of the CoC; Incident Response Guidelines; Incident Reporting Guidelines; Enforcement; Termed Suspension Checklist.
 
@@ -14,6 +14,7 @@ We are dedicated to providing a welcoming and supportive environment for all peo
 
 If you believe someone is violating the Code of Conduct, we ask that you report it to the Carpentries Code of Conduct Committee by emailing coc@carpentries.org who will take the appropriate action to address the situation.
 
+#### Code of Conduct (Detailed View)
 
 1. Introduction 
 
@@ -65,9 +66,7 @@ Examples of unacceptable behavior by participants at any Carpentries event/platf
 
 Participants who are asked to stop any inappropriate behavior are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behavior that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
-Update Log:
 
-- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behavior. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 ### Incident Reporting Guidelines
 1. Contact points
@@ -90,9 +89,7 @@ Once the incident has been resolved, we ask that it be reported to the Code of C
 
 A detailed enforcement policy is available in the Enforcement Manual below.
 
-Update Log:
 
-- 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 #### Enforcement Manual
 
@@ -141,5 +138,12 @@ At the end of every quarter, the Executive Council will publish an aggregated co
 **Conflicts of Interest**<br> In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
 
-Update Log:
+#### Update Logs
+
+
+- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behavior. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+
+
+- 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
+
 - 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. 
