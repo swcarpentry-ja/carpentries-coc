@@ -96,7 +96,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 
 **In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
 * Ensure participants are safe.
-* If not refer to the [Immediate Response Checklist]().
+* If not refer to the [Immediate Response Checklist](#immediate-response).
 * Listen to the reporter and write down as many details as possible.
 * Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
 * Inform the workshop host that there was an incident, and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
@@ -124,7 +124,7 @@ If you believe someone violated the [Code of Conduct](https://docs.carpentries.o
 
 __[Submit a Code of Conduct Incident Report][reporting-form]__
 
-The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines]().  A report guarantees review, but not necessarily that an action will be taken.
+The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](#incident-response-procedure-and-enforcement-guidelines).  A report guarantees review, but not necessarily that an action will be taken.
 
 ##### Alternative Contact Points
 
@@ -148,7 +148,7 @@ The Code of Conduct committee may determine that a public statement should be ma
 ##### Report Data
 Reports can be filed anonymously with minimal details. If you do not feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide, however.  
 
-Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in the Carpentries community. In those cases, the [Termed Suspension Checklist]() will be employed. 
+Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in the Carpentries community. In those cases, the [Termed Suspension Checklist](#termed-suspension-guidelines) will be employed. 
 
 ##### Following Up with Reporter(s)
 
