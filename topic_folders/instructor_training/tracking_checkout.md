@@ -37,5 +37,40 @@
 1. Search in AMY for all persons not badged but eligible for a badge.
 1. Open that person's record and add SWC or DC instructor badge.
 
+#### Trainee no-shows and cancellations
+
+##### Cancellations
+
+Cancellations with less than one week's notice are treated as no-shows. See below. If a trainee gives at least one week's notice that they will not be attending the event:
+
+**Cancellations (member seat):**
+1. In the Trainee's record in AMY, go to Edit --> Tasks.  Click the red X next to the task for the training they missed.
+1. In Eventbrite, cancel this person's registration.  This ensures the member registration code can be used again.
+1. Send Trainee and member contact [this template email](../instructor_training/email_templates_admin.html#cancellation-member-at-least-one-week-notice-online-training).
+
+**Cancellations (open seat):**
+1. In the Trainee's record in AMY, go to Edit --> Tasks.  Click the red X next to the task for the training they missed.
+1. In Eventbrite, cancel this person's registration. 
+1. Send trainnee this [template email](../instructor_training/email_templates_admin.html#cancellation-open-applicant-at-least-one-week-notice).
 
 
+##### No-shows
+
+If a trainee does not attend the training and does not give notice at least one week in advance:
+
+**Emergency situations, as determined by Carpentries staff (member seat):**
+1. In the Trainee's record in AMY, go to Edit --> Tasks.  Click the red X next to the task for the training they missed.
+1. In Eventbrite, cancel this person's registration.  This ensures the member registration code can be used again.
+1. Send Trainee and member contact [this template email](../instructor_training/email_templates_admin.html#no-show-emergency-member-online-training).
+
+**Emergency situations, as determined by Carpentries staff (open seat):**
+1. In the Trainee's record in AMY, go to Edit --> Tasks.  Click the red X next to the task for the training they missed.
+1. Send Trainee and member contact [this template email](../instructor_training/email_templates_admin.html#no-show-emergency-open-applicant).
+
+**Non-Emergency situations (member seat):**
+1. In the trainee’s person record in AMY in the “Instructor Training Progress” section, add “Training” = FAILED.
+1. Send Trainee and member contact [this template email](../instructor_training/email_templates_admin.html#no-show-non-emergency-member-online-training).
+
+**Non-Emergency situations (open seat):**
+1. In the trainee’s person record in AMY in the “Instructor Training Progress” section, add “Training” = FAILED.
+1. No notification is sent. If the trainee contacts us, respond with [template email](../instructor_training/email_templates_admin.html#no-show-non-emergency-open-applicant).
