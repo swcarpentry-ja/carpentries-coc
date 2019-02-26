@@ -76,7 +76,7 @@ All Carpentries community members should feel empowered to enforce the Code of C
 
 Ideally we would all be able to diffuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive, and steps that you can take during or after an incident.
 
-If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report, in person to a workshop host or instructor, or via the [Code of Conduct incident report form](https://goo.gl/forms/KoUfO53Za3apOuOK2) to the Code of Conduct committee.
+If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report, in person to a workshop host or instructor, or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee.
 
 ##### Immediate Response 
 
@@ -98,12 +98,12 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 * Ensure participants are safe.
 * If not refer to the [Immediate Response Checklist]().
 * Listen to the reporter and write down as many details as possible.
-* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2). If they would rather you complete the report, complete the report with their assistance. 
-* Inform the workshop host that there was an incident, and that a report was submitted via the [incident report form](https://goo.gl/forms/KoUfO53Za3apOuOK2). If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
+* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
+* Inform the workshop host that there was an incident, and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
 
 **Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
-* Inform the event host/meeting facilitator that there was an issue, and send a report via the [incident report form](https://goo.gl/forms/KoUfO53Za3apOuOK2). 
-* If the incident involves the event host/meeting facilitator, please complete the [incident report form](https://goo.gl/forms/KoUfO53Za3apOuOK2) and rest assured that confidentiality and your experience in our community is our first priority.
+* Inform the event host/meeting facilitator that there was an issue, and send a report via the [incident report form][reporting-form]. 
+* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
 If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](#), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
 
@@ -120,9 +120,9 @@ Individuals reported often get upset, defensive, or deny the report. Allow them 
 
 If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels, and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member  to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures.
 
-If you believe someone violated the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2). The form may be completed anonymously or you may include your contact information. 
+If you believe someone violated the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously or you may include your contact information. 
 
-__[Submit a Code of Conduct Incident Report](https://goo.gl/forms/KoUfO53Za3apOuOK2)__
+__[Submit a Code of Conduct Incident Report]()__
 
 The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](). A report guarantees review, but not necessarily that an action will be taken.
 
@@ -153,7 +153,7 @@ Information about an incident may be communicated to relevant Carpentries person
 
 ##### Following Up with Reporter(s)
 
-Once a report is filed through the Code of Conduct Incident Report Form](https://goo.gl/forms/KoUfO53Za3apOuOK2) or other communication channels, the Code of Conduct committee will handle the review and follow up according to the  procedures in the [Enforcement Guidelines](#).
+Once a report is filed through the Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the  procedures in the [Enforcement Guidelines](#).
 
 
 
@@ -169,3 +169,5 @@ Section text here
 - 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 - 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. 
+
+[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
