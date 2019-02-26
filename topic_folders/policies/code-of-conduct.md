@@ -299,19 +299,27 @@ If there is a decision for a Termed Suspension, the following checklist is follo
 
 ##### Online Communication and Communities
 Revoke access from the following communication channels and communities: 
-- Email lists on TopicBox 
-- Email lists on Google Groups
+- Email lists on [TopicBox](https://carpentries.topicbox.com/groups) 
+- Email lists on Google Groups inlcuding but not limited to:
   - Library Carpentry Governance Group
   - Library Carpentry Maintainer Onboarding
   - Code of Conduct Committee
   - Carpentries Mentoring Groups 
-- Twitter - (@datacarpentry, @swcarpentry, @libcarpentry, @thecarpentries)
-- Blogs - (Data Carpentry, Software Carpentry, Library Carpentry, The Carpentries)
+- Twitter:
+    - [@datacarpentry](https://twitter.com/datacarpentry)
+    - [@swcarpentry](https://twitter.com/swcarpentry)
+    - [@libcarpentry](https://twitter.com/libcarpentry)
+    - [@thecarpentries](https://twitter.com/thecarpentries)
+- Blogs
+    - [Data Carpentry](https://datacarpentry.org/blog/)
+    - [Software Carpentry](https://software-carpentry.org/blog/)
+    - [Library Carpentry](https://librarycarpentry.org/blog/)
+    - [The Carpentries](http://static.carpentries.org/blog/)
 - GitHub (carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
 - Gitter - Library Carpentry Lobby
 - [Slack](https://swcarpentry.slack.com/messages)  
-- Facebook 
-- LinkedIn 
+- [Facebook](https://www.facebook.com/carpentries/) 
+- [LinkedIn Carpentries](https://www.linkedin.com/company/the-carpentries/about/) and [LinkedIn Instructors](https://www.linkedin.com/groups/8279689/)
 
 Additionally, the community member will not be allowed to attend community discussions.
 
@@ -364,6 +372,8 @@ If the suspended member is a member of the Executive Council, they will not part
 ##### Committees, Task Forces, and Other Interactions
 Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended. 
 
+
+##### Other Interactions
 - The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
 
 
