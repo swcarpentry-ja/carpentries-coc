@@ -2,7 +2,7 @@
 
 #### Code of Conduct (Summary View)
 
-Below is a summary of The Carpentries Code of Conduct. Continue reading for a more detailed description of the CoC; Incident Response Guidelines; Incident Reporting Guidelines; Enforcement; Termed Suspension Checklist.
+Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view); [Incident Response Guidelines](#incident-response-guidelines); [Incident Reporting Guidelines](#incident-reporting-guidelines); [Incident Response Procedure](#incident-response-procedure-and-enforcement-guidelines); and the [Termed Suspension Guidelines](#termed-suspension-guidelines).
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by  The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
@@ -68,7 +68,7 @@ Participants who are asked to stop any inappropriate behaviour are expected to c
 
 #### Incident Response Guidelines
 
-Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](#).
+Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](#incident-reporting-guidelines).
 
 The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. 
 
@@ -84,7 +84,7 @@ The initial response to an incident is very important and will set the tone for 
 
 ##### Ongoing Incidents
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#).
+If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#immediate-response).
 
 ##### Checklists for Responding to an Incident
 
@@ -105,7 +105,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 * Inform the event host/meeting facilitator that there was an issue, and send a report via the [incident report form][reporting-form]. 
 * If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
-If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](#), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
+If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](#termed-suspension-guidelines), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
 
 Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
 
@@ -138,7 +138,7 @@ You are welcome to report an incident anonymously. If you would like someone to 
 
 **All reports will be kept confidential** with details shared only with the Code of Conduct committee members. In the case that a CoC committee member is involved in a report, the member will be asked to recuse themselves from ongoing conversations and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the CoC committee. 
 
-In rare cases the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Staff will be informed in order to prevent future harm to the community, and the Carpentries Staff [Immediate Response Checklist](#) will be employed. 
+In rare cases the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Staff will be informed in order to prevent future harm to the community, and the Carpentries Staff [Immediate Response Checklist](#immediate-response) will be employed. 
 
 Some incidents happen in one-on-one interactions, and though details are anonymized, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases we can compile several anonymized reports into a pattern of behaviour, and take action on that pattern.
 
@@ -152,17 +152,17 @@ Information about an incident may be communicated to relevant Carpentries person
 
 ##### Following Up with Reporter(s)
 
-Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](#).
+Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](#incident-response-procedure-and-enforcement-guidelines).
 
 #### Incident Response Procedure and Enforcement Guidelines
 
-This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form](https://goo.gl/forms/w9hhjhdxegIYsR9M2), or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, [Community Initiatives](https://communityin.org/), should there be a need. 
+This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form][reporting-form], or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, [Community Initiatives](https://communityin.org/), should there be a need. 
 
 The CoC committee will attempt to ensure your safety and help with any immediate needs, particularly at in-person events. The incident reporter(s) will receive an email from the Code of Conduct committee acknowledging receipt of an incident report within 24 hours of the form submission and aims for the same response time through other channels. 
 
 If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.  
 
-The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events they will make a decision as to how to respond. Examples of possible incident responses are outlined in the Carpentries [Enforcement Guidelines](#). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
+The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events they will make a decision as to how to respond. Examples of possible incident responses are outlined in the Carpentries [Enforcement Guidelines](#incident-response-procedure-and-enforcement-guidelines). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
 
 Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response, but may decide not to act on that feedback.  
 
@@ -178,7 +178,7 @@ Finally, the Chair of the Code of Conduct Committee and Executive Council Liaiso
 
 The following is a summary of the steps the Code of Conduct Committee takes when responding to an incident reported via the incident report form. More detailed information is also provided below the summary.
 
-- If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](#).
+- If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](#termed-suspension-guidelines).
 - For non-immediate responses submitted via the [incident report form][reporting-form], an auto-generated email is sent to the Code of Conduct committee that a report has been received. 
 - An auto-response is sent to the reporter acknowledging that the incident report was received via the secure form. 
 - The first person on the Code of Conduct committee to see the report reviews it and provides an initial response to the reporter within 24 hours of the report being submitted, or immediately if safety is an issue. 
@@ -190,10 +190,10 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 - The IRG reviews all of the information included in the incident report and determines whether more information is needed. If so, that information is requested from the reporter.
 - The IRL contacts the reportee(s) to set up a meeting if necessary. At least two IRG members should be present at the meeting with the reportee(s).
 - An optional meeting with the reporter takes place to obtain more information. At least two members of the IRG should be present at the meeting. 
-- After further collection and review of information if needed, the IRG determines a resolution. Possible [resolutions](#) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension.
+- After further collection and review of information if needed, the IRG determines a resolution. Possible [resolutions](#resolutions) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension.
 - The IRL updates the reporter and  solicits feedback on the resolution. Feedback may or may not be used to update the resolution. 
 - The IRL updates the reportee(s).
-- The Staff Liaison determines whether the [Termed Suspension Checklist](#) should be employed or other actions taken.
+- The Staff Liaison determines whether the [Termed Suspension Checklist](#termed-suspension-guidelines) should be employed or other actions taken.
 - Essential personnel are notified to implement any actions. Report details remain confidential. 
 - Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository. 
 - The Chair of the Code of Conduct Committee and Executive Council Liaison write up a transparency report.
@@ -202,7 +202,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 
 When a report is received, any one of the Code of Conduct committee members will reply to the reporter to confirm receipt. This reply will be sent within 24 hours of the incident being reported, and the CoCc will strive to respond much more quickly than that.
 
-For details about what the incident report should contain, see the [Incident Reporting Guidelines](#). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
+For details about what the incident report should contain, see the [Incident Reporting Guidelines](#incident-response-procedure-and-enforcement-guidelines). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
 
 ##### Incident Response Assessment
 
@@ -377,10 +377,17 @@ Involvement in all committees, communities, and task forces (African Task Force,
 
 #### Update Logs
 
+- 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, and expanded clauses for conflicts of interest.
+
 - 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 - 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
 - 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. 
+
+#### About this document
+
+This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to this document: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))
+
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
