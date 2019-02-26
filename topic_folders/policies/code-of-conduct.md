@@ -299,50 +299,50 @@ If there is a decision for a Termed Suspension, the following checklist is follo
 
 ##### Online Communication and Communities
 Revoke access from the following communication channels and communities: 
-- [ ] Email lists on TopicBox 
-- [ ] Email lists on Google Groups
-  - [ ] Library Carpentry Governance Group
-  - [ ] Library Carpentry Maintainer Onboarding
-  - [ ] Code of Conduct Committee
-  - [ ] Carpentries Mentoring Groups 
-- [ ] Twitter - (@datacarpentry, @swcarpentry, @libcarpentry, @thecarpentries)
-- [ ] Blogs - (Data Carpentry, Software Carpentry, Library Carpentry, The Carpentries)
-- [ ] GitHub (carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
-- [ ] Gitter - Library Carpentry Lobby
-- [ ] [Slack](https://swcarpentry.slack.com/messages)  
-- [ ] Facebook 
-- [ ] LinkedIn 
+- Email lists on TopicBox 
+- Email lists on Google Groups
+  - Library Carpentry Governance Group
+  - Library Carpentry Maintainer Onboarding
+  - Code of Conduct Committee
+  - Carpentries Mentoring Groups 
+- Twitter - (@datacarpentry, @swcarpentry, @libcarpentry, @thecarpentries)
+- Blogs - (Data Carpentry, Software Carpentry, Library Carpentry, The Carpentries)
+- GitHub (carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)
+- Gitter - Library Carpentry Lobby
+- [Slack](https://swcarpentry.slack.com/messages)  
+- Facebook 
+- LinkedIn 
 
 Additionally, the community member will not be allowed to attend community discussions.
 
 ##### Teaching Workshops
 The suspended member will, for the duration of their suspension:
-- [ ] Be asked not to sign up for workshops on the Instructor Spreadsheet.
-- [ ] Not be able to participate as a helper at any workshops.
-- [ ] Be removed from Eventbrite login access.
-- [ ] Not be allowed to plan self-organized workshops.
-- [ ] Not be allowed to request or host centrally coordinated workshops.
-- [ ] Not be listed as an instructor on the “Instructors” webpage.
-- [ ] Be removed from the instructors email list.
+- Be asked not to sign up for workshops on the Instructor Spreadsheet.
+- Not be able to participate as a helper at any workshops.
+- Be removed from Eventbrite login access.
+- Not be allowed to plan self-organized workshops.
+- Not be allowed to request or host centrally coordinated workshops.
+- Not be listed as an instructor on the “Instructors” webpage.
+- Be removed from the instructors email list.
 
 ##### Organizing Workshops 
 If the suspended member is a Workshop Administrator or serves in another role whereby they organize workshops for The Carpentries, for the duration of their suspension they will not have access to:
-- [ ] LastPass
-- [ ] AMY
-- [ ] Regional Email
-- [ ] Asana
-- [ ] HelpScout
-- [ ] Zoom
-- [ ] Workshop Administrator’s Slack Channel
-- [ ] Workshop Administrator’s Email List
+- LastPass
+- AMY
+- Regional Email
+- Asana
+- HelpScout
+- Zoom
+- Workshop Administrator’s Slack Channel
+- Workshop Administrator’s Email List
 
 ##### Instructor Training
 The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to: 
-- [ ] Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed. 
-- [ ] Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance. 
-- [ ] Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension. 
-- [ ] Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension. 
-- [ ] Participate in review of applications for open instructor training or Trainer training. 
+- Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed. 
+- Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance. 
+- Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension. 
+- Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension. 
+- Participate in review of applications for open instructor training or Trainer training. 
 Participate as a learner in instructor training.
 
 ##### Trainer Training
@@ -364,7 +364,7 @@ If the suspended member is a member of the Executive Council, they will not part
 ##### Committees, Task Forces, and Other Interactions
 Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended. 
 
-- [ ] The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
+- The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension.
 
 
 #### Update Logs
