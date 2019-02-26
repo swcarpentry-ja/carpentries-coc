@@ -285,6 +285,13 @@ In the event of any conflict of interest (a committee member, their family membe
 
 In the case that a CoCc member is involved in a report, the member will be asked to recuse themselves from ongoing conversations and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the Code of Conduct committee. 
 
+#### Termed Suspension Guidelines
+
+These are procedures The Carpentries staff will enact if a termed suspension of a Carpentries community member is imposed.  
+
+Placeholder: More information coming.
+
+
 #### Update Logs
 
 - 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behavior. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
