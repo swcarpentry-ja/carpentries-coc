@@ -1,4 +1,4 @@
-#### Incident Response Guidelines
+### Code of Conduct Incident Response Guidelines
 
 Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](#incident-reporting-guidelines).
 

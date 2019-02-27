@@ -1,4 +1,4 @@
-#### Termed Suspension Guidelines
+### Code of Conduct Termed Suspension Guidelines
 
 ##### The Carpentries Termed Suspension Checklist
 

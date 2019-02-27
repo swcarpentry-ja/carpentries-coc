@@ -1,4 +1,4 @@
-#### Incident Reporting Guidelines
+### Code of Conduct Incident Reporting Guidelines
 
 ##### Reporting a Potential Code of Conduct Incident 
 

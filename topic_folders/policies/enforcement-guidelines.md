@@ -1,4 +1,4 @@
-#### Incident Response Procedure and Enforcement Guidelines
+### Code of Conduct Incident Response Procedure and Enforcement Guidelines
 
 This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form][reporting-form], or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, [Community Initiatives](https://communityin.org/), should there be a need. 
 
