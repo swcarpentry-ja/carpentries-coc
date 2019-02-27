@@ -376,7 +376,7 @@ Involvement in all committees, communities, and task forces (African Task Force,
 
 #### Update Logs
 
-- 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, and expanded clauses for conflicts of interest.
+- 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, termed supsension checklist, and expanded clauses for conflicts of interest.
 
 - 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
 
