@@ -1,6 +1,6 @@
 ### Code of Conduct Incident Response Guidelines
 
-Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](#incident-reporting-guidelines).
+Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.html).
 
 The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. 
 
@@ -16,7 +16,7 @@ The initial response to an incident is very important and will set the tone for 
 
 ##### Ongoing Incidents
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#immediate-response).
+If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](##checklists-for-responding-to-an-incident).
 
 ##### Checklists for Responding to an Incident
 
@@ -28,7 +28,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 
 **In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
 * Ensure participants are safe.
-* If not refer to the [Immediate Response Checklist](#immediate-response).
+* If not refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
 * Listen to the reporter and write down as many details as possible.
 * Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
 * Inform the workshop host that there was an incident, and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
@@ -37,7 +37,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 * Inform the event host/meeting facilitator that there was an issue, and send a report via the [incident report form][reporting-form]. 
 * If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
-If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](#termed-suspension-guidelines), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
+If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.html), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
 
 Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
 
