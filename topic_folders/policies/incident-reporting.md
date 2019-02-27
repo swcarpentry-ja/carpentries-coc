@@ -37,3 +37,6 @@ Information about an incident may be communicated to relevant Carpentries person
 ##### Following Up with Reporter(s)
 
 Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](#incident-response-procedure-and-enforcement-guidelines).
+
+
+[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2

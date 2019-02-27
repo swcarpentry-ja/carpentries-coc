@@ -128,3 +128,5 @@ At the end of every quarter, the Executive Council will publish an aggregated co
 In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members, and recuse themselves if necessary.  
 
 In the case that a CoCc member is involved in a report, the member will be asked to recuse themselves from ongoing conversations and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the Code of Conduct committee. 
+
+[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2
