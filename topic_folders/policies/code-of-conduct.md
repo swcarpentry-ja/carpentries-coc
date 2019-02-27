@@ -2,9 +2,9 @@
 
 #### Code of Conduct (Summary View)
 
-Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view); [Incident Response Guidelines](#incident-response-guidelines); [Incident Reporting Guidelines](#incident-reporting-guidelines); [Incident Response Procedure](#incident-response-procedure-and-enforcement-guidelines); and the [Termed Suspension Guidelines](#termed-suspension-guidelines).
+Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view); [Incident Response Guidelines for Community Members](#incident-response-guidelines); [Incident Reporting Guidelines](#incident-reporting-guidelines); [Incident Response Procedure for the Code of Conduct Committee](#incident-response-procedure-and-enforcement-guidelines); and the [Termed Suspension Checklist](#termed-suspension-guidelines).
 
-We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by  The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
+We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
 * Use welcoming and inclusive language
 * Be respectful of different viewpoints and experiences
@@ -65,7 +65,7 @@ Part 2.3 Consequences of Unacceptable behaviour
 
 Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentry events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organizers may warn the offender, ask them to leave the event or platform (without refund), or engage the Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions.
 
-#### Incident Response Guidelines
+#### Incident Response Guidelines for Community Members
 
 Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](#incident-reporting-guidelines).
 
