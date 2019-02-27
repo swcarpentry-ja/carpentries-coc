@@ -16,7 +16,7 @@ The initial response to an incident is very important and will set the tone for 
 
 ##### Ongoing Incidents
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](##checklists-for-responding-to-an-incident).
+If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
 
 ##### Checklists for Responding to an Incident
 
