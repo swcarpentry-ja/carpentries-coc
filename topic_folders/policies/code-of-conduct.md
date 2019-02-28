@@ -2,7 +2,6 @@
 
 #### Code of Conduct (Summary View)
 
-<<<<<<< HEAD
 Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view).
 
 For more information please review our:
@@ -10,9 +9,6 @@ For more information please review our:
 - [Incident Reporting Guidelines](incident-reporting.html)
 - [Incident Response Procedure](enforcement-guidelines.html)
 - [Termed Suspension Guidelines](termed-suspension.html)
-=======
-Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view); [Incident Response Guidelines for Community Members](#incident-response-guidelines); [Incident Reporting Guidelines](#incident-reporting-guidelines); [Incident Response Procedure for the Code of Conduct Committee](#incident-response-procedure-and-enforcement-guidelines); and the [Termed Suspension Checklist](#termed-suspension-guidelines).
->>>>>>> 550aa4bafa384d427ad0e47981f5334fe95cc0d6
 
 We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form or behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:
 
