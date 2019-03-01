@@ -1,6 +1,6 @@
 ### Email templates
 
-#### From Workshop Administration Team
+#### From Regional Coordinator
 
 ##### General inquiry response
 
@@ -74,7 +74,7 @@ Hi everyone,
 
 This email is to introduce [ host_name ] of [ site_name ] with instructors [ instructor1_name ] and [ instructor2_name ]. They will be teaching a [ carpentry_type ] workshop on [ workshop_date ].
 
-I also want to introduce our Workshop Administrator, [ admin_name ]. [ She or he ] will be supporting all of the logistical details with this workshop.
+I also want to introduce our Regional Coordinator, [ admin_name ]. [ She or he ] will be supporting all of the logistical details with this workshop.
 
 You can all read more about the roles of workshop hosts, instructors, and helpers here (http://docs.carpentries.org/topic_folders/hosts_instructors/index.html). I'll highlight a few things here.  There's a lot of information here, so please take some time to read through things carefully and ask questions as needed.
 
