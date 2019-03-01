@@ -16,6 +16,11 @@ Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), ap
 * *Community Job postings*: Includes information that has come through on the *Discuss* email list, Twitter, and other media.
 * *Other places to connect*: This section is standardized for all newsletter issues.
 
+#### Submitting newsletter content
+
+Carpentries staff manage newsletter content through this [private Asana project](https://app.asana.com/0/1111365359623439/1111365359623465).  Submissions from community members are welcome by emailing [newsletter@carpentries.org](mailto:newsletter@carpentries.org).
+
+
 #### Publishing the newsletter
 
 This information is intended for staff or community members who have taken on the responsibility of publishing the newsletter.
