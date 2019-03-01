@@ -9,7 +9,7 @@ Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), ap
 * *Committee and Task Force Activity*: Includes announcements directly from task force and committee chairs and summaries from meeting notes.
 * *What you may have missed on the blog and mailing lists*: Includes highlights of key conversations on the *Discuss* email list, other lists or things on the blog that need further highlighting.
 * *Tweet of the Week*: One noteworthy tweet is chosen and a screen captured image is included.
-* *Papers & manuscripts for and from the community*: Includes announcements that were made on the *Discuss* email list, Twitter, or other media.
+* *Optional: Papers & manuscripts for and from the community*: Includes announcements that were made on the *Discuss* email list, Twitter, or other media.
 * *Optional: Offcuts*: Includes other unusual news that may be of interest.
 * *Optional: Joinery*: Includes other ways to get involved in the Carpentries community and ways the Carpentries community is involved in other conferences, etc.
 * *Optional: Toolshed (Posts from our Past)*: A place to highlight handy posts from the blog or discussion list archives that might still be relevant to postings to lists and other issues.
