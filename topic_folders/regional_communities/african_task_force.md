@@ -2,13 +2,13 @@
 
 The first African Task Force was established in 2016 and consisted of international mentors from the USA, UK, and Australia. This group of mentors volunteered to guide the first batch of trained African instructors through the checkout process as most of them were very isolated and new to the world of the Carpentries.
 
-Since then more than 100 African instructors have participated in online or in-person instructor training events. The massive growth has enabled us to revive the task force in December 2017, now completely consisting of African instructors. The task force will play a role in mentoring instructors who have been trained but haven’t qualified as well as qualified instructors who need support before teaching a workshop. They will also provide some mentorship to helpers at workshops to ensure they are onboarded. The African Task Force will work closely with the African Workshop Administrators and the Mentoring Subcommittee.
+Since then more than 100 African instructors have participated in online or in-person instructor training events. The massive growth has enabled us to revive the task force in December 2017, now completely consisting of African instructors. The task force will play a role in mentoring instructors who have been trained but haven’t qualified as well as qualified instructors who need support before teaching a workshop. They will also provide some mentorship to helpers at workshops to ensure they are onboarded. The African Task Force will work closely with the African Regional Community Coordinators and the Mentoring Subcommittee.
 
 Some of the South African-based activities are funded through the Rural Campuses Connection Project II (RCCP II).
 
 ### What We Do
 
-- Provide logistical support for workshops in Africa: The African Task Force will work closely with the Africa Workshop Administrators to provide logistical support for workshops when needed.
+- Provide logistical support for workshops in Africa: The African Task Force will work closely with the African Regional Community Coordinators to provide logistical support for workshops when needed.
 
 - Focused online workshops for trained Instructors: Small online sessions will be hosted by task force members and other volunteers to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. These sessions will be limited to a maximum of 5 trained (but not necessarily qualified) African instructors. We hope that this will help instructors to gain confidence in teaching the lessons but also to learn the tools.
 
