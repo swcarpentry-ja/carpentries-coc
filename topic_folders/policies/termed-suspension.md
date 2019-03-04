@@ -6,7 +6,7 @@ As a part of their enforcement options, The Carpentries Code of Conduct (CoC) co
 
 The goal of a Termed Suspension is to 1) limit a person's participation in virtual and in-person Carpentries spaces for a set time to create a safe space for the community, and 2) to give time and opportunity for the individual to review their response to the incident and demonstrate immediate, ongoing, and demonstrable changes as evaluated by the CoC committee before possible reinstatement.
 
-In most cases a Termed Suspension will only be enacted after an incident has been reviewed by the CoC committee and a resolution is reached. However, in severe situations, in particular where there is active harassment, the CoC committee may enact an immediate short-term Termed Suspension while an incident is under review.
+In most cases, a Termed Suspension will only be enacted after an incident has been reviewed by the CoC committee and a resolution is reached. However, in severe situations, in particular where there is active harassment, the CoC committee may enact an immediate short-term Termed Suspension while an incident is under review.
 
 If there is a decision for a Termed Suspension, the following checklist is followed by the appropriate personnel to enact the Termed Suspension. In accordance with CoC confidentiality guidelines, only essential personnel will be involved in implementation of these actions.
 
