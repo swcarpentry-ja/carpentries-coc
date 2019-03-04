@@ -6,17 +6,17 @@ The checklists below outline the steps any community member (workshop host, [ins
 
 All Carpentries community members should feel empowered to enforce the Code of Conduct. 
 
-Ideally we would all be able to diffuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive, and steps that you can take during or after an incident.
+Ideally, we would all be able to diffuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident.
 
-If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report, in person to a workshop host or instructor, or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee.
+If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee.
 
 ##### Immediate Response 
 
-The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger, or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  
+The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  
 
 ##### Ongoing Incidents
 
-If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible, and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
+If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
 
 ##### Checklists for Responding to an Incident
 
@@ -28,13 +28,13 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 
 **In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**
 * Ensure participants are safe.
-* If not refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
+* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).
 * Listen to the reporter and write down as many details as possible.
 * Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. 
-* Inform the workshop host that there was an incident, and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
+* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. 
 
 **Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**
-* Inform the event host/meeting facilitator that there was an issue, and send a report via the [incident report form][reporting-form]. 
+* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. 
 * If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
 If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.html), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
