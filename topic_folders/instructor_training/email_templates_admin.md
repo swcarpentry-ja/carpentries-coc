@@ -757,6 +757,8 @@ is where you'll hear about opportunities to teach at upcoming workshops. You can
 (https://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to 
 teach at Carpentries-organized workshops, you are also able to organize and host your own local workshops. You can find more information 
 about running a workshop here: https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
+
+We also have a team of Regional Coordinators who help run workshops and build Carpentries communities around the world. You can read more about who they are and what they do here:  https://carpentries.org/regionalcoordinators/
                
 Please let us know if there's anything we can do to help and welcome to the community!
                         
