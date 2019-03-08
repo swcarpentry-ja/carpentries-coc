@@ -169,11 +169,11 @@ A workshop can be requested from a host site, and this information can be used t
 
 ![AMY workshop requests](images/amy_workshop_request_menu.png)
 
-This page will show a list of all open workshop requests, with the name/email of the requestor, their affiliation, their preferred dates, the Carpentry type, and any other comments.  Click on the "i" icon at the end of the line to view more details.
+This page will show a list of all open workshop requests, with the name/email of the requestor, their affiliation, their preferred dates, the Carpentry type, and any other comments.  
 
 ![AMY workshop request list](images/amy_workshop_request_list.png)
 
-This will give the user the option to accept or discard the request. All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
+At the bottom of this page, the user has the option to accept or discard the request. Choosing "Change state to Accepted" will mark it as accepted in the workshop request list but will not create a new event.  Select "Accept and create a new event" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
 
 This will open a page with a side by side view of the request details and view to create a new event. The new event can be created manually or if available, from the URL, as described above.
 
