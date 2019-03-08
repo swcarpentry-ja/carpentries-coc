@@ -90,7 +90,7 @@ New events can be created one of several ways:
 
 ![AMY new event administrator](images/amy_new_event_administrator.png)
 
-* Select the name of the Carpentries administrator responsible for managing this workshop.  
+* Select the name of the Carpentries Regional Coordinator responsible for managing this workshop.  
 
 ![AMY new event assigned to](images/amy_new_event_assigned_to.png)
 
