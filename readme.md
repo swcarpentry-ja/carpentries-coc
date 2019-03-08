@@ -49,6 +49,20 @@ The root level `index.rst` generates the main categories the sidebar navigation.
 
 Within each folder's `index.rst` file, the section heading is defined by a string of  `=` beneath it. Subheadings can be defined using `###` in each markdown file or by a heading with `-` under it in the `index.rst` file.
 
+##### Formatting Hyperlinks
+
+In markdown documents, links can be formatted in standard markdown, with the text in square brackets and the hyperlink in parentheses: 
+
+```
+[text](hyperlink)
+```
+
+For the `index.rst` files, links must be formatted as follows. Note the text is followed by the hyperlink in pointy brackets, everything is wrapped in backticks, and then followed by an underscore.
+
+```
+`text<hyperlink>`_
+
+```
 
 #### Additional information
 
