@@ -8,7 +8,7 @@
 
 ### AMY dashboard
 
-All the menus and a search bar are displayed across the top. The main page has three column view showing published workshops, uninvoiced workshops, and unpublished workshops.
+All the menus and a search bar are displayed across the top. The main page has two columns, showing published workshops and unpublished workshops.
 
 This view can be filtered to show workshops assigned to the logged in administrator, unassigned workshops, or all workshops.
 
@@ -16,7 +16,6 @@ This view can be filtered to show workshops assigned to the logged in administra
 ![AMY dashboard](images/amy_dashboard.png)
 
 * *Published workshops* have a complete start and end date, a valid url, and a complete location.
-* *Uninvoiced workshops* are those the invoice status is marked "Invoice not requested".
 * *Unpublished workshops* are all workshops that do not meet the criteria to be published.
 
 Published workshops will show up on the Software Carpentry, Data Carpentry, or Library Carpentry website, depending on how they are tagged.
