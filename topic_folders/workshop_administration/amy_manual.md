@@ -96,7 +96,30 @@ New events can be created one of several ways:
 
 * Assign all appropriate tags to the event.
 
+    - SWC: Software Carpentry
+    - DC: Data Carpentry
+    - LC: Library Carpentry
+    - WiSE: Women in Science and Engineering 
+    - TTT: Instructor Training 
+    - LSO: Lesson Specific Onboarding
+    - ITT: Trainer Training
+    - LMO: Lesson Maintainer Onboarding
+    - online: Online events
+    - stalled: When host stalled event planning before workshop occurred
+    - unresponsive: When host/instructors were unresponsive to requests for attendance data
+    - hackathon: Non-workshop events. Hackathons related to lesson development or other topics.
+    - cancelled: When a fully scheduled event gets cancelled
+
 ![AMY new event tags](images/amy_new_event_tags.png)
+
+* TTT Open applications. For instructor training events, member sites become associated with the event as individuals from that member site are assigned to that event. Checking this box will allow people from the open application pool to be matched to this event as well.
+
+
+![AMY TTT Open Applications check box](images/amy_ttt_open_applications.png)
+
+* Select the curricula taught at this workshop.
+
+![AMY curricula taught](images/amy_curricula_taught.png)
 
 * Enter in the workshop's url (to the GitHub page, not the repo). This is generally in the format `username.github.io/YYYY-MM-DD-sitename`.
 
