@@ -153,7 +153,7 @@ Click "Submit" to save this event.
 
 #### Creating a new event from URL
 
-If you already have the event's URL with properly formatted metadata, the following information can automatically be imported:
+If you already have the event's URL with properly formatted metadata using [The Carpentries workshop template](https://github.com/carpentries/workshop-template), the following information can automatically be imported:
 
 * Slug (created from GitHub repo name)
 * Start and end dates
