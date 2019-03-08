@@ -343,3 +343,20 @@ Under the "More" menu, select "Find Workshop Staff."  Here you can filter by the
 * *Was helper at least once before*, *Was organizer at least once before*, *Is an in-progress instructor trainee* are based on AMY's current records
 * *Languages*, *Gender*, and *Lessons* come from the Person record for that individual.
 
+#### Searching for Events
+
+Clicking "Events" on the top menu bar will take you to a list of *all* recorded events - past, present, and future, including those that were stalled or cancelled.
+
+Events can be searched from the left side options by Assignee, Tags, Host, Administrator, Invoice status (deprecated), Completed, Country, and Status.
+
+#### Searching for Organizations
+
+Clicking "Organizations" on the top menu bar will take you to a list of *all* recorded organizations, regardless of their involvement with The Carpentries.
+
+Organizations can be searched by Country and Membership type.
+
+#### Searching for Persons
+
+Clicking "Persons" on the top menu bar will take you to a list of *all* recorded persons, regardless of their involvement with The Carpentries.
+
+Persons can be searched for by badges and by teaching history.  See the section above to search specifically for [qualified instructors](#searching-for-qualified-instructors).
