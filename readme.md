@@ -1,11 +1,11 @@
-### Why was the handbook created
+### Why was the handbook created?
 
 Historically, information and resources related to [The Carpentries](https://carpentries.org/) have been spread across various websites, Google docs, GitHub repos, and more. The handbook is a one-stop shop that consolidates information on running a workshop, developing or maintaining lessons, participating in an instructor training event, and more! 
 
 Many community members have contributed to this handbook, and we welcome feedback on this Handbook. Feel free to submit issues or pull requests to [this GitHub repo](https://github.com/carpentries/handbook/) to improve this community resource.
 
 
-### About this site
+### Building this site
 
 This site is built using the [Sphinx](http://www.sphinx-doc.org/en/stable/) documentation generator (a Python tool) and the [Read the Docs theme](https://github.com/rtfd/sphinx_rtd_theme) for the style. (Not to be confused with readthedocs.io - the site is _not_ hosted at readthedocs.io!) 
 
