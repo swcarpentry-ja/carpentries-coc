@@ -175,7 +175,7 @@ This page will show a list of all open workshop requests, with the name/email of
 
 At the bottom of this page, the user has the option to accept or discard the request. Choosing "Change state to Accepted" will mark it as accepted in the workshop request list but will not create a new event.  Select "Accept and create a new event" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
 
-This will open a page with a side by side view of the request details and view to create a new event. The new event can be created manually or if available, from the URL, as described above.
+This will open a page with a side by side view of the request details and view to create a new event. The new event can be created [manually](#creating-a-new-event-manually) or if available, [from the URL](#creating-a-new-event-from-url), as described above.
 
 ![AMY workshop accept request](images/amy_workshop_request_accept.png)
 
