@@ -11,7 +11,7 @@ This section outlines their work specifically as it relates to workshop adminstr
    :glob:
 
    expectations.md
-   regional_coordinator_workflow.md    
+   workshop_admin_workflow.md    
    amy_manual.md
    survey_monkey.md
    eventbrite.md
