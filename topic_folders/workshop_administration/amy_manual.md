@@ -149,6 +149,7 @@ New events can be created one of several ways:
 
 ![AMY new event notes](images/amy_event_comment.png)
 
+Click "Submit" to save this event.
 
 #### Creating a new event from URL
 
