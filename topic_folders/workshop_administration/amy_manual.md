@@ -86,7 +86,7 @@ New events can be created one of several ways:
 
 ![AMY new event host](images/amy_new_event_host.png)
 
-* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, or `self organized`.
+* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `self organized`.
 
 ![AMY new event administrator](images/amy_new_event_administrator.png)
 
