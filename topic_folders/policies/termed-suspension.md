@@ -47,15 +47,15 @@ The suspended member will, for the duration of their suspension:
 - Be removed from the instructors email list.
 
 ##### Organizing Workshops 
-If the suspended member is a Workshop Administrator or serves in another role whereby they organize workshops for The Carpentries, for the duration of their suspension they will not have access to:
+If the suspended member is a Regional Coordinator or serves in another role whereby they organize workshops for The Carpentries, for the duration of their suspension they will not have access to:
 - LastPass
 - AMY
 - Regional Email
 - Asana
 - HelpScout
 - Zoom
-- Workshop Administrators Slack Channel
-- Workshop Administrators Email List
+- Regional Coordinators Slack Channel
+- Regional Coordinators Email List
 
 ##### Instructor Training
 The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to: 
