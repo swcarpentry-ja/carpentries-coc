@@ -2,7 +2,7 @@
 
 ### Logging in
 
-* Log in to AMY [here](https://amy.carpentries.org/workshops/admin-dashboard/).  Contact Carpentries staff if you need login credentials.
+* Log in to AMY [here](https://amy.carpentries.org/workshops/admin-dashboard/).  Contact [Carpentries staff](mailto:team@carpentries.org) if you need login credentials.
 
 ![AMY login screen goes here](images/amy_login_screen.png)
 
