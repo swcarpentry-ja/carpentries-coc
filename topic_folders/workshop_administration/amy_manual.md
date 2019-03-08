@@ -214,9 +214,11 @@ Once an individual submits the form, the record can be viewed by going to Reques
 
 Applications can then be searched by individual name, email address, group name, status (pending, accepted, or discarded), affliliation, or location.
 
-Some trainees will already be in AMY because they were formerly learners or helpers at Carpentries events. If there is a record with a matching name and email address, they will show up with a "matched trainee" when you search for them.  If "matched trainee" is blank, you will need to create a trainee record for them.
+Some trainees will already be in AMY because they were formerly learners or helpers at Carpentries events. If there is a record with a matching name and email address, they will show up with a "matched trainee" when you search for them.  If "matched trainee" is blank, you will need to create a new person record for them.
 
 To create a trainee record, click on the "i" icon at the far right of the individual's line. If you know this person is in AMY under a different name or email address, look this person up here and click "Match to selected trainee account."  If this is a new person, click "Create new trainee account."
+
+![AMY Match Trainee Record](images/amy_training_match_record.png)
 
 This will return you to the search screen, and this person's record will be updated with the new trainee account.
 
