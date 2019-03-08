@@ -20,7 +20,7 @@ This view can be filtered to show workshops assigned to the logged in administra
 
 Published workshops will show up on the Software Carpentry, Data Carpentry, or Library Carpentry website, depending on how they are tagged.
 
-From here you can also add new persons, events, organizations, or airports to the database.
+From here you can also add new [persons](#adding-a-new-person), [events](#adding-a-new-event), [organizations](#adding-a-new-organization), or [airports](#adding-a-new-airport) to the database.
 
 ![AMY add new elements](images/amy_add_new.png)
 
