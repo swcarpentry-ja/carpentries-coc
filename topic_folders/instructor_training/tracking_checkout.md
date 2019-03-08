@@ -23,7 +23,7 @@
 
 #### Tracking Lesson Contributions
 
-1. Discussion session hosts will email a list of trainees who attended a discussion session to [checkout@carpentries.org](mailto:checkout@carpentries.org).
+1. Trainees should email the link to their contribution to [checkout@carpentries.org](mailto:checkout@carpentries.org).
 1. Carpentries Staff will go to this person's record in AMY and [mark this step as complete](../workshop_administration/amy_manual.html), including a link to their contribution.
 
 #### Recording Extensions to Complete Checkout
