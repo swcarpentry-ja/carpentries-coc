@@ -53,7 +53,7 @@ Use the blank template to generate a well formed csv noting each person's person
 
 The role must exactly match the [instructions here](https://amy.carpentries.org/workshops/persons/bulk_upload/). The event slug must exactly match the slug for the event recorded in AMY.
 
-This will take you to a screen where you can verify each record, correct any errors, and submit them for bulk upload.
+This will take you to a screen where you can verify each record, correct any errors, and submit them for bulk upload.  If a person with the same name and email already exists in the database, you will be able to match the new entry to the existing record.  Otherwise a new person record will be created.
 
 ### Adding a new airport
 
