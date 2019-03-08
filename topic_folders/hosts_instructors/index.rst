@@ -7,7 +7,7 @@ For centrally organized workshops, the Regional Coordinator will guide the host 
 
 Certified instructors are also encouraged to run self organized workshops.  For self organized workshops, the host and instructor are directly responsible for ensuring all the steps below are followed without support from the Regional Coordinator.
 
-A global team of Regional Coordinators support workshop activity and community building in regions around the world. [Read more](https://carpentries.org/regionalcoordinators/) about who they are and what they do.
+A global team of Regional Coordinators support workshop activity and community building in regions around the world. `Read more <https://carpentries.org/regionalcoordinators/>`_ about who they are and what they do.
 
 
 

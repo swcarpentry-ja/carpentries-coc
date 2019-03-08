@@ -6,7 +6,7 @@ Our staff Workshop and Logistics Manager manages workshops in most of the world.
 
 Regional Coordinators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. The workshop administrators work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
-[Read more](https://carpentries.org/regionalcoordinators/) about who they are and what they do.
+`Read more <https://carpentries.org/regionalcoordinators/>`_ about who they are and what they do.
 
 .. toctree::
    :maxdepth: 2
