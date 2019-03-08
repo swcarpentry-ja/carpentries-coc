@@ -1,4 +1,4 @@
-REGIONAL COOARDINATORS
+REGIONAL COORDINATORS
 ========================
 
 Around the world, Carpentries workshops are organized by a team of Regional Coordinators.
