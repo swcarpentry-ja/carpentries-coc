@@ -1,4 +1,4 @@
-### Why was the handbook created?
+### Why was this handbook created?
 
 Historically, information and resources related to [The Carpentries](https://carpentries.org/) have been spread across various websites, Google docs, GitHub repos, and more. The handbook is a one-stop shop that consolidates information on running a workshop, developing or maintaining lessons, participating in an instructor training event, and more! 
 
