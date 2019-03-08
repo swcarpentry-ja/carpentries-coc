@@ -138,13 +138,16 @@ New events can be created one of several ways:
 ![AMY new event attendance](images/amy_new_event_attendance.png)
 
 * Enter only the email address for the main contact person for this event.
+
 ![AMY new event contact](images/amy_new_event_contact.png)
 
-* Add in any other notes that may not be covered in any fields above.
-![AMY new event notes](images/amy_new_event_location.png)
-
 * Add in the location including the country, venue name, address, and latitude/longitude coordinates.
+
 ![AMY new event location](images/amy_new_event_location.png)
+
+* Add in any other notes that may not be covered in any fields above.  This will be transformed into a timestamped notes log once the event is saved.
+
+![AMY new event notes](images/amy_event_comment.png)
 
 
 #### Creating a new event from URL
