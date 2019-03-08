@@ -133,10 +133,6 @@ New events can be created one of several ways:
 
 ![AMY new event eventbrite](images/amy_new_event_eventbritekey.png)
 
-* If the event has a fee due to the Carpentries, enter it in and note when the invoice has been requested to be sent to the host site. If there is no fee due, note the reason why.
-
-![AMY new event invoice](images/amy_new_event_invoice.png)
-
 * After the event is over, record the total number of learners who attended the workshop.
 
 ![AMY new event attendance](images/amy_new_event_attendance.png)
