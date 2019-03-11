@@ -1,4 +1,4 @@
-### Regional Coordinators workflow
+### Workshop Administration workflow
 
 #### For centrally organized workshops
 
