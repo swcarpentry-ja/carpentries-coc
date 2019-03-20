@@ -37,7 +37,7 @@ Each room can have a host who will have privileges to mute people, create breako
 #### Zoom Manual 
 Online Carpentry community events are held on [Zoom][zoom-home].  Carpentries staff will set up host access to our Zoom rooms for people leading community events. No login is needed for event guests; however a browser plug in may be required.
 
-If you are leading an event, you will be given host acccess to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. The host can transfer host privileges to other participants, so you will be able to trade host status with co-facilitators during the event if needed.
+If you are leading an event, you will be given host acccess to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
 
 All Carpentry online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact Carpentry staff immediately.
 
