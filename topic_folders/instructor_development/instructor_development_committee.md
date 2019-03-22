@@ -9,7 +9,7 @@
 The co-chairs of the Instructor Development Committee are responsible for: 
 
 1. Scheduling monthly committee meetings.  
-    - Meetings are the third Monday of every month and happen twice in one day with each co-chair hosting one to accommodate time zones.
+    - Meetings held monthly, twice in one day with each co-chair hosting one meeting to accommodate time zones.
 2. Working with fellow co-chair to plan and share the monthly meeting agenda in advance (i.e. 1 or 2 weeks ahead of time).   
 3. Leading one of the monthly committee meetings (or delegate when absent).
 4. Delegating tasks that come up each month. 
@@ -24,38 +24,39 @@ The co-chairs of the Instructor Development Committee are responsible for:
 ##### Time Commitment
 
 - 1-2 hours/week 
-- 1 year term 
-    - Co-Chair 1: Start in January. 
-    - Co-Chair 2: Start in March.  
+- 1 year term beginning 1-May  
 
 ##### Requirements
 
-- Member of the Instructor Development Committee
+- Certified Carpentries Instructor
 
 ##### To Volunteer
 
-- Join the Instructor Development Committee and host/co-host at least one [community discussion](http://pad.software-carpentry.org/community-discussions). 
+- Complete [this form](https://forms.gle/LW6y5PUR1D8BrjzP9) to apply to serve as a co-chair. 
 
-#### Discussion Session Coordinators
+#### Discussion Session Coordinator
 
 ##### Responsibilities
 
-The primary responsibilities of the Discussion Session Coordinators are:
+The primary responsibilities of the Discussion Session Coordinator are:
 
-- Emailing workshop instructors about discussion sessions (before and after they teach)
-- Recruiting/emailing discussion hosts about hosting
-- Maintaining the [discussion hosts mailing list](mailto:discussion-hosts@carpentries.org)
+- Organizing Themed Discussion Sessions and #CarpentriesConversations that come in on the [Call for Community Discussion Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form 
+- Inviting instructors to attend pre and post-workshop discussions
+- Recruiting discussion hosts 
+- Maintaining the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts)
 - Maintaining the [community discussions Etherpad](http://pad.software-carpentry.org/community-discussions) with upcoming dates
+- Adding Community Discussions to the [Community Calendar](https://carpentries.org/community/#community-events)
 - Checking in with hosts the week of their discussion sessions
 
 ##### Time commitment
 
-1 hour a week, 3 month term
+- 1-2 hours a week
+- 1 year term beginning 1-May
 
 ##### Requirements
 
-- Member of the Instructor Development Committee
+- Certified Carpentries Instructor
 
 ##### To Volunteer
 
-- Join the Instructor Development Committee, and contact the co-chair when the position is open.
+- Join the Instructor Development Committee, and complete [this form](https://forms.gle/LW6y5PUR1D8BrjzP9) to apply to serve. 
