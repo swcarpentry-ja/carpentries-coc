@@ -305,7 +305,7 @@ AMY comes with several built in reporting features that can be accessed by click
 ### Roles in AMY
 What you are able to edit or view depends on your assigned role in AMY.
 
-### Instructor login
+#### Instructor login
 
 Instructors can log in to AMY to view and update their own information. To do so, they must have a valid GitHub username in their profile. Instructors should visit the [AMY login page](https://amy.carpentries.org/account/login/) and click on `Log in with your GitHub account`.
 
@@ -314,6 +314,12 @@ If an instructor is having trouble logging in, an administrator can verify the f
 * Be sure the GitHub user name is accurate.
 * Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorized user.
 * `Logging in allowed` should show next to the GitHub name in the profile. If it says `Allow logging in with GitHub`, click this to allow logging in. This must be done **after** setting permissions to active above.
+
+#### Admin roles
+
+Admin users will have rights to view and edit many other parts of the AMY database.  Additional information is forthcoming.
+
+An admin user can view their profile as if they were an ordinary user on [this dashboard page](https://amy.carpentries.org/dashboard/trainee/).
 
 ### Other tasks
 
