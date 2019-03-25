@@ -1,7 +1,7 @@
 LESSON DEVELOPMENT
 =======================
 
-For more information on lesson development with The Carpentries, please visit [The Carpentries Curriculum Development Handbook](https://carpentries.github.io/curriculum-development/index.html).
+For more information on lesson development with The Carpentries, please visit `The Carpentries Curriculum Development Handbook <https://carpentries.github.io/curriculum-development/index.html>`_.
 
 .. toctree::
    :maxdepth: 2
