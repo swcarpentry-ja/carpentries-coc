@@ -21,9 +21,6 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 -  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (using the [Google Doc template][googledoc-template]) and a workshop website (using the [training template][training-template]).  *Note the Google Doc is not currently maintained and may not be in sync with lesson materials.*
 -  Send Etherpad/Google Doc and website links to training@carpentries.org.  
 
-###### Two weeks before the event
--  Introduce yourself to your trainees.  
-
 ###### One week before the event      
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
