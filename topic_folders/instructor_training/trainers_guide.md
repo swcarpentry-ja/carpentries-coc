@@ -107,7 +107,8 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Send each trainee an email letting them know they [passed](email_templates_trainers.html#trainee-did-pass-teaching-demo) or [did not pass](email_templates_trainers.html#trainee-didnt-pass-teaching-demo) the teaching demo. If needed, let them know the reason they did not pass and asking them to retry.
 
 ##### Starting Points for Demos
-Please see the table below for recommendations about choosing a starting point for trainee teaching demonstrations. 
+Please see the table below for recommendations about choosing a starting point for trainee teaching demonstrations.
+Note that this list of lessons does not include _all_ lessons suitable for demos (see description of allowed lessons on the [instructor training checkout page](https://carpentries.github.io/instructor-training/checkout/#part-3-teach-a-short-demonstration-lesson))
 
 | Carpentry | Curriculum | Lesson  | Avoid | Good Starting Points | Notes | 
 | --------- | ---- | ------- | ------ | ----- | ----- | 
