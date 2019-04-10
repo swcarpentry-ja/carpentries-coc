@@ -5,6 +5,7 @@ COMMUNICATION
    :maxdepth: 2
    :glob:
 
+   style-guide.md
    submit-news-item.md
    submit_blog_post.md
    newsletter.md
