@@ -1,41 +1,30 @@
-## African Task Force 
-
-The first African Task Force was established in 2016 and consisted of international mentors from the USA, UK, and Australia. This group of mentors volunteered to guide the first batch of trained African instructors through the checkout process as most of them were very isolated and new to the world of the Carpentries.
-
-Since then more than 100 African instructors have participated in online or in-person instructor training events. The massive growth has enabled us to revive the task force in December 2017, now completely consisting of African instructors. The task force will play a role in mentoring instructors who have been trained but haven’t qualified as well as qualified instructors who need support before teaching a workshop. They will also provide some mentorship to helpers at workshops to ensure they are onboarded. The African Task Force will work closely with the African Regional Community Coordinators and the Mentoring Subcommittee.
-
-Some of the South African-based activities are funded through the Rural Campuses Connection Project II (RCCP II).
+## Carpentries in Africa
 
 ### What We Do
 
-- Provide logistical support for workshops in Africa: The African Task Force will work closely with the African Regional Community Coordinators to provide logistical support for workshops when needed.
+Support for the African community is provided by community members and the [regional coordinator who will be appointed in 2019](https://carpentries.org/blog/2019/03/regional-coordinator-southern-africa/)
 
-- Focused online workshops for trained Instructors: Small online sessions will be hosted by task force members and other volunteers to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. These sessions will be limited to a maximum of 5 trained (but not necessarily qualified) African instructors. We hope that this will help instructors to gain confidence in teaching the lessons but also to learn the tools.
+- Monthly African Instructor Meetup: Our monthly African instructor meetups have been running since 2017 and are  attracting more and more interest. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. The meetings are restricted to folks who have already participated in instructor training as we also focus on helping instructors to complete their checkouts, connecting instructors with others who can co-teach or co-organise workshops, and more.
 
-- Monthly African Instructor meetup: Our monthly African instructor meetups has been running since 2017 and are starting to attract more interest. Here we discuss topics that are of interest to researchers and students in the African context, including previous and upcoming workshops, available resources, opportunities, and events, and more.
+- Provide logistical support for workshops in Africa: The African Regional Coordinator will work closely with experienced African instructors to provide logistical support for workshops when needed.
 
-- Mentoring for Instructors and Helpers before a workshop: We will host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
+- Mentoring for Instructors and Helpers before a workshop: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
 
-### Join US
 
-Email the [African Task Force](mailto:admin-afr@carpentries.org) to get involved.
+### Join Us
+
+To join the conversation about The Carpentries in Africa,  sign up at [Topic-Box](https://carpentries.topicbox.com/groups/local-africa).
+
+If you’ve trained as an instructor in African (even if you’re not qualified yet), please join the [African instructors mailing list](mailto:african-carpentry-instructors@googlegroups.com).
 
 We would love to get more people involved in specific activities to support our growing African community.
 
-Running online teaching sessions: If you are familiar with any of the lessons and confident with online meeting tools, and would like to host one or more sessions to help build confidence and competence amongst our trained instructors, please email us with more information about the lesson of choice and your availability.
+Join the monthly African meetup: We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join or host a session, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
-Hosting the monthly African meetup: We would love to hear more voices at our monthly online meetup. If you are keen to host a session, please find the dates on the [African Carpentries Calendar](https://calendar.google.com/calendar/embed?src=ddkcciacmqmulpu7r51562vg5g%40group.calendar.google.com&ctz=Africa%2FJohannesburg) and sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
+Provide mentorship before workshops: If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr@carpentries.org) and we can pair you up with a team at a time and date that will suit you.
 
-Provide mentorship before workshops: If you are available to meet with our instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr@carpentries.org) and we can pair you up with a team at a time and date that will suit you.
+### Historical support
 
+The first Carpentries workshops in Africa were run in 2013 but it only really kicked off in 2015. An African Task Force was established in 2016, consisting of international mentors from the USA, UK, and Australia, and guided the first batch of trained African instructors through the checkout process as most of them were very isolated and new to the world of the Carpentries.
 
-### Current members
-
-- Caroline F Ajilogba
-- Mesfin Diro [@mesfindiro](https://twitter.com/mesfindiro)
-- Erika Mias [@erikamias](https://twitter.com/erikamias) 
-- Lactatia Motsuku 
-- Kayleigh Lino [@curatorkay](https://twitter.com/curatorkay)
-- Juan Steyn [@zjsteyn](https://github.com/zjsteyn)
-- Katrin Tirok 
-- Anelda van der Walt [@aneldavdw](https://twitter.com/aneldavdw)
+Since then more than 100 African instructors have participated in online or in-person instructor training events. The African Task Force was revived in December 2017, then completely consisting of African instructors. The task force played a role in mentoring instructors who had been trained but hadn’t qualified as well as qualified instructors who needed support before teaching a workshop. Small online sessions were hosted by task force members to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. The second African Task Force finished its activities in December 2018. Some of the South African-based activities were funded through the Rural Campuses Connection Project II (RCCP II), which ended in March 2019. You can read more about the experiences of the African Task Force in this [blog post](https://carpentries.org/blog/2019/01/african-task-force-update/) and about RCCPII [here](https://tenet-rccpii.github.io/rccpii-2018/).
