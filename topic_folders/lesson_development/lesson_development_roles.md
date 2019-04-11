@@ -29,6 +29,8 @@ Curriculum Advisors are responsible for:
 
 Curriculum Advisors commit to serving a one year term, but are welcome to continue for additional years.
 
+* [Curriculum Advisors, Data Carpentry](https://datacarpentry.org/lesson-leadership/)
+* [Curriculum Advisors, Library Carpentry](https://librarycarpentry.org/cac/)
 
 ### Lesson Infrastructure Subcommittee
 
