@@ -24,9 +24,9 @@
 
 # -- General configuration ------------------------------------------------
 
+from datetime import datetime
 
 # Enable use of markdown
-
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
@@ -61,7 +61,10 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'The Carpentries Handbook'
-copyright = '2018, The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
+
+current_year = str(datetime.now().year)
+
+copyright = '2018-' + current_year + ', The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
 author = 'Authors'
 
 # The version info for the project you're documenting, acts as replacement for
