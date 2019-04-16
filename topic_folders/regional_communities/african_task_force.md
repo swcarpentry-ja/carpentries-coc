@@ -13,15 +13,15 @@ Support for the African community is provided by community members and the [regi
 
 ### Join Us
 
-To join the conversation about The Carpentries in Africa,  sign up at [Topic-Box](https://carpentries.topicbox.com/groups/local-africa).
+To join the conversation about The Carpentries in Africa,  sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa).
 
-If you’ve trained as an instructor in African (even if you’re not qualified yet), please join the [African instructors mailing list](mailto:african-carpentry-instructors@googlegroups.com).
+If you’ve trained as an instructor in Africa (even if you’re not qualified yet), please join the [African instructors mailing list](mailto:african-carpentry-instructors&#64;googlegroups.com).
 
 We would love to get more people involved in specific activities to support our growing African community.
 
 Join the monthly African meetup: We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join or host a session, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
-Provide mentorship before workshops: If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr@carpentries.org) and we can pair you up with a team at a time and date that will suit you.
+Provide mentorship before workshops: If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
 
 ### Historical support
 
