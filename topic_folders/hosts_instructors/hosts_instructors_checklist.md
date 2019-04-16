@@ -74,7 +74,7 @@ The Program Manager or Workshop Administration Team will introduce workshop host
 
 #### Helper Checklist
 
-Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers suppport learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
+Helpers are often recruited from the local community at the host site to support Carpentries workshops.  Helpers support learners one-on-one if they are stuck installing software, understanding a certain line of code, or any other parts of the learning process.
 
 **Before a workshop helpers will**
 
