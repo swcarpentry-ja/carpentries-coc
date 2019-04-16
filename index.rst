@@ -2,7 +2,7 @@ The Carpentries Handbook
 ------------------------
 
 
-`The Carpentries <https://carpentries.org/>`_ teach foundational coding, and data science skills to researchers worldwide. Software Carpentry, Data Carpentry, and Library Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our `Code of Conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_.
+`The Carpentries <https://carpentries.org/>`_ teaches foundational coding, and data science skills to researchers worldwide. Software Carpentry, Data Carpentry, and Library Carpentry workshops are based on our lessons. Workshop hosts, Instructors, and learners must be prepared to follow our `Code of Conduct <https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html>`_.
 
 
 .. toctree::
