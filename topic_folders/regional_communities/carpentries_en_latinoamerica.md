@@ -37,12 +37,7 @@ Sign up on the [Etherpad](http://pad.software-carpentry.org/teaching-demos) or r
 
 ### Traducciones / Translations
 
-Los repositorios de GitHub para las traducciones en progreso se mantienen en la organización [carpentries-es](https://github.com/Carpentries-ES).
+Los respositorios de GitHub para las traducciones en progreso son mantenidos por la organización [carpentries-es](https://github.com/Carpentries-ES). Varias lecciones de Data Carpentry y Software Carpentry tienen traducciones al lenguaje español completas. Estas se encuentran listadas en los sitios web de las lecciones de [Data Carpentry](https://datacarpentry.org/lessons/) y [Software Carpentry](https://software-carpentry.org/lessons).
 
-Traducciones completas se enumeran en [el sitio web de Software Carpentry](https://software-carpentry.org/lessons/).
-
-The GitHub repos for translations in progress are maintained in the [Carpentries-ES organization](https://github.com/Carpentries-ES).
-
-Complete translations are listed on the [Software Carpentry website](https://software-carpentry.org/lessons/).
-
+The GitHub repos for translations in progress are maintained in the [Carpentries-ES organization](https://github.com/Carpentries-ES). Several Data Carpentry and Software Carpentry lessons have complete Spanish language translations.  These are listed on the [Data Carpentry](https://datacarpentry.org/lessons/) and [Software Carpentry](https://software-carpentry.org/lessons) lesson websites.
 
