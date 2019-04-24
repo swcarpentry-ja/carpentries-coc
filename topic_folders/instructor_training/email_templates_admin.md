@@ -613,7 +613,7 @@ https://carpentries.org/membership/.
 The instructor training application is here: 
 https://amy.carpentries.org/forms/request_training/. 
 In order to have your application considered for Open training, 
-be sure to leave the “group” entry space blank. Note that the 
+be sure to leave the “Registration Code” entry space blank. Note that the 
 expectations for Instructors are also listed on this page, 
 and are a good idea to check before applying. 
 
