@@ -66,3 +66,5 @@ Checklist of tasks to complete before release:
 ### Upcoming Lesson Releases
 
 Information about upcoming lesson releases - coming soon!
+
+[swc-releases]: https://github.com/swcarpentry/swc-releases/
