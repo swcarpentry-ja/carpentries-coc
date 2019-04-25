@@ -81,7 +81,7 @@ Lastly, both mentors and mentees will receive a certificate!
 
 ### 2018-2019 Schedule
 
-- [2018-2019 Schedule](https://github.com/carpentries/mentoring/blob/master/mentoring-groups/2018-2019-schedule.md)
+- [2018-2019 Schedule](https://github.com/carpentries/instructor-development/blob/master/mentoring-groups/2018-2019-schedule.md)
 
 ### Mentor Agreement
 
