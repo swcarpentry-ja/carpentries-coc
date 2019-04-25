@@ -8,7 +8,7 @@ Mentors guide small groups of no more than five mentees toward a particular outc
 
 ### Mentoring Groups Outline   
 
-Groups are encouraged to set [SMART](http://www.hr.virginia.edu/uploads/documents/media/Writing_SMART_Goals.pdf) goals to be achieved. The following are sample mentoring group outlines. Groups are free to decide how to spend their time.
+Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/) goals to be achieved. The following are sample mentoring group outlines. Groups are free to decide how to spend their time.
 
 #### Sample Mentoring Group Outline: Lesson Maintenance
 + Introductions, review the Carpentries community culture, and communication channels.  
