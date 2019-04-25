@@ -81,17 +81,17 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Get acquanted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. For most lessons, any episode will be suitable. There are a few exceptions - [listed below](#starting-points-for-demos). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
-##### Shortly Before the Demo
+##### During the Demo
 -  Go to the Zoom room. The link is in the [Etherpad][demo-pad].    
--  Once everyone is in the call (audio and video working), remind them of the Code of Conduct, explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for 5 minutes from one episode instead of the entire lesson, and if so, suggest strongly they reschedule.    
--  Ask those not presenting to mute their microphone, and tell them they are to give feedback in the Etherpad using the same positive-vs-negative and content-vs-presentation rubric used in training.    
--  Hand out the assignment to the first trainee, give them a bit of time to set up the demo (they may have to import some packages, load some data, move to a certain folder etc).  
+-  Once everyone is in the call (audio and video working), remind them of the Code of Conduct, explain the procedure for the demo session, and remind them that trainees have to be able to teach from any episode from their chosen lesson. Ask whether anyone has only prepared for 5 minutes from one episode instead of the entire lesson, and if so, suggest strongly they reschedule. It can help to remind them that this is not a high stakes test but a friendly opportunity for feedback.
+-  Ask those not presenting to mute their microphone, and ask them to give feedback using the same positive-vs-negative and content-vs-presentation rubric used in training. For a full session (5 trainees), they should add feedback to the etherpad. If you have fewer people, you may choose to have them jot down comments and deliver them verbally as time allows.
+-  Give the assignment to the first trainee, then give them a bit of time to set up the demo (they may have to import some packages, load some data, move to a certain folder etc).  
 -  Ask them to share their screen using the “Share Screen” lower menu in Zoom.  
 -  Once they are ready, give them a 3-2-1 countdown to start.  
 -  Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone), or just say “bong” really loudly at the end of their time.  
 -  After the five minute timer, allow them to finish their sentence and tell them time’s up.
--  Use a [rubric][demo-rubric] for notes.   
--  After the trainee is finished, first ask how they themselves thought it went, then give constructive feedback based on your notes.  
+-  Use a [rubric][demo-rubric] to help you take notes.   
+-  After the trainee is finished, first ask how they themselves thought it went. If you have time, other trainees can give verbal feedback, or you can summarize what is in the etherpad. Then, give focused, constructive feedback based on your notes and the comments of others. You might choose one or two things to particularly emphasize to help focus trainees' efforts as they proceed to teach a workshop. It is also sometimes necessary to take time to (gently) disagree with feedback from another trainee.
 -  Do NOT tell a trainee whether they passed immediately after their demo.   
 -  Repeat for the other trainees.  
 -  At the end of the season, ask for general questions.  
