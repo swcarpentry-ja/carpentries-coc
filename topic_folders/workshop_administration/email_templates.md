@@ -270,15 +270,15 @@ Subject: [SWC/DC/LC] Carpentries Workshop @ [LOCATION/DATE]: Introducing Adminis
 
 Host, 
 
-This is Talisha Sutton-Kennedy, our Administrative Support Specialist, who will be assisting from The Carpentries with invoicing for your [WORKSHOP TYPE (SWC/DC/LC)] workshop on (DATE) at (LOCATION).
+This is [INSERT NAME OF Administrative Support Specialist], who will be assisting from The Carpentries with invoicing for your [WORKSHOP TYPE (SWC/DC/LC)] workshop on (DATE) at (LOCATION).
 
-[PROVIDE TALISHA SHORT DESCRIPTION OF WORKSHOP, I.E. BILLING AMOUNT, WHETHER OR NOT THEY WILL HAVE EVENTBRITE, ANY OTHER INFORMATION YOU HAVE RELEVANT TO BILLING]
+[PROVIDE Administrative Support Specialist SHORT DESCRIPTION OF WORKSHOP, I.E. BILLING AMOUNT, WHETHER OR NOT THEY WILL HAVE EVENTBRITE, ANY OTHER INFORMATION YOU HAVE RELEVANT TO BILLING]
 
-She has put together this list of questions (https://carpentries.typeform.com/to/T1qPcJ) that usually gives her everything she needs to complete the invoicing process, including information about the billing contact, vendor registration paperwork, and POs. 
+He/She has put together this list of questions (https://carpentries.typeform.com/to/T1qPcJ) that usually gives him/her everything she needs to complete the invoicing process, including information about the billing contact, vendor registration paperwork, and POs. 
 
-If the person processing the invoice is someone other than you, it is probably best that they fill out this form, and Talisha will reach out with any questions and follow up on any paperwork that your organisation’s process requires. Alternatively, please feel free to connect Talisha directly with your billing contact or respond to her directly with any information that is appropriate!
+If the person processing the invoice is someone other than you, it is probably best that they fill out this form, and Talisha will reach out with any questions and follow up on any paperwork that your organisation’s process requires. Alternatively, please feel free to connect [INSERT NAME OF Administrative Support Specialist] directly with your billing contact or respond to him/her directly with any information that is appropriate!
 
-Please feel free to work with Talisha directly. Talisha will take care of all of the billing from here. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
+Please feel free to work with [INSERT NAME OF Administrative Support Specialist] directly. [INSERT NAME OF Administrative Support Specialist] will take care of all of the billing from here. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
 
 Best, 
 
@@ -292,15 +292,15 @@ Subject: [SWC/DC/LC] Carpentries Workshop @ [LOCATION/DATE]: Introducing Adminis
 
 Host,
 
-This is to introduce Talisha Sutton-Kennedy, our Administrative Support Specialist, who will be working with you to handle the Eventbrite revenue from your [WORKSHOP TYPE (SWC/DC/LC)] workshop on (DATE) at (LOCATION).
+This is to introduce [INSERT NAME OF Administrative Support Specialist], who will be working with you to handle the Eventbrite revenue from your [WORKSHOP TYPE (SWC/DC/LC)] workshop on (DATE) at (LOCATION).
 
 This revenue can either be donated to The Carpentries or returned to you by check (or wire, if needed) after the completion of the workshop.
 
-Please let Talisha know what you would like to do, and, if you would like the funds returned to you, the name the check should be made out to and the address where it should be sent. She is also happy to answer any questions or concerns you may have. 
+Please let [INSERT NAME OF Administrative Support Specialist] know what you would like to do, and, if you would like the funds returned to you, the name the check should be made out to and the address where it should be sent. He/She is also happy to answer any questions or concerns you may have. 
 
 Eventbrite revenue is received by us 5-7 days after the event registration closes, and the processing time required to receive and then send out the funds to you can be up to two weeks, so you can expect to receive your funds within a month after your event. 
 
-Please feel free to work with Talisha directly. Talisha will take care of all of getting you the Eventbrite funds. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
+Please feel free to work with [INSERT NAME OF Administrative Support Specialist] directly. [INSERT NAME OF Administrative Support Specialist] will take care of all of getting you the Eventbrite funds. As always, please feel free to let me know if you have any questions or concerns regarding workshop logistics. 
 
 Best, 
 
