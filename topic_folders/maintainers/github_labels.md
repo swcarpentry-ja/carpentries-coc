@@ -128,3 +128,61 @@
     <li><b>Long Description:</b> For issues and pull requests that needs to be addressed as soon as possible because the lesson uses code that doesn’t work anymore or includes information that is out of date. </li>
  </ul>
 </li></ul>
+
+## How to populate a GitHub repository with these labels
+
+The [carpenter](https://github.com/fmichonneau/carpenter) R pacakge provides helper functions to create these labels from a CSV file using the GitHub API.
+To use the GitHub API, you need to obtain a GitHub Personal Access Token (PAT). This PAT is a way for GitHub to identify you and should be treated as a password.
+
+1. Once you have installed [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download), at the RStudio console, install the `remotes` package:
+
+```r
+install.packages("remotes")
+```
+
+1. Go to <https://github.com/settings/tokens>, and click on the "Generate new
+   token" button.
+   
+1. Choose a name that will help you remember what you use this token for, and
+   click on the `repo` box. Finish the creation of the token by clicking on
+   "Generate token" at the bottom of the page. The token will be displayed on
+   the screen.
+   
+1. Using RStudio or text editor, open (or create if it doesn't exist), a
+   `~/.Renviron` file, and add (replacing the XXXX with your actual PAT):
+   
+   ```
+   GITHUB_PAT=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+   ```
+
+1. Restart RStudio and check that your PAT is available by typing:
+
+    ```r
+    Sys.getenv("GITHUB_PAT")
+    ```
+   
+   If everything worked, you should see your PAT being displayed. If something
+   didn't work it will display empty quotes (`""`).
+    
+1. Use the `remotes` package to install `carpenter`. Type at the R console in
+   RStudio:
+
+    ```r
+    remotes::install_github("fmichonneau/carpenter")
+    ```
+1. Make sure you have downloaded the CSV file that contains the information
+   about the github labels. It is in the repository for the Carpentries handbook
+   in the data folder.
+   
+1. Load the `carpenter` package and create the labels on one repository:
+
+   ```r
+   library(carpenter)
+   create_github_labels(label_csv = "~/path/to/csv/file/github_labels.csv",
+     owner = "owner_of_github_repo",
+     repo = "name_of_github_repo",
+     delete_previous = FALSE)
+   ```
+   
+   If you set `delete_previous` to `TRUE`, all exisitng labels will be deleted
+   from the repository (and removed from issues/PR that had it).
