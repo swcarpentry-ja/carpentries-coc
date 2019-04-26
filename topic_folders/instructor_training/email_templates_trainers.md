@@ -10,9 +10,9 @@ Subject: Thanks for attending Carpentries Instructor Training!
 
 Hi everyone, 
 
-Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentry instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
+Thank you for participating in The Carpentries Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentries instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
 
-Looking forward to having you as a Carpentry Instructor!
+Looking forward to having you as a Carpentries Instructor!
 
 Best,
 
@@ -42,7 +42,7 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-Thank you for doing a teaching demonstration. While you demonstrated good command of the subject material, I’ve determined not to pass you based on [ reason ]. [ Explanation of this reason. ]  We are excited about having you as a Carpentry instructor and I would be happy to see you do another teaching demonstration [ making these changes ] to certify as an instructor. 
+Thank you for doing a teaching demonstration. While you demonstrated good command of the subject material, I’ve determined not to pass you based on [ reason ]. [ Explanation of this reason. ]  We are excited about having you as a Carpentries instructor and I would be happy to see you do another teaching demonstration [ making these changes ] to certify as an instructor. 
 
 Please let me know if you have any questions. 
 
@@ -56,9 +56,9 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of Carpentry teaching methods. We are excited about having you as a Carpentry instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official Carpentry Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
+I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
 
-Welcome to the Carpentry Instructor community!
+Welcome to the The Carpentries Instructor community!
 
 Best wishes,
 

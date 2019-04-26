@@ -1,7 +1,7 @@
 
 ## Maintainer Guidelines
 
-Carpentry Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They monitor
+The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They monitor
 their lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle
 including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. 
 
@@ -17,7 +17,7 @@ Maintainers are responsible for:
     - Participating in regular Issue Bonanza and Bug BBQ events, including organizing and tagging issues. 
     - Bringing in updates to the lesson template.
 
-Maintainers represent the Carpentry community and should strive to embody the Carpentry philosophy, by:
+Maintainers represent The Carpentries community and should strive to embody The Carpentries philosophy, by:
 - Recognizing the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using the Carpentries model:
     - Find what’s good. Be specific about improvements needed. Use motivational language.

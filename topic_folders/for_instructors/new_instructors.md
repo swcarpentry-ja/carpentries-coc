@@ -11,8 +11,8 @@ Instructor. Our Instructor training has the following overall goals:
 - Introduce participants to *evidence-based teaching practices*.
 - Teach participants how to *create a positive environment* for learners at workshops.
 - Provide opportunities for participants to *practise and build teaching skills*.
-- Help participants become integrated into the *Carpentries community*.
-- Prepare participants to use these skills in teaching *Carpentry workshops*.
+- Help participants become integrated into *The Carpentries community*.
+- Prepare participants to use these skills in teaching *Carpentries workshops*.
 
 #### Who are the Instructors?
 

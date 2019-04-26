@@ -138,7 +138,7 @@ the training program - but The Carpentries staff needs this
 application in order to get your information for training into their
 system. 
 
-If you are not interested in becoming a Carpentry instructor, or 
+If you are not interested in becoming a Carpentries instructor, or 
 don’t have time - please let me know as soon as possible so that I 
 can offer this seat to another person. 
 
@@ -595,7 +595,7 @@ Best,
 
 Hi [ name ],
 
-Thank you for your interest in becoming a Carpentry Instructor! It
+Thank you for your interest in becoming a Carpentries Instructor! It
 sounds like you might be interested in applying to our Open 
 Instructor Training program. Training slots are made available for free to 
 Open applicants when they are not claimed by a member institution 
@@ -736,7 +736,7 @@ Subject: Carpentries instructor training: Extension granted
 
 Hi [ trainee name ],
 
-Thanks for getting in touch. I've recorded an extension for you through the end of [Month Year]. Please let me know if there's anything else I can do to help with the checkout process. Looking forward to having you as a Carpentry instructor!
+Thanks for getting in touch. I've recorded an extension for you through the end of [Month Year]. Please let me know if there's anything else I can do to help with the checkout process. Looking forward to having you as a Carpentries instructor!
 
 Best,
 [ sender name ]
@@ -756,7 +756,7 @@ Please note that although your certificate reads either Software Carpentry, Data
 
 If you haven't already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This
 is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list 
-(https://carpentries.topicbox.com/groups/discuss) for broader interactions with the Carpentry community. In addition to being able to 
+(https://carpentries.topicbox.com/groups/discuss) for broader interactions with The Carpentries community. In addition to being able to 
 teach at Carpentries-organized workshops, you are also able to organize and host your own local workshops. You can find more information 
 about running a workshop here: https://docs.carpentries.org/topic_folders/hosts_instructors/index.html
 
@@ -777,7 +777,7 @@ I wanted to get in touch with you about an opportunity to get involved with The 
 
 Our workshops are taught by volunteers who go through a two-day training program focused on pedagogy and cognitive psychology. These training events are run by our Instructor Trainers who also help to develop and maintain our instructor training curriculum. 
 
-Carpentry Trainers are an eclectic group. Some of us have formal training in pedagogy, some are experienced Carpentry instructors, others run Carpentry-like trainings as part of their jobs. We all share a commitment to helping new instructors become familiar and comfortable with Carpentry teaching practices and principles.
+The Carpentries Trainers are an eclectic group. Some of us have formal training in pedagogy, some are experienced Carpentries instructors, others run Carpentries-like trainings as part of their jobs. We all share a commitment to helping new instructors become familiar and comfortable with The Carpentries teaching practices and principles.
 
 If you’re interested in joining the Trainer community, please apply here (https://goo.gl/forms/yTx9yJzdWy6OAPtS2)! Applications for this round will be open until [application_deadline]. 
 

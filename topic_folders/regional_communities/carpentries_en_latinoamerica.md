@@ -6,16 +6,16 @@ Building a sustainable and active community in Latin America include several ini
 
 ### Como puedes ayudar / Ways to help
 
-There are many ways to help build Carpentry community in Latin America. 
+There are many ways to help build The Carpentries community in Latin America. 
 
 - We need native and fluent Spanish speakers to help translate lesson materials. 
-- We need a way to keep different language versions of Carpentry lessons in synch so that contributions made to one version also appear in other versions. 
+- We need a way to keep different language versions of The Carpentries lessons in synch so that contributions made to one version also appear in other versions. 
 - We need experienced instructors to teach with and to mentor new instructors in Latin America, especially those familiar with the region.
 - We need Trainers located in Latin America or with strong ties to the region. 
 - We need help with workshop coordination from people familiar with pricing structures, geography and computational infrastructure in Latin America. 
-- We need local Champions to spread the word about the Carpentries and the work that we do and advocate for Carpentry workshops and memberships in the region.
+- We need local Champions to spread the word about the Carpentries and the work that we do and advocate for The Carpentries workshops and memberships in the region.
 
-If you can help in any of these ways, or know of another way you can support development of Carpentry community in Latin America, please [get in touch!](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica) 
+If you can help in any of these ways, or know of another way you can support development of The Carpentries community in Latin America, please [get in touch!](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica) 
 
 ### Cómo participar / How to get involved
 
