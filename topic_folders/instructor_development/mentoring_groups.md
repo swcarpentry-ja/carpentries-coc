@@ -50,22 +50,13 @@ Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/
 
 ### Mentoring Groups Highlights  
 
-We are offering curriculum-specific mentoring this time around. Both mentors and mentees can choose which tools they are most interested in from the following list:
-+ Git  
-+ Shell  
-+ Python  
-+ R  
-+ SQL
-
-Once a topic has been picked, participants can choose the type of mentoring they want for their chosen tool:
+Participants can choose the type of mentoring group they'd like to belong to:
 + Lesson Maintenance  
   - Contributing to current lesson development  
   - Contributing to lesson maintenance  
 + Teaching Workshops  
   - Developing confidence and skill in teaching  
   - Preparing to teach a specific lesson (i.e. Python)  
-
-We will also offer mentoring that is more general in nature. For those who would like to develop greater skill in community building, either of these mentoring opportunities might suit:
 + Organizing Workshops   
   - Logistics of organizing a workshop (e.g. marketing, registration)  
   - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
