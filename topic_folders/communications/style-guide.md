@@ -188,7 +188,7 @@ I spoke to my sisters, Olga Petrova, and Susanne De Vries (means I spoke to my s
 
 I spoke to my sisters, Olga Petrova and Susanne De Vries (this wrongly implies that Olga Petrova and Susanne De Vries are the sisters in question.)
  
-Carpentries style is to use the Oxford comma.
+Carpentries style is to prefer the Oxford comma unless necessary.
 
 ## P
 ##### per cent
