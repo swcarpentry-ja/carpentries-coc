@@ -15,7 +15,7 @@ The Carpentries, while sounding plural, is a singular entity. Therefore, when re
 ## A
 
 ##### abbreviations and acronyms
-Generally use all capitals for initialisms, _e.g.,_ NSF, CEO, BIDS. When writing about an organisation or event within text, provide the acronym in brackets on first use, and use the acronym to refer to the organisation or event from then on. For example, ‘She was the chair of the National Science Foundation ... The NSF … ’
+Generally use all capitals for initialisms, _e.g.,_ NSF, CEO, BIDS. When writing about an organisation or event within text, provide the acronym in brackets on first use, and use the acronym to refer to the organisation or event from then on. For example, ‘She was the chair of the National Science Foundation (NSF) ... The NSF … ’
 
 If an organisation is mentioned only once within a piece of text, say, in a blog post, it is not necessary to provide its acronym. Do not use acronyms without spelling these out first as country-specific acronym may be unfamiliar to members of our community.
  
