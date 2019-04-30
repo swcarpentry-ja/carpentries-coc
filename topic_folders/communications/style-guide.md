@@ -4,7 +4,7 @@ This guide aims to provide a standard reference point when questions arise about
 
 We will adhere to a similar style  on our website and in other material we make widely available such as blog posts, but not necessarily in lessons. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
  
-The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://twitter.com/cloudaus‏), is a first draft.
+The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://www.twitter.com/cloudaus), is a first draft.
 
 Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c), 
 
