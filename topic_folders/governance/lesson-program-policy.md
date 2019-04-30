@@ -2,7 +2,7 @@
 
 The Carpentries supports and maintains Lesson Programs. Lesson Programs are collections of lessons comprising one or more Carpentries workshops, serving distinct goals and audience, and the leadership guiding their development and implementation. 
 
-From the The Carpentries Bylaws:  
+From The Carpentries Bylaws:  
 *A Lesson Program within The Carpentries possesses the following characteristics:  
 - Intention and purpose for lessons that align with The Carpentries mission and vision
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
