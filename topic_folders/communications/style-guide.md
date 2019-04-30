@@ -6,9 +6,7 @@ We will adhere to a similar style  on our website and in other material we make 
  
 The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://www.twitter.com/cloudaus), is a first draft.
 
-Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c), 
-
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organization is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organization is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
 ---
 
