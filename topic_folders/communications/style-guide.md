@@ -164,7 +164,7 @@ not –ization, _e.g.,_ organisation, characterisation.
 not -ize at end of word, _e.g._, characterise, sympathise, organise. One exception is capsize.
  
 ##### italics
-Foreign words and phrases, and scientific names, _e.g._, Macropus rufus.
+Foreign words and phrases, and scientific names, _e.g._, *Macropus rufus*, *Bufo marinus*.
 
 ## N
  
