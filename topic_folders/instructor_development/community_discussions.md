@@ -8,16 +8,15 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies. 
 
-3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:   
+3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:
 
-          a. African Task Force    
-          b. Carpentries en Latinoamérica    
-          c. CarpentryCon Task Force    
-          d. Code of Conduct Committee    
-          e. Instructor Development Committee    
-          f. Lesson Infrastructure Committee    
-          g. The Carpentries Executive Council     
-    
+  - African Task Force
+  - Carpentries en Latinoamérica    
+  - CarpentryCon Task Force
+  - Code of Conduct Committee    
+  - Instructor Development Committee
+  - Lesson Infrastructure Committee
+  - The Carpentries Executive Council     
 
 ### Terminology
 
