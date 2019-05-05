@@ -10,19 +10,20 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. African Task Force    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Carpentries en Latinoamérica    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. CarpentryCon Task Force    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Code of Conduct Committee    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Instructor Development Committee    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Lesson Infrastructure Committee    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. The Carpentries Executive Council     
+          a. African Task Force    
+          b. Carpentries en Latinoamérica    
+          c. CarpentryCon Task Force    
+          d. Code of Conduct Committee    
+          e. Instructor Development Committee    
+          f. Lesson Infrastructure Committee    
+          g. The Carpentries Executive Council     
+    
 
 ### Terminology
 
 -   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of the Carpentries community who facilitates a community discussion.
--   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsiblities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
+-   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsibilities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
 
 ### Motivation
 
@@ -55,8 +56,8 @@ If you'd like to host a pre/post-workshop session:
 
 ### Host Expectations
 
-* Primary role is to facilitate the community discussion using the agenda at the bottom of the etherpad.
-* While it’s the co-hosts main responsibility to take notes, please take notes in the etherpad when the co-host/notetaker is speaking.
+* Primary role is to facilitate the community discussion using the agenda at the bottom of the Etherpad.
+* While it’s the co-hosts main responsibility to take notes, please take notes in the Etherpad when the co-host/notetaker is speaking.
 * Maintaining focus on the main goal of the session, which is to share ideas, support each other, and keep instructors excited about teaching.
 * Ensuring instructors teaching in the near future have urgent questions or concerns addressed.
 * Collecting feedback from instructors who have recently taught.
@@ -66,7 +67,7 @@ If you'd like to host a pre/post-workshop session:
 ### Co-Host Expectations
 
 * Primary role is to assist with note-taking while the Host leads the discussion
-* Take accurate notes of discussion on the etherpad
+* Take accurate notes of discussion on the Etherpad
 * At the beginning of the callI, introduce yourself as the co-host/notetaker
 * Co-hosts/notetakers do not have to be the very active in the conversation
 * If a co-host/notetaker does want to chime in, it is welcome!
@@ -95,7 +96,7 @@ The dates of community discussions are also listed in the Carpentries [community
 
 1. Use the [email templates](../instuctor_training/email_templates_trainers.html) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
 
-1. Log in to [AMY](https://amy.carpentries.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as csv to easily read each instructor's email address.
+1. Log in to [AMY](https://amy.carpentries.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as CSV to easily read each instructor's email address.
 
 1. Send the templated email to all participants as `bcc`, and copy the Instructor Development Committee Co-Chairs as well as `team@carpentries.org`.
 
@@ -161,7 +162,7 @@ Based on discussion among the Instructor Development Committee, temporary questi
 - Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)
     - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
     - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to checkout@carpentries.org.
-- Clear the information from your session (date/time, attendees, notes) from the etherpad. 
+- Clear the information from your session (date/time, attendees, notes) from the Etherpad. 
 - (Optional) write a [blog post](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html#how-to-contribute-a-blog-post-to-the-carpentries-blog) about interesting points that came up in discussion.
 
 
@@ -178,7 +179,7 @@ If you are receiving this message, you are scheduled to teach a Carpentries work
 
 The Carpentries Instructor Development Committee hosts community discussions every week to share ideas and experiences among instructors.  If you have any questions or concerns about your upcoming workshop, or are interested in chatting with other instructors about your or their own experiences teaching, we encourage you to attend!  
 
-Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each date has two time slots to accommodate time zones.  You can sign up for the most convenient time on this etherpad: 
+Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each date has two time slots to accommodate time zones.  You can sign up for the most convenient time on this Etherpad: 
 
     http://pad.carpentries.org/community-discussions
 
@@ -199,11 +200,11 @@ If you are receiving this message, you have recently instructed at a Carpentries
 
 The Carpentries Instructor Development Committee hosts community discussions every week in order to hear how workshops have gone, and we invite you to attend a discussion in the next few weeks to share about your recent workshop. Even if you have attended a debriefing discussion before, we would appreciate feedback on any workshops you have done since then - we value hearing about your experiences. 
 
-Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each date has two time slots to accommodate time zones.  You can sign up for the most convenient time on this etherpad: 
+Upcoming discussions will occur on [Date 1], [Date 2] and [Date 3].  Each date has two time slots to accommodate time zones.  You can sign up for the most convenient time on this Etherpad: 
 
     http://pad.carpentries.org/community-discussions
 
-In addition to participating in the general discussion, we also welcome past instructors to co-host future discussions. Co-hosting a community discussion is a great way to share your expertise with both new and experienced instructors and is a lot of fun!  To co-host a future discussion, just sign up on the same etherpad above, or complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform) if you'd like to host a themed discussion session. 
+In addition to participating in the general discussion, we also welcome past instructors to co-host future discussions. Co-hosting a community discussion is a great way to share your expertise with both new and experienced instructors and is a lot of fun!  To co-host a future discussion, just sign up on the same Etherpad above, or complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform) if you'd like to host a themed discussion session. 
 
 We hope to see you soon!
 
