@@ -74,7 +74,7 @@ The Communications Chair of the Instructor Development Committee is responsible 
 
 The Mentoring Chair of the Instructor Development Committee is responsible for:
 
-1. Using the [Mentoring Groups Workflow](#mentoring-groups-outline) to recruit mentors/mentees and managing the Carpentries Mentoring Groups.
+1. Using the [Mentoring Groups Workflow](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups_workflow.html) to recruit mentors/mentees and managing the Carpentries Mentoring Groups.
 2. Reporting back to IDC Leadership and Carpentries Staff Liaison about Mentoring Group metrics and any concerns or revisions to the mentoring groups.
 3. Maintaining the Carpentries Mentors' Etherpad and Mentoring Groups' Etherpad
 4. Updating the [Mentoring Groups](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html) section of the handbook as necessary.
