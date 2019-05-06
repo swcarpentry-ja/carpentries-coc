@@ -37,7 +37,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - Communications Tasks
 	- Inform the Carpentries Staff Liaisons about the Community Discussion by emailing `community@carpentries.org`.
 	- Draft tweets for Community Discussion
-    - Make a copy of t[his template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0) and draft tweets to spread the word about the Community Discussion. 
+    - Make a copy of [this template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0) and draft tweets to spread the word about the Community Discussion. 
 		- Send the tweet template to the Community Engagement Lead on `serah@carpentries.org`.
 - Request Blog Post to Promote Community Discussion
   - Remind facilitator to write a blog post to get the word out about the community discussion. [Here's a handy blog post drafting guide to help them get started](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html?highlight=blog%20posts)
