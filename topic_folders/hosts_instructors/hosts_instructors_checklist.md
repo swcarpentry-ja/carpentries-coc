@@ -97,7 +97,8 @@ Helpers are often recruited from the local community at the host site to support
 
 **Teaching Rules:**  
 
-**Rule #1: Be kind**  
+**Rule #1: Be kind** 
+
 This means to be inclusive, respectful, mindful and welcoming.
 
 **Rule #2: Remember that we are all learners**  
