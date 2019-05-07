@@ -6,5 +6,7 @@ INSTRUCTOR DEVELOPMENT
    :glob:
 
    instructor_development_committee.md
-   instructor_discussion_sessions.md
+   community_discussions.md
+   community_discussions_workflow.md
    mentoring_groups.md
+   mentoring_groups_workflow.md
