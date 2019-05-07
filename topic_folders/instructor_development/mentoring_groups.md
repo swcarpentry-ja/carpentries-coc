@@ -70,10 +70,6 @@ During the final week of the mentoring groups, we will host a virtual mentoring 
 
 Lastly, both mentors and mentees will receive a certificate! 
 
-### 2018-2019 Schedule
-
-- [2018-2019 Schedule](https://github.com/carpentries/instructor-development/blob/master/mentoring-groups/2018-2019-schedule.md)
-
 ### Mentor Agreement
 
 I agree to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with The Carpentries community and to [promptly report any violations of the CoC](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines) that I become aware of.
