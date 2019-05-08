@@ -46,6 +46,11 @@ because the success of our program depends on accurately predicting
 our capacity needs, we may not be able to accommodate changes in 
 registration unless we are notified at least one week in advance of the event.
 
+ Note that in order to provide the best experience for our trainees, 
+ in rare instances events may be canceled due to low enrollment.  If 
+ this happens, your trainees will be notified two weeks before the event and will 
+ have the opportunity to sign up for a future event.
+
 For more information about our Instructor Training program, including 
 details about our curriculum, certification process, and logistical 
 details of the training event itself, please visit our Information 
