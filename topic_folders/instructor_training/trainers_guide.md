@@ -7,8 +7,9 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 
 1. The Program Manager will send an email to the Trainers list asking all Trainers to fill in their calendar for the [upcoming time period](scheduling_training_events.html). Trainers should sign up for as many days as they are available and hold those dates in their calendar until the schedule is confirmed.
 1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
-1. Member sites will sign up for available dates. The Program Manager will let Trainers know which sites they will be teaching as they sign up.
-1. If no member site signs up one month before the event, the event will become an open instructor training or be cancelled, depending on need. The Program Manager will notify instructors of this decision.
+1. The Program Manager will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
+
+*Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrollment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
 A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
