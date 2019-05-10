@@ -236,7 +236,7 @@ Best,
 
 Hi  [ instructors/hosts ],
 
-Thank you for volunteering your time to teach a Carpentry workshop on [ dates ] at [ site ]! We appreciate the dedication you’ve shown to help spread data management and computational programming skills, and the hard work you put into preparing for your workshop.
+Thank you for volunteering your time to teach a [ Software | Data | Library Carpentry ]workshop on [ dates ] at [ site ]! We appreciate the dedication you’ve shown to help spread data management and computational programming skills, and the hard work you put into preparing for your workshop.
 
 We want to be sure to give credit to all of our instructors and helpers in our database. Please take a moment to provide us with the following person's email address:
     
