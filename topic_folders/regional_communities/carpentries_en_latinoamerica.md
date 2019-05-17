@@ -1,4 +1,4 @@
-## Carpentries en América Latina
+## Carpentries-es
 
 La construcción de una comunidad sostenible y activa en América Latina incluye varias iniciativas: traducción de lecciones, capacitación de instructores, coordinación de talleres y recaudación de fondos. Este repositorio sirve como punto de entrada para este grupo de actividades.
 
