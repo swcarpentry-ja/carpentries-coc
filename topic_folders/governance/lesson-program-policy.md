@@ -49,7 +49,7 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 - The Carpentries Organisational Membership program will include The Lesson Program.
 - The Carpentries will provide an annual financial report to the Lesson Program Committee, including an assessment of the financial stability and sustainability of The Carpentries.
 - The Carpentries general revenue through Memberships, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.  
-- The Carpentries maintain and document an administrative and financial management structure that supports the Lesson Program.
+- The Carpentries maintains and documents an administrative and financial management structure that supports the Lesson Program.
 
 ---
 
