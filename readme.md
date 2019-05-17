@@ -37,7 +37,7 @@ $ python2 -m SimpleHTTPServer
 $ python3 -m http.server
 ```
 
-In both cases, a local web server will be run on port 8000, so navigate to <http://localhost:8000> in your browser to view the site locally.
+In both cases, a local web server will be run on port `8000`, so navigate to <http://localhost:8000> in your browser to view the site locally.
 
 You can make changes to the contents of the repository, and re-run `make html`, to update the website contents. If you are having problems with the site not refreshing, you can delete the contents of the `_build` directory (which are automatically generated) with `rm -fr _build/*`.
 
@@ -45,7 +45,7 @@ If new files or folders are added to the Handbook, `index.rst` will need to be u
 
 #### Site structure
 
-The root level `index.rst` generates the main categories the sidebar navigation.  Each sub-section is a folder in the `topic_folders` directory. Each folder within the `topic_folders` directory has its own `index.rst` file. These then expand into the subcategories in each directory.
+The root level `index.rst` generates the main categories and the sidebar navigation.  Each sub-section is a folder in the `topic_folders` directory. Each folder within the `topic_folders` directory has its own `index.rst` file. These then expand into the subcategories in each directory.
 
 Within each folder's `index.rst` file, the section heading is defined by a string of  `=` beneath it. Subheadings can be defined using `###` in each markdown file or by a heading with `-` under it in the `index.rst` file.
 
