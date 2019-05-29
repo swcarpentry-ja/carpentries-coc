@@ -45,7 +45,15 @@ source_suffix = ['.rst', '.md']
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx_markdown_tables']
+extensions = ['sphinx_markdown_tables',
+              'notfound.extension',
+              ]
+
+notfound_context = {
+        'body': '<h1>This page may have moved.</h1> <p>Please select a page from the side menu or contact team@carpentries.org if you need additional help.</p>',
+}
+
+notfound_no_urls_prefix = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
