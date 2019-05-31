@@ -123,7 +123,7 @@ As an example: the shell lesson has 7 sections -- the first three are about basi
 
 * At the very least, do a dry run of all the commands you will be running / code you'll be writing so that you know they work on your computer. 
 * Hook your computer up to a projector and figure out how you're going to manage your screen real estate, especially if everything is magnified.
-	* Rstudio: Rstudio can be particularly challenging because of all the panes.  Reducing the size of the two right panes is usually needed to have enough space in the script/console panes. 
+	* RStudio: RStudio can be particularly challenging because of all the panes.  Reducing the size of the two right panes is usually needed to have enough space in the script/console panes. 
 	* Jupyter notebooks: you can toggle the headers/toolbar off so that you have more scripting space
 * If you have the time, doing a full run-through where you actually practice what you're going to say can be extremely valuable.  Words are hard when you're also trying to type and manage a classroom, so having said them once in practice gives you one less new thing to think about.  
 

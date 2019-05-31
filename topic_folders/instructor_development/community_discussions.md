@@ -67,7 +67,7 @@ If you'd like to host a pre/post-workshop session:
 
 * Primary role is to assist with note-taking while the Host leads the discussion
 * Take accurate notes of discussion on the Etherpad
-* At the beginning of the callI, introduce yourself as the co-host/notetaker
+* At the beginning of the call, introduce yourself as the co-host/notetaker
 * Co-hosts/notetakers do not have to be the very active in the conversation
 * If a co-host/notetaker does want to chime in, it is welcome!
 * **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.

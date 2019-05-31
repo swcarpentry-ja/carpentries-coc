@@ -26,7 +26,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 -  Plan logistics with co-Trainer(s)
 -  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
 -  If teaching remotely: 
-  -  Get acquanted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
+  -  Get acquainted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
   -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
   -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
   -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
@@ -79,7 +79,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  Get acquanted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
+-  Get acquainted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### During the Demo

@@ -49,7 +49,7 @@ Go to *Preview and Test* to preview the newsletter before sending it out. This i
 
 *Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the staff channel so staff have a chance to review the newsletter before it goes out.
 
-The newsletter will now be locked. If any changes need to be made after ther newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
+The newsletter will now be locked. If any changes need to be made after the newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
 
 After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
 

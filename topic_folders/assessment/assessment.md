@@ -23,4 +23,4 @@ Our pre- and post-workshop surveys can be previewed here:
 
 ## Programmatic Assessment
 
-In May 2018, we began regularly publishing programmatic assesssment reports. These reports provide overviews of our workshop and instructor activities.  More information including published reports can be found on [our website](https://carpentries.org/assessment/).
+In May 2018, we began regularly publishing programmatic assessment reports. These reports provide overviews of our workshop and instructor activities.  More information including published reports can be found on [our website](https://carpentries.org/assessment/).

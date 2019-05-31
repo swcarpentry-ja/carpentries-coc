@@ -13,7 +13,7 @@ If there is a decision for a Termed Suspension, the following checklist is follo
 ##### Online Communication and Communities
 Revoke access from the following communication channels and communities: 
 - Email lists on [TopicBox](https://carpentries.topicbox.com/groups) 
-- Email lists on Google Groups inlcuding but not limited to:
+- Email lists on Google Groups including but not limited to:
   - Library Carpentry Governance Group
   - Library Carpentry Maintainer Onboarding
   - Code of Conduct Committee

@@ -171,7 +171,7 @@ install.packages("remotes")
     remotes::install_github("fmichonneau/carpenter")
     ```
 1. Make sure you have downloaded the CSV file that contains the information
-   about the github labels. It is in the repository for the Carpentries handbook
+   about the GitHub labels. It is in the repository for the Carpentries handbook
    in the data folder.
    
 1. Load the `carpenter` package and create the labels on one repository:
@@ -184,5 +184,5 @@ install.packages("remotes")
      delete_previous = FALSE)
    ```
    
-   If you set `delete_previous` to `TRUE`, all exisitng labels will be deleted
+   If you set `delete_previous` to `TRUE`, all existing labels will be deleted
    from the repository (and removed from issues/PR that had it).
