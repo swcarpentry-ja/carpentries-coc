@@ -1,6 +1,6 @@
 ### Teaching unofficial Carpentries workshops
 
-An official Carpentries workshop must cover the core lessons for that lesson program's curriculum.  Read more about the Software Carpentry, Data Carpentry, and Library Carpentry lessons.  The workshop must also be taught by at least one certified Carpentries Instructor.  While Instructors do receive lesson program specific badges, The Carpentries considers any badged Instructor qualified to teach any lesson.
+An official Carpentries workshop must cover the core lessons for that lesson program's curriculum.  Read more about the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](https://datacarpentry.org/lessons/), and [Library Carpentry](https://librarycarpentry.org/lessons/) lessons.  The workshop must also be taught by at least one certified Carpentries Instructor.  While Instructors do receive lesson program specific badges, The Carpentries considers any badged Instructor qualified to teach any lesson.
 
  All our lessons are available under a Creative Commons license, so anyone is welcome to use our lessons as they wish, provided they attribute them back to us.  We often get questions about running un-official Carpentries workshops -- meaning they are taught by non-certfied instructors, or they cover a portion of our curriculum but not the whole thing. We are excited to hear when this happens, but it is not something we are formally tracking.
 
