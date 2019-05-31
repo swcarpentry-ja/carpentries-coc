@@ -184,5 +184,5 @@ install.packages("remotes")
      delete_previous = FALSE)
    ```
    
-   If you set `delete_previous` to `TRUE`, all exisitng labels will be deleted
+   If you set `delete_previous` to `TRUE`, all existing labels will be deleted
    from the repository (and removed from issues/PR that had it).

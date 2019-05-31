@@ -51,7 +51,7 @@ Cancellations with less than one week's notice are treated as no-shows. See belo
 **Cancellations (open seat):**
 1. In the Trainee's record in AMY, go to Edit --> Tasks.  Click the red X next to the task for the training they missed.
 1. In Eventbrite, cancel this person's registration. 
-1. Send trainnee this [template email](../instructor_training/email_templates_admin.html#cancellation-open-applicant-at-least-one-week-notice).
+1. Send trainee this [template email](../instructor_training/email_templates_admin.html#cancellation-open-applicant-at-least-one-week-notice).
 
 
 ##### No-shows

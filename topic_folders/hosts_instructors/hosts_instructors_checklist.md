@@ -9,7 +9,7 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
 * Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/)
 * Work with the Carpentries Program Manager and Workshop Administration Team to set dates and location for your workshop
-    * Be sure to account for other events and programs at your site that may affect room availability and participant availabilty
+    * Be sure to account for other events and programs at your site that may affect room availability and participant availability
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
 * Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
 * Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.

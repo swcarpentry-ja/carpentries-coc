@@ -25,7 +25,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 
 #### Accessibility
 
-It's important to make sure the workshop space is accessbile to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not:
+It's important to make sure the workshop space is accessible to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not:
 
 * Building and room are accessible to those who can not use stairs (ramps, elevators, etc.)
 * Restrooms are accessible

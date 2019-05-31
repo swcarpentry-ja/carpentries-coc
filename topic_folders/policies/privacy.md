@@ -84,7 +84,7 @@ Opt-in surveys are entirely voluntary and information is not collected in a way 
 Surveys collect information particular to the event or program being evaluated and optional information about the participant. Gender and ethnicity data, when collected, is only collected from participants in the United States.
 
 #### What do we do with this information?
-We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-indentifed responses.
+We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-identified responses.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
 ## Section 6: All Participants

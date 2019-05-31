@@ -382,7 +382,7 @@ Please let me know if you have any questions.
 Best, 
 [ SENDER NAME]
 
-##### Event Cancelation (online training)
+##### Event Cancellation (online training)
 
 Dear [ Trainer names ],
 
@@ -778,7 +778,7 @@ Subject: Opportunity to join The Carpentries Trainers community
 
 Hi [ name ],
 
-I wanted to get in touch with you about an opportunity to get involved with The Carpentries community. Software Carpentry (SWC), Library Carpentry (LC), and Data Carpentry (DC) are lesson programs of The Carpentries (a fiscally sponsored project of Community Initaitives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
+I wanted to get in touch with you about an opportunity to get involved with The Carpentries community. Software Carpentry (SWC), Library Carpentry (LC), and Data Carpentry (DC) are lesson programs of The Carpentries (a fiscally sponsored project of Community Initiatives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
 
 Our workshops are taught by volunteers who go through a two-day training program focused on pedagogy and cognitive psychology. These training events are run by our Instructor Trainers who also help to develop and maintain our instructor training curriculum. 
 
@@ -810,7 +810,7 @@ We'll be starting our new cohort of instructor Trainers in [ month ]. Our cohort
 
 If you're interested in being part of this cohort, please try to complete the following by [ deadline ] so that we can finalize the schedule and start our meetings!
 
-1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accomodate all time zones, but you will only need to attend one of the weekly meetings.
+1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accommodate all time zones, but you will only need to attend one of the weekly meetings.
 
 2) Please take a look over the process for trainer training and make sure that all of the requirements of becoming a Trainer work with your schedule and other responsibilities. We're excited to have you in the Trainer community, but do want to make sure that all Trainers are able to commit the time required, so that we are able to realistically determine the number of instructors we train per year.
 

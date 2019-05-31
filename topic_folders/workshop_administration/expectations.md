@@ -1,6 +1,6 @@
 ### Role and Expectations
 
-The role of the Regional Coordinators is to be the front face of the Carpentries, promoting our work and our culture in their geographical area.  The Regional Coordniators will manage workshop logistics, communicate with hosts and instructors, and respond to general inquiries.  As a team, all administrators will work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
+The role of the Regional Coordinators is to be the front face of the Carpentries, promoting our work and our culture in their geographical area.  The Regional Coordinators will manage workshop logistics, communicate with hosts and instructors, and respond to general inquiries.  As a team, all administrators will work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
 
 This includes the following responsibilities
