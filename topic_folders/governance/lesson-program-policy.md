@@ -43,7 +43,7 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 - The Carpentries will include the Lesson Programs in assessment efforts, including survey development and data analysis. 
 - The Carpentries will ensure the instructor training program addresses the training needs of the Lesson Program, incorporating examples and exercises targeted towards the communities served by the Lesson Program.
 - The Carpentries will prepare Trainers to work with trainees from the Lesson Program. 
-- The Carpentries Instructor Training recruitment and retention strategies will include building communities of InstructorsIinstructors in communities and domains served by the Lesson Program. 
+- The Carpentries Instructor Training recruitment and retention strategies will include building communities of Instructors in domains served by the Lesson Program. 
 - The Carpentries will include the Lesson Program in all community efforts, including but not limited to the activities of the Instructor Development committee, Mentorship program and BugBBQs.
 - The Carpentries programmatic and assessment reports will include Lesson Program activities. The Lesson Program will also have access to data specific to its activities.
 - The Carpentries Organisational Membership program will include The Lesson Program.
