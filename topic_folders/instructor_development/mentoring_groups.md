@@ -28,9 +28,9 @@ Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/
 + Second mock quarter/half day workshop with group members. Draft one slide for the mentoring group showcase.  
 + Finish slide for mentoring group showcase. Attend mentoring group showcase.  
 
-#### Sample Mentoring Group Outline: Organizing Workshops
+#### Sample Mentoring Group Outline: Organising Workshops
 + Introductions, review the Carpentries community culture, and communication channels.  
-+ Introduce existing workshop resources. Identify challenges for organizers.  
++ Introduce existing workshop resources. Identify challenges for organisers.  
 + Walkthrough of workshop set up using checklists. Discuss workshop planning tools, e.g. Eventbrite, spreadsheets.    
 + Identify potential issues and how to resolve them, e.g. ‘no shows’, CoC violations, refunds. Identify sources of help.  
 + Draft one slide for the mentoring group showcase. Identify a representative to attend the mid-way touch base.
@@ -57,8 +57,8 @@ Participants can choose the type of mentoring group they'd like to belong to:
 + Teaching Workshops  
   - Developing confidence and skill in teaching  
   - Preparing to teach a specific lesson (i.e. Python)  
-+ Organizing Workshops   
-  - Logistics of organizing a workshop (e.g. marketing, registration)  
++ Organising Workshops   
+  - Logistics of organising a workshop (e.g. marketing, registration)  
   - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
 + Community Building  
   - Strategies to build local communities  
@@ -99,7 +99,7 @@ I understand that it is important to keep in touch with The Carpentries communit
   + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
   + Mentors and mentees will be asked to complete a short [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) halfway through the 8-12 week period.
   + The 8-12 week period will end with a virtual showcase.
-  + Mentors and mentees will be asked to complete asecond short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
+  + Mentors and mentees will be asked to complete a second short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
 + **Exposure**
   + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
   + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of Kari Jordan.
@@ -150,7 +150,7 @@ To join the mentoring program as a mentee, complete [this form](https://docs.goo
 ##### Responsibilities
 
 - Decide on a meeting schedule with your Mentees.  
-- Personalize meetings based on Mentee’s needs and desires.  
+- Personalise meetings based on Mentee’s needs and desires.  
 - Respond promptly to emails from your Mentees.  
 - Follow up with Mentees who miss meetings.  
 - Be respectful of Mentees. Provide a safe space for questions and mistakes.  
