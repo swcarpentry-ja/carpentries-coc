@@ -1,4 +1,4 @@
-## AMY: the Carpentries' internal database
+## AMY: The Carpentries' internal database
 
 ### Logging in
 
@@ -90,7 +90,7 @@ New events can be created one of several ways:
 
 ![AMY new event administrator](images/amy_new_event_administrator.png)
 
-* Select the name of the Carpentries Regional Coordinator responsible for managing this workshop.  
+* Select the name of The Carpentries Regional Coordinator responsible for managing this workshop.  
 
 ![AMY new event assigned to](images/amy_new_event_assigned_to.png)
 
@@ -125,7 +125,7 @@ New events can be created one of several ways:
 
 ![AMY new event url](images/amy_new_event_url.png)
 
-* Enter in the human language the workshop is taught in. This is especially important for the Carpentries to track workshops in languages other than English.
+* Enter in the human language the workshop is taught in. This is especially important for The Carpentries to track workshops in languages other than English.
 
 ![AMY new event language](images/amy_new_event_language.png)
 
@@ -173,7 +173,7 @@ This page will show a list of all open workshop requests, with the name/email of
 
 ![AMY workshop request list](images/amy_workshop_request_list.png)
 
-At the bottom of this page, the user has the option to accept or discard the request. Choosing "Change state to Accepted" will mark it as accepted in the workshop request list but will not create a new event.  Select "Accept and create a new event" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
+At the bottom of this page, the user has the option to accept or discard the request. Choosing "Change state to Accepted" will mark it as accepted in the workshop request list but will not create a new event.  Select "Accept and create a new event" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so The Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
 
 This will open a page with a side by side view of the request details and view to create a new event. The new event can be created [manually](#creating-a-new-event-manually) or if available, [from the URL](#creating-a-new-event-from-url), as described above.
 
@@ -292,7 +292,7 @@ AMY comes with several built in reporting features that can be accessed by click
 
 * *List of instructors by time period* will generate a list of all instructors who have taught or will teach a workshop in a given time period and can be downloaded as a CSV file. This is especially useful when inviting instructors to discussion sessions.
 
-* *Workshops over time, Learners over time, Instructors over time* show cumulative numbers of workshops, learners, and instructors from the start of the Carpentries to present day.
+* *Workshops over time, Learners over time, Instructors over time* show cumulative numbers of workshops, learners, and instructors from the start of The Carpentries to present day.
 
 * *How often instructors have taught* returns a list of all instructors who have taught at least once with the number of workshops they have taught.  
 

@@ -93,7 +93,7 @@ To be expanded, how to handle:
 
 **Varying Skill Level**
 
-Carpentries workshops frequently include many people with widely varying skills and experiences.  See the end of the Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) for some strategies to deal with a diverse classroom.  
+Carpentries workshops frequently include many people with widely varying skills and experiences.  See the end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) for some strategies to deal with a diverse classroom.  
 
 #### Preparing to Teach
 

@@ -19,7 +19,7 @@ Maintainers are responsible for:
 
 Maintainers represent The Carpentries community and should strive to embody The Carpentries philosophy, by:
 - Recognising the importance of communication and being welcoming to all contributors.
-- Giving feedback to contributors using the Carpentries model:
+- Giving feedback to contributors using The Carpentries model:
     - Find what’s good. Be specific about improvements needed. Use motivational language.
 - Evaluating lesson contributions in light of Carpentries pedagogical model:
     - Teach what’s most relevant and useful for learners.
@@ -31,7 +31,7 @@ Note: These guidelines are adapted from those currently in use by the Data Carpe
 
 ## How to stay in touch 
 
-The overall Maintainer community communicates using our [mailing list](http://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with the Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
+The overall Maintainer community communicates using our [mailing list](http://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with The Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
 
 The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://carpentries.org/community/#community-events).
 

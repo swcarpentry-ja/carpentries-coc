@@ -8,7 +8,7 @@
     * Someone contacts a staff member to request a workshop.
 
 1. Workshop & Logistics Manager or the Regional Coordinators for that region responds to request by email or phone/video call.
-    * Give them more information about the Carpentries as needed.
+    * Give them more information about The Carpentries as needed.
         * [Software Carpentry lessons](https://software-carpentry.org/lessons/)
         * [Data Carpentry lessons](http://www.datacarpentry.org/lessons/)
         * [Library Carpentry lessons](https://librarycarpentry.org/lessons/)

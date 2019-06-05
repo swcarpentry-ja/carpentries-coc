@@ -24,7 +24,7 @@ Expenses should be submitted in a report through Zoho once a month, at the end o
 Create expenses individually, including each of the following:
 * *Date*
 * *Merchant*
-* *Category*  We must use CI’s pre-determined categories, which have been entered into Zoho. Please do not create any new categories, but see the list below for explanations of the categories (according to CI) and examples for the Carpentries. Categories that we use often are highlighted for easy identification, since we tend to use the same categories most of the time.
+* *Category*  We must use CI’s pre-determined categories, which have been entered into Zoho. Please do not create any new categories, but see the list below for explanations of the categories (according to CI) and examples for The Carpentries. Categories that we use often are highlighted for easy identification, since we tend to use the same categories most of the time.
 * *Amount*
 * *Description of item/Business purpose*
 * *Attach receipt or receipt image*

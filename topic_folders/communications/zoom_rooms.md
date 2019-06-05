@@ -93,7 +93,7 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 
     * If you select a room and immediately remove it, it may not appear as available again until you close out the edit event screen and enter it again.
     * Save the event.
-    * The event will now show up on the Carpentries Community Calendar and the Zoom Rooms Calendar.
+    * The event will now show up on The Carpentries Community Calendar and the Zoom Rooms Calendar.
 
 
 Be sure to complete the above steps in order (i.e., do not select a room before setting the exact date and time).

@@ -23,11 +23,11 @@ A Lesson Program within The Carpentries should possess the following characteris
 Each Lesson Program will have a Lesson Program Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations.
 
 ### Resignation and Termination of Lesson Programs
-In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and the Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with the Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
+In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and The Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with The Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
 
 ## 3. Organisational Membership
 ### Eligibility, Rights, and Termination of Organisational Members
-Member Organisations have committed to supporting the maintenance and growth of the Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organisations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organisation.
+Member Organisations have committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organisations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organisation.
 
 ## 4. Individual Voting Membership
 
@@ -65,7 +65,7 @@ Each Member of the Executive Council is responsible for:
 - knowing the organisation’s mission, policies, programs, and needs
 - reading and understanding the organisation’s financial statements
 - serving as active advocates and ambassadors for the organisation necessary for The Carpentries to advance its mission
-- leveraging connections, networks, and resources to develop collective action to fully achieve the Carpentries’ mission
+- leveraging connections, networks, and resources to develop collective action to fully achieve The Carpentries’ mission
 - helping identify personal connections that can benefit the organisation’s fundraising and reputational standing, and can influence public policy
 - preparing for, attending, and conscientiously participating in Executive Council meetings
 

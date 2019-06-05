@@ -290,7 +290,7 @@ instructors. This workshop will introduce you to evidence-based
 best-practices of teaching. We will teach you how to create a 
 positive environment for learners at your workshops, provide 
 opportunities for you to practice and build your teaching skills, 
-help you become integrated into the Carpentries community, and 
+help you become integrated into The Carpentries community, and 
 prepare you to use these teaching skills in teaching Carpentries 
 workshops. For more information about what will be covered at this 
 training, check out our Instructor Training curriculum: 
@@ -553,7 +553,7 @@ Best,
 
 Hi [INSERT TRAINERS NAMES], 
 
-Thank you for taking time to teach the Carpentries Instructor Training on [INSERT DATES]! I hope you had a great experience. I am following up with you to obtain the attendance from the training. 
+Thank you for taking time to teach The Carpentries Instructor Training on [INSERT DATES]! I hope you had a great experience. I am following up with you to obtain the attendance from the training. 
 
 For your convenience, I have included the names of trainees in this [INSERT FILE]. Please indicate the attendance for both days so that I can record their progress and get them on track to becoming certified Carpentries instructors! 
 
@@ -800,11 +800,11 @@ Best,
 
 ##### Accepting new Trainers
 
-Subject: Congratulations! Join the Carpentries Trainer Community
+Subject: Congratulations! Join The Carpentries Trainer Community
 
 Hi all,
 
-Thank you all for applying to become instructor Trainers with the Carpentries. A group of Trainers have reviewed the applications and we're excited to invite each of you to the Trainer team.
+Thank you all for applying to become instructor Trainers with The Carpentries. A group of Trainers have reviewed the applications and we're excited to invite each of you to the Trainer team.
 
 We'll be starting our new cohort of instructor Trainers in [ month ]. Our cohort will be [ number ] folks located in [ countries ]. We'll be meeting once a week starting in [ month ] to discuss our text and how it relates to our instructor training curriculum. More details can be found in the preliminary reading schedule.
 

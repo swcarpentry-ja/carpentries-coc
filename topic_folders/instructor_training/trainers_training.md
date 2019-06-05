@@ -3,7 +3,7 @@ The Trainers group periodically accepts new members via [application](https://do
 
 #### Trainers Training Program
 
-This outline represents the time commitment required for being an instructor Trainer with the Carpentries. Please read through and check to see that you are able to commit to the responsibilities outlined below.
+This outline represents the time commitment required for being an instructor Trainer with The Carpentries. Please read through and check to see that you are able to commit to the responsibilities outlined below.
 
 Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/) in all communications and interactions with The Carpentries community.
 

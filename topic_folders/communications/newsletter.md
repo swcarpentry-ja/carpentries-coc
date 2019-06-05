@@ -4,14 +4,14 @@ Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), ap
 
 #### Newsletter content
 
-* *Highlights from the Carpentries Community Calendar*: Includes items from The Carpentries calendar, such as upcoming events.
+* *Highlights from The Carpentries Community Calendar*: Includes items from The Carpentries calendar, such as upcoming events.
 * *Community News*: A place to report on all kinds of things - events, workshop or conference reports, awards, lesson releases, new reports ...
 * *Committee and Task Force Activity*: Includes announcements directly from task force and committee chairs and summaries from meeting notes.
 * *What you may have missed on the blog and mailing lists*: Includes highlights of key conversations on the *Discuss* email list, other lists or things on the blog that need further highlighting.
 * *Tweet of the Week*: One noteworthy tweet is chosen and a screen captured image is included.
 * *Optional: Papers & manuscripts for and from the community*: Includes announcements that were made on the *Discuss* email list, Twitter, or other media.
 * *Optional: Offcuts*: Includes other unusual news that may be of interest.
-* *Optional: Joinery*: Includes other ways to get involved in the Carpentries community and ways the Carpentries community is involved in other conferences, etc.
+* *Optional: Joinery*: Includes other ways to get involved in The Carpentries community and ways The Carpentries community is involved in other conferences, etc.
 * *Optional: Toolshed (Posts from our Past)*: A place to highlight handy posts from the blog or discussion list archives that might still be relevant to postings to lists and other issues.
 * *Community Job postings*: Includes information that has come through on the *Discuss* email list, Twitter, and other media.
 * *Other places to connect*: This section is standardised for all newsletter issues.
@@ -62,7 +62,7 @@ The Mailchimp editor is not entirely user-friendly.  Formatting changes may appe
 1. Select all text in the Mailchimp editor and click *Clear Styles*.
 1. Select all text and set font to Arial 12 point.
 1. Select the title ("Carpentries Clippings, <date>") and set font to 18 pt bold.
-1. Select each subheading one by one (*Highlights from the Carpentries Community Calendar*, *Community News*, etc.) and set font to 16 pt bold.
+1. Select each subheading one by one (*Highlights from The Carpentries Community Calendar*, *Community News*, etc.) and set font to 16 pt bold.
 1. Select each item heading one by one and set font to 14 point regular.
 
 [Mailchimp customer service chat](https://us14.admin.mailchimp.com/support/) is hard to find on their website but quite responsive to requests for help.

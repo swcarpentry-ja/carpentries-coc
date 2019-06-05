@@ -408,7 +408,7 @@ Some links that will be used in the workshop: workshop page [ link to workshop p
 
 Getting to the workshop: [ add directions to your workshop location ]  
 
-Please read the Carpentries Code of Conduct (http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
+Please read The Carpentries Code of Conduct (http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
 
 We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
 
@@ -430,7 +430,7 @@ Thank you for attending our [ Data/Library/Software ] Carpentry workshop. We hop
 
 Please be sure to complete our post-workshop survey [l ink to survey ]. Your answers are essential to allow us to continuously improve our workshops for future learners. 
 
-If you have any other feedback about the workshop, or would like to get involved in the Carpentries community, please contact us (mailto:team@carpentries.org). You can also join the Carpentries Discussion mailing list (http://carpentries.topicbox.com/groups/discuss), follow us on Twitter (https://twitter.com/datacarpentry and https://twitter.com/swcarpentry), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
+If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please contact us (mailto:team@carpentries.org). You can also join The Carpentries Discussion mailing list (http://carpentries.topicbox.com/groups/discuss), follow us on Twitter (https://twitter.com/datacarpentry and https://twitter.com/swcarpentry), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
 
 We hope to see more of you as you continue to develop your data analysis skills!
 
