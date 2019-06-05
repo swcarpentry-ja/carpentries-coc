@@ -96,7 +96,7 @@ The Mentoring Chair of the Instructor Development Committee is responsible for:
 
 The primary responsibilities of the Discussion Session Coordinator are:
 
-- Organizing Themed Discussion Sessions and #CarpentriesConversations that come in on the [Call for Community Discussion Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form 
+- Organising Themed Discussion Sessions and #CarpentriesConversations that come in on the [Call for Community Discussion Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form 
 - Inviting instructors to attend pre and post-workshop discussions
 - Recruiting discussion hosts 
 - Maintaining the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts)

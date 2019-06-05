@@ -363,7 +363,7 @@ Best,
 
 Subject: Carpentries workshop at [ site name ]  
 
-On [ dates ], [ organization name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
+On [ dates ], [ organisation name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
 
 The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
 

@@ -2,7 +2,7 @@
 
 It's great for community members to give presentations on The Carpentries! 
 Include your work with The Carpentries in a presentation, or you're more than welcome
-to give talks or discuss the organization in general.
+to give talks or discuss the organisation in general.
 
 There are some general Google slide decks as well as ones more tailored to
 particular topics or events. The General slide deck is CC0, so you're welcome to use it how you wish. Please just keep attributions on individual figures or photos if they are there.

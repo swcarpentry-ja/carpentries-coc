@@ -20,15 +20,15 @@ This view can be filtered to show workshops assigned to the logged in administra
 
 Published workshops will show up on the Software Carpentry, Data Carpentry, or Library Carpentry website, depending on how they are tagged.
 
-From here you can also add new [persons](#adding-a-new-person), [events](#adding-a-new-event), [organizations](#adding-a-new-organization), or [airports](#adding-a-new-airport) to the database.
+From here you can also add new [persons](#adding-a-new-person), [events](#adding-a-new-event), [organisations](#adding-a-new-organization), or [airports](#adding-a-new-airport) to the database.
 
 ![AMY add new elements](images/amy_add_new.png)
 
-### Adding a new organization
+### Adding a new organisation
 
 If the site name is not already in AMY, add a new one by selecting "New Organisation." Do not enter `http://` or any slashes in the domain name.
 
-![AMY add new organization](images/amy_new_organization.png)
+![AMY add new organisation](images/amy_new_organization.png)
 
 
 ### Adding a new person
@@ -49,7 +49,7 @@ The person's privacy settings can also be set here.  The person's profile will d
 
 ![AMY bulk add person menu](images/amy_bulk_add_person_menu.png)
 
-Use the blank template to generate a well formed csv noting each person's personal name, family name (optional), email address (optional), role, and associated event. Any additional information about the person must be entered manually.
+Use the blank template to generate a well formed CSV noting each person's personal name, family name (optional), email address (optional), role, and associated event. Any additional information about the person must be entered manually.
 
 The role must exactly match the [instructions here](https://amy.carpentries.org/workshops/persons/bulk_upload/). The event slug must exactly match the slug for the event recorded in AMY.
 
@@ -131,7 +131,7 @@ New events can be created one of several ways:
 
 * If the workshop is using **Carpentries** Eventbrite for registration, enter the Eventbrite key. This is not needed if the host site is using their own Eventbrite account or any other internal system.
 
-![AMY new event eventbrite](images/amy_new_event_eventbritekey.png)
+![AMY new event Eventbrite](images/amy_new_event_eventbritekey.png)
 
 * After the event is over, record the total number of learners who attended the workshop.
 
@@ -290,7 +290,7 @@ On the organisation's page, click the green "Add a membership" button.  Enter th
 AMY comes with several built in reporting features that can be accessed by clicking `Reports` in the top menu. Most reports include an api link for further analysis.
 
 
-* *List of instructors by time period* will generate a list of all instructors who have taught or will teach a workshop in a given time period and can be downloaded as a csv file. This is especially useful when inviting instructors to discussion sessions.
+* *List of instructors by time period* will generate a list of all instructors who have taught or will teach a workshop in a given time period and can be downloaded as a CSV file. This is especially useful when inviting instructors to discussion sessions.
 
 * *Workshops over time, Learners over time, Instructors over time* show cumulative numbers of workshops, learners, and instructors from the start of the Carpentries to present day.
 

@@ -76,7 +76,7 @@ It will be given a sequential number. Click on the `...` to rename it to the wor
 
 #### Sharing survey results: Raw data
 
-If requested, raw data as csv can be exported and shared with hosts and instructors.
+If requested, raw data as CSV can be exported and shared with hosts and instructors.
 
 From the internal view of the survey results click the green `Save as` button at the top right. This time, click `Export file`.
 
