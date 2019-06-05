@@ -1,4 +1,4 @@
-## AMY: the Carpentries' internal database
+## AMY: The Carpentries' internal database
 
 ### Logging in
 
@@ -20,15 +20,15 @@ This view can be filtered to show workshops assigned to the logged in administra
 
 Published workshops will show up on the Software Carpentry, Data Carpentry, or Library Carpentry website, depending on how they are tagged.
 
-From here you can also add new [persons](#adding-a-new-person), [events](#adding-a-new-event), [organizations](#adding-a-new-organization), or [airports](#adding-a-new-airport) to the database.
+From here you can also add new [persons](#adding-a-new-person), [events](#adding-a-new-event), [organisations](#adding-a-new-organization), or [airports](#adding-a-new-airport) to the database.
 
 ![AMY add new elements](images/amy_add_new.png)
 
-### Adding a new organization
+### Adding a new organisation
 
-If the site name is not already in AMY, add a new one by selecting "New Organization." Do not enter `http://` or any slashes in the domain name.
+If the site name is not already in AMY, add a new one by selecting "New Organisation." Do not enter `http://` or any slashes in the domain name.
 
-![AMY add new organization](images/amy_new_organization.png)
+![AMY add new organisation](images/amy_new_organization.png)
 
 
 ### Adding a new person
@@ -49,7 +49,7 @@ The person's privacy settings can also be set here.  The person's profile will d
 
 ![AMY bulk add person menu](images/amy_bulk_add_person_menu.png)
 
-Use the blank template to generate a well formed csv noting each person's personal name, family name (optional), email address (optional), role, and associated event. Any additional information about the person must be entered manually.
+Use the blank template to generate a well formed CSV noting each person's personal name, family name (optional), email address (optional), role, and associated event. Any additional information about the person must be entered manually.
 
 The role must exactly match the [instructions here](https://amy.carpentries.org/workshops/persons/bulk_upload/). The event slug must exactly match the slug for the event recorded in AMY.
 
@@ -82,15 +82,15 @@ New events can be created one of several ways:
 ![AMY new event dates](images/amy_new_event_dates.png)
 
 
-* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organization](#adding-a-new-organization).
+* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organisation](#adding-a-new-organization).
 
 ![AMY new event host](images/amy_new_event_host.png)
 
-* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `self organized`.
+* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `self organised`.
 
 ![AMY new event administrator](images/amy_new_event_administrator.png)
 
-* Select the name of the Carpentries Regional Coordinator responsible for managing this workshop.  
+* Select the name of The Carpentries Regional Coordinator responsible for managing this workshop.  
 
 ![AMY new event assigned to](images/amy_new_event_assigned_to.png)
 
@@ -125,13 +125,13 @@ New events can be created one of several ways:
 
 ![AMY new event url](images/amy_new_event_url.png)
 
-* Enter in the human language the workshop is taught in. This is especially important for the Carpentries to track workshops in languages other than English.
+* Enter in the human language the workshop is taught in. This is especially important for The Carpentries to track workshops in languages other than English.
 
 ![AMY new event language](images/amy_new_event_language.png)
 
 * If the workshop is using **Carpentries** Eventbrite for registration, enter the Eventbrite key. This is not needed if the host site is using their own Eventbrite account or any other internal system.
 
-![AMY new event eventbrite](images/amy_new_event_eventbritekey.png)
+![AMY new event Eventbrite](images/amy_new_event_eventbritekey.png)
 
 * After the event is over, record the total number of learners who attended the workshop.
 
@@ -173,7 +173,7 @@ This page will show a list of all open workshop requests, with the name/email of
 
 ![AMY workshop request list](images/amy_workshop_request_list.png)
 
-At the bottom of this page, the user has the option to accept or discard the request. Choosing "Change state to Accepted" will mark it as accepted in the workshop request list but will not create a new event.  Select "Accept and create a new event" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so the Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
+At the bottom of this page, the user has the option to accept or discard the request. Choosing "Change state to Accepted" will mark it as accepted in the workshop request list but will not create a new event.  Select "Accept and create a new event" to create a new event from this request. All requests should be accepted (unless spam or otherwise inappropriate) so The Carpentries can maintain a history of workshop requests. Events can later be marked as stalled or cancelled.
 
 This will open a page with a side by side view of the request details and view to create a new event. The new event can be created [manually](#creating-a-new-event-manually) or if available, [from the URL](#creating-a-new-event-from-url), as described above.
 
@@ -192,7 +192,7 @@ Go to the event page and click the "Edit" button at the top of the page.  Select
 
 To add a new person to the event, start typing the person's name in the "Person" field. Auto-completed suggested names will appear.
 
-Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organizer). "Contributed to Lesson Materials" is not used in this context. "Title" and "URL" are also not used in this context.
+Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organiser). "Contributed to Lesson Materials" is not used in this context. "Title" and "URL" are also not used in this context.
 
 If a person's name does not appear in the dropdown, they may need to be [added to the database](#adding-a-new-person).
 
@@ -272,16 +272,16 @@ Choose the `Awards` tab on the next screen.  Select the Badge type from the drop
 
 ### Memberships
 
-AMY is also used to track all Carpentries memberships.  To create a new membership, the site must first be listed as an [organization](#adding-a-new-organization) in AMY.
+AMY is also used to track all Carpentries memberships.  To create a new membership, the site must first be listed as an [organisation](#adding-a-new-organization) in AMY.
 
-On the organization's page, click the green "Add a membership" button.  Enter the following information:
+On the organisation's page, click the green "Add a membership" button.  Enter the following information:
 
 * Variant (membership type)
 * Agreement start and end dates
 * Contribution type (Financial, Person-days, or other)
 * Workshops without admin fee per agreement
-* Self organized workshops per agreement (can be left blank as this is typically unlimited)
-* Instructor training seats (actual number alloted in contract)
+* Self organised workshops per agreement (can be left blank as this is typically unlimited)
+* Instructor training seats (actual number allotted in contract)
 * Additional instructor training seats (any additional seats allowed beyond contracted amount)
 * Notes.
 
@@ -290,9 +290,9 @@ On the organization's page, click the green "Add a membership" button.  Enter th
 AMY comes with several built in reporting features that can be accessed by clicking `Reports` in the top menu. Most reports include an api link for further analysis.
 
 
-* *List of instructors by time period* will generate a list of all instructors who have taught or will teach a workshop in a given time period and can be downloaded as a csv file. This is especially useful when inviting instructors to discussion sessions.
+* *List of instructors by time period* will generate a list of all instructors who have taught or will teach a workshop in a given time period and can be downloaded as a CSV file. This is especially useful when inviting instructors to discussion sessions.
 
-* *Workshops over time, Learners over time, Instructors over time* show cumulative numbers of workshops, learners, and instructors from the start of the Carpentries to present day.
+* *Workshops over time, Learners over time, Instructors over time* show cumulative numbers of workshops, learners, and instructors from the start of The Carpentries to present day.
 
 * *How often instructors have taught* returns a list of all instructors who have taught at least once with the number of workshops they have taught.  
 
@@ -312,7 +312,7 @@ Instructors can log in to AMY to view and update their own information. To do so
 If an instructor is having trouble logging in, an administrator can verify the following information.
 
 * Be sure the GitHub user name is accurate.
-* Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorized user.
+* Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorised user.
 * `Logging in allowed` should show next to the GitHub name in the profile. If it says `Allow logging in with GitHub`, click this to allow logging in. This must be done **after** setting permissions to active above.
 
 #### Admin roles
@@ -346,7 +346,7 @@ Under the "More" menu, select "Find Workshop Staff."  Here you can filter by the
 * Country: This returns a list of all Instructors who are in that country.  It does not continue to any proximate countries.
 * Latitude and Longitude: Like the *Airport* search, this begins with people whose listed airport is closest to that latitude and longitude, and then continues reaching farther out.
 * Badges: Selecting more than one Instructor badge will return a list of Instructors who have *any* of those badges. If no badge is selected, the search will return unbadged Persons.
-* *Was helper at least once before*, *Was organizer at least once before*, *Is an in-progress instructor trainee* are based on AMY's current records
+* *Was helper at least once before*, *Was organiser at least once before*, *Is an in-progress instructor trainee* are based on AMY's current records
 * *Languages*, *Gender*, and *Lessons* come from the Person record for that individual.
 
 #### Searching for Events
@@ -355,11 +355,11 @@ Clicking "Events" on the top menu bar will take you to a list of *all* recorded 
 
 Events can be searched from the left side options by Assignee, Tags, Host, Administrator, Invoice status (deprecated), Completed, Country, and Status.
 
-#### Searching for Organizations
+#### Searching for Organisations
 
-Clicking "Organizations" on the top menu bar will take you to a list of *all* recorded organizations, regardless of their involvement with The Carpentries.
+Clicking "Organisations" on the top menu bar will take you to a list of *all* recorded organisations, regardless of their involvement with The Carpentries.
 
-Organizations can be searched by Country and Membership type.
+Organisations can be searched by Country and Membership type.
 
 #### Searching for Persons
 

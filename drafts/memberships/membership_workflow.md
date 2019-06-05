@@ -1,6 +1,6 @@
 ### Membership workflow
 
-#### Process for organization deciding to be a member
+#### Process for organisation deciding to be a member
 1. One of the following occurs
     * People email membership@carpentries.org and ask about membership
     * People fill out [membership typeform](https://carpentries.typeform.com/to/Hmfe6L) on Software Carpentry website
@@ -18,15 +18,15 @@
     * Video call with Executive Director(s)
 4. HubSpot Deal Status is updated to:
     * *Interested*: based on the conversation, a membership seems likely.
-        * Contact may need to talk to others at the organization.
-        * Executive Directors or Business Manager may need to check back in with the organization after an appropriate amount of time to see if they are ready to proceed.
-    * *Stale*: it does not appear that a membership is likely with this organization at this time.
+        * Contact may need to talk to others at the organisation.
+        * Executive Directors or Business Manager may need to check back in with the organisation after an appropriate amount of time to see if they are ready to proceed.
+    * *Stale*: it does not appear that a membership is likely with this organisation at this time.
          * Depending on the situation, Executive Directors or Business Manager may follow up after an appropriate amount of time to see if the situation has changed.
-    * *Closed Lost*: this organization will not be becoming a member.
+    * *Closed Lost*: this organisation will not be becoming a member.
         * HubSpot Deal may be marked ‘Closed Lost’ at any point in workflow.
         * Fieldbook ‘Membership’ deleted at this point as well, if created.
 
-#### Process for organization that has decided to become a member
+#### Process for organisation that has decided to become a member
 
 1. Contact fills out [membership typeform](https://carpentries.typeform.com/to/Hmfe6L) on Software Carpentry website, if not done already.
     * This supplies the information needed for a draft agreement.
@@ -56,7 +56,7 @@
     * Business Administrator asks member contact for invoicing information or invoicing contact.
         * Contact name, email address, physical address, and phone number.
         * Determine if they will need vendor paperwork or W9
-    * Member organization may need:
+    * Member organisation may need:
         * A quote to generate a Purchase Order (PO).
         * The PO number to be listed on the invoice.
         * Fiscal sponsor banking information.
@@ -83,7 +83,7 @@
 2. If needed, contact again 30 days before current agreement expires.
 3. If member would not like to renew, change HubSpot status to ‘Won’t Renew’
 4. If member would like to renew, determine if any changes should be to the agreement for renewal (beyond dates). 
-    * HubSpot status ‘Finalize New Terms’.
+    * HubSpot status ‘Finalise New Terms’.
     * Create membership in Fieldbook, status ‘Pending’.
     * Add renewal to Sites Ready for Training to alert Program Coordinator
 5. Proposed changes are reviewed.
@@ -103,7 +103,7 @@
     * Business Administrator asks member contact for invoicing information or invoicing contact.
         * Contact name, email address, physical address, and phone number.
         * Determine if they will need vendor paperwork or W9
-    * Member organization may need:
+    * Member organisation may need:
         * A quote to generate a Purchase Order (PO).
         * The PO number to be listed on the invoice.
         * Fiscal sponsor banking information.

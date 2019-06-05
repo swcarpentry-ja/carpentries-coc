@@ -17,7 +17,7 @@ Within Fieldbook, the following definitions are used in the database:
 * Expired - Term of agreement has ended
 * Lead - Interest in membership has been expressed, but an agreement may or may not be likely 
 * Stale - At one point was pending or lead, but a membership does now not seem likely
-* New - this is the first membership agreement this organization has had with us or a unique agreement with this organization
+* New - this is the first membership agreement this organisation has had with us or a unique agreement with this organisation
 * Renew - this is the continuation of a previous agreement
 
 **Membership Type Labels**
@@ -29,7 +29,7 @@ Within Fieldbook, the following definitions are used in the database:
 * SWC Contract:
 * DC Contract:
 * Contract:
-* Annualfee: The amount a member has agreed to pay per year
+* Annual fee: The amount a member has agreed to pay per year
 * Paid in Full: if checked, the member has paid the full amount for this agreement
 * Invoice: Link to invoice
 * Agreement: Link to signed agreement in GitHub (once it is completed)

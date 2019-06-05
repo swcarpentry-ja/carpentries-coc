@@ -6,7 +6,7 @@ The Carpentries offers the use of our [etherpads](https://pad.carpentries.org/) 
 
 A new etherpad can be created by appending a descriptive name to the url `https://pad.carpentries.org/`, such as `https://pad.carpentries.org/committeename`.
 
-Pads are synchronized as you type, so that everyone viewing this page sees the same text. This allows everyone to collaborate seamlessly on documents.
+Pads are synchronised as you type, so that everyone viewing this page sees the same text. This allows everyone to collaborate seamlessly on documents.
 
 Use of this service is restricted to members of The Carpentries community; this is not for general purpose use (for that, try [etherpad.wikimedia.org](https://etherpad.wikimedia.org/)).
 

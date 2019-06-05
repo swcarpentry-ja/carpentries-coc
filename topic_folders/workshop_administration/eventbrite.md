@@ -4,7 +4,7 @@ Host sites can opt to use their own systems for registering learners at their wo
 
 #### Logging in
 
-The Workshop Administration Team will have log in credentials from the Carpentries. They will give hosts of individual events access to log in to that event only.
+The Workshop Administration Team will have log in credentials from The Carpentries. They will give hosts of individual events access to log in to that event only.
 
 Contact team@carpentries.org with questions about logging in.
 
@@ -49,11 +49,11 @@ If the workshop is entirely free, delete the paid ticket option by clicking on t
 
 Click on the gear icon to edit settings for that ticket type.
 
-For free tickets, you can customize the ticket type name. Edit the number of tickets available and dates when ticket sales start and end.
+For free tickets, you can customise the ticket type name. Edit the number of tickets available and dates when ticket sales start and end.
 
 ![Eventbrite free ticket settings](images/eventbrite_freeticketsettings.png)
 
-For paid tickets, you can customize the ticket type name. Edit the number of tickets available and dates when ticket sales start and end. Edit the cost per ticket. Select "Absorb fees."  You must also set a refund policy - be sure to confirm this with the host site.
+For paid tickets, you can customise the ticket type name. Edit the number of tickets available and dates when ticket sales start and end. Edit the cost per ticket. Select "Absorb fees."  You must also set a refund policy - be sure to confirm this with the host site.
 
 ![Eventbrite paid ticket settings](images/eventbrite_paidticketsettings.png)
 ![Eventbrite paid ticket settings](images/eventbrite_refunds.png)
@@ -89,7 +89,7 @@ Enter the person's email address and give them access to their event only.
 Give the user access to at most the following actions only:
 * Edit event details not including payment options
     * Edit ticket types
-    * Customize the registration page
+    * Customise the registration page
 * View order and attendee reports (read only)
     * Manage orders and attendees
     * Access to aggregate financial data
@@ -100,7 +100,7 @@ Give the user access to at most the following actions only:
 
 The user should get notifications for:
 * Order confirmations
-* Contact the organizer
+* Contact the organiser
 * Refund requests
 
 ![Eventbrite new user event notifications](images/eventbrite_newusernotifications.png)

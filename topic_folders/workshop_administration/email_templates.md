@@ -10,14 +10,14 @@ Dear [ name ],
 
 Thanks so much for inquiring about hosting a Carpentries workshop at [ site_name ].  Here's some background about our programs and how we run.
 
-Software Carpentry (SWC), Data Carpentry (DC), and Library Carpentry (LC) are programs of The Carpentries (a fiscally sponsored project of Community Initiatives). All programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organization to analysis & visualization. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ). Library Carpentry workshops teach people working in library- and information-related roles how to apply concepts from software development fields in library tasks and identify and use best practices in data structures.
+Software Carpentry (SWC), Data Carpentry (DC), and Library Carpentry (LC) are programs of The Carpentries (a fiscally sponsored project of Community Initiatives). All programs offer two day long workshops taught live in-person by a team of two trained instructors. Software Carpentry focuses on best practices in computational programming that help scientists and researchers be more effective with their work. Lessons are domain agnostic and use generic data. All Software Carpentry workshops always cover three core areas: shell scripting (bash), version control (Git), and a programming language (R or Python). Read more here (https://software-carpentry.org/lessons/). Data Carpentry has a similar foundation but focuses on the data lifecycle, from cleaning & organisation to analysis & visualisation. Lessons and the data they use are domain specific, with offerings in ecology/biology, genomics, geospatial data, and more in the works. Read more here (http://www.datacarpentry.org/lessons/ ). Library Carpentry workshops teach people working in library- and information-related roles how to apply concepts from software development fields in library tasks and identify and use best practices in data structures.
 
 All workshops have a standard fee of US$2500, plus any costs for instructor travel (which may include airfare, ground travel, hotel, and meals/incidentals).
 You can read more about the costs and how to request a workshop here for Software Carpentry (https://software-carpentry.org/workshops/request/) and here for Data Carpentry (http://www.datacarpentry.org/workshops-host/).
 
 Workshops are offered on demand, not on a set schedule, and typically require 2-3 months lead time to plan.
 
-I'd be happy to answer any questions you have about holding a Carpentries workshop at [ site_name ] by email, or set some time to talk by phone or videocall. Let me know what you're thinking of doing, and we'll talk about how we can work together.  I look forward to hearing back from you.
+I'd be happy to answer any questions you have about holding a Carpentries workshop at [ site_name ] by email, or set some time to talk by phone or video call. Let me know what you're thinking of doing, and we'll talk about how we can work together.  I look forward to hearing back from you.
 
 Best,
 
@@ -325,13 +325,13 @@ Best,
 
 #### From Instructors and Hosts
 
-##### For Self Organized Workshops: Recruiting Co-instructor
+##### For Self Organised Workshops: Recruiting Co-instructor
 
 Subject: Recruiting co-instructors for Carpentry Workshop
 
 Hi [ person name ], 
 
-I'm organizing a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
+I'm organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
 
 I've completed instructor training for The Carpentries and am certified to teach their materials. To run a workshop, I'll need at least one (preferably two) co-instructors to help out in teaching the material. The workshops are two days long and instructors usually switch every half day. I'm planning to cover [ your workshop topics ] and was hoping you could teach the [ topic ] section of the workshop. The Carpentries provides ready-to-go lesson materials, so we wouldn't need to develop anything from scratch. If you're interested, you can see the materials for [ topic ] here [ link to lesson ] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ ].
 
@@ -363,7 +363,7 @@ Best,
 
 Subject: Carpentries workshop at [ site name ]  
 
-On [ dates ], [ organization name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
+On [ dates ], [ organisation name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
 
 The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
 
@@ -408,7 +408,7 @@ Some links that will be used in the workshop: workshop page [ link to workshop p
 
 Getting to the workshop: [ add directions to your workshop location ]  
 
-Please read the Carpentries Code of Conduct (http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
+Please read The Carpentries Code of Conduct (http://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) so that we all are aware of how to treat each other respectfully.  
 
 We are committed to making sure that the workshop is accessible to everyone. Please tell us if there is anything we should know in advance in order to make the workshop accessible for you (e.g. sign-language interpreters, large-print handouts, lactation facilities).
 
@@ -430,7 +430,7 @@ Thank you for attending our [ Data/Library/Software ] Carpentry workshop. We hop
 
 Please be sure to complete our post-workshop survey [l ink to survey ]. Your answers are essential to allow us to continuously improve our workshops for future learners. 
 
-If you have any other feedback about the workshop, or would like to get involved in the Carpentries community, please contact us (mailto:team@carpentries.org). You can also join the Carpentries Discussion mailing list (http://carpentries.topicbox.com/groups/discuss), follow us on Twitter (https://twitter.com/datacarpentry and https://twitter.com/swcarpentry), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
+If you have any other feedback about the workshop, or would like to get involved in The Carpentries community, please contact us (mailto:team@carpentries.org). You can also join The Carpentries Discussion mailing list (http://carpentries.topicbox.com/groups/discuss), follow us on Twitter (https://twitter.com/datacarpentry and https://twitter.com/swcarpentry), and get involved with lesson development on GitHub ( https://github.com/datacarpentry and https://github.com/swcarpentry/ ). 
 
 We hope to see more of you as you continue to develop your data analysis skills!
 

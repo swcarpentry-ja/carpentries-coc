@@ -1,6 +1,6 @@
 ### Workshop Administration workflow
 
-#### For centrally organized workshops
+#### For centrally organised workshops
 
 1. One of the following occurs:
     * Someone submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) 
@@ -8,7 +8,7 @@
     * Someone contacts a staff member to request a workshop.
 
 1. Workshop & Logistics Manager or the Regional Coordinators for that region responds to request by email or phone/video call.
-    * Give them more information about the Carpentries as needed.
+    * Give them more information about The Carpentries as needed.
         * [Software Carpentry lessons](https://software-carpentry.org/lessons/)
         * [Data Carpentry lessons](http://www.datacarpentry.org/lessons/)
         * [Library Carpentry lessons](https://librarycarpentry.org/lessons/)
@@ -58,11 +58,11 @@
 1. Regional Coordinator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).
 
 
-#### For self organized workshops
+#### For self organised workshops
  
-1. Instructors notify Regional Coordinator about upcoming self organized workshop. This is no fee (suggested or mandated) for a self organized workshop.
+1. Instructors notify Regional Coordinator about upcoming self organised workshop. This is no fee (suggested or mandated) for a self organised workshop.
 
-1. Regional Coordinator reminds them that as a self organized workshop they will have access to our surveys but will not receive any other support in coordinating this workshop.
+1. Regional Coordinator reminds them that as a self organised workshop they will have access to our surveys but will not receive any other support in coordinating this workshop.
 
 1. Regional Coordinator reminds instructors to set up a workshop website using the
 [workshop template](https://github.com/carpentries/workshop-template).

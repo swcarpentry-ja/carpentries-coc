@@ -1,6 +1,6 @@
 ## Mentoring Groups
 
-Mentoring is a professional development opportunity that the Carpentries offers our growing instructor pool to help community members learn and grow.
+Mentoring is a professional development opportunity that The Carpentries offers our growing instructor pool to help community members learn and grow.
 
 Mentoring Groups support instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. 
 
@@ -11,7 +11,7 @@ Mentors guide small groups of no more than five mentees toward a particular outc
 Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/) goals to be achieved. The following are sample mentoring group outlines. Groups are free to decide how to spend their time.
 
 #### Sample Mentoring Group Outline: Lesson Maintenance
-+ Introductions, review the Carpentries community culture, and communication channels.  
++ Introductions, review The Carpentries community culture, and communication channels.  
 + Review and discussion lesson objectives.  
 + Meeting with Lesson Maintainers to discuss challenges and opportunities.  
 + Review, discuss, and comment on lesson issues. Identify a representative to attend the mid-way touch base.  
@@ -21,16 +21,16 @@ Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/
 + Finish slide for mentoring group showcase. Attend mentoring group showcase.  
 
 #### Sample Mentoring Group Outline: Teaching Workshops
-+ Introductions, review the Carpentries community culture, and communication channels.  
++ Introductions, review The Carpentries community culture, and communication channels.  
 + Review and discuss instructor notes.  
 + “Tag-team” teaching each module of the lesson. Provide feedback to group members.  
 + First mock quarter/half day workshop with group members. Identify a representative to attend the mid-way touch base.     
 + Second mock quarter/half day workshop with group members. Draft one slide for the mentoring group showcase.  
 + Finish slide for mentoring group showcase. Attend mentoring group showcase.  
 
-#### Sample Mentoring Group Outline: Organizing Workshops
-+ Introductions, review the Carpentries community culture, and communication channels.  
-+ Introduce existing workshop resources. Identify challenges for organizers.  
+#### Sample Mentoring Group Outline: Organising Workshops
++ Introductions, review The Carpentries community culture, and communication channels.  
++ Introduce existing workshop resources. Identify challenges for organisers.  
 + Walkthrough of workshop set up using checklists. Discuss workshop planning tools, e.g. Eventbrite, spreadsheets.    
 + Identify potential issues and how to resolve them, e.g. ‘no shows’, CoC violations, refunds. Identify sources of help.  
 + Draft one slide for the mentoring group showcase. Identify a representative to attend the mid-way touch base.
@@ -38,7 +38,7 @@ Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/
 + Finish slide for mentoring group showcase. Attend mentoring group showcase.  
 
 #### Sample Mentoring Group Outline: Community Building
-+ Introductions, review the Carpentries community culture, and communication channels.  
++ Introductions, review The Carpentries community culture, and communication channels.  
 + Discuss desired local outcome. Discuss existing community, if any. Identify stakeholders and potential supporters.  
 + Discuss community building methods used elsewhere (e.g. ResBaz, Hacky Hours, MeetUps, communities of practice). 
 + Discuss the use of communication tools such as Slack and Gitter channels.    
@@ -57,8 +57,8 @@ Participants can choose the type of mentoring group they'd like to belong to:
 + Teaching Workshops  
   - Developing confidence and skill in teaching  
   - Preparing to teach a specific lesson (i.e. Python)  
-+ Organizing Workshops   
-  - Logistics of organizing a workshop (e.g. marketing, registration)  
++ Organising Workshops   
+  - Logistics of organising a workshop (e.g. marketing, registration)  
   - Logistics of running a workshop (e.g. recruiting instructors, distributing tasks)  
 + Community Building  
   - Strategies to build local communities  
@@ -99,7 +99,7 @@ I understand that it is important to keep in touch with The Carpentries communit
   + Kari Jordan will hold a mentoring groups 'touch base with mentors' halfway through the 8-12 week period.
   + Mentors and mentees will be asked to complete a short [survey](https://goo.gl/forms/BOxgiKy99kVec07j2) halfway through the 8-12 week period.
   + The 8-12 week period will end with a virtual showcase.
-  + Mentors and mentees will be asked to complete asecond short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
+  + Mentors and mentees will be asked to complete a second short [survey](https://goo.gl/forms/I36OUFXGAofLps8E3) at the end of the mentoring group period.
 + **Exposure**
   + A mentoring page will be added to The Carpentries' [website](https://carpentries.org) with information on how to join a mentoring group.
   + Members will be added to groups, and new groups will be formed, on a rolling basis as needed, at the discretion of Kari Jordan.
@@ -150,7 +150,7 @@ To join the mentoring program as a mentee, complete [this form](https://docs.goo
 ##### Responsibilities
 
 - Decide on a meeting schedule with your Mentees.  
-- Personalize meetings based on Mentee’s needs and desires.  
+- Personalise meetings based on Mentee’s needs and desires.  
 - Respond promptly to emails from your Mentees.  
 - Follow up with Mentees who miss meetings.  
 - Be respectful of Mentees. Provide a safe space for questions and mistakes.  
@@ -191,4 +191,4 @@ The Carpentries' community is invited to participate in a Virtual Showcase of ou
 Please visit this [Etherpad](http://pad.software-carpentry.org/carpentries-mentors) to view notes from past meetings or sign up for upcoming meetings.
 
 #### Contact
-For information regarding the Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 
+For information regarding The Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 

@@ -4,7 +4,7 @@ The Carpentries uses [Survey Monkey](https://www.surveymonkey.com/) to manage al
 
 #### Logging in
 
-The Workshop Administration Team will have log in credentials from the Carpentries to set up surveys.  They will share links to view survey results with workshop hosts and instructors. Hosts and instructors do not need log in credentials.
+The Workshop Administration Team will have log in credentials from The Carpentries to set up surveys.  They will share links to view survey results with workshop hosts and instructors. Hosts and instructors do not need log in credentials.
 
 Contact team@carpentries with questions about logging in.
 
@@ -14,9 +14,9 @@ If a learner accesses the survey from that workshop's website (in the format `us
 
 The "naked" link will take them to the exact same survey, but will make it slightly more difficult for us to share survey results.
 
-The survey has already been designed, and we will not customize any of the questions for specific workshops or sites.
+The survey has already been designed, and we will not customise any of the questions for specific workshops or sites.
 
-The existing questions about which workshop the learner is attending are being deprecated in favor of a new question:
+The existing questions about which workshop the learner is attending are being deprecated in favour of a new question:
 
 ![Survey workshop id](images/surveymonkey_workshopid.png)
 
@@ -26,9 +26,9 @@ Learners are prompted to fill in their workshop ID or the workshop date and loca
 
 Survey results can be shared as a website view with charts and graphs of aggregate data.
 
-From the workshop page, select `Analyze Results`.
+From the workshop page, select `Analyse Results`.
 
-![Survey analyze results](images/surveymonkey_analyzeresults.png)
+![Survey analyse results](images/surveymonkey_analyzeresults.png)
 
 Select `Filter` and `Filter by Question and Answer`.
 
@@ -52,7 +52,7 @@ This will open a new page for you to set up your public view.
 Set the following options:
 
 * Access: Private. This means anyone with the link can view the results. You can make this password protected by selecting "Restricted." You can then share passwords with hosts, instructors, and anyone else who may need access.
-* Page Title: This will prepopulate with a default value. You can change this as you wish.
+* Page Title: This will pre-populate with a default value. You can change this as you wish.
 * Page Description: Add any other information about the workshop.
 * Include: Be sure to check off Open-Ended Responses and Data Trends. Individual Responses should **not** be checked.
 * Branding: Leave this unchecked.
@@ -76,7 +76,7 @@ It will be given a sequential number. Click on the `...` to rename it to the wor
 
 #### Sharing survey results: Raw data
 
-If requested, raw data as csv can be exported and shared with hosts and instructors.
+If requested, raw data as CSV can be exported and shared with hosts and instructors.
 
 From the internal view of the survey results click the green `Save as` button at the top right. This time, click `Export file`.
 
@@ -92,9 +92,9 @@ This will then show up in the "Exports" list on the left side of the screen.  Cl
 
 Survey data can be modified once a user has submitted their response.  To protect the integrity of our data, this should be done *only* if it is known that a respondent filled in an incorrect or incorrectly formatted workshop id.
 
-From the survey page, select `Analyze Results`.
+From the survey page, select `Analyse Results`.
 
-![Survey analyze results](images/surveymonkey_analyzeresults.png)
+![Survey analyse results](images/surveymonkey_analyzeresults.png)
 
 Following the instructions above, search for the possible responses to a workshop id.  For example, search for all responses containing the word 'starfleet' to find any one who may have attended the workshop '2018-01-01-starfleet'.  
 

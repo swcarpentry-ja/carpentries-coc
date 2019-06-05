@@ -9,7 +9,7 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
 1. The Program Manager will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
 
-*Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrollment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
+*Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrolment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
 A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
@@ -29,7 +29,7 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
   -  Get acquainted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
   -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
   -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
-  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
+  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalise for your event.  
 -  If teaching in person:
   - Confirm with your host that breakout rooms are available or make an alternate plan
   - Create a plan for printing handouts & determine who will bring sticky notes
@@ -92,7 +92,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone), or just say “bong” really loudly at the end of their time.  
 -  After the five minute timer, allow them to finish their sentence and tell them time’s up.
 -  Use a [rubric][demo-rubric] to help you take notes.   
--  After the trainee is finished, first ask how they themselves thought it went. If you have time, other trainees can give verbal feedback, or you can summarize what is in the etherpad. Then, give focused, constructive feedback based on your notes and the comments of others. You might choose one or two things to particularly emphasize to help focus trainees' efforts as they proceed to teach a workshop. It is also sometimes necessary to take time to (gently) disagree with feedback from another trainee.
+-  After the trainee is finished, first ask how they themselves thought it went. If you have time, other trainees can give verbal feedback, or you can summarise what is in the etherpad. Then, give focused, constructive feedback based on your notes and the comments of others. You might choose one or two things to particularly emphasise to help focus trainees' efforts as they proceed to teach a workshop. It is also sometimes necessary to take time to (gently) disagree with feedback from another trainee.
 -  Do NOT tell a trainee whether they passed immediately after their demo.   
 -  Repeat for the other trainees.  
 -  At the end of the season, ask for general questions.  
