@@ -26,7 +26,7 @@ From here you can also add new [persons](#adding-a-new-person), [events](#adding
 
 ### Adding a new organization
 
-If the site name is not already in AMY, add a new one by selecting "New Organization." Do not enter `http://` or any slashes in the domain name.
+If the site name is not already in AMY, add a new one by selecting "New Organisation." Do not enter `http://` or any slashes in the domain name.
 
 ![AMY add new organization](images/amy_new_organization.png)
 
@@ -82,11 +82,11 @@ New events can be created one of several ways:
 ![AMY new event dates](images/amy_new_event_dates.png)
 
 
-* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organization](#adding-a-new-organization).
+* Select the host site name from the drop down menu. If the host site does not appear on the list, [create a new organisation](#adding-a-new-organization).
 
 ![AMY new event host](images/amy_new_event_host.png)
 
-* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `self organized`.
+* Select the administrator from the drop down menu.  This will almost always be `Software Carpentry`, `Data Carpentry`, `Library Carpentry`, or `self organised`.
 
 ![AMY new event administrator](images/amy_new_event_administrator.png)
 
@@ -192,7 +192,7 @@ Go to the event page and click the "Edit" button at the top of the page.  Select
 
 To add a new person to the event, start typing the person's name in the "Person" field. Auto-completed suggested names will appear.
 
-Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organizer). "Contributed to Lesson Materials" is not used in this context. "Title" and "URL" are also not used in this context.
+Add the person's role in the event (Helper, Instructor, Workshop Host, Learner, Workshop Organiser). "Contributed to Lesson Materials" is not used in this context. "Title" and "URL" are also not used in this context.
 
 If a person's name does not appear in the dropdown, they may need to be [added to the database](#adding-a-new-person).
 
@@ -272,16 +272,16 @@ Choose the `Awards` tab on the next screen.  Select the Badge type from the drop
 
 ### Memberships
 
-AMY is also used to track all Carpentries memberships.  To create a new membership, the site must first be listed as an [organization](#adding-a-new-organization) in AMY.
+AMY is also used to track all Carpentries memberships.  To create a new membership, the site must first be listed as an [organisation](#adding-a-new-organization) in AMY.
 
-On the organization's page, click the green "Add a membership" button.  Enter the following information:
+On the organisation's page, click the green "Add a membership" button.  Enter the following information:
 
 * Variant (membership type)
 * Agreement start and end dates
 * Contribution type (Financial, Person-days, or other)
 * Workshops without admin fee per agreement
-* Self organized workshops per agreement (can be left blank as this is typically unlimited)
-* Instructor training seats (actual number alloted in contract)
+* Self organised workshops per agreement (can be left blank as this is typically unlimited)
+* Instructor training seats (actual number allotted in contract)
 * Additional instructor training seats (any additional seats allowed beyond contracted amount)
 * Notes.
 
@@ -312,7 +312,7 @@ Instructors can log in to AMY to view and update their own information. To do so
 If an instructor is having trouble logging in, an administrator can verify the following information.
 
 * Be sure the GitHub user name is accurate.
-* Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorized user.
+* Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorised user.
 * `Logging in allowed` should show next to the GitHub name in the profile. If it says `Allow logging in with GitHub`, click this to allow logging in. This must be done **after** setting permissions to active above.
 
 #### Admin roles
@@ -346,7 +346,7 @@ Under the "More" menu, select "Find Workshop Staff."  Here you can filter by the
 * Country: This returns a list of all Instructors who are in that country.  It does not continue to any proximate countries.
 * Latitude and Longitude: Like the *Airport* search, this begins with people whose listed airport is closest to that latitude and longitude, and then continues reaching farther out.
 * Badges: Selecting more than one Instructor badge will return a list of Instructors who have *any* of those badges. If no badge is selected, the search will return unbadged Persons.
-* *Was helper at least once before*, *Was organizer at least once before*, *Is an in-progress instructor trainee* are based on AMY's current records
+* *Was helper at least once before*, *Was organiser at least once before*, *Is an in-progress instructor trainee* are based on AMY's current records
 * *Languages*, *Gender*, and *Lessons* come from the Person record for that individual.
 
 #### Searching for Events
@@ -355,11 +355,11 @@ Clicking "Events" on the top menu bar will take you to a list of *all* recorded 
 
 Events can be searched from the left side options by Assignee, Tags, Host, Administrator, Invoice status (deprecated), Completed, Country, and Status.
 
-#### Searching for Organizations
+#### Searching for Organisations
 
-Clicking "Organizations" on the top menu bar will take you to a list of *all* recorded organizations, regardless of their involvement with The Carpentries.
+Clicking "Organisations" on the top menu bar will take you to a list of *all* recorded organisations, regardless of their involvement with The Carpentries.
 
-Organizations can be searched by Country and Membership type.
+Organisations can be searched by Country and Membership type.
 
 #### Searching for Persons
 
