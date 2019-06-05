@@ -3,7 +3,7 @@
 
 The Carpentries Maintainers work with the community to make sure that lessons stay up-to-date, accurate, functional and cohesive. They monitor
 their lesson repository, make sure that PRs and Issues are addressed in a timely manner, and participate in the lesson development cycle
-including lesson releases. They endeavor to be welcoming and supportive of contributions from all members of the community. 
+including lesson releases. They endeavour to be welcoming and supportive of contributions from all members of the community. 
 
 Maintainers are responsible for:
  - Routinely:
@@ -14,18 +14,18 @@ Maintainers are responsible for:
     - Identifying potential new Maintainers based on their review activity.
 
 - Every six months: 
-    - Participating in regular Issue Bonanza and Bug BBQ events, including organizing and tagging issues. 
+    - Participating in regular Issue Bonanza and Bug BBQ events, including organising and tagging issues. 
     - Bringing in updates to the lesson template.
 
 Maintainers represent The Carpentries community and should strive to embody The Carpentries philosophy, by:
-- Recognizing the importance of communication and being welcoming to all contributors.
+- Recognising the importance of communication and being welcoming to all contributors.
 - Giving feedback to contributors using the Carpentries model:
     - Find what’s good. Be specific about improvements needed. Use motivational language.
 - Evaluating lesson contributions in light of Carpentries pedagogical model:
     - Teach what’s most relevant and useful for learners.
     - Avoid getting bogged down in technical details.
     - Keep language motivating. 
-    - Emphasize the importance of continued learning and improvement.
+    - Emphasise the importance of continued learning and improvement.
 
 Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Carpentries lesson Maintainers. 
 
@@ -72,7 +72,7 @@ the onboarding process.
 
 5) Add Maintainers who are going through training to the [maintainer-onboarding Google Group](https://groups.google.com/a/carpentries.org/forum/#!forum/maintainer-onboarding). This is where announcements about upcoming meetings should be sent.
 
-6) After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximize attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
+6) After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximise attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
 
 7) Populate the [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 
@@ -84,7 +84,7 @@ the onboarding process.
 
 11) Run the three weeks of meetings according to [the curriculum](https://carpentries.github.io/maintainer-onboarding/). Keep record of who participates in the AMY event.
 
-12) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homeworks. 
+12) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homework. 
 
 13) After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:  
     - Give them "write" access to their lesson repository on GitHub. 

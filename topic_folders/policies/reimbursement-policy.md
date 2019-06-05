@@ -35,7 +35,7 @@ The Carpentries provides reimbursement for appropriate and allowable expenses. T
 
 SUBSTANTIATION AND ORIGINAL RECEIPTS
 
-In order for a business expense to be approved and reimbursed, it must be properly substantiated. Original receipts (see above definition) for all expenditures are required. If sponsored by a particular agency or organization and requirements are more restrictive, the more restrictive receipt requirement will take precedence. If a required receipt has been lost, that information must be included when the reimbursement request is made.
+In order for a business expense to be approved and reimbursed, it must be properly substantiated. Original receipts (see above definition) for all expenditures are required. If sponsored by a particular agency or organisation and requirements are more restrictive, the more restrictive receipt requirement will take precedence. If a required receipt has been lost, that information must be included when the reimbursement request is made.
 
 EXPENSE REPORT 
 
@@ -65,7 +65,7 @@ Return of excess amounts must be done within 120 days after expenses are paid or
 
 Community Initiatives will guide the process for repayment of funds.
 
-If individuals are volunteers, they will be expected to repay “excess amounts” and it may affect their volunteer status with the organization.
+If individuals are volunteers, they will be expected to repay “excess amounts” and it may affect their volunteer status with the organisation.
 
 **V. Procedures**
 
@@ -81,7 +81,7 @@ Those expecting reimbursement are responsible for discerning appropriate and all
 - If a meal for business purposes besides travel, the people in attendance at the meal
 - Additional notes
 
-Reimbursement requests and documentation should be submitted to the Administrative Support Specialist at finance@carpentries.org. The Administrative Support Specialist will organize the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff.
+Reimbursement requests and documentation should be submitted to the Administrative Support Specialist at finance@carpentries.org. The Administrative Support Specialist will organise the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff.
 
 **VI. Contact Roles and Responsibilities**
 - Executive Director - Tracy Teal
