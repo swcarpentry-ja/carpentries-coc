@@ -16,12 +16,12 @@ The Carpentries uses [HubSpot](https://www.hubspot.com/) to maintain a record of
 * *Interested*: the prospective member contact has expressed the desire to become a member
 * *Agreement Drafted*: an agreement has been drafted and sent to prospective member contact for comments or approval.
 * *Contract Sent*: formal agreement has been agreed upon and is out for signatures
-* *Onboarding*: the agreement has been signed, and this organization is now a member, going through the member onboarding process
+* *Onboarding*: the agreement has been signed, and this organisation is now a member, going through the member onboarding process
 * *Closed Won*: all onboarding has been completed.
 * *Closed Lost*: this conversation is not going to progress to a membership.
 * *Renewal*: an agreement that is renewed
 * *Remind about renewal*: this member needs to be contacted about renewal because their current agreement will be expiring soon.
-* *Finalize new terms*: member would like to renew, and we are having a conversation with the member about the terms of the renewal agreement.
+* *Finalise new terms*: member would like to renew, and we are having a conversation with the member about the terms of the renewal agreement.
 * *Out for Signatures*: terms for the renewal have been agreed upon, and the renewal agreement is out for signatures.
 * *Invoiced*: the member has been sent an invoice for their renewal and the renewal agreement has been signed.
 * *Won’t renew*: member will not be renewing.
