@@ -14,13 +14,13 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 * Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
 * Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
 * Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, the Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-* Work with the Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organized workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
+* Work with the Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
 * Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses)
 * Get emergency contact information for instructors in case of last minute changes
 * Arrange for [required materials and equipment](workshop_needs.md)
 * Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 * Email learners to remind them of workshop location, timing, and software installation requirements
-* Organize a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
+* Organise a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
 * Meet the instructors and learners
@@ -30,13 +30,13 @@ A workshop host contacts the Carpentries staff about running a workshop.  He or 
 **After the workshop, the host will**
 * Collect workshop attendance
 * Send attendance and any other feedback to the Carpentries Workshop Administration Team
-* Pay the workshop fee (only for centrally organized workshops)
+* Pay the workshop fee (only for centrally organised workshops)
 * Reimburse the instructors
 
 #### Billing Guidelines
 Payment for workshops is generally due 30 days after the invoice is issued.
 
-Invoices overdue 4 or more months may lead to the cessation of work on current activities involving the organization to whom the overdue invoice was issued until the payment process is addressed.
+Invoices overdue 4 or more months may lead to the cessation of work on current activities involving the organisation to whom the overdue invoice was issued until the payment process is addressed.
 
 
 #### Instructor Checklist

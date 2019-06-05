@@ -14,7 +14,7 @@ Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), ap
 * *Optional: Joinery*: Includes other ways to get involved in the Carpentries community and ways the Carpentries community is involved in other conferences, etc.
 * *Optional: Toolshed (Posts from our Past)*: A place to highlight handy posts from the blog or discussion list archives that might still be relevant to postings to lists and other issues.
 * *Community Job postings*: Includes information that has come through on the *Discuss* email list, Twitter, and other media.
-* *Other places to connect*: This section is standardized for all newsletter issues.
+* *Other places to connect*: This section is standardised for all newsletter issues.
 
 #### Submitting newsletter content
 
@@ -51,7 +51,7 @@ Go to *Preview and Test* to preview the newsletter before sending it out. This i
 
 The newsletter will now be locked. If any changes need to be made after the newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
 
-After a campaign has been paused and then restarted, it is important to doublecheck that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
+After a campaign has been paused and then restarted, it is important to double check that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
 
 As soon as the newsletter has been sent out, move it to the **Carpentry Clippings** folder. This adds it to the [searchable online archive](https://carpentries.org/newsletter/) findable through our website. To move it, check the box next to the newsletter and select the Carpentry Clippings folder when the `Move to` option appears.
 

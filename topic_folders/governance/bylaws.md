@@ -20,14 +20,14 @@ A Lesson Program within The Carpentries should possess the following characteris
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development
 
 ### Governance of Lesson Programs
-Each Lesson Program will have a Lesson Program Committee to serve as community governance organization and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations.
+Each Lesson Program will have a Lesson Program Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations.
 
 ### Resignation and Termination of Lesson Programs
-In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and the Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with the Carpentries. In either case, notice must be given to the other organization to arrange for separation of responsibilities and resources.  
+In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and the Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with the Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
 
-## 3. Organizational Membership
-### Eligibility, Rights, and Termination of Organizational Members
-Member Organizations have committed to supporting the maintenance and growth of the Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organizations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organization.
+## 3. Organisational Membership
+### Eligibility, Rights, and Termination of Organisational Members
+Member Organisations have committed to supporting the maintenance and growth of the Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organisations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organisation.
 
 ## 4. Individual Voting Membership
 
@@ -39,7 +39,7 @@ Individuals who satisfy at least one of the following conditions are eligible fo
 1. Every individual who has completed instructor or trainer certification in the past year
 2. Every individual who has completed their instructor certification in the last two years and has taught at least one workshop of The Carpentries
 3. Every individual who is a certified instructor and has taught at least two workshops of The Carpentries in the past two years
-4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organization in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community
+4. Any individual who has participated on a committee, served as a mentor or maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organisation in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community
 
 The Executive Director is not eligible for Voting Membership.
 
@@ -50,10 +50,10 @@ Any individual who no longer wishes to be affiliated with The Carpentries or inc
 ## 5. Executive Council
 
 ### General Powers
-As the highest leadership body of the organization, the Executive Council is responsible for:
-- determining the mission and purposes of the organization
+As the highest leadership body of the organisation, the Executive Council is responsible for:
+- determining the mission and purposes of the organisation
 - selecting the Executive Director and evaluating their performance
-- strategic and organizational planning
+- strategic and organisational planning
 - ensuring strong fiduciary oversight and financial management
 - identifying revenue streams and resource development
 - approving and monitoring The Carpentries programs and services
@@ -62,22 +62,22 @@ As the highest leadership body of the organization, the Executive Council is res
 
 ### Responsibilities of Executive Council Members
 Each Member of the Executive Council is responsible for:
-- knowing the organization’s mission, policies, programs, and needs
-- reading and understanding the organization’s financial statements
-- serving as active advocates and ambassadors for the organization necessary for The Carpentries to advance its mission
+- knowing the organisation’s mission, policies, programs, and needs
+- reading and understanding the organisation’s financial statements
+- serving as active advocates and ambassadors for the organisation necessary for The Carpentries to advance its mission
 - leveraging connections, networks, and resources to develop collective action to fully achieve the Carpentries’ mission
-- helping identify personal connections that can benefit the organization’s fundraising and reputational standing, and can influence public policy
+- helping identify personal connections that can benefit the organisation’s fundraising and reputational standing, and can influence public policy
 - preparing for, attending, and conscientiously participating in Executive Council meetings
 
 ### Number, Tenure, Requirements, and Qualifications
-The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected Members"). The other four (4) Members will be elected by the Membership of the organization ("Community-elected Members").
+The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected Members"). The other four (4) Members will be elected by the Membership of the organisation ("Community-elected Members").
 No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries staff are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
 The Executive Council must meet at least ten (10) times per year, either in person or online. Quorum for meetings of the Executive Council is five Members, including at least one Council-elected and one Community-elected Member.
 
 ### Compensation
-Members of the Executive Council shall not receive compensation from the Organization for their service, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council.
+Members of the Executive Council shall not receive compensation from the Organisation for their service, with the exception of administrative support, travel, and accommodation costs related to their duties on the Executive Council.
 
 ### Confidentiality
 Members of the Executive Council will sometimes discuss or be made aware of information or activities that may be sensitive to share publicly (e.g. salary information). Executive Council Members are expected to treat such information confidentially and to disclose such information to those outside the Executive Council only when the Executive Council has agreed that such dissemination is appropriate.
@@ -150,12 +150,12 @@ If an officer steps down, is removed from the Executive Council, or is otherwise
 ## 8. Committees
 
 ### Committee Formation
-Committees are organized by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Task forces are similar in that they perform specific tasks, but on a short-term basis (e.g., a year or less) and may be organized by staff. Both committees and task forces are overseen by staff, although the Executive Council may request quarterly reports on each group’s activities.
+Committees are organised by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Task forces are similar in that they perform specific tasks, but on a short-term basis (e.g., a year or less) and may be organised by staff. Both committees and task forces are overseen by staff, although the Executive Council may request quarterly reports on each group’s activities.
 
 ## 9. Staff
 
 ### Executive Director
-The Executive Director acts as the Chief Executive Officer of The Carpentries in accordance with its vision and mission as overseen by the Executive Council. The Executive Director provides oversight and overall management, planning, vision and leadership for all aspects of The Carpentries including programs, finances, resource development, human resources, member services, communications, and Executive Council development. The Executive Director assumes a leadership role in partnering with collaborating organizations, businesses, universities, foundations, government agencies, other nonprofits and supporters. The Executive Director works with the Executive Council to establish vision, policies, strategic focus, priorities, and general scope of programs The Carpentries will deliver, and communicates on progress towards these goals via an annual report.
+The Executive Director acts as the Chief Executive Officer of The Carpentries in accordance with its vision and mission as overseen by the Executive Council. The Executive Director provides oversight and overall management, planning, vision and leadership for all aspects of The Carpentries including programs, finances, resource development, human resources, member services, communications, and Executive Council development. The Executive Director assumes a leadership role in partnering with collaborating organisations, businesses, universities, foundations, government agencies, other nonprofits and supporters. The Executive Director works with the Executive Council to establish vision, policies, strategic focus, priorities, and general scope of programs The Carpentries will deliver, and communicates on progress towards these goals via an annual report.
 
 The Executive Council is responsible for advertising and interviewing for the position of Executive Director. A majority vote of the Executive Council is required to hire or remove the Executive Director from their position.
 
