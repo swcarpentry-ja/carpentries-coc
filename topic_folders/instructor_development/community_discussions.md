@@ -1,6 +1,6 @@
 ## Community Discussions 
 
-The Instructor Development Committee leads and organizes Community Discussions. This document describes how community discussions are organized and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
+The Instructor Development Committee leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
 
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
@@ -80,7 +80,7 @@ Community discussions are organised and conducted through [this Etherpad](http:/
 
 ##### Before the Discussion Session
 
-The Instructor Development Committee is responsible for organizing the community discussions so that
+The Instructor Development Committee is responsible for organising the community discussions so that
 
 -   each month has at least eight discussion sessions, and
 -   each session has at least one host (preferably two) to conduct the discussion.
@@ -139,7 +139,7 @@ The agenda should be similar to the following:
   - Do you find the instructor notes helpful? How do you use them? How could they be more useful?
   - What are you most excited about for teaching with The Carpentries? 
 - Preparing for instructor training checkout (2 minutes)
-  - Questions about checkout procedure, lessons, or workshop organization?
+  - Questions about checkout procedure, lessons, or workshop organisation?
   - Have you asked a question here yet?
 - Closing (Main Room) (3 minutes)   
   - Reports from breakout rooms   

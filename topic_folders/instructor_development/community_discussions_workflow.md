@@ -55,7 +55,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
     - Serve as timekeeper
     - Thank attendees for participating
     - Remind attendees to complete the questionnaire
-    - Ensure we recognize those attending the discussion for checkout and facilitate Q&A for checkout participants.
+    - Ensure we recognise those attending the discussion for checkout and facilitate Q&A for checkout participants.
 - Share Zoom Room Credentials & Practice Breakout Rooms
   - Contact the Community Engagement Lead on `serah@carpentries.org` in case you need alternative Zoom Room Credentials shared.
 - [Optional] Review [The Carpentries Community Discussions Host Onboarding slide deck](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit?usp=sharing)
