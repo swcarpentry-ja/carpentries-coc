@@ -1,6 +1,6 @@
 ## Community Discussions 
 
-The Instructor Development Committee leads and organizes Community Discussions. This document describes how community discussions are organized and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
+The Instructor Development Committee leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
 
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
@@ -21,7 +21,7 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 ### Terminology
 
 -   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
--   **Discussion Session Host**: member of the Carpentries community who facilitates a community discussion.
+-   **Discussion Session Host**: member of The Carpentries community who facilitates a community discussion.
 -   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsibilities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
 
 ### Motivation
@@ -34,9 +34,9 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 ### Who Can Host?
 
-Hosting community discussions is a great way to meet more people in the Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
+Hosting community discussions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of the Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
@@ -67,7 +67,7 @@ If you'd like to host a pre/post-workshop session:
 
 * Primary role is to assist with note-taking while the Host leads the discussion
 * Take accurate notes of discussion on the Etherpad
-* At the beginning of the callI, introduce yourself as the co-host/notetaker
+* At the beginning of the call, introduce yourself as the co-host/notetaker
 * Co-hosts/notetakers do not have to be the very active in the conversation
 * If a co-host/notetaker does want to chime in, it is welcome!
 * **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
@@ -80,7 +80,7 @@ Community discussions are organised and conducted through [this Etherpad](http:/
 
 ##### Before the Discussion Session
 
-The Instructor Development Committee is responsible for organizing the community discussions so that
+The Instructor Development Committee is responsible for organising the community discussions so that
 
 -   each month has at least eight discussion sessions, and
 -   each session has at least one host (preferably two) to conduct the discussion.
@@ -89,7 +89,7 @@ The Discussion Session Coordinator is responsible for scheduling the events and 
 
 Meeting scheduling will be coordinated via this [Etherpad](http://pad.carpentries.org/community-discussions).
 
-The dates of community discussions are also listed in the Carpentries [community calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
+The dates of community discussions are also listed in The Carpentries [community calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com).
 
 1.  Invitations for checkout participants are tracked through two spreadsheets - one for instructors doing a [post-workshop debriefs](https://docs.google.com/spreadsheets/d/1OZuaulmSVcekQcFlfWc6cK_8odm64pMqGnEMl3hSPHU/edit#gid=0), sent weekly, and one for instructors doing a [pre-workshop discussion session](https://docs.google.com/spreadsheets/d/1C-R24LRURYx5-PjeW45vvZtPRI7LaQFg8tzixkkq49o/edit#gid=1948936411), sent every other week.
 
@@ -139,7 +139,7 @@ The agenda should be similar to the following:
   - Do you find the instructor notes helpful? How do you use them? How could they be more useful?
   - What are you most excited about for teaching with The Carpentries? 
 - Preparing for instructor training checkout (2 minutes)
-  - Questions about checkout procedure, lessons, or workshop organization?
+  - Questions about checkout procedure, lessons, or workshop organisation?
   - Have you asked a question here yet?
 - Closing (Main Room) (3 minutes)   
   - Reports from breakout rooms   

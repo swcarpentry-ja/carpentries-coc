@@ -38,7 +38,7 @@ Checklist of tasks to complete before release:
 - [ ] check that the instructor guide is up to date with the content of the lessons
 - [ ] check that all the links within the lessons work (this should be automated)
 - [ ] check that the cheat sheets included in lessons are up to date (e.g., RStudio updates them regularly)
-- [ ] check that languge is clear and free of idioms and colloquialisms
+- [ ] check that language is clear and free of idioms and colloquialisms
 - [ ] make sure formatting of the code in the lesson looks good (e.g. line breaks)
 - [ ] check for clarity and flow of narrative
 - [ ] update README as needed
