@@ -110,6 +110,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 ##### Starting Points for Demos
 
 This table has moved.  
+
 Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*).
 
 
