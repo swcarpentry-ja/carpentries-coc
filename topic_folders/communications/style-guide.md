@@ -4,18 +4,16 @@ This guide aims to provide a standard reference point when questions arise about
 
 We will adhere to a similar style  on our website and in other material we make widely available such as blog posts, but not necessarily in lessons. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
  
-The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://twitter.com/cloudaus‏), is a first draft.
+The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://www.twitter.com/cloudaus), is a first draft.
 
-Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c), 
-
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organization is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+Please note, as outlined in [section C](/topic_folders/communications/style-guide.html#c): The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
 
 ---
 
 ## A
 
 ##### abbreviations and acronyms
-Generally use all capitals for initialisms, _e.g.,_ NSF, CEO, BIDS. When writing about an organisation or event within text, provide the acronym in brackets on first use, and use the acronym to refer to the organisation or event from then on. For example, ‘She was the chair of the National Science Foundation ... The NSF … ’
+Generally use all capitals for initialisms, _e.g.,_ NSF, CEO, BIDS. When writing about an organisation or event within text, provide the acronym in brackets on first use, and use the acronym to refer to the organisation or event from then on. For example, ‘She was the chair of the National Science Foundation (NSF) ... The NSF … ’
 
 If an organisation is mentioned only once within a piece of text, say, in a blog post, it is not necessary to provide its acronym. Do not use acronyms without spelling these out first as country-specific acronym may be unfamiliar to members of our community.
  
@@ -67,7 +65,7 @@ But <br>
   Render these with initial capitals, _e.g.,_ District Attorney’s Office, Human Rights Commission, the University of Florida. Use lower case when not referring to an organisation by its proper name, _e.g.,_ ‘She worked for the National Society of Coders. The society was founded … ’
 
   **lesson titles and episode names** <br>
-  Lesson titles and episodes within lessons should be rendered in Title case, i.e. all major words capitalised, _e.g.,_ Introduction to Data; Project Organization and Management for Genomics.
+  Lesson titles and episodes within lessons should be rendered in Title case, i.e. all major words capitalised, _e.g.,_ Introduction to Data; Project Organisation and Management for Genomics.
 
   **names of institutions** <br>
   Render these with initial capitals, _e.g.,_ Gordon and Betty Moore Foundation, Smithsonian Institute, the United Nations, the European Union.
@@ -79,7 +77,7 @@ But <br>
  
 ##### Carpentries
 
-The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organization is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
+The Carpentries, while sounding plural, is a singular entity. Therefore, when referring to The Carpentries, verbs should also be singular, _e.g.,_ ‘The Carpentries is …’. The full and correct title for the merged organisation is The Carpentries. However, terminology such as ‘A Carpentries workshop …’ is acceptable.
   
 ##### commas
 Use commas to separate clauses in long sentences. ‘If the judges truly reflected on their decisions regarding the non-award of prizes in 2010, they would not find it hard to see why people objected to their choices.’
@@ -149,10 +147,10 @@ _See also [figures](#figures)._
 
 ## H
 
-##### honorifics and titles
-Honorifics which denote occupations, _e.g.,_ Doctor, Professor, can initially be used within text or in blog posts. Drop honorifics and first names after the first mention and use surname only from then on, _e.g.,_ ‘Professor Gillian Kramer teaches … Kramer has spent a lot of time...’
+##### honourifics and titles
+Honourifics which denote occupations, _e.g.,_ Doctor, Professor, can initially be used within text or in blog posts. Drop honourifics and first names after the first mention and use surname only from then on, _e.g.,_ ‘Professor Gillian Kramer teaches … Kramer has spent a lot of time...’
  
-Honorifics such as FRCS should not include full stops.
+Honourifics such as FRCS should not include full stops.
 
 
 ## I
@@ -166,7 +164,7 @@ not –ization, _e.g.,_ organisation, characterisation.
 not -ize at end of word, _e.g._, characterise, sympathise, organise. One exception is capsize.
  
 ##### italics
-Foreign words and phrases, and scientific names, _e.g._, Macropus rufus.
+Foreign words and phrases, and scientific names, _e.g._, *Macropus rufus*, *Bufo marinus*.
 
 ## N
  
@@ -228,7 +226,7 @@ _See also [dates](#dates)_.
 Corporate entities take the singular: _e.g.,_ ‘The NSF has announced … ’ In subsequent references, use a singular pronoun: ‘It will cover the Olympics.’ The Carpentries is always singular.
 
 ##### square brackets
-In text, square brackets are used for interpolated words in quotations, _e.g.,_ Olav Jonsson said, ‘Matthew [Brown] went to Capetown to address a conference.’
+In text, square brackets are used for interpolated words in quotations, _e.g.,_ Olav Jonsson said, ‘Matthew [Brown] went to CapeTown to address a conference.’
 
 ## T
 

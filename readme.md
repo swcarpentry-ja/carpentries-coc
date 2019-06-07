@@ -37,7 +37,7 @@ $ python2 -m SimpleHTTPServer
 $ python3 -m http.server
 ```
 
-In both cases, a local web server will be run on port 8000, so navigate to <http://localhost:8000> in your browser to view the site locally.
+In both cases, a local web server will be run on port `8000`, so navigate to <http://localhost:8000> in your browser to view the site locally.
 
 You can make changes to the contents of the repository, and re-run `make html`, to update the website contents. If you are having problems with the site not refreshing, you can delete the contents of the `_build` directory (which are automatically generated) with `rm -fr _build/*`.
 
@@ -45,7 +45,7 @@ If new files or folders are added to the Handbook, `index.rst` will need to be u
 
 #### Site structure
 
-The root level `index.rst` generates the main categories the sidebar navigation.  Each sub-section is a folder in the `topic_folders` directory. Each folder within the `topic_folders` directory has its own `index.rst` file. These then expand into the subcategories in each directory.
+The root level `index.rst` generates the main categories and the sidebar navigation.  Each sub-section is a folder in the `topic_folders` directory. Each folder within the `topic_folders` directory has its own `index.rst` file. These then expand into the subcategories in each directory.
 
 Within each folder's `index.rst` file, the section heading is defined by a string of  `=` beneath it. Subheadings can be defined using `###` in each markdown file or by a heading with `-` under it in the `index.rst` file.
 
@@ -66,7 +66,7 @@ For the `index.rst` files, links must be formatted as follows. Note the text is 
 
 #### Additional information
 
-This site is built from the master branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to Github, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
+This site is built from the master branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
 
 If you are making experimental changes to content please be sure to do so in a non-master, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in [carpentries/handbook](https://github.com/carpentries/handbook).
 

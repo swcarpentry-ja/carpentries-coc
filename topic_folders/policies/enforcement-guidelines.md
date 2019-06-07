@@ -6,7 +6,7 @@ The CoC committee will attempt to ensure your safety and help with any immediate
 
 If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.  
 
-The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in the Carpentries [Enforcement Guidelines](enforcement-guidelines.html). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
+The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.html). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
 
 Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.  
 
@@ -86,7 +86,7 @@ What follows are examples of possible resolutions to an incident report. This li
 - The IRL will write a short report of the conversation to be shared with the reportee for verification purposes and then shared with the CoCc and maintained on record in the private GitHub repository.
 - A private emailed reprimand from the committee to the individual(s) involved. 
 - The IRL will deliver a reprimand to the individual(s) over email, cc'ing the Code of Conduct Committee.
-- Requiring that the reportee avoid any interaction with, and physical proximity to, another person for the remainder of the Carpentries event.
+- Requiring that the reportee avoid any interaction with, and physical proximity to, another person for the remainder of The Carpentries event.
 - Refusal of alcoholic beverage purchases by the reportee at Carpentries events.
 - Ending a talk that violates the Code of Conduct early.
 - Not publishing the video or slides of a talk that violated the Code of Conduct.
@@ -97,7 +97,7 @@ What follows are examples of possible resolutions to an incident report. This li
 - Immediately ending any volunteer responsibilities and privileges the reportee holds.  
 - A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.). 
 - The CoCc may choose to publish this message elsewhere for posterity.  
-- An imposed suspension (i.e. asking someone to "take a week off" from a listserv or the Carpentries’ GitHub repos). 
+- An imposed suspension (i.e. asking someone to "take a week off" from a listserv or The Carpentries’ GitHub repos). 
 - The IRL will communicate this suspension to the reportee. They will be asked to take this suspension voluntarily, but if they do not agree, then a temporary ban may be imposed to enforce this suspension.  
 - A permanent or temporary ban from some or all Carpentries spaces (listservs, GitHub, in-person events including workshops, etc). 
 - The CoC committee will maintain records of all such bans so that they may be reviewed in the future, extended to new Carpentries communication forums, or otherwise maintained.  
@@ -117,7 +117,7 @@ Appeals can be requested up to 30 days after a resolution has been determined.
 
 ##### Accountability
 
-The CoC committee will submit a report to The Carpentries Executive Council and the Carpentries Executive Director in the event of an ongoing resolution, such as a termed suspension or ban.  
+The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution, such as a termed suspension or ban.  
 
 The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Executive Council.  
 

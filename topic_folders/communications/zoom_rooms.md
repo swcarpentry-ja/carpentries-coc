@@ -37,7 +37,7 @@ Each room can have a host who will have privileges to mute people, create breako
 #### Zoom Manual 
 The Carpentries online community events are held on [Zoom][zoom-home].  The Carpentries staff will set up host access to our Zoom rooms for people leading community events. No login is needed for event guests; however a browser plug in may be required.
 
-If you are leading an event, you will be given host acccess to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
+If you are leading an event, you will be given host access to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
 
 All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact The Carpentries staff immediately.
 
@@ -93,7 +93,7 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 
     * If you select a room and immediately remove it, it may not appear as available again until you close out the edit event screen and enter it again.
     * Save the event.
-    * The event will now show up on the Carpentries Community Calendar and the Zoom Rooms Calendar.
+    * The event will now show up on The Carpentries Community Calendar and the Zoom Rooms Calendar.
 
 
 Be sure to complete the above steps in order (i.e., do not select a room before setting the exact date and time).

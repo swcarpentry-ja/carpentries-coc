@@ -65,7 +65,7 @@ Thank you for signing up to do your teaching demonstration next week at [time in
 - [list available sessions by UTC and with time and date links]
 - [list available sessions by UTC and with time and date links]
 
-Please add your name to one of these or another session. I apologize for any inconvenience this has caused for you and hope that you are able to reschedule your demonstration soon. I'm looking forward to having you in our instructor community.
+Please add your name to one of these or another session. I apologise for any inconvenience this has caused for you and hope that you are able to reschedule your demonstration soon. I'm looking forward to having you in our instructor community.
 
 Sincerely,  
 [Name]

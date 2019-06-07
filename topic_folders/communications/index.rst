@@ -15,3 +15,4 @@ COMMUNICATION
    presentations.md
    zoom_rooms.md
    etherpads.md
+   logos.md
