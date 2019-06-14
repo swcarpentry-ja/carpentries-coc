@@ -2,7 +2,7 @@
  
 This guide aims to provide a standard reference point when questions arise about style for The Carpentries - how we would prefer people to reference us, how best to render dates and times for a global community, when to use what capitalisation, and other questions of style. 
 
-We will adhere to a similar style  on our website and in other material we make widely available such as blog posts, but not necessarily in lessons. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
+We will adhere to a similar style  on our website and in other material we make widely available such as blog posts. Lesson contributors and maintainers should aspire to adhere to this style, but may prioritise making material available over style considerations. To ensure that the style guide is as widely applicable as possible, UK English spellings and usage will be used in favour of American spelling.
  
 The guide is a work in progress and additions are welcome. This version, compiled by [Belinda Weaver](https://www.twitter.com/cloudaus), is a first draft.
 
@@ -154,6 +154,12 @@ Honourifics such as FRCS should not include full stops.
 
 
 ## I
+
+##### inclusivity
+Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
+
+Things to avoid: diminishing or dismissive language (just, simply, obviously, etc), local colloquialisms
+
 ##### initials
 Separate initials in names from each other with spaces and full stops, _e.g.,_ J. K. Galbraith.
  
