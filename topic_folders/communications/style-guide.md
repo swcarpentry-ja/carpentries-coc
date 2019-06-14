@@ -137,7 +137,7 @@ If possible, use the correct accents on people’s names in any language, _e.g.,
 The French (or French origin) de, d’, des, la, les or le and the Dutch van are normally lowercase when the name is fully written out, _e.g.,_ Marianne d’Alpuget, Erik van der Walden, but capitalised when written without forenames, _e.g.,_ D’Alpuget, Van der Walden.
 
 ##### foreign words and phrases
-Italicise these and provide accents where applicable, _e.g.,_ bête noire. In the case of frequently used foreign terms in accepted English usage, _e.g.,_ avant garde, vis a vis, vice versa, you do not need to italicise.
+Italicise these and provide accents where applicable, _e.g.,_ _bête noire_. In the case of frequently used foreign terms in accepted English usage, _e.g.,_ avant garde, vis a vis, vice versa, you do not need to italicise.
  
 ##### fractions
 Render as two-thirds, three-quarters, etc., but two and a half needs no hyphens.<br>
