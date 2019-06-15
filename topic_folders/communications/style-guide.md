@@ -152,6 +152,7 @@ Honourifics which denote occupations, _e.g.,_ Doctor, Professor, can initially b
  
 Honourifics such as FRCS should not include full stops.
 
+---
 
 ## I
 
@@ -172,6 +173,8 @@ not -ize at end of word, _e.g._, characterise, sympathise, organise. One excepti
 ##### italics
 Foreign words and phrases, and scientific names, _e.g._, *Macropus rufus*, *Bufo marinus*.
 
+---
+
 ## N
  
 ###### names
@@ -182,6 +185,8 @@ _See also [foreign names](#foreign-names)._
 Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, _e.g.,_ third, fifth, and thereafter use 10th, 31st, etc.
 
 When starting a sentence with any number, the number should be written out as words, _e.g.,_ ‘Twenty-five people attended the workshop.’ ‘Nineteen-ninety-five was not a leap year.’
+
+---
 
 ## O
  
@@ -194,10 +199,14 @@ I spoke to my sisters, Olga Petrova and Susanne De Vries (this wrongly implies t
  
 Carpentries style is to use the Oxford comma.
 
+---
+
 ## P
 ##### per cent
 Please spell this out in text, _e.g.,_ not as %, and write as two words, not one. 
- 
+
+---
+
 ## Q
  
 ##### quotation marks
@@ -214,10 +223,14 @@ Colons, rather than commas, should be used to introduce quotations from speeches
  
 To introduce phrases or single sentence quotations, a comma is preferable, _e.g.,_ Brown said, ‘Winning the Nobel Prize was a highlight.’
 
+---
+
 ## R
  
 ##### roles
 Roles within The Carpentries are always capitalised. Therefore we use Instructor, Trainer, Maintainer, Mentor, and Curriculum Advisor. Helper and host are not capitalised as these are not official roles.
+
+---
 
 ## S
  
@@ -233,6 +246,8 @@ Corporate entities take the singular: _e.g.,_ ‘The NSF has announced … ’ I
 
 ##### square brackets
 In text, square brackets are used for interpolated words in quotations, _e.g.,_ Olav Jonsson said, ‘Matthew [Brown] went to CapeTown to address a conference.’
+
+---
 
 ## T
 
