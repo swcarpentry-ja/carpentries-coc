@@ -21,7 +21,7 @@ is not already a Carpentries member.
 
 Note that you are free to charge what you choose for a workshop;
 this is a perennial topic of discussion among the Carpentries community and there's
-a good summary of points here: TBD
+a good summary of points here: [Carpentries Blog on Charging for Workshops](https://carpentries.org/blog/2019/06/carpentries-workshops-fees/).
 
 In both cases (self- or centrally-organized), you can start the workshop
 process by completing the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) and 
