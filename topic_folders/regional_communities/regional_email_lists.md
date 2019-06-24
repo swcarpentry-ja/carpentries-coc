@@ -25,6 +25,7 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 
 #### United States
 - [Bay Area](https://carpentries.topicbox.com/groups/local-bayarea)
+- [Boston](https://carpentries.topicbox.com/groups/local-boston)
 - [Colorado](https://carpentries.topicbox.com/groups/local-colorado)
 - [Davis, CA](https://carpentries.topicbox.com/groups/local-davis)
 - [Lansing, MI](https://carpentries.topicbox.com/groups/local-lansing)
