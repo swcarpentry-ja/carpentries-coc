@@ -47,7 +47,7 @@ The Program Manager or Workshop Administration Team will introduce workshop host
 
 * Decide on the order of the lessons and who will teach what modules
 * Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
-* Create an [Etherpad](https://pad.carpentries.org/) for the workshop
+* Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/))
 * Assist the host in recruiting helpers if possible
 * Assist the host in ensuring the workshop location is accessible
 * Share emergency contact information with host in case of last minute changes
@@ -88,7 +88,7 @@ Helpers are often recruited from the local community at the host site to support
 
 * Help learners with setup problems or anywhere else they get stuck
 * Monitor room for anyone who may need help.  Learners may put up a red sticky note or indicate in other ways that they are stuck.
-* Monitor any questions that come up on the etherpad and answer them or remind the instructor about them during a break.
+* Monitor any questions that come up on the collaborative document and answer them or remind the instructor about them during a break.
 
 **After the workshop helpers will**
 
