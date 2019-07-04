@@ -6,7 +6,7 @@ If in doubt over what tags to attach to your post, email community[at]carpentrie
 
 ### By Region
 
-In case the post you intend to publish reports on activities carried out by The Carpentries in a specific region, or holds an invitation target at a geographical subset of our community, please add a region tag, such as [Africa](https://carpentries.org/posts-by-tags/#blog-tag-africa), [Latin America](https://carpentries.org/posts-by-tags/#blog-tag-latin-america), Australasia.
+In case the post you intend to publish reports on activities carried out by The Carpentries in a specific region, or holds an invitation target at a geographical subset of our community, please add a region tag, such as [Africa](https://carpentries.org/posts-by-tags/#blog-tag-africa), [Latin America](https://carpentries.org/posts-by-tags/#blog-tag-latin-america), [Australasia](https://carpentries.org/posts-by-tags/#blog-tag-australasia).
 
 ### By Carpentry
 
