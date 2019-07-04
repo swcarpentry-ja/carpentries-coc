@@ -1,14 +1,14 @@
-### Setting up surveys using Survey Monkey
+### Setting up Surveys using Survey Monkey
 
 The Carpentries uses [Survey Monkey](https://www.surveymonkey.com/) to manage all workshop surveys. 
 
-#### Logging in
+#### Logging In
 
 The Workshop Administration Team will have log in credentials from The Carpentries to set up surveys.  They will share links to view survey results with workshop hosts and instructors. Hosts and instructors do not need log in credentials.
 
 Contact team@carpentries with questions about logging in.
 
-#### Setting up a workshop survey
+#### Setting up a Workshop Survey
 
 If a learner accesses the survey from that workshop's website (in the format `username.github.io/YYYY-MM-DD-sitename`), the survey links will be appended with the workshop slug (so https://www.surveymonkey.com/r/swc_pre_workshop_v1 becomes https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=YYYY-MM-DD-sitename).
 
@@ -22,7 +22,7 @@ The existing questions about which workshop the learner is attending are being d
 
 Learners are prompted to fill in their workshop ID or the workshop date and location if the ID is not known. Having this information accurate and complete is crucial to being able to share survey results.
 
-#### Sharing survey results: Web view
+#### Sharing Survey Results: Web View
 
 Survey results can be shared as a website view with charts and graphs of aggregate data.
 
@@ -74,7 +74,7 @@ This link will also be included in the Shared Data List, at the bottom of the le
 It will be given a sequential number. Click on the `...` to rename it to the workshop ID.  This list is monitored regularly, and anything with the sequential number will be deleted.
 
 
-#### Sharing survey results: Raw data
+#### Sharing Survey Results: Raw Data
 
 If requested, raw data as CSV can be exported and shared with hosts and instructors.
 
@@ -88,7 +88,7 @@ This will then show up in the "Exports" list on the left side of the screen.  Cl
 
 ![Survey results export](images/surveymonkey_export.png)
 
-#### Modifying survey responses
+#### Modifying Survey Responses
 
 Survey data can be modified once a user has submitted their response.  To protect the integrity of our data, this should be done *only* if it is known that a respondent filled in an incorrect or incorrectly formatted workshop id.
 

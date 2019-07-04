@@ -1,6 +1,6 @@
-### Workshop Administration workflow
+### Workshop Administration Workflow
 
-#### For centrally organised workshops
+#### For Centrally-Organised Workshops
 
 1. One of the following occurs:
     * Someone submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) 
@@ -58,7 +58,7 @@
 1. Regional Coordinator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).
 
 
-#### For self organised workshops
+#### For Self-Organised Workshops
  
 1. Instructors notify Regional Coordinator about upcoming self organised workshop. This is no fee (suggested or mandated) for a self organised workshop.
 

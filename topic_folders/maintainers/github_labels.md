@@ -1,4 +1,4 @@
-### How to label issues
+### How to Label Issues
 
 <!-- DO NOT EDIT BY HAND: it should be generated using the carpenter       -->
 <!-- R package https://github.com/fmichonneau/carpenter                    -->
@@ -129,7 +129,7 @@
  </ul>
 </li></ul>
 
-#### How to populate a GitHub repository with these labels
+#### How to Populate a GitHub Repository with these Labels
 
 The [carpenter](https://github.com/fmichonneau/carpenter) R pacakge provides helper functions to create these labels from a CSV file using the GitHub API.
 To use the GitHub API, you need to obtain a GitHub Personal Access Token (PAT). This PAT is a way for GitHub to identify you and should be treated as a password.

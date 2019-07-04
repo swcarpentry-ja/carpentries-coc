@@ -2,7 +2,7 @@
 
 #### From Regional Coordinator
 
-##### General inquiry response
+##### General Inquiry Response
 
 Subject: About hosting a Carpentries Workshop
 
@@ -52,7 +52,7 @@ Best,
 
 [sender name]
 
-##### Confirming instructor availability
+##### Confirming Instructor Availability
 
 Hi [ instructor name ],
 
@@ -66,7 +66,7 @@ Best,
 
 [ sender name ]
 
-##### Host and instructor introductions
+##### Host and Instructor Introductions
 
 Subject: Carpentries workshop at [ site_name ], [ Date of Workshop ] - Making introductions
 
@@ -114,7 +114,7 @@ Best,
 
 [ sender name ]
 
-##### Other instructors placed 
+##### Other Instructors Placed 
 
 Subject: Carpentries workshop at [ site_name ]: Other instructors placed
 
@@ -128,7 +128,7 @@ Thanks!
 
 [ sender name ]
 
-##### Eventbrite information needed for Registration
+##### Eventbrite iInformation Needed for Registration
 
 Subject: Carpentries workshop at [site name]: Eventbrite Registration Information
 
@@ -190,7 +190,7 @@ Best,
 
 [sender name]
 
-##### Sharing survey results
+##### Sharing Survey Results
 
 Hi Everyone,
 
@@ -215,7 +215,7 @@ Best,
 
 [ sender name ] 
 
-##### Pre workshop check in
+##### Pre-workshop Checkin
 
 I'm checking in to be sure you're ready for your upcoming workshop on [ WORKSHOP DATE ].   If there are any last minute questions you have please let me know. As a reminder please be sure to review the items below to help you prepare for your workshop. 
 
@@ -232,7 +232,7 @@ Best,
 [ sender name ] 
 
 
-##### Post workshop check in
+##### Post-workshop Checkin
 
 Hi  [ instructors/hosts ],
 
@@ -390,7 +390,7 @@ Best,
 [ sender name ]
 
 
-##### Email learners before workshop   
+##### Email Learners before Workshop   
 
 Hello,  
 
@@ -423,7 +423,7 @@ Best,
 ____________________________________________________________________________
 
 
-##### Email learners after workshop  
+##### Email Learners after Workshop  
 
 Hello,
 Thank you for attending our [ Data/Library/Software ] Carpentry workshop. We hope that you had fun and learned a lot of useful skills. 
@@ -440,7 +440,7 @@ Best,
 ____________________________________________________________________________
 
 
-##### Encourage learners to complete pre-workshop survey
+##### Encourage Learners to Complete Pre-workshop Survey
 
 Hello,
 
@@ -453,7 +453,7 @@ If you have any questions about our assessment strategy, please contact Kari L. 
 Our best,  
 Your instructors
 
-##### Encourage learners to complete post-workshop survey
+##### Encourage Learners to Complete Post-workshop Survey
 
 Hello,
 
