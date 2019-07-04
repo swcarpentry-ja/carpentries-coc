@@ -4,7 +4,7 @@ This section contains email templates for English and Spanish activities.
 
 #### Templates in English
 
-##### Email after training event
+##### Email after Training Event
 
 Subject: Thanks for attending Carpentries Instructor Training!
 
@@ -18,7 +18,7 @@ Best,
 
 [ name ]
 
-##### Reminder teaching demo
+##### Reminder Teaching Demo
 
 Subject: The Carpentries teaching demonstration
 
@@ -36,7 +36,7 @@ See you at the demo session,
 
 [ sender name ] 
 
-##### Trainee didn’t pass teaching demo
+##### Trainee Didn’t Pass Teaching Demo
 
 Subject: Carpentries instructor training: Teaching Demo
 
@@ -50,7 +50,7 @@ Best wishes,
 
 [ sender name ] 
 
-##### Trainee did pass teaching demo
+##### Trainee Did Pass Teaching Demo
 
 Subject: Carpentries instructor training: Teaching Demo
 
@@ -87,7 +87,7 @@ Best/Saludos,
 [ sender name ]
 
 
-##### Spanish: trainee did not pass teaching demo
+##### Spanish: Trainee Did Not Pass Teaching Demo
 
 Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
 
@@ -101,7 +101,7 @@ Saludos,
 
 [nombre del remitente]
 
-##### Spanish: trainee did pass teaching demo
+##### Spanish: Trainee Did Pass Teaching Demo
 
 Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
 

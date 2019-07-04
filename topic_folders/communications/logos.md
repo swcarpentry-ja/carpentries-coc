@@ -6,7 +6,7 @@ You do not require approval to use these trademarks in some cases. Stating accur
 
 If you have any doubts about your intended use of the trademarks, please write to us at team@carpentries.org and one of our team members will advise.
 
-#### Links to logo files
+#### Links to Logo Files
 
 * [The Carpentries](https://github.com/carpentries/logo)
 * [Data Carpentry](https://github.com/datacarpentry/logos)

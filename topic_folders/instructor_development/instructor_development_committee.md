@@ -104,7 +104,7 @@ The primary responsibilities of the Discussion Session Coordinator are:
 - Adding Community Discussions to the [Community Calendar](https://carpentries.org/community/#community-events)
 - Checking in with hosts the week of their discussion sessions
 
-##### Time commitment
+##### Time Commitment
 
 - 1-2 hours a week
 - 1 year term beginning 1-May

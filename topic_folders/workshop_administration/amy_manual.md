@@ -6,7 +6,7 @@
 
 ![AMY login screen goes here](images/amy_login_screen.png)
 
-### AMY dashboard
+### AMY Dashboard
 
 All the menus and a search bar are displayed across the top. The main page has two columns, showing published workshops and unpublished workshops.
 
@@ -24,18 +24,18 @@ From here you can also add new [persons](#adding-a-new-person), [events](#adding
 
 ![AMY add new elements](images/amy_add_new.png)
 
-### Adding a new organisation
+### Adding a New Organisation
 
 If the site name is not already in AMY, add a new one by selecting "New Organisation." Do not enter `http://` or any slashes in the domain name.
 
 ![AMY add new organisation](images/amy_new_organization.png)
 
 
-### Adding a new person
+### Adding a New Person
 
 If a person's record does not exist in the database, it can be added individually or as part of a bulk upload.
 
-#### Adding an individual person record
+#### Adding an Individual Person Record
 
 Select "New person" and enter in as much information as possible.  At minimum a personal name is required.  If the airport is not listed, it will need to be [added in](#adding-a-new-airport).
 
@@ -43,7 +43,7 @@ The person's privacy settings can also be set here.  The person's profile will d
 
 ![AMY add new person](images/amy_new_person.png)
 
-#### Adding bulk person records
+#### Adding Bulk Person Records
 
 `Person` records can also be added in bulk from a `.csv` file using the `Bulk add persons` menu option in the  `New` menu at the top right or the `More` menu. **Note: To bulk add records, the persons must have a role specified (instructor,helper,learner,host) associated with a specific event**.
 
@@ -55,7 +55,7 @@ The role must exactly match the [instructions here](https://amy.carpentries.org/
 
 This will take you to a screen where you can verify each record, correct any errors, and submit them for bulk upload.  If a person with the same name and email already exists in the database, you will be able to match the new entry to the existing record.  Otherwise a new person record will be created.
 
-### Adding a new airport
+### Adding a New Airport
 
 Airports are used as approximate geographic identifiers for our instructors. Each airport is identified by its three digit IATA code which can be looked up using [the link in AMY](https://www.world-airport-codes.com/).
 
@@ -64,14 +64,14 @@ Enter in the airport's IATA code, full name, country, and latitude and longitude
 ![AMY add airport](images/amy_add_airport.png)
 
 
-### Adding a new event
+### Adding a New Event
 
 New events can be created one of several ways:
 * By manually entering all information on the [new event page](#creating-a-new-event-manually)
 * By importing from URL on the [new event page](#creating-a-new-event-from-url)
 * By accepting a [workshop request](#creating-a-new-event-from-a-workshop-request)
 
-#### Creating a new event manually
+#### Creating a New Event Manually
 
 * Create the workshop slug. This must be in the form `YYYY-MM-DD-sitename` (for example, `2018-01-01-hawkins`.  The same slug should be used for the workshop's GitHub page and any other place the workshop is identified. If the exact date is not known, `XX` can replace the month and/or day (for example, `2018-01-xx-starfleet`).  
 
@@ -151,7 +151,7 @@ New events can be created one of several ways:
 
 Click "Submit" to save this event.
 
-#### Creating a new event from URL
+#### Creating a New Event from URL
 
 If you already have the event's URL with properly formatted metadata using [The Carpentries workshop template](https://github.com/carpentries/workshop-template), the following information can automatically be imported:
 
@@ -163,7 +163,7 @@ Instructor and helper names will be in the notes field but not assigned in the d
 
 All other information will need to be entered in as above.
 
-#### Creating a new event from a workshop request
+#### Creating a New Event from a Workshop Request
 
 A workshop can be requested from a host site, and this information can be used to create an event in AMY. Select "Workshop requests" from the "Requests" menu.
 
@@ -180,13 +180,13 @@ This will open a page with a side by side view of the request details and view t
 ![AMY workshop accept request](images/amy_workshop_request_accept.png)
 
 
-### Assigning people to events
+### Assigning People to Events
 
 Regardless of how events are created, adding the people associated with each event can not easily be automated. [Name matching is hard](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/).
 
 People can be associated with events one by one or as a bulk upload.
 
-#### Assigning people to events one by one
+#### Assigning People to Events, One by One
 
 Go to the event page and click the "Edit" button at the top of the page.  Select the "Tasks" tab. (Note the sponsor tab is not currently being used.)
 
@@ -200,7 +200,7 @@ Below this form, a list of all people assigned to this event is displayed. A per
 
 When done, go back to the "Event" tab at the top of the page, and click "Submit" at the bottom of the event page to save changes. All people should now appear at the bottom of the event page.
 
-#### Assigning people to events in bulk
+#### Assigning People to Events in Bulk
 
 See [section above](amy_manual.html#adding-bulk-records).
 
@@ -232,7 +232,7 @@ Click "Accept & match selected trainees to chosen training." The search screen w
 
 ![Match trainees to instructor training event](images/amy_instructor_training_match.png)
 
-#### Tracking checkout progress
+#### Tracking Checkout Progress
 
 The above steps note that a trainee was accepted in to a training event. Completion of the training event and three steps towards trainee checkout can be tracked in AMY.  Each person's record will have a line for Instructor Training Progress.
 
@@ -242,23 +242,23 @@ Click on the plus sign in the Training Progress line. This will go to a screen w
 
 ![AMY training progress steps](images/amy_training_progress_steps.png)
 
-##### Recording completion of training event
+##### Recording Completion of Training Event
 
 On the screen above, select 'Training' and note whether they passed or failed.
 
-##### Recording completion of discussion session
+##### Recording Completion of Discussion Session
 
 On the screen above, select 'Discussion' and note whether they passed or failed.
 
-##### Recording completion of teaching demo
+##### Recording Completion of Teaching Demo
 
 On the screen above, select 'DC Demo' or 'SWC Demo' depending on which lesson they used for their demo, and note whether they passed or failed.
 
-##### Recording completion of lesson contribution
+##### Recording Completion of Lesson Contribution
 
 On the screen above, select 'DC Homework' or 'SWC Homework' depending on which lesson they used for their contribution, and note whether they passed or failed.  In the notes section, link to their lesson contribution.  
 
-### Issueing badges
+### Issuing Badges
 
 The Carpentries has various badges that can be issued, including Data Carpentry Instructor, Software Carpentry Instructor, Trainer, Maintainer, and more.  
 
@@ -305,7 +305,7 @@ AMY comes with several built in reporting features that can be accessed by click
 ### Roles in AMY
 What you are able to edit or view depends on your assigned role in AMY.
 
-#### Instructor login
+#### Instructor Login
 
 Instructors can log in to AMY to view and update their own information. To do so, they must have a valid GitHub username in their profile. Instructors should visit the [AMY login page](https://amy.carpentries.org/account/login/) and click on `Log in with your GitHub account`.
 
@@ -315,15 +315,15 @@ If an instructor is having trouble logging in, an administrator can verify the f
 * Click on `Change permissions` and be sure `Is active` is checked. No other permissions should be checked unless the instructor is also an otherwise authorised user.
 * `Logging in allowed` should show next to the GitHub name in the profile. If it says `Allow logging in with GitHub`, click this to allow logging in. This must be done **after** setting permissions to active above.
 
-#### Admin roles
+#### Admin Roles
 
 Admin users will have rights to view and edit many other parts of the AMY database.  The Django admin panel can be accessed from the top right menu, under the user's name, generating a unique URL for the session.
 
 An admin user can view their profile as if they were an ordinary user on [this dashboard page](https://amy.carpentries.org/dashboard/trainee/).
 
-### Other tasks
+### Other Tasks
 
-#### Merging duplicate persons or events
+#### Merging Duplicate Persons or Events
 
 If duplicate persons or event records exists, they can be merged.  Select "Merge persons" or "Merge events" from the "More" menu. 
 
@@ -331,7 +331,7 @@ Choose the two Persons or Events to be merged, and click "Submit" to see merge o
 
 ### Searching
 
-#### General search
+#### General Search
 The quickest and easiest way to search is using the search box in the top menu bar. This will perform a case insensitive search of any field in AMY, including searching for partial matches. For example:
 *  `12-12-` will match any workshop slug containing that string (essentially any workshop on December 12 of any year.)
 * `ola tes` will match `Nikola Tesla` and `Nolan Bates`

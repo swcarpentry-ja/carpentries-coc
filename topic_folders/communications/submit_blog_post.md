@@ -1,8 +1,8 @@
-### Submitting blog posts 
+### Submitting Blog Posts 
 
 The Carpentries welcomes blog posts from our community members including workshop host sites, instructors, learners, and more.
 
-#### How to Contribute a Blog Post to The Carpentries blog
+#### How to Contribute a Blog Post to The Carpentries Blog
 
 1.  If you wish to contribute a blog post,
     please work in <https://github.com/carpentries/carpentries.org>,

@@ -1,4 +1,4 @@
-### Workshop needs
+### Workshop Needs
 
 Participants are expected to come with their own laptops.  Setting up a computer lab space is not necessary. Before the workshop, participants will receive instructions on what software they need to install and set up on their laptops.
 
@@ -14,7 +14,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * High table or podium that instructor can stand at while teaching.  A flat podium is important; it's difficult to use a laptop on a slanted podium.
 * Refreshments. People learn better when they are well fed.  They also won't lose as much instructional time if they don't have to leave to get coffee.
 
-#### Equipment and materials
+#### Equipment and Materials
 
 * Power strips, as noted above, to ensure everyone's laptop stays charged
 * Sticky notes in two contrasting colors. These are an important part of how we get feedback during a lesson.  We should have enough for each person to have about 8 of each color.

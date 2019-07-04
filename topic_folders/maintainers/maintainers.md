@@ -29,7 +29,7 @@ Maintainers represent The Carpentries community and should strive to embody The 
 
 Note: These guidelines are adapted from those currently in use by the Data Carpentry Genomics Maintainers and are provisional. The Maintainer team will be deciding on official guidelines for the full set of Carpentries lesson Maintainers. 
 
-## How to stay in touch 
+## How to Stay in Touch 
 
 The overall Maintainer community communicates using our [mailing list](http://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with The Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
 
@@ -38,11 +38,11 @@ The Maintainer community meets monthly to discuss issues relevant to all lesson 
 Each Lesson Team also has their own Slack channel. A link to join your lesson's Slack channel can be found
 in the README file in your lesson repository. 
 
-## How to handle issues
+## How to Handle Issues
 
 Information coming soon. 
 
-## How to get help
+## How to Get Help
 
 There are many ways to request help on an issue or PR you are reviewing. To get help from other Maintainers or the general community, use the `help wanted` or `good first issue` labels.
 
@@ -50,7 +50,7 @@ If an issue affects the overall structure or scope of the lesson, you can refer 
 
 You can also get help from other Maintainers and interested community members by posting a question to your lesson's Slack channel. 
 
-## How to suggest changes to the styling for all lessons
+## How to Suggest Changes to the Styling for all Lessons
 
 Information coming soon.
 

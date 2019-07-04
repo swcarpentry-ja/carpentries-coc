@@ -16,7 +16,7 @@ that points to the newly-created release branch of the lesson.
 
 More information about lesson releases coming soon!
 
-### Lesson Release checklist
+### Lesson Release Checklist
 
 **For each lesson release, copy this checklist to an issue and check off
 during preparation for release**
@@ -47,18 +47,6 @@ Checklist of tasks to complete before release:
 - [ ] clean up files (e.g. delete deprecated files, insure filenames are consistent)
 - [ ] update the release notes (NEWS)
 - [ ] tag release on GitHub
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

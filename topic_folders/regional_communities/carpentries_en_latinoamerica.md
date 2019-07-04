@@ -4,7 +4,7 @@ La construcción de una comunidad sostenible y activa en América Latina incluye
 
 Building a sustainable and active community in Latin America include several iniatives: lesson translation, instructor training, workshop coordination, and fundraising. This respository serves as a landing point for this diverse group of activies.  
 
-### Como puedes ayudar / Ways to help
+### Como puedes ayudar / Ways to Help
 
 There are many ways to help build The Carpentries community in Latin America. 
 
@@ -17,18 +17,18 @@ There are many ways to help build The Carpentries community in Latin America.
 
 If you can help in any of these ways, or know of another way you can support development of The Carpentries community in Latin America, please [get in touch!](https://groups.google.com/a/carpentries.org/forum/#!forum/latinoamerica) 
 
-### Cómo participar / How to get involved
+### Cómo participar / How to Get Involved
 
 Para ponerse en contacto con este grupo, envía un correo electrónico a [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). Para unirse a la lista de correo electrónico, visita [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). Para contactarnos directamente te invitamos a usar [slack](https://swc-slack-invite.herokuapp.com/) en el canal **carpentries_es**.
 
 To contact this group, email [local-latinoamerica@lists.carpentries.org](mailto:local-latinoamerica@lists.carpentries.org). To join the email list, visit [Topic-Box](https://carpentries.topicbox.com/groups/local-latinoamerica). To contact us directly you are invited to join [slack](https://swc-slack-invite.herokuapp.com/) in the **carpentries_es** channel.
 
-### ¿Quién está involucrado? / Who is already involved? 
+### ¿Quién está involucrado? / Who is Already Involved? 
 
 - Traducción de lección / Lesson translation: Paula Andrea Martinez, Francisco Palm, Rayna Harris
 - Capacitación de instructores / Instructor training: Karen Word (with help from Sue McClatchy, Rayna Harris, Belinda Weaver)
 
-### Reuniones bilingües / Bilingual meetings 
+### Reuniones bilingües / Bilingual Meetings 
 
 - Hacemos reuniones bilingües para la sección "Enseñanza de las sesiones de demostración" de ["Instructor Training Checkout"](https://software-carpentry.org/blog/2015/12/instructor-training-checkout-procedure.html). Inscríbase en el [Etherpad](https://pad.carpentries.org/teaching-demos-recovered) o lea las [instrucciones bilingües](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md) para saber cómo funcionan las sesiones de demostración.
 
