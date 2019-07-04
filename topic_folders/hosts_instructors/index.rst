@@ -9,11 +9,12 @@ have two options: a centrally-organized or self-organized workshop.
 One way to understand the distinction between centrally-organized and self-organized workshops is who 
 is responsible for certain key workshop components: 
 
-| Component | Centrally-Organized | Self-Organized
-|---------- |-------------------- |-------------- |
-| Location  | The local organizer provides the space and organizes local logistics. | The local organizer provides the space and organizes local logistics. |
-| Instructors/Helpers | The Carpentries organization finds instructors for the workshop; the local workshop organizer books the instructor's travel and finds local helpers to assist. | The workshop organizer finds both instructors and helpers. |
-| Learners | The local organizer advertises and recruits learners, but the Carpentries manages registration, | The local organizer manages registration and advertising. |
++-------------+-------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+| Component   | Centrally-Organised                                                     | Self-Organised                                                         | 
++=============+=========================================================================+========================================================================+ 
+| Location    | The local organiser provides the space and organises local logistics.   | The local organiser provides the space and organises local logistics.  | 
++-------------+-------------------------------------------------------------------------+------------------------------------------------------------------------+ 
+
 
 In both cases, the host site is expected to pay for instructor travel (if needed) and
 cover local costs.  For a centrally organized workshop, there is a fee if the organizer
