@@ -14,14 +14,14 @@ Software installation can be frustrating, but in the end, it almost always gets 
 * If possible, recruit  helpers who use Linux, Mac, and Windows operating systems.
 * If you/helpers/instructors have time, test the install instructions on a fresh user account on your computer.
 * If you anticipate issues (or want to be extra prepared), have some of the emergency options listed below ready to go.  
-* If you're teaching for an organization where participants are bringing work laptops where they don't have administrative access (common in government organizations) -- ask about it.  Try to plan ahead either with their central IT organization or with the "emergency exits" listed below.  
+* If you're teaching for an organisation where participants are bringing work laptops where they don't have administrative access (common in government organisations) -- ask about it.  Try to plan ahead either with their central IT organisation or with the "emergency exits" listed below.  
 * Will you have decent Wi-Fi?  A bunch of people installing software at once can kill a poor internet connection.  If this is the case, prep a few flash drives with the relevant installers.  
 
 **On the day of:**
 
 * Refer to our [Wiki page with common problems](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions)
 * If someone has come in early and the software still can't be installed by the time the workshop starts, try one of the "emergency exits" below or keep working with them one-on-one until they're able to start. 
-* If someone comes in late or is having such trouble with installation that they can't start, have them watch (and maybe work with a neighbor) until the first coffee break, when you can keep working on installation issues.  
+* If someone comes in late or is having such trouble with installation that they can't start, have them watch (and maybe work with a neighbour) until the first coffee break, when you can keep working on installation issues.  
 
 **"Emergency Exits"**
 
@@ -37,7 +37,7 @@ The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/pol
 
 > The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others.
 > 
-> What kinds of behaviors are expected?
+> What kinds of behaviours are expected?
 >
 > All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:
 >
@@ -47,7 +47,7 @@ The [Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/pol
 > * Focus on what is best for the community
 > * Show courtesy and respect towards other community members
 > 
-> Examples of unacceptable behavior by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the  details on how to handle Code of Conduct violations. 
+> Examples of unacceptable behaviour by participants at any Carpentries event/platform can be found in the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines). We Instructors take the Code of Conduct very seriously, and we have a process for dealing with violations and complaints. Read the [Reporting Guidelines section](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#reporting-guidelines) for the  details on how to handle Code of Conduct violations. 
 
 #### Using Exercises
 
@@ -77,7 +77,7 @@ The introduction is one of the most important pieces of the workshop!  It sets t
 
 **Accessibility Check-In**
 
-Before you start, review our  [accessibility checkist.](workshop_needs.html#accessibility).
+Before you start, review our  [accessibility checklist.](workshop_needs.html#accessibility).
 
 Set up your computer and go to the back of the room.  Is your font big enough?  
 
@@ -93,7 +93,7 @@ To be expanded, how to handle:
 
 **Varying Skill Level**
 
-Carpentries workshops frequently include many people with widely varying skills and experiences.  See the end of the Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) for some strategies to deal with a diverse classroom.  
+Carpentries workshops frequently include many people with widely varying skills and experiences.  See the end of The Carpentries Instructor Training on [Carpentries teaching practices](https://carpentries.github.io/instructor-training/24-practices/index.html) for some strategies to deal with a diverse classroom.  
 
 #### Preparing to Teach
 
@@ -107,13 +107,13 @@ Most Carpentries lessons include a guide for instructors. These are great for no
 
 Most of the lessons have more exercises than you will want to use.  Go through the lesson and pick the ones that you think will be most helpful for your audience.  If you anticipate mostly novices, look for easier or more scaffolded exercises.  For a more advanced audience, a more general exercise might be better.  If you'll have both, have an option for each!  
 
-You won't want to use *all* the exercises, but make sure that in this process, you commit to actually doing exercises.  Exercises are time-consuming and it can be tempting (in the moment) to talk instead of taking the time to do an exercise.  However, doing exercises is a huge part of the hands-on Carpentries model and also gives people a chance to chat with their neighbors, so it should be prioritized.  
+You won't want to use *all* the exercises, but make sure that in this process, you commit to actually doing exercises.  Exercises are time-consuming and it can be tempting (in the moment) to talk instead of taking the time to do an exercise.  However, doing exercises is a huge part of the hands-on Carpentries model and also gives people a chance to chat with their neighbours, so it should be prioritised.  
 
 Speaking of priorities...
 
-**Prioritize**
+**Prioritise**
 
-All of The Carpentries lessons have more material than you can easily cover in the time alloted, especially with a novice group.  The Data Carpentry materials are closer to realistic workshop time estimates, but can still run slowly depending on the group.  
+All of The Carpentries lessons have more material than you can easily cover in the time allotted, especially with a novice group.  The Data Carpentry materials are closer to realistic workshop time estimates, but can still run slowly depending on the group.  
 
 So no matter what, go through the lesson in advance and decide what is most important to cover and what you would feel okay skipping (either skipping outright, or dropping it if you don't have time).  
 
@@ -123,7 +123,7 @@ As an example: the shell lesson has 7 sections -- the first three are about basi
 
 * At the very least, do a dry run of all the commands you will be running / code you'll be writing so that you know they work on your computer. 
 * Hook your computer up to a projector and figure out how you're going to manage your screen real estate, especially if everything is magnified.
-	* Rstudio: Rstudio can be particularly challenging because of all the panes.  Reducing the size of the two right panes is usually needed to have enough space in the script/console panes. 
+	* RStudio: RStudio can be particularly challenging because of all the panes.  Reducing the size of the two right panes is usually needed to have enough space in the script/console panes. 
 	* Jupyter notebooks: you can toggle the headers/toolbar off so that you have more scripting space
 * If you have the time, doing a full run-through where you actually practice what you're going to say can be extremely valuable.  Words are hard when you're also trying to type and manage a classroom, so having said them once in practice gives you one less new thing to think about.  
 

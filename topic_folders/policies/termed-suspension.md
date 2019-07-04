@@ -13,7 +13,7 @@ If there is a decision for a Termed Suspension, the following checklist is follo
 ##### Online Communication and Communities
 Revoke access from the following communication channels and communities: 
 - Email lists on [TopicBox](https://carpentries.topicbox.com/groups) 
-- Email lists on Google Groups inlcuding but not limited to:
+- Email lists on Google Groups including but not limited to:
   - Library Carpentry Governance Group
   - Library Carpentry Maintainer Onboarding
   - Code of Conduct Committee
@@ -41,13 +41,13 @@ The suspended member will, for the duration of their suspension:
 - Be asked not to sign up for workshops on the Instructor Spreadsheet.
 - Not be able to participate as a helper at any workshops.
 - Be removed from Eventbrite login access.
-- Not be allowed to plan self-organized workshops.
+- Not be allowed to plan self-organised workshops.
 - Not be allowed to request or host centrally coordinated workshops.
 - Not be listed as an instructor on the “Instructors” webpage.
 - Be removed from the instructors email list.
 
-##### Organizing Workshops 
-If the suspended member is a Regional Coordinator or serves in another role whereby they organize workshops for The Carpentries, for the duration of their suspension they will not have access to:
+##### Organising Workshops 
+If the suspended member is a Regional Coordinator or serves in another role whereby they organise workshops for The Carpentries, for the duration of their suspension they will not have access to:
 - LastPass
 - AMY
 - Regional Email

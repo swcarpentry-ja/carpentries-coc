@@ -11,7 +11,7 @@ our community offers.
 We are very grateful to our community of Instructors! From those who teach once or twice a 
 year to those who organise entire programs, from those who have just gotten involved to those who have 
 deeply embedded themselves as mentors, discussion hosts, committee and Task Force members, and 
-instructor Trainers: EVERY Instructor helps make the Carpentries what we are. Thank you!!
+instructor Trainers: EVERY Instructor helps make The Carpentries what we are. Thank you!!
 
 
 

@@ -16,12 +16,12 @@ Information obtained and how it is used is described in sections below for
 ## Definitions
 
 - *Workshop participants* - people participating, including but not limited to as learner, helper, or instructor in a Carpentries workshop
-- *Hosts* - people organizing a workshop at their local site
+- *Hosts* - people organising a workshop at their local site
 - *Instructors and Trainers* - people who are teaching a Carpentries workshop
 - *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification
 - *Lesson contributors and maintainers* - people who contribute to or maintain lessons
 - *The Carpentries staff* - people employed by The Carpentries
-- *Authorized administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop or volunteer coordinators
+- *Authorised administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop or volunteer coordinators
 
 #### How is personally identifiable information stored?
 
@@ -30,7 +30,7 @@ Personally identifiable information is stored in secure databases. Refer to [Lim
 
 #### Who has access to personally identifiable information?
 
-Access will be limited to The Carpentries staff and Authorized administrators.
+Access will be limited to The Carpentries staff and authorised administrators.
 
 ## Section 1: Workshop Participants
 Workshop participants include Learners, Helpers and Hosts
@@ -47,10 +47,10 @@ See [Section VI: All Participants](#section-vi-all-participants) for further inf
 Instructors includes Instructors, Trainers, Instructor Trainees and Instructor Applicants
 
 #### What information do we obtain?
-We may obtain the name and email address of participants at instructor training events and of current instructors. This information may be provided by the participant or event host. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organizational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
+We may obtain the name and email address of participants at instructor training events and of current instructors. This information may be provided by the participant or event host. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organisational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
 
 #### How is this information used?
-We use this information to communicate with Instructors, including for instructor training events, training completion materials, communication about the organization, and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding instructors publicly or with volunteers, partners or third parties, including but not limited to funding entities.
+We use this information to communicate with Instructors, including for instructor training events, training completion materials, communication about the organisation, and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding instructors publicly or with volunteers, partners or third parties, including but not limited to funding entities.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
 ## Section 3: Other Volunteers
@@ -58,22 +58,22 @@ See [Section VI: All Participants](#section-vi-all-participants) for further inf
 Other Volunteers includes Lesson contributors and maintainers and Volunteers for subcommittees or programs
 
 #### What information do we obtain?
-We may obtain the name and email address of Other volunteers. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organizational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
+We may obtain the name and email address of Other volunteers. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organisational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL.
 
 #### How is this information used?
-We use this information to communicate with Other volunteers, including communication about the organization and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding volunteers publicly or with other volunteers, partners or third parties, including but not limited to funding entities.
+We use this information to communicate with Other volunteers, including communication about the organisation and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding volunteers publicly or with other volunteers, partners or third parties, including but not limited to funding entities.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
 ## Section 4: Online Spaces
-This Privacy Policy is applicable to information that you provided/collected through physical (such as a paper form) and online means, including through our websites or other external online spaces (including but not limited to GitHub repositories, Etherpads, Google Documents, EventBrite and mailing lists). By using these spaces, you agree to the terms of this Privacy Policy. Some of these tools and services (including but not limited to GitHub, Google Documents, EventBrite and SurveyMonkey) have their own independent privacy policies. See [Section V: Opt-In Surveys](#section-v-opt-in-surveys), for information specifically on survey information.
+This Privacy Policy is applicable to information that you provided/collected through physical (such as a paper form) and online means, including through our websites or other external online spaces (including but not limited to GitHub repositories, Etherpads, Google Documents, EventBrite and mailing lists). By using these spaces, you agree to the terms of this Privacy Policy. Some of these tools and services (including but not limited to GitHub, Google Documents, Eventbrite and SurveyMonkey) have their own independent privacy policies. See [Section V: Opt-In Surveys](#section-v-opt-in-surveys), for information specifically on survey information.
 
 #### What information do we obtain?
 We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.
 In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.
-If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our staff or authorized adminstrators and to the staff of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
+If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our staff or authorised administrators and to the staff of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
 
 #### What do we do with this information?
-We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding vistors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.
+We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding visitors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
 ## Section 5: Opt-in Surveys
@@ -84,7 +84,7 @@ Opt-in surveys are entirely voluntary and information is not collected in a way 
 Surveys collect information particular to the event or program being evaluated and optional information about the participant. Gender and ethnicity data, when collected, is only collected from participants in the United States.
 
 #### What do we do with this information?
-We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-indentifed responses.
+We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-identified responses.
 See [Section VI: All Participants](#section-vi-all-participants) for further information
 
 ## Section 6: All Participants

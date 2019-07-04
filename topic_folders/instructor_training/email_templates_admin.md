@@ -17,9 +17,9 @@ at your institution.
 We run two-day, online Instructor Training workshops multiple times 
 per month. These events are scheduled for a range of time zones, to 
 better serve our global community. We recommend, if possible, that 
-your trainees join the same training event and are co-localized. 
+your trainees join the same training event and are co-localised. 
 This enables them to know each other over the course of the event 
-and build up your local community.  We recognize that it can be 
+and build up your local community.  We recognise that it can be 
 difficult to coordinate everyone’s schedules, however, so we do 
 provide the flexibility of trainees joining different events. If 
 your trainees are not able to attend an event together as a team,
@@ -47,7 +47,7 @@ our capacity needs, we may not be able to accommodate changes in
 registration unless we are notified at least one week in advance of the event.
 
  Note that in order to provide the best experience for our trainees, 
- in rare instances events may be canceled due to low enrollment.  If 
+ in rare instances events may be canceled due to low enrolment.  If 
  this happens, your trainees will be notified two weeks before the event and will 
  have the opportunity to sign up for a future event.
 
@@ -98,7 +98,7 @@ about you.
 for the workshop. I will also be supporting all the administrative 
 details to make this event a success.
 
-[ host_name ] as you prepare for the training please keep in mind that there will be several breakout sessions during the training. If possible, please reserve at least 2 additional rooms for this to take place. Also, the instructors will be using sticky notes throughout the training, so please have 2 colors of sticky notes (enough for each person to have at least 4 of each color).  These are essential to the way we operate. 
+[ host_name ] as you prepare for the training please keep in mind that there will be several breakout sessions during the training. If possible, please reserve at least 2 additional rooms for this to take place. Also, the instructors will be using sticky notes throughout the training, so please have 2 colours of sticky notes (enough for each person to have at least 4 of each colour).  These are essential to the way we operate. 
 
 Please let me know if you have any questions or concerns,
 
@@ -205,7 +205,7 @@ the link to your website.
 You can create an Etherpad for your training using this template: 
 https://pad.carpentries.org/ttt-template. This template includes all
 of the exercises and key-points of the lessons. Please feel free to 
-customize your Etherpad as appropriate. 
+customise your Etherpad as appropriate. 
 
 Get in touch with your co-Trainer(s) to decide who will teach which
 sections of the curriculum: 
@@ -285,37 +285,34 @@ workshop on [ DATE-TIME-TIMEZONE ]. This email contains important
 information to help you prepare for the training - please read it 
 carefully and let me know if you have any questions. 
 
+Our instructor Trainers [ trainer1 ] and [ trainer2 ] will be leading
+your training. This website provides the Instructor Training syllabus 
+and schedule: [INSERT LINK].
+
 This training is for people who want to become certified Carpentries 
-instructors. This workshop will introduce you to evidence-based 
-best-practices of teaching. We will teach you how to create a 
-positive environment for learners at your workshops, provide 
-opportunities for you to practice and build your teaching skills, 
-help you become integrated into the Carpentries community, and 
-prepare you to use these teaching skills in teaching Carpentries 
-workshops. For more information about what will be covered at this 
-training, check out our Instructor Training curriculum: 
+instructors. You will be introduced to evidence-based best-practices 
+of teaching, learn how to create a positive environment for learners 
+at your workshops, acquire new teaching skills, and become integrated 
+into The Carpentries community. For more information about what will 
+be covered at this training, check out our Instructor Training curriculum: 
 http://carpentries.github.io/instructor-training/.
 
-This is training for teaching, not technical training. We recommend 
-that you be familiar with at least one of the technologies that we 
+As part of your certification, you must demonstrate your ability to teach 
+a programming language or technology using Carpentries lessons.  
+We recommend familiarity with at least one of the technologies that we 
 teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet
-software, and/or Git) before taking Instructor Training. We will not
-be covering the contents of our workshop curricula during Instructor
-Training, but we do provide optional post-training onboarding 
-sessions and mentoring opportunities to help prepare Instructors to 
-teach particular curricula.
+software, and/or Git) before taking Instructor Training. Aside from 
+these short demonstrations, this workshop does not provide any 
+opportunities for learning how to code.
 
-Our instructor Trainers [ trainer1 ] and [ trainer2 ] will be leading
-your training. This online training will be conducted using the Zoom 
-video conferencing platform.  No log in is needed, but you may need 
-to install a browser extension. To access the training please use 
-this link: [INSERT LINK]. All participants are required to have 
-their own laptop and earbuds/headphones. Some participants may be
-attending the training in the same room. If this is the case, please
-be sure that everyone is wearing their earbuds/headphones and are 
-muted at all times when not speaking. Your Trainers have put 
-together a workshop website with information about the schedule: 
-[INSERT LINK]
+
+This online training will be conducted using the Zoom 
+video conferencing platform at [INSERT LINK].  No log in is needed, but you must 
+install a browser extension to enable the required breakout group feature. 
+Each participant needs their own laptop and earbuds/headphones. 
+If you are co-located with another participant, please use only one microphone 
+at a time to prevent reverberation.
+
 
 Attendance is required for the full two-days of the workshop in order
 to certify as a Carpentries Instructor. Participants who miss more 
@@ -324,21 +321,22 @@ ahead of time that you will miss an hour of the training, please
 notify your Trainers.
 
 Before your training, please: 
+
+- Take 2 minutes to read The Carpentries executive summary to learn about the mission, vision, impact, financials, and community. https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf
 - Complete our pre-workshop survey [INSERT LINK]. Your responses will help your Trainers understand your background and customize the workshop appropriately. 
+- Read “The Science of Learning” (Deans for Impact,2015) for a brief overview of evidence-based results in teaching. https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf 
+- Visit the lesson pages for Software Carpentry (http://software-carpentry.org/lessons/), Data Carpentry  (http://www.datacarpentry.org/lessons/), or Library Carpentry (https://librarycarpentry.org/lessons/) and choose one episode to study in preparation for several exercises during the workshops. Familiarise yourself with the content, and prepare to teach a 5 minutes-worth of content.
 
-- Read this short paper: https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf which provides a brief overview of some key evidence-based results in teaching.
 
-- Go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/), the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), or the Library Carpentry lessons page (https://librarycarpentry.org/lessons/) to see what we currently teach. Carefully read through one episode of your choice. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson.
-
-After your training, you will be asked to do three follow-up 
-exercises online in order to become a certified Instructor. These 
+After your training, you will need to complete three 
+exercises online in order to become a certified Carpentries Instructor. These 
 requirements are detailed at 
 http://carpentries.github.io/instructor-training/checkout/ and will
-be discussed at your training. If you have any questions about the 
-workshop, the reading material, or anything else, please don’t 
-hesitate to get in touch.
+be discussed at your training. 
 
-Happy Training - we are excited to have you on board!
+If you have any questions about the 
+workshop, the reading material, or anything else, please don’t 
+hesitate to get in touch. We look forward to welcoming you into our community.
 
 Best,
 [ SENDER’S NAME ] 
@@ -382,13 +380,13 @@ Please let me know if you have any questions.
 Best, 
 [ SENDER NAME]
 
-##### Event Cancelation (online training)
+##### Event Cancellation (online training)
 
 Dear [ Trainer names ],
 
 Thank you for volunteering to teach The Carpentries Instructor 
 Training on [ dates/ time/timezone  ]. Unfortunately, due
-to low enrollment, we will be cancelling this
+to low enrolment, we will be cancelling this
 event. We are working on ways to better estimate our capacity needs 
 so that we won’t need to cancel events in the future. Thank you again 
 for all of the time you give to the community - I greatly appreciate
@@ -553,7 +551,7 @@ Best,
 
 Hi [INSERT TRAINERS NAMES], 
 
-Thank you for taking time to teach the Carpentries Instructor Training on [INSERT DATES]! I hope you had a great experience. I am following up with you to obtain the attendance from the training. 
+Thank you for taking time to teach The Carpentries Instructor Training on [INSERT DATES]! I hope you had a great experience. I am following up with you to obtain the attendance from the training. 
 
 For your convenience, I have included the names of trainees in this [INSERT FILE]. Please indicate the attendance for both days so that I can record their progress and get them on track to becoming certified Carpentries instructors! 
 
@@ -644,12 +642,12 @@ Thank you for applying for The Carpentries Instructor Training program. We’re 
 If you submitted your application for a specific instructor training workshop, please disregard the message below.
 
 We receive hundreds of applications, and we cannot provide no-cost training for every applicant. Please, don't let that discourage you!
-We'd like to help you bring workshops and instructor training to your organization. We’re working on ways to increase our capacity to
+We'd like to help you bring workshops and instructor training to your organisation. We’re working on ways to increase our capacity to
 offer trainings to individuals not affiliated with member institutions, and hope to be able to offer more of these trainings soon. Your
 application has been placed on our waiting list while we grow our capacity.
 
 If you’d like to become a Member, get in touch with memberships@carpentries.org to learn more about how we can help you make the case at
-your organization. In the meantime, please get involved!  
+your organisation. In the meantime, please get involved!  
   - Join our discussion email list (https://carpentries.topicbox.com/groups/discuss)
   - Follow us on Twitter (@thecarpentries, @datacarpentry, @swcarpentry, and @libcarpentry)
   - Help at a local workshop (https://carpentries.org/)
@@ -659,7 +657,7 @@ Learn more about us!
   - Read our blogs (https://carpentries.org/blog/, http://www.datacarpentry.org/blog/, https://software-carpentry.org/blog/, and https://librarycarpentry.org/blog/)  
   - Sign-up for our newsletter (https://carpentries.org/newsletter/)
                  
-Most of our instructor training events are offered as part of institutional memberships and Member organizations receive training priority. To fast-track your application, consider becoming a Member. For more information see: https://carpentries.org/membership/. 
+Most of our instructor training events are offered as part of institutional memberships and Member organisations receive training priority. To fast-track your application, consider becoming a Member. For more information see: https://carpentries.org/membership/. 
                  
 If you have questions about your application, please contact team@carpentries.org. Thanks again for applying!
                  
@@ -762,10 +760,10 @@ Please note that although your certificate reads either Software Carpentry, Data
 If you haven't already, please be sure to join the instructors mailing list (https://carpentries.topicbox.com/groups/instructors). This
 is where you'll hear about opportunities to teach at upcoming workshops. You can also join the general discussion list 
 (https://carpentries.topicbox.com/groups/discuss) for broader interactions with The Carpentries community. In addition to being able to 
-teach at Carpentries-organized workshops, you are also able to organize and host your own local workshops. You can find more information 
+teach at Carpentries-organised workshops, you are also able to organise and host your own local workshops. You can find more information 
 about running a workshop here (https://docs.carpentries.org/topic_folders/hosts_instructors/index.html).  Your status as a newly certified Instructor also makes you eligible to vote for The Carpentries' Executive Council.  Read more here (https://docs.carpentries.org/topic_folders/governance/index.html).
 
-We also have a team of Regional Coordinators who help run workshops and build Carpentries communities around the world. You can read more about who they are and what they do here:  https://carpentries.org/regionalcoordinators/
+You can check out some of our local communities, sign up for local mailing lists, and meet our Regional Coordinators who support The Carpentries activities around the world here (https://docs.carpentries.org/topic_folders/regional_communities/index.html).
                
 Please let us know if there's anything we can do to help and welcome to the community!
                         
@@ -778,7 +776,7 @@ Subject: Opportunity to join The Carpentries Trainers community
 
 Hi [ name ],
 
-I wanted to get in touch with you about an opportunity to get involved with The Carpentries community. Software Carpentry (SWC), Library Carpentry (LC), and Data Carpentry (DC) are lesson programs of The Carpentries (a fiscally sponsored project of Community Initaitives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
+I wanted to get in touch with you about an opportunity to get involved with The Carpentries community. Software Carpentry (SWC), Library Carpentry (LC), and Data Carpentry (DC) are lesson programs of The Carpentries (a fiscally sponsored project of Community Initiatives). We are focused on spreading computational literacy to researchers around the world. We run intensive, hands-on, two-day workshops to help researchers and other professionals develop the fundamental computational skills they need to do their research. Together, we run over 300 workshops a year, and have reached more than 25,000 learners in 30 countries.
 
 Our workshops are taught by volunteers who go through a two-day training program focused on pedagogy and cognitive psychology. These training events are run by our Instructor Trainers who also help to develop and maintain our instructor training curriculum. 
 
@@ -800,17 +798,17 @@ Best,
 
 ##### Accepting new Trainers
 
-Subject: Congratulations! Join the Carpentries Trainer Community
+Subject: Congratulations! Join The Carpentries Trainer Community
 
 Hi all,
 
-Thank you all for applying to become instructor Trainers with the Carpentries. A group of Trainers have reviewed the applications and we're excited to invite each of you to the Trainer team.
+Thank you all for applying to become instructor Trainers with The Carpentries. A group of Trainers have reviewed the applications and we're excited to invite each of you to the Trainer team.
 
 We'll be starting our new cohort of instructor Trainers in [ month ]. Our cohort will be [ number ] folks located in [ countries ]. We'll be meeting once a week starting in [ month ] to discuss our text and how it relates to our instructor training curriculum. More details can be found in the preliminary reading schedule.
 
-If you're interested in being part of this cohort, please try to complete the following by [ deadline ] so that we can finalize the schedule and start our meetings!
+If you're interested in being part of this cohort, please try to complete the following by [ deadline ] so that we can finalise the schedule and start our meetings!
 
-1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accomodate all time zones, but you will only need to attend one of the weekly meetings.
+1) Please fill out this poll [ link ] for scheduling book club meetings. Don't forget to adjust the timezone shown (pull down menu above the time list). Please choose the days and times that work for you for the entire 8 week period of our book club. To complete certification as a Trainer, we'll ask that you miss at most one of our 8 book club meetings. Since we are spread across several time zones, please be as accommodating as possible in filling out your availability. We will have two meeting times per week to accommodate all time zones, but you will only need to attend one of the weekly meetings.
 
 2) Please take a look over the process for trainer training and make sure that all of the requirements of becoming a Trainer work with your schedule and other responsibilities. We're excited to have you in the Trainer community, but do want to make sure that all Trainers are able to commit the time required, so that we are able to realistically determine the number of instructors we train per year.
 

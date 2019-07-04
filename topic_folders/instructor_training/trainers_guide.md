@@ -9,7 +9,7 @@ The Trainers group meets regularly. Our meetings include three sections: 1) Disc
 1. The Program Manager will confirm events with individual Trainers, at which point they are free to release all other dates on their calendar.
 1. The Program Manager will invite member sites to register for upcoming events. Accepted trainees from the open application process will be invited to register one month before each event.
 
-*Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrollment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
+*Note that in order to provide the best experience for our trainees, in rare instances events may be canceled due to low enrolment.  If this happens, trainees and Trainers will be notified two weeks before the event.  Trainees will have the opportunity to sign up for a future event.*
 
 A calendar for upcoming instructor training events is [here](http://carpentries.github.io/instructor-training/training_calendar/).
 
@@ -17,69 +17,16 @@ A calendar for upcoming instructor training events is [here](http://carpentries.
 
 ##### Running an Instructor Training Event (General)
 
-###### Four weeks before the event
--  Contact your co-Trainer(s) and decide who will teach what.  
--  Create an event Etherpad (using the [Etherpad template][etherpad-template]) or Google Doc (using the [Google Doc template][googledoc-template]) and a workshop website (using the [training template][training-template]).  *Note the Google Doc is not currently maintained and may not be in sync with lesson materials.*
--  Send Etherpad/Google Doc and website links to training@carpentries.org.  
-
-###### One week before the event      
--  Plan logistics with co-Trainer(s)
--  Review (or set aside time closer to the event to review) the pre-assessment survey results for your workshop
--  If teaching remotely: 
-  -  Get acquanted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
-  -  Test videoconferencing set up with co-Trainer(s) using login credentials provided.   
-  -  Decide with co-Trainer(s) whether all Trainers should be present for the full event or if you will log on during your scheduled teaching times only.  
-  -  Make a copy of the [Virtual Minute Cards template][minute-cards-template] and personalize for your event.  
--  If teaching in person:
-  - Confirm with your host that breakout rooms are available or make an alternate plan
-  - Create a plan for printing handouts & determine who will bring sticky notes
-  - Make sure you're prepared for the audiovisual setup in your room with the correct dongles/connectors etc.
-  - Check on availability/timing of coffee, lunch, or any other details that matter to you 
-
-###### During the event
--  Take attendance.  
--  Remind member trainees to fill out application (Open Training applicants have already done this).   
--  Remind trainees to sign up for demo, discussion (links in [checkout checklist][checkout-checklist]).  
--  Monitor the Etherpad / Google Doc for questions and responses to exercises.  
--  If teaching remotely: Turn off video during long exercises and coffee breaks and disconnect during lunch.  
-
-###### Immediately after the event
--  Send a list of those who completed the training to checkout@carpentries.   
--  Send an email to trainees thanking them for participating and linking to [checkout checklist][checkout-checklist] using [this template](email_templates_trainers.html#email-after-training-event)  
--  Review survey results and prepare to discuss at upcoming [Trainers discussion meeting][trainer-pad].  
--  File any relevant issues or PRs to the [instructor training repo][training-repo].  
-
-###### Long-term after the event 
--  Join a [Trainer meeting][trainer-pad] to discuss how your event went.   
-
-#### Differences Between In-person and Online Training Events
-
-##### In-person trainings
-- When watching videos, project them to the whole group.   
-- Assign (or let participants select) physical breakout groups.  
-- Use physical sticky notes to get minute card feedback at lunch breaks and end of each day.  
-
-##### Online trainings (a few small groups) 
-- When watching videos, have one Trainer do a screenshare with their audio on or have one person in each group play the video for the participants at their site.  
-- Assign (or let participants select) physical breakout groups.  
-- Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
-- Have participants do all small-group exercises with participants at same site.  
-
-##### Online trainings (completely distributed)  
-- When watching videos, have all participants watch separately.  
-- Assign breakout groups randomly to breakout rooms in Zoom. Be sure to remove Trainers and helpers when assigning groups. 
-- Use the [virtual minute card][minute-cards-template] form to get feedback at lunch breaks and end of each day.  
-- Have participants screen share with their breakout room during the live coding exercises.   
-- For exercise to set up a workshop website, put participants in breakout rooms and have one person screen share while the others help guide them verbally.  
-
+Please see the [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html) section of the Instructor Training Curriculum for guidelines on preparing to teach an Instructor Training Event. 
 
 #### Running a Teaching Demonstration  
 
-If you would like to watch an example teaching demo, there is a recording of one [here][demo-video].
+If you would like to watch an example teaching demo, there is a recording of one [here][demo-video]. Trainer-suggested scripts and other tips and tricks for hosting these sessions are included in the [Instructor Notes](https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips) section of the Instructor Training Curriculum. 
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  Get acquanted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
+-  Get acquainted with using [Zoom](../communications/zoom_rooms.html#zoom-manual) for videoconferencing.
+- a day or two before the demo, send a reminder email using the [email template](email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
 ##### During the Demo
@@ -92,11 +39,12 @@ If you would like to watch an example teaching demo, there is a recording of one
 -  Use a countdown timer which makes a noise once their 5 minutes are up (e.g., your phone), or just say “bong” really loudly at the end of their time.  
 -  After the five minute timer, allow them to finish their sentence and tell them time’s up.
 -  Use a [rubric][demo-rubric] to help you take notes.   
--  After the trainee is finished, first ask how they themselves thought it went. If you have time, other trainees can give verbal feedback, or you can summarize what is in the etherpad. Then, give focused, constructive feedback based on your notes and the comments of others. You might choose one or two things to particularly emphasize to help focus trainees' efforts as they proceed to teach a workshop. It is also sometimes necessary to take time to (gently) disagree with feedback from another trainee.
+-  After the trainee is finished, first ask how they themselves thought it went. If you have time, other trainees can give verbal feedback, or you can summarise what is in the etherpad. Then, give focused, constructive feedback based on your notes and the comments of others. You might choose one or two things to particularly emphasise to help focus trainees' efforts as they proceed to teach a workshop. It is also sometimes necessary to take time to (gently) disagree with feedback from another trainee.
 -  Do NOT tell a trainee whether they passed immediately after their demo.   
 -  Repeat for the other trainees.  
 -  At the end of the season, ask for general questions.  
 -  If all of your trainees passed, you can tell the group at the end of the demo session. If anyone did not pass, tell everyone you will send them each an email to let them know if they passed.  
+- more tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips) of the instructor training website.
 
 ##### During the Demo (Troubleshooting)
 - Refer to the [Zoom](../communications/zoom_rooms.html#zoom-manual) guide to help troubleshoot connection issues.
@@ -109,8 +57,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Starting Points for Demos
 
-This table has moved.  
-Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*).
+This table has moved. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*).
 
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement

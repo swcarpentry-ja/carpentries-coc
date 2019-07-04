@@ -66,7 +66,7 @@ For the `index.rst` files, links must be formatted as follows. Note the text is 
 
 #### Additional information
 
-This site is built from the master branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to Github, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
+This site is built from the master branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content.
 
 If you are making experimental changes to content please be sure to do so in a non-master, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in [carpentries/handbook](https://github.com/carpentries/handbook).
 

@@ -55,8 +55,8 @@ The Secretary of the Instructor Development Committee is responsible for:
 
 The Communications Chair of the Instructor Development Committee is responsible for:
 
-1. Adding IDC Meetings to the Carpentries Community Calendar
-2. Actively recruiting participants to join IDC meetings and projects by sending out communications via Slack, Topicbox, Twitter (with the help of the Community Engagement Lead) and the Carpentries Blog.
+1. Adding IDC Meetings to The Carpentries Community Calendar
+2. Actively recruiting participants to join IDC meetings and projects by sending out communications via Slack, Topicbox, Twitter (with the help of the Community Engagement Lead) and The Carpentries Blog.
 3. Creating communications around IDC projects or other initiatives.
 
 ##### Time Commitment
@@ -74,9 +74,9 @@ The Communications Chair of the Instructor Development Committee is responsible 
 
 The Mentoring Chair of the Instructor Development Committee is responsible for:
 
-1. Using the [Mentoring Groups Workflow](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups_workflow.html) to recruit mentors/mentees and managing the Carpentries Mentoring Groups.
+1. Using the [Mentoring Groups Workflow](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups_workflow.html) to recruit mentors/mentees and managing The Carpentries Mentoring Groups.
 2. Reporting back to IDC Leadership and Carpentries Staff Liaison about Mentoring Group metrics and any concerns or revisions to the mentoring groups.
-3. Maintaining the Carpentries Mentors' Etherpad and Mentoring Groups' Etherpad
+3. Maintaining The Carpentries Mentors' Etherpad and Mentoring Groups' Etherpad
 4. Updating the [Mentoring Groups](https://docs.carpentries.org/topic_folders/instructor_development/mentoring_groups.html) section of the handbook as necessary.
 5. Managing the #mentoring channel in The Carpentries Slack.
 6. Coordinating with the [Communications Chair](#communications-chair) on communications campaigns around mentoring.
@@ -96,7 +96,7 @@ The Mentoring Chair of the Instructor Development Committee is responsible for:
 
 The primary responsibilities of the Discussion Session Coordinator are:
 
-- Organizing Themed Discussion Sessions and #CarpentriesConversations that come in on the [Call for Community Discussion Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form 
+- Organising Themed Discussion Sessions and #CarpentriesConversations that come in on the [Call for Community Discussion Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form 
 - Inviting instructors to attend pre and post-workshop discussions
 - Recruiting discussion hosts 
 - Maintaining the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts)

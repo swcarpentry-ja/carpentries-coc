@@ -35,7 +35,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - Contact potential Community Discussions Facilitator
   - Send [a version of the following templated e-mail](https://docs.google.com/document/d/1Xag1PA5Ya2iEqpYTKjaKR9gh-JqhsS-yKiZaCAA9VUk/edit) to the individual who completed the form. Once the e-mail has been sent, highlight the row in the spreadsheet yellow indicating that you've contacted the individuals. 
 - Communications Tasks
-	- Inform the Carpentries Staff Liaisons about the Community Discussion by emailing `community@carpentries.org`.
+	- Inform The Carpentries Staff Liaisons about the Community Discussion by emailing `community@carpentries.org`.
 	- Draft tweets for Community Discussion
     - Make a copy of [this template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0) and draft tweets to spread the word about the Community Discussion. 
 		- Send the tweet template to the Community Engagement Lead on `serah@carpentries.org`.
@@ -47,7 +47,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - [Optional] Identify a Community Discussion Moderator
 	- Identify someone to moderator the Community Discussion. This individual will:
     - Introduce the facilitator
-    - Remind participants that we are following the Carpentries CoC
+    - Remind participants that we are following The Carpentries CoC
     - Request permission from attendees to record the session.
     - Take notes during the discussion
     - Moderate Q&A
@@ -55,7 +55,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
     - Serve as timekeeper
     - Thank attendees for participating
     - Remind attendees to complete the questionnaire
-    - Ensure we recognize those attending the discussion for checkout and facilitate Q&A for checkout participants.
+    - Ensure we recognise those attending the discussion for checkout and facilitate Q&A for checkout participants.
 - Share Zoom Room Credentials & Practice Breakout Rooms
   - Contact the Community Engagement Lead on `serah@carpentries.org` in case you need alternative Zoom Room Credentials shared.
 - [Optional] Review [The Carpentries Community Discussions Host Onboarding slide deck](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit?usp=sharing)
