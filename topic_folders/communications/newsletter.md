@@ -2,7 +2,7 @@
 
 Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), appears every two weeks.  
 
-#### Newsletter content
+#### Newsletter Content
 
 * *Highlights from The Carpentries Community Calendar*: Includes items from The Carpentries calendar, such as upcoming events.
 * *Community News*: A place to report on all kinds of things - events, workshop or conference reports, awards, lesson releases, new reports ...
@@ -16,12 +16,12 @@ Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), ap
 * *Community Job postings*: Includes information that has come through on the *Discuss* email list, Twitter, and other media.
 * *Other places to connect*: This section is standardised for all newsletter issues.
 
-#### Submitting newsletter content
+#### Submitting Newsletter Content
 
 Carpentries staff manage newsletter content through this [private Asana project](https://app.asana.com/0/1111365359623439/1111365359623465).  Submissions from community members are welcome by emailing [newsletter@carpentries.org](mailto:newsletter@carpentries.org).
 
 
-#### Publishing the newsletter
+#### Publishing the Newsletter
 
 This information is intended for staff or community members who have taken on the responsibility of publishing the newsletter.
 

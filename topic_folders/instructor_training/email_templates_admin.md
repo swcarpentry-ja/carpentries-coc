@@ -1,6 +1,6 @@
 ### Email Templates (Administrators)
 
-##### Initial Member Contact Email (online training)
+##### Initial Member Contact Email (Online Training)
 
 SUBJECT: Carpentries Instructor Training for [ site_name ]
 
@@ -499,7 +499,7 @@ The Carpentries Instructor team!
 Best,
 [ name ]
 
-##### Cancellation - Member at least one week notice (online training)
+##### Cancellation - Member at Least One Week Notice (online training)
 
 Note: This email will be sent as a response to contact from trainee 
 or member site contact and doesn’t require a special subject line.
@@ -523,7 +523,7 @@ hope you’ll be able to join the Instructor team soon!
 Best,
 [ name ]
 
-##### Cancellation - Open Applicant at least one week notice
+##### Cancellation - Open Applicant at Least One Week Notice
 
 Note: This email will be sent as a response to contact from trainee
 and doesn’t require a special subject line.
@@ -562,7 +562,7 @@ Best,
 [ sender name ]
 
 
-##### Zoom test invitation to host site
+##### Zoom test invitation to Host Site
 
 Hi [Host Name],
 
@@ -665,7 +665,7 @@ Best,
 [ sender name ]
 
 
-##### Checkout deadline approaching
+##### Checkout Deadline Approaching
 
 Subject: Carpentries instructor training: Deadline approaching
 
@@ -692,7 +692,7 @@ Best wishes,
 
 [ sender name ]
 
-##### Completed everything except lesson contribution
+##### Completed Everything except Lesson Contribution
 
 Subject: Carpentries instructor training: Lesson Contribution
 
@@ -713,7 +713,7 @@ Best,
 [ sender name ]
 
 
-##### Completed lesson contribution
+##### Completed Lesson Contribution
 
 Subject: Carpentries instructor training: Discussion and teaching demo
 
@@ -733,7 +733,7 @@ Best,
 
 [ name ]
 
-##### Checkout extension granted
+##### Checkout Extension Granted
 
 Subject: Carpentries instructor training: Extension granted
 
@@ -744,7 +744,7 @@ Thanks for getting in touch. I've recorded an extension for you through the end 
 Best,
 [ sender name ]
 
-##### Checkout completed
+##### Checkout Completed
 
 *This email is usually sent with a script. The canonical version of the text is the version below.*
 
@@ -770,7 +770,7 @@ Please let us know if there's anything we can do to help and welcome to the comm
 Best,  
 [ sender name ]
 
-##### Recruiting new Trainers
+##### Recruiting New Trainers
 
 Subject: Opportunity to join The Carpentries Trainers community
 
@@ -796,7 +796,7 @@ Best,
 [ sender name ]
 
 
-##### Accepting new Trainers
+##### Accepting New Trainers
 
 Subject: Congratulations! Join The Carpentries Trainer Community
 

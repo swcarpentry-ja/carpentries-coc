@@ -1,4 +1,4 @@
-### Getting your news out there
+### Getting Your News out There
 
 The Carpentries have a number of mechanisms for pushing out news. These include:
 

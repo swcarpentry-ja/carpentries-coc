@@ -1,14 +1,14 @@
-### Event registration using Eventbrite
+### Event Registration using Eventbrite
 
 Host sites can opt to use their own systems for registering learners at their workshops, or we can set up a registration page using [Eventbrite](https://www.eventbrite.com).
 
-#### Logging in
+#### Logging In
 
 The Workshop Administration Team will have log in credentials from The Carpentries. They will give hosts of individual events access to log in to that event only.
 
 Contact team@carpentries.org with questions about logging in.
 
-#### Creating a new event
+#### Creating a New Event
 
 Click on "Manage Events" under "CARPENTRIES"
 
@@ -39,7 +39,7 @@ The overall template includes a templated description of the event. Update this 
 
 ![Eventbrite new event description](images/eventbrite_description.png)
 
-#### Create tickets
+#### Create Tickets
 
 Eventbrite allows for both free and paid tickets. These settings can not be changed once the event has been published, so be sure to verify this in advance. You can have a mix of free and paid tickets.
 
@@ -72,7 +72,7 @@ This will take you to your event dashboard where you can monitor ticket sales. C
 
 Share this link with the host site along with the password you created so they can look over the page and confirm that it looks good, or suggest changes if needed. Once it looks good, select "edit" from the dashboard and remove the password so the page can be shared publicly.
 
-#### Giving hosts access to view registration
+#### Giving Hosts Access to View Registration
 
 Often a workshop host will want to check in to see who's registered, manage the waitlist, email registrants, etc. You can set this up through Account Settings.
 

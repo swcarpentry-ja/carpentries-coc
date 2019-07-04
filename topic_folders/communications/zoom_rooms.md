@@ -41,13 +41,13 @@ If you are leading an event, you will be given host access to the event. This wi
 
 All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact The Carpentries staff immediately.
 
-##### Host abilities:  
+##### Host Abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
 - When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
 - Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants assignments manually if desired.  
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
-##### General tips:  
+##### General Tips:  
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
 - “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
 - When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
@@ -56,7 +56,7 @@ All Carpentries online events are set up such that participants can enter the ro
 please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
 
 
-#### Viewing Zoom Room availability
+#### Viewing Zoom Room Availability
 
 Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries staff members can actually book a room. If a room is available, please contact a staff member or team@carpentries.org if you would like to make a room reservation.
 

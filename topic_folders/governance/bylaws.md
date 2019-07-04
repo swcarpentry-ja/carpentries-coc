@@ -105,7 +105,7 @@ Two (2) or three (3) of the Council-elected Members will be elected each year. T
 
 Executive Council selects, by anonymous vote, the Council-elected Members from among the recommended candidates. Appointed Members will abstain from voting when they themselves are recommended for reappointment. Each Executive Council Member may vote for as many individuals as there are Council-elected Member seats to be filled. The individuals with the highest number of votes will be appointed. This vote will not take place until after the voting results for Community-elected Members are known and no later than December 15th.
 
-### Between-election vacancies
+### Between-election Vacancies
 If an Executive Council seat of a Community-elected Member becomes vacant after the beginning of the year but before the first of October, the Executive Council will strive to fill the seat with one of the non-elected nominees from the previous year’s election, in the order of the number of votes they received. If this effort fails, the Executive Council may appoint a Voting Member to fill the seat.
 
 If an Executive Council seat of a Council-elected Member becomes vacant after the beginning of the year but before the first of October, the Executive Council will strive to fill the seat with another eligible Voting Member.

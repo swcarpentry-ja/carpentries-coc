@@ -14,14 +14,14 @@ Instructor. Our Instructor training has the following overall goals:
 - Help participants become integrated into *The Carpentries community*.
 - Prepare participants to use these skills in teaching *Carpentries workshops*.
 
-### Who are the Instructors?
+### Who Are the Instructors?
 
 Our [Instructor community](https://carpentries.org/instructors/) includes researchers, librarians, data scientists, and many others 
 from a wide range of backgrounds, disciplines, career stages, and countries. Many of our Instructors are 
 people who have attended a Carpentries workshop, and who have been inspired to go on and train as Instructors to 
 share the skills they learned and now use in their work.
 
-### What knowledge is needed?
+### What Knowledge is Needed?
 
 Some would-be Instructors worry about how knowledgeable one has to be about the material we teach in order to become an Instructor. 
 While our Instructors have experience in one or more of our content areas, such as shell, git, SQL, Python, R, OpenRefine or 
@@ -39,7 +39,7 @@ And because Carpentries Instructors never teach alone, you will always have help
 Many Instructors add to the number of lessons they feel comfortable teaching only gradually. Not knowing the material well should not hold you back from applying to become an Instructor. However, if you do want to apply, it would be useful to have attended a Carpentries workshop either as a learner or helper and have some familiarly with at least one of the topics. That way, you will know more about what being an Instructor involves, and you can assess whether the workshop style and teaching method are for you. 
 Having already participated in a workshop will be a plus on our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md) if you decide to apply. 
 
-### Motivation for people to train as Instructors
+### Motivation for People to Train as Instructors
 
 People train as Instructors for many reasons:
 
@@ -55,7 +55,7 @@ People train as Instructors for many reasons:
 
 Read more about Instructor motivations in Dr. Beth Duckles's report, [*Value of Software Carpentry to Instructors*](https://software-carpentry.org/files/bib/duckles-Instructor-engagement-2016.pdf).
 
-### Steps to becoming an Instructor
+### Steps to Becoming an Instructor
 
 Anyone who supports the aims of The Carpentries is welcome to apply for Instructor training. However, we are not able to 
 guarantee training to all applicants. While we would like to help everyone, we do need to prioritise people 
