@@ -1,18 +1,16 @@
-COMMUNICATION
-=======================
+COMMUNICATIONS
+================
 
 .. toctree::
-   :maxdepth: 1
-   :titlesonly:
+   :maxdepth: 2   
    :glob:
+   
+   
+   tools/index.rst
+   resources/index.rst
+   guides/index.rst
+   
 
-   style-guide.md
-   submit-news-item.md
-   submit_blog_post.md
-   newsletter.md
-   slack-and-email.md
-   commons.md
-   presentations.md
-   zoom_rooms.md
-   etherpads.md
-   logos.md
+
+  
+  
