@@ -73,7 +73,7 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 [training-repo]: http://carpentries.github.io/instructor-training/
 [zoom-home]: https://www.zoom.us/
 [demo-video]: https://www.youtube.com/watch?v=FFO2cq-3PPg
-[demo-pad]: http://pad.software-carpentry.org/teaching-demos-recovered
+[demo-pad]: https://pad.carpentries.org/teaching-demos-new
 [demo-rubric]: http://carpentries.github.io/instructor-training/demos_rubric/
 
 
