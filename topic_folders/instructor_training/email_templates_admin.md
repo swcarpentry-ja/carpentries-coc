@@ -787,7 +787,7 @@ If you’re interested in joining the Trainer community, please apply here (http
 If you have any questions about the training process or the expectations for being a Trainer, please contact team@carpentries.org
 
 To learn more about what we teach, check out our lessons here: (https://software-carpentry.org/lessons/), here: (http://www.datacarpentry.org/lessons/), and here: (https://librarycarpentry.org/lessons/).
-More detailed information about what Trainers do can be found here: (https://github.com/carpentries/policies/blob/master/trainer-agreement.md).
+More detailed information about what Trainers do can be found here: (https://github.com/carpentries/policies/blob/master/trainer-agreement.md#).
 
 Looking forward to seeing an application from you!
 
