@@ -4,7 +4,7 @@ The Program Manager collects availability from Instructor Trainers and generates
 
 Trainees will be asked for their availability in October, March, and July for each four month block, and a calendar will be published 6-8 weeks before each four month block.
 
-Once the calendar is confirmed, the Program Manager updates it on the [Member information page](https://carpentries.github.io/instructor-training/training_calendar/) and on the internal Carpentries staff Zoom calendars. The Workshop Administration Team will [create events in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) for each of these scheduled trainings.  The Workshop Administration Team will also create an [Eventbrite registration page](https://docs.google.com/document/d/1rZwlVugIP7TAISUy-gqfItD-KOO9_AZNG74ypMiWoRo/edit) for each event and set up surveys in Survey Monkey for each event.  Lastly, the Workshop Administration Team will [reserve Zoom Room 1](/communications/zoom_rooms.html) for each event.
+Once the calendar is confirmed, the Program Manager updates it on the [Member information page](https://carpentries.github.io/instructor-training/training_calendar/) and on the internal Carpentries staff Zoom calendars. The Workshop Administration Team will [create events in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) for each of these scheduled trainings.  The Workshop Administration Team will also create an [Eventbrite registration page](https://docs.google.com/document/d/1rZwlVugIP7TAISUy-gqfItD-KOO9_AZNG74ypMiWoRo/edit) for each event and set up surveys in Survey Monkey for each event.  Lastly, the Workshop Administration Team will [reserve Zoom Room 1](../communications/zoom_rooms.md) for each event.
 
 #### For Online Training Events
 

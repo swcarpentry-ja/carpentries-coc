@@ -6,7 +6,7 @@ The CoC committee will attempt to ensure your safety and help with any immediate
 
 If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an "official" response until we believe that the situation has ended and that everyone is physically safe.  
 
-The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.html). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
+The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   
 
 Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.  
 
@@ -22,7 +22,7 @@ Finally, the Chair of the Code of Conduct Committee and Executive Council Liaiso
 
 The following is a summary of the steps the Code of Conduct Committee takes when responding to an incident reported via the incident report form. More detailed information is also provided below the summary.
 
-- If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](termed-suspension.html).
+- If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](termed-suspension.md).
 - For non-immediate responses submitted via the [incident report form][reporting-form], an auto-generated email is sent to the Code of Conduct committee that a report has been received. 
 - An auto-response is sent to the reporter acknowledging that the incident report was received via the secure form. 
 - The first person on the Code of Conduct committee to see the report reviews it and provides an initial response to the reporter within 24 hours of the report being submitted or immediately, if safety is an issue. 
@@ -37,7 +37,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 - After further collection and review of information, if needed, the IRG determines a resolution. Possible [resolutions](#resolutions) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension.
 - The IRL updates the reporter and  solicits feedback on the resolution. Feedback may or may not be used to update the resolution. 
 - The IRL updates the reportee(s).
-- The Staff Liaison determines whether the [Termed Suspension Checklist](termed-suspension.html) should be employed or other actions taken.
+- The Staff Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken.
 - Essential personnel are notified to implement any actions. Report details remain confidential. 
 - Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository. 
 - The Chair of the Code of Conduct Committee and Executive Council Liaison write up a transparency report.
@@ -46,7 +46,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 
 When a report is received, any one of the Code of Conduct committee members will reply to the reporter to confirm receipt. This reply will be sent within 24 hours of the incident being reported, and the CoCc will strive to respond much more quickly than that.
 
-For details about what the incident report should contain, see the [Incident Reporting Guidelines](incident-reporting.html). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
+For details about what the incident report should contain, see the [Incident Reporting Guidelines](incident-reporting.md). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. 
 
 ##### Incident Response Assessment
 

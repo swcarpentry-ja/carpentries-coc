@@ -37,5 +37,5 @@ Curriculum Advisors commit to serving a one year term, but are welcome to contin
 Members of the Lesson Infrastructure Subcommittee serve as 
 Maintainers for [The Carpentries lesson template](https://github.com/carpentries/styles) and [its documentation](https://github.com/carpentries/lesson-example), as
 well as for the [Carpentry workshop template](https://github.com/carpentries/workshop-template). As Maintainers, they also 
-follow the [Maintainer Guidelines](../maintainers/maintainers.html). 
+follow the [Maintainer Guidelines](../maintainers/maintainers.md). 
 

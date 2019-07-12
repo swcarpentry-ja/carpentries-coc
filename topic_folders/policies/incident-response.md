@@ -1,6 +1,6 @@
 ### Code of Conduct Incident Response Guidelines
 
-Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.html).
+Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md).
 
 The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. 
 
@@ -37,7 +37,7 @@ If an incident is ongoing, whether in-person or online, any community member (wo
 * Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. 
 * If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority.
 
-If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.html), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
+If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident.
 
 Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:
 
