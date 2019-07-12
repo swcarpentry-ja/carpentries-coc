@@ -4,11 +4,11 @@
 
 If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member  to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures.
 
-If you believe someone violated the [Code of Conduct](../policies/code-of-conduct.html) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information. 
+If you believe someone violated the [Code of Conduct](../policies/code-of-conduct.md) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information. 
 
 __[Submit a Code of Conduct Incident Report][reporting-form]__
 
-The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.html).  A report guarantees review, but not necessarily that an action will be taken.
+The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.md).  A report guarantees review, but not necessarily that an action will be taken.
 
 ##### Alternative Contact Points
 
@@ -32,11 +32,11 @@ The Code of Conduct committee may determine that a public statement should be ma
 ##### Report Data
 Reports can be filed anonymously with minimal details. If you do not feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide, however.  
 
-Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in The Carpentries community. In those cases, the [Termed Suspension Checklist](termed-suspension.html) will be employed. 
+Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in The Carpentries community. In those cases, the [Termed Suspension Checklist](termed-suspension.md) will be employed. 
 
 ##### Following Up with Reporter(s)
 
-Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.html).
+Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.md).
 
 
 [reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2

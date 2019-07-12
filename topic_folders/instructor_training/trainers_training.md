@@ -1,5 +1,5 @@
 ### Becoming a Trainer
-The Trainers group periodically accepts new members via [application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ). New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.html).
+The Trainers group periodically accepts new members via [application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ). New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.md).
 
 #### Trainers Training Program
 
@@ -17,7 +17,7 @@ Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpe
   * Time commitment: 4 hours one time
 * Teach once either online or in person with experienced Trainer (after finishing book club)
   * Time commitment: 2 days one time plus prep
-* Agree to the [Trainer Agreement](duties_agreement.html). 
+* Agree to the [Trainer Agreement](duties_agreement.md). 
 
 Total time commitment for continuing Trainers: 
 4 days per year + 2.5 hrs per month

@@ -93,7 +93,7 @@ The dates of community discussions are also listed in The Carpentries [community
 
 1.  Invitations for checkout participants are tracked through two spreadsheets - one for instructors doing a [post-workshop debriefs](https://docs.google.com/spreadsheets/d/1OZuaulmSVcekQcFlfWc6cK_8odm64pMqGnEMl3hSPHU/edit#gid=0), sent weekly, and one for instructors doing a [pre-workshop discussion session](https://docs.google.com/spreadsheets/d/1C-R24LRURYx5-PjeW45vvZtPRI7LaQFg8tzixkkq49o/edit#gid=1948936411), sent every other week.
 
-1. Use the [email templates](../instructor_training/email_templates_trainers.html) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
+1. Use the [email templates](../instructor_training/email_templates_trainers.md) for the respective discussion invitation. Replace the variables in brackets with the appropriate information for that session.
 
 1. Log in to [AMY](https://amy.carpentries.org/account/login/?next=/workshops/log/).  Go to the [reporting section](../workshop_administration/amy_manual.html#reports) to the "List of instructors by time period" section. Filter for instructors in the relevant time period. Download this list as CSV to easily read each instructor's email address.
 
