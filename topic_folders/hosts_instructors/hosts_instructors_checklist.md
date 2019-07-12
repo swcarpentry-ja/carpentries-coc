@@ -6,32 +6,34 @@ A workshop host contacts The Carpentries staff about running a workshop.  He or 
 
 **Before the workshop, the host will**
 
-* Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
-* Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/)
-* Work with The Carpentries Program Manager and Workshop Administration Team to set dates and location for your workshop
+1. Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
+1. Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/)
+1. Work with The Carpentries Program Manager and Workshop Administration Team to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availability
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
-* Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
-* Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
-* Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-* Work with The Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
-* Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses)
-* Get emergency contact information for instructors in case of last minute changes
-* Arrange for [required materials and equipment](workshop_needs.md)
-* Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
-* Email learners to remind them of workshop location, timing, pre-workshop survey and software installation requirements
-* Organise a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
+1. Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
+1. Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
+1. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
+1. Work with The Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
+1. Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses)
+1. Get emergency contact information for instructors in case of last minute changes
+1. Arrange for [required materials and equipment](workshop_needs.md)
+1. Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
+1. Email learners to remind them of workshop location, timing, pre-workshop survey and software installation requirements
+1. Organise a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
-* Meet the instructors and learners
-* Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.md)
-* Periodically check in on the class to be sure things are running smoothly
+
+1. Meet the instructors and learners
+1. Ensure that the room is set up with all [necessary materials and equipment](workshop_needs.md)
+1. Periodically check in on the class to be sure things are running smoothly
 
 **After the workshop, the host will**
-* Collect workshop attendance
-* Send attendance and any other feedback to The Carpentries Workshop Administration Team
-* Pay the workshop fee (only for centrally organised workshops)
-* Reimburse the instructors
+
+1. Collect workshop attendance
+1. Send attendance and any other feedback to The Carpentries Workshop Administration Team
+1. Pay the workshop fee (only for centrally organised workshops)
+1. Reimburse the instructors
 
 #### Billing Guidelines
 Payment for workshops is generally due 30 days after the invoice is issued.
@@ -45,32 +47,32 @@ The Program Manager or Workshop Administration Team will introduce workshop host
 
 **Before the workshop, instructors will**
 
-* Decide on the order of the lessons and who will teach what modules
-* Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
-* Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/))
-* Assist the host in recruiting helpers if possible
-* Assist the host in ensuring the workshop location is accessible
-* Share emergency contact information with host in case of last minute changes
-* Practice teaching the material
-* Remind the host of the [necessary equipment](workshop_needs.md)
-* Join a [community discussion](https://pad.carpentries.org/community-discussions)
-* Confirm criteria for reimbursement (*per diem* or save receipts)
+1. Decide on the order of the lessons and who will teach what modules
+1. Set up the workshop website using the [workshop template](https://github.com/carpentries/workshop-template) and send to The Carpentries Workshop Administration Team.  Detailed instructions are in this repo's [README](https://github.com/carpentries/workshop-template#workshop-template).
+1. Create a collaborative document for the workshop (e.g. an [Etherpad](https://pad.carpentries.org/))
+1. Assist the host in recruiting helpers if possible
+1. Assist the host in ensuring the workshop location is accessible
+1. Share emergency contact information with host in case of last minute changes
+1. Practice teaching the material
+1. Remind the host of the [necessary equipment](workshop_needs.md)
+1. Join a [community discussion](https://pad.carpentries.org/community-discussions)
+1. Confirm criteria for reimbursement (*per diem* or save receipts)
 
 **During the workshop instructors will**
 
-* Review Code of Conduct with learners
-* Remind learners to use sticky notes to give feedback
-* Get feedback at lunch and end of each day using minute cards
-* Support host in collecting attendee names and emails
-* Send out the post-workshop survey at the very end of the workshop
+1. Review Code of Conduct with learners
+1. Remind learners to use sticky notes to give feedback
+1. Get feedback at lunch and end of each day using minute cards
+1. Support host in collecting attendee names and emails
+1. Send out the post-workshop survey at the very end of the workshop
 
 **After the workshop instructors will**
 
-* Remind the host to send workshop attendance data to The Carpentries Workshop Administration Team
-* Submit receipts for reimbursement
-* Send their own feedback to the Workshop Administration Team including any configuration problems
-* Take part in a [community discussion](https://pad.carpentries.org/community-discussions)
-* Report any lesson errors or suggest improvements on GitHub or by email to The Carpentries Workshop Administration Team
+1. Remind the host to send workshop attendance data to The Carpentries Workshop Administration Team
+1. Submit receipts for reimbursement
+1. Send their own feedback to the Workshop Administration Team including any configuration problems
+1. Take part in a [community discussion](https://pad.carpentries.org/community-discussions)
+1. Report any lesson errors or suggest improvements on GitHub or by email to The Carpentries Workshop Administration Team
 
 #### Helper Checklist
 
@@ -78,22 +80,22 @@ Helpers are often recruited from the local community at the host site to support
 
 **Before a workshop helpers will**
 
-* Introduce themselves to the instructors, letting them know any particular areas of expertise
-* Review the curriculum the instructors will be teaching
-* Review the software installation instructions to be prepared to troubleshoot with learners
-* Make sure the instructors have listed you on the workshop website
+1. Introduce themselves to the instructors, letting them know any particular areas of expertise
+1. Review the curriculum the instructors will be teaching
+1. Review the software installation instructions to be prepared to troubleshoot with learners
+1. Make sure the instructors have listed you on the workshop website
 
 
 **During the workshop helpers will**
 
-* Help learners with setup problems or anywhere else they get stuck
-* Monitor room for anyone who may need help.  Learners may put up a red sticky note or indicate in other ways that they are stuck.
-* Monitor any questions that come up on the collaborative document and answer them or remind the instructor about them during a break.
+1. Help learners with setup problems or anywhere else they get stuck
+1. Monitor room for anyone who may need help.  Learners may put up a red sticky note or indicate in other ways that they are stuck.
+1. Monitor any questions that come up on the collaborative document and answer them or remind the instructor about them during a break.
 
 **After the workshop helpers will**
 
-* Send their own feedback to the instructors and the Workshop Administration Team including any configuration problems
-* Consider applying to become a certified Carpentries instructor
+1. Send their own feedback to the instructors and the Workshop Administration Team including any configuration problems
+1. Consider applying to become a certified Carpentries instructor
 
 **Teaching Rules:**  
 
