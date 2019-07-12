@@ -49,7 +49,7 @@ People train as Instructors for many reasons:
 4. *To help get people of diverse backgrounds into the pipeline.* Some of our Instructors are involved in part because they want computational science to include people from a broader range of backgrounds.
 5. *Teaching forces you to learn new things, or learn old things in more detail than you already know.* See this paper: [Graduate Students' Teaching Experiences Improve Their Methodological Research Skills](http://science.sciencemag.org/content/333/6045/1037)".
 6. *To make the world a better place.* 
-7. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md). You can re-use and re-purpose this wording for use in grant and job applications and for your CV.
+7. *To acquire useful skills for careers.* Instructors can expect to develop [this skill set](https://github.com/carpentries/commons/blob/master/text-for-instructors.md#). You can re-use and re-purpose this wording for use in grant and job applications and for your CV.
 8. *To join a community* of people who care about inclusive teaching of computational skills. 
 9. *Because it's fun.* It really is !
 
@@ -67,7 +67,7 @@ to become trained as an instructor.
 We periodically review and score applications that have been submitted. When training places go unclaimed by member institutions, 
 we invite applicants in order of scoring to fill any training seats unclaimed by a member institution. 
 
-How do we score applicants? See our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md).
+How do we score applicants? See our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md#).
 
 To request training as an Instructor, please fill out this [form](https://amy.carpentries.org/forms/request_training/).
 
