@@ -1,4 +1,4 @@
-### Getting Your News out There
+### Sharing Relevant Announcements
 
 The Carpentries have a number of mechanisms for pushing out news. These include:
 

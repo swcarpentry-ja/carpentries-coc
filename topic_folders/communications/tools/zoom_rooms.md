@@ -1,27 +1,10 @@
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
-<script type="text/javascript">
-  $(function(){
-  var timezone = jstz.determine();
-  var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=DAY&'
-  var rm1 = 'src=carpentries.org_31323339303138313831%40resource.calendar.google.com&color=%23711616&'
-  var rm2 = 'src=carpentries.org_32323738323534333230@resource.calendar.google.com&color=%23BE6D00&'
-  var rm3 = 'src=carpentries.org_393634313731303431@resource.calendar.google.com&color=%232F6309&'
-  var tz_flag = 'ctz='
-  var frame_close = '" style="border: 0" width="700" height="550" frameborder="0" scrolling="no"></iframe>'
-  var full_link =  frame_setup + rm1 + rm2 + rm3 + tz_flag + timezone.name() + frame_close;
-  document.getElementById('zoom_calendar').innerHTML = full_link;
-  // console.log(full_link); 
-  });
-</script>
-
-### Scheduling Online Community Events
+## Zoom Rooms
 
 The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for events such as discussion sessions, teaching demos, and committee meetings.
 
 
-#### General Room Usage and Links
+####General Room Usage and Links
 
 Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
 Links below will open Zoom and enter the respective room.
@@ -34,7 +17,7 @@ Links below will open Zoom and enter the respective room.
 Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
 
 
-#### Zoom Manual 
+### Zoom Manual 
 The Carpentries online community events are held on [Zoom][zoom-home].  The Carpentries staff will set up host access to our Zoom rooms for people leading community events. No login is needed for event guests; however a browser plug in may be required.
 
 If you are leading an event, you will be given host access to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
@@ -69,7 +52,7 @@ Room availability can be viewed below.
 
 <p>
 
-#### Adding an Event to the Community Calendar
+### Adding an Event to the Community Calendar
 
 Note while anyone can view room availability, only Carpentries staff members may book events or reserve a Zoom room.
 
@@ -101,7 +84,7 @@ Be sure to complete the above steps in order (i.e., do not select a room before 
 
 <p>
 
-#### Creating a Zoom Room Option on Google Calendars
+### Creating a Zoom Room Option on Google Calendars
 
 This will only need to be done once for each new room.  This is already done for Zoom Rooms 1, 2, and 3.  If additional Zoom rooms are added, they will need to be set up here.  This must be done by someone with admin access to The Carpentries' Google console.  
 
@@ -125,3 +108,21 @@ When done, click "ADD RESOURCE" and this new room should be on your list of room
 
 
 [zoom-home]: https://www.zoom.us/
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
+<script type="text/javascript">
+  $(function(){
+  var timezone = jstz.determine();
+  var frame_setup = '<iframe src="https://calendar.google.com/calendar/embed?title=The%20Carpentries%20Zoom%20Room%20Calendar&mode=DAY&'
+  var rm1 = 'src=carpentries.org_31323339303138313831%40resource.calendar.google.com&color=%23711616&'
+  var rm2 = 'src=carpentries.org_32323738323534333230@resource.calendar.google.com&color=%23BE6D00&'
+  var rm3 = 'src=carpentries.org_393634313731303431@resource.calendar.google.com&color=%232F6309&'
+  var tz_flag = 'ctz='
+  var frame_close = '" style="border: 0" width="700" height="550" frameborder="0" scrolling="no"></iframe>'
+  var full_link =  frame_setup + rm1 + rm2 + rm3 + tz_flag + timezone.name() + frame_close;
+  document.getElementById('zoom_calendar').innerHTML = full_link;
+  // console.log(full_link); 
+  });
+</script>
