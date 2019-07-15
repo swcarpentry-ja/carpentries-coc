@@ -54,3 +54,19 @@ Our approach to attaining this objective is threefold:
 We envision a world where more people have the computational skills and perspectives to work with data to address their questions in science, scholarship and society. 
 
 
+## Communications Objectives
+
+To support the mission and vision of The Carpentries effectively, our communications should:
+
+- Create awareness about our work:<br>
+  Our communications should articulate the purpose and value proposition of The Carpentries to facilitate uptake of our core offerings (i.e. workshops, trainings, and organisation memberships) among key audiences.
+
+- Encourage participation and collaboration:<br>
+  Our communications should emphasise our collaboration-driven ethos and point to the myriad of ways contributions and participation are encouraged in various Carpentries’ projects. 
+
+-  Empower our community:<br>
+  Our communications should amplify the voices and articulate the value of community members the world over, to foster a deep sense of belonging and ownership. 
+
+- Edify our community:<br>
+  Our communications should strive to enlighten our community on pertinent issues by passing along information and discussing relevant trends on data, software, inclusive teaching, accessibility, etc 
+
