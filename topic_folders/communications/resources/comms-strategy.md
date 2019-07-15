@@ -70,3 +70,21 @@ To support the mission and vision of The Carpentries effectively, our communicat
 - Edify our community:<br>
   Our communications should strive to enlighten our community on pertinent issues by passing along information and discussing relevant trends on data, software, inclusive teaching, accessibility, etc 
 
+## Meeting our Communications Objectives
+  
+In order to meet The Carpentries’ communications objectives, we have to carefully consider:
+
+<ol style="list-style-type: lower-alpha;">
+<li>Language and tone of our communications</li>
+<li>The Carpentries Brand</li>
+<li>The Carpentries Audiences</li>
+<li>The Carpentries Communication Platforms</li>
+<li>Inclusivity in our Communications</li>
+</ol>
+
+
+
+
+
+
+
