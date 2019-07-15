@@ -173,7 +173,21 @@ The names "The Carpentries", "Software Carpentry", “Library Carpentry”, and 
 Formal communications should include “The Carpentries” as a proper noun. When describing lesson programs, they should be written as “Library Carpentry”, “Data Carpentry”, and “Software Carpentry”. Although more elaborate guidelines for community use are pending, members should be encouraged to use the same guidelines above, and [official, unmodified versions of our logo](https://github.com/carpentries/logo) to express their involvement with The Carpentries in presentations and talks.
 
 
+<h3><li>The Carpentries Audiences</li></h3>
 
+Through different projects and initiatives at The Carpentries, we primarily engage with:
+- Researchers and scientists
+- Technologists - developers at all levels, data scientists, analysts etc. 
+- Librarians
+- Academics 
+
+A broader analysis of our target audiences, and specific high-level messaging for each one, will live in The Carpentries audience mapping document [currently WIP].
+
+
+<h3><li>The Carpentries Communication Platforms</li></h3>
+
+
+<h3><li>Inclusivity in our Communications</li></h3>
 
 
 </ol>
