@@ -34,5 +34,23 @@ Comments, questions, concerns, suggestions, rebuttals et al on given topic
 **Inclusion**           
 Active, intentional, and ongoing engagement with diverse communities to increase awareness, content knowledge, and understanding of the ways individuals interact within and change our organisation.
  
+## Background
+
+### About us
+
+The Carpentries is a volunteer-driven organisation committed to training and fostering an active, inclusive and diverse community that promotes and models the importance of software and data in research and libraries. Our community includes learners, instructors, maintainers, trainers, mentors, workshop organisers, paid employees and champions.
+
+### Carpentries Mission
+
+The Carpentries’ objective is to build capacity in essential data and computational skills for conducting efficient, open, and reproducible research.
+
+Our approach to attaining this objective is threefold:
+- scaling evidence-based teaching, 
+- creating inclusive environments, and
+- building communities of practice based on open principles.
+
+### Carpentries Vision
+
+We envision a world where more people have the computational skills and perspectives to work with data to address their questions in science, scholarship and society. 
 
 
