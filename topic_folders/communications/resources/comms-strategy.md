@@ -166,6 +166,14 @@ Community Discussions that are recorded using Zoom include audio. To ensure cont
 - Video: <br>
 As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](http://youtube.com/ the carpentries). To ensure  content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
 
+<h3><li>The Carpentries Brand</li></h3>
+
+The names "The Carpentries", "Software Carpentry", “Library Carpentry”, and "Data Carpentry", [and their associated logos](https://github.com/carpentries/logo) are all trademarked, and may only be used with permission. Our [current logo use policy](https://docs.google.com/document/d/1vOJ2AT5XWtqEKwZ79k88KUW6glE69BMVpL1LbY-nVlo/edit) includes guidelines on the use of trademarks and details about who to contact for questions about using and/or modifying our logo.
+
+Formal communications should include “The Carpentries” as a proper noun. When describing lesson programs, they should be written as “Library Carpentry”, “Data Carpentry”, and “Software Carpentry”. Although more elaborate guidelines for community use are pending, members should be encouraged to use the same guidelines above, and [official, unmodified versions of our logo](https://github.com/carpentries/logo) to express their involvement with The Carpentries in presentations and talks.
+
+
+
 
 
 </ol>
