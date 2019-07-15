@@ -83,7 +83,92 @@ In order to meet The Carpentries’ communications objectives, we have to carefu
 </ol>
 
 
+<ol style="list-style-type: lower-alpha;">
 
+<h3><li>Language and tone of our communications</li></h3>
+
+The Carpentries has a collaboration-driven ethos. In our communications, this should translate to inclusive messaging in diverse formats over different channels and as much as possible, using contextualised language, with the ultimate goal of enabling participation.
+
+Because we cater to a distributed community, both geographically and disciplinarily, we continue to employ multiple communication models at The Carpentries, namely:
+
+- interactive (i.e. via Slack, email, TopicBox, Twitter),
+- transactional (i.e. via Zoom calls, workshops, instructor training, GitHub),  
+- linear/broadcast (i.e. via Twitter, our Newsletter and Facebook).
+
+The language we adapt in our communications should embody our "***people first, access for all and openness***" values as an organisation.
+
+Depending on the subject and context (i.e. audience) of our communications, the tone we use should be an amalgamation of several attributes, some of which are listed in the table below. The Carpentries badge spells out where on the scale the tone of our communications should fall at any given time.
+
+<table>
+    <thead>
+        <tr>
+            <th colspan=7>Tone scale for our communications at The Carpentries</th>  
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Formal</td>
+            <td></td>
+            <td><img src="/img/logo.ico" width="48"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Casual</td>
+        </tr>
+        <tr>
+            <td>Serious</td>
+            <td></td>
+            <td><img src="/img/logo.ico" width="48"></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>Comical</td>
+        </tr>
+        <tr>
+            <td>Disengaged</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><img src="/img/logo.ico" width="48"></td>
+            <td></td>
+            <td>Relatable</td>
+          
+        </tr>
+        <tr>
+            <td>Laid-back</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><img src="/img/logo.ico" width="48"></td>
+            <td></td>
+            <td>Energetic</td>
+        </tr>
+        <tr>
+            <td>Dictatorial</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td><img src="/img/logo.ico" width="48"></td>
+            <td></td>
+            <td>Liberal</td>
+        </tr>
+    </tbody>
+</table>
+
+The Carpentries messaging is primarily relayed via the following formats: <br><br>
+
+- Text: <br>
+We value accessibility and ensuring community members have access options to our content and programs. Therefore, we offer transcription of any recorded community discussions in addition to providing slide decks from those discussions. <br><br>
+
+- Audio: <br>
+Community Discussions that are recorded using Zoom include audio. To ensure content is accessible to as many community members as possible, audio recordings will be added to The Carpentries account on a podcast platform. <br><br>
+
+- Video: <br>
+As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](http://youtube.com/ the carpentries). To ensure  content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
+
+
+
+</ol>
 
 
 
