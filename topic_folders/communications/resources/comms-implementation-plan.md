@@ -143,3 +143,40 @@ The Carpentries Community Development team is also keen on crafting our platform
   - possibly adapt [Library Carpentry’s version of the blog post request form](https://docs.google.com/forms/d/e/1FAIpQLScD7p5sx1DdQOF8Jyos5Hb-oxQhbybIh7YEGRox3f9KChihBg/viewform) and create a dynamic Google Form that changes based on what the submitter would like to do, i.e. blog post about their community building, announcement on the Discuss list, tweets about a recent event, etc. 
   - link to this form regularly in our communications on different platforms, as well as in our [community Handbook](https://docs.carpentries.org/), etc.
 
+## Communications Roles and Responsibilities 
+
+--- 
+
+Communication is a shared responsibility. As our larger Carpentries community continues to grow, sub-communities and local communities are continuing to develop. It is imperative that our communications plan include not only what we will communicate, but how we will communicate, and who is responsible for communicating project/program goals and outcomes.
+
+**Who is responsible for communicating projects/programs/goals to the community?**
+
+Each [Carpentries team](https://carpentries.org/team/) member either leads or is a member of a project. Team members also serve as liaisons to various sub-committees, sub-communities, and task forces. As such, it is the responsibility of team leaders to either communicate the project/program goals, or to designate a team member as the ‘communications lead’ for that project/program.
+
+**What should our Executive Council be communicating and when?**
+
+Formal statements regarding The Carpentries’ policies and finances will only be released by the’ Executive Director or Executive Council Chair. 
+The Executive Council is also responsible for communicating [transparency reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) and will also communicate on all other subjects as mandated by their role in their period of tenure. The Secretary of the Executive Council, [Mesfin Diro Chaka for 2019](https://carpentries.org/blog/2019/03/2019-executive-council-officer-elections/#new-officers--liaison), also regularly publishes [meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes).
+Succinct updates from the Executive Council will continually be added to [Carpentry Clippings](https://carpentries.org/newsletter/) fortnightly, as appropriate.
+
+**What should our Executive Director be communicating and when?**
+
+**Open Letters**
+The Executive Director is responsible for communicating the strategic direction and vision of the organisation, and periodically, [writing open letters](https://github.com/carpentries/conversations/blob/master/letters/ED-letter_2018-01-09.pdf) to the community to inspire, challenge and engage with the community. These open letters will continue to be published in [The Carpentries Conversations repository on GitHub](https://github.com/carpentries/conversations). 
+
+[idea] The communication team’s vision for this initiative is that it evolves into ***a Letters from The Carpentries Team*** series, where we can all share tidbits from our respective desks i.e. on community building, communications, developing curricula, setting up community infrastructure, workshops administration, et al. 
+
+Once we’ve published at least five letters, we can set up a dedicated page on our website for these letters. Given that they are in a standalone repository, we suggest setting up a conversations.carpentries.org subdomain when the time comes.
+
+
+**Matters arising**
+
+The Executive Director also communicates as needed to address issues of concern, articulate The Carpentries official stand on pertinent trends, challenges and opportunities, and lends her voice and platform to initiatives and occurrences in ecosystems that interface with ours at The Carpentries.
+
+Succinct updates from the Executive Director can also be appended to the Updates from Leadership section of [Carpentry Clippings](https://carpentries.org/newsletter/) fortnightly, as appropriate.
+
+
+
+
+
+
