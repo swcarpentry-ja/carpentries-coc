@@ -19,7 +19,7 @@ This document was originally written for [the core Carpentries team](http://carp
 
 The Carpentries is a volunteer-driven organisation committed to training and fostering an active, inclusive and diverse community that promotes and models the importance of software and data in research and libraries. Our community includes learners, instructors, maintainers, trainers, mentors, workshop organisers, paid employees and champions.
 
-### Carpentries Mission
+### The Carpentries Mission
 
 The Carpentries’ objective is to build capacity in essential data and computational skills for conducting efficient, open, and reproducible research.
 
@@ -28,15 +28,11 @@ Our approach to attaining this objective is threefold:
 - creating inclusive environments, and
 - building communities of practice based on open principles.
 
-### Carpentries Vision
-
-We envision a world where more people have the computational skills and perspectives to work with data to address their questions in science, scholarship and society. 
-
 ## Communications Objectives
 
 ---
 
-To support the mission and vision of The Carpentries effectively, our communications should:
+To support the mission of The Carpentries effectively, our communications should:
 
 - Create awareness about our work:<br>
   Our communications should articulate the purpose and value proposition of The Carpentries to facilitate uptake of our core offerings (i.e. workshops, trainings, and organisation memberships) among key audiences.
