@@ -12,9 +12,8 @@ The main purpose of the CoC committee is to: establish, maintain and uphold the 
 In order to uphold the CoC, the CoCc members will:
 
 * support the objectives and mission of the organization by abiding by the policies and procedures of The Carpentries and the CoC
-* learn about the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#) and [reporting guidelines] (https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  
-* understand and be comfortable to act on CoC related reports as per the enforcement procedures put in place for the relevant community spaces
-(https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual).
+* learn about the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#) and [reporting guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  
+* understand and be comfortable to act on CoC related reports as per the [enforcement procedures](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual) put in place for the relevant community spaces.
 * actively help develop and maintain existing and new documents to facilitate the work of the [CoCc](https://github.com/carpentries/handbook/tree/master/topic_folders/policies). 
 * avoid *conflicts of interest* [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC.
 * maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee.
