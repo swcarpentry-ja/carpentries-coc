@@ -1,7 +1,6 @@
 # The Carpentries Communications Strategy
 
 ## Introduction
----
 
 ### Purpose of this document
 
@@ -13,7 +12,6 @@ This document was originally written for [the core Carpentries team](http://carp
 
  
 ## Background
----
 
 ### About us
 
@@ -30,8 +28,6 @@ Our approach to attaining this objective is threefold:
 
 ## Communications Objectives
 
----
-
 To support the mission of The Carpentries effectively, our communications should:
 
 - Create awareness about our work:<br>
@@ -47,8 +43,6 @@ To support the mission of The Carpentries effectively, our communications should
   Our communications should strive to enlighten our community on pertinent issues by passing along information and discussing relevant trends on data, software, inclusive teaching, accessibility, etc 
 
 ## Meeting our Communications Objectives
-
----
   
 In order to meet The Carpentries’ communications objectives, we have to carefully consider:
 
