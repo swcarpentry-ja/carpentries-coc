@@ -104,7 +104,7 @@ Please use the workshop id [ workshop_id in form of YYYY-MM-DD-sitename ]
 
 [ host_first_name ], if you want to handle registration internally that's fine. Otherwise [ admin_name ] can work with you to create an Eventbrite registration page. She will need to know a total count, the registration fee (if any, as well as a refund policy), and the exact location. Regardless, all learners should complete pre/post workshop surveys which will be available on the webpage the instructors create.  [ admin_name ] will share links so you all can view survey results.
 
-[ admin_name ] will check in over the next few weeks and after it's all over to hear how it went -- including getting attendance figures, ideally broken out by number registered and number attended each day. Any of you are also welcome to join our instructor discussion sessions before and/or after the workshop. It's a great way to ask questions and share ideas with other instructors before you teach, and to give us feedback after you teach. Check out the schedule and sign up here: http://pad.software-carpentry.org/instructor-discussion
+[ admin_name ] will check in over the next few weeks and after it's all over to hear how it went. Any of you are also welcome to join our instructor discussion sessions before and/or after the workshop. It's a great way to ask questions and share ideas with other instructors before you teach, and to give us feedback after you teach. Check out the schedule and sign up here: http://pad.software-carpentry.org/instructor-discussion
 
 We are so glad to have everyone confirmed for this. Please email any questions you all may have for us or each other.  
 
@@ -207,7 +207,7 @@ Here are a few things for you to keep in mind as you prepare for your workshop:
 * Review the accessibility checklist (workshop_needs.html#accessibility) for learners - it is important that all of the learners attending the workshop have accessibility. The checklist will help to make sure you have taken the necessary steps to provide the needs of everyone. 
 * Review the equipment and materials (workshop_needs.html#equipment-and-materials) - There may be a few things that may need to be supplied/purchased including two colors of sticky notes. These are essential to the way our operations run. 
 
-As you prepare for your workshop, please remember to take attendance daily. I will be asking for this information along with the total number registered each day along with any other feedback you would like to provide. Thanks so much for all you are doing - I look forward to hearing how it all goes.
+Please share any feedback you would like to provide. Thanks so much for all you are doing - I look forward to hearing how it all goes.
 
 Please let me know if there are any questions.
 
@@ -222,7 +222,7 @@ I'm checking in to be sure you're ready for your upcoming workshop on [ WORKSHOP
 * Review the host checklist: (hosts_instructors_checklist.html) 
 * Review the accessibility checklist: (workshop_needs.html#accessibility) for learners
 * Review the equipment and materials: (workshop_needs.html#equipment-and-materials) needed for workshop
-* Lastly, please remember to take attendance daily. I will be asking for this information along with the total number registered each day along with any other feedback you would like to provide. 
+* Please share any feedback you would like to provide. 
 
 If you have any questions regarding any of this information, please do not hesitate to ask. Wishing you much success and I'll check back in after it's over to hear how it went. 
 
