@@ -1,4 +1,5 @@
 # The Carpentries Communications Strategy
+
 ## Introduction
 ---
 
@@ -9,32 +10,6 @@ The purpose of this document is to provide a strategy for communications around 
 ### Target audience for this document
 
 This document was originally written for [the core Carpentries team](http://carpentries.org/team), and has now been made available to our community. It is designed as a resource to be referenced regularly, rather than as literature to be studied once and archived after.
-
-### Glossary of terms
-
-**Communications Strategy**
-High-level considerations on what we want to do (and why) from a communications perspective.
-
-**Communications Plan**
-A specific set of activities to help carry out the communications strategy		
-
-**Accessibility**    
-Providing equitable access to all community opportunities, conversations, and content.
-
-**Assessment** 
-Routinely collecting and analysing information to inform programmatic iterations.
-
-**Engage**
-reach out to, converse with, impart knowledge on, learn from, convince/influence	
-
-**Equity**              
-A commitment to identifying resources and processes that offer just treatment of community members, and that close demographic disparities in leadership roles and other spheres of organisational involvement.
-
-**Feedback**	
-Comments, questions, concerns, suggestions, rebuttals et al on given topic
-
-**Inclusion**           
-Active, intentional, and ongoing engagement with diverse communities to increase awareness, content knowledge, and understanding of the ways individuals interact within and change our organisation.
 
  
 ## Background
@@ -81,18 +56,14 @@ To support the mission and vision of The Carpentries effectively, our communicat
   
 In order to meet The Carpentries’ communications objectives, we have to carefully consider:
 
-<ol style="list-style-type: lower-alpha;">
-<li>Language and tone of our communications</li>
-<li>The Carpentries Brand</li>
-<li>The Carpentries Audiences</li>
-<li>The Carpentries Communication Platforms</li>
-<li>Inclusivity in our Communications</li>
-</ol>
+- [Language and tone of our communications](#a-language-and-tone-of-our-communications)
+- [The Carpentries Brand](#b-the-carpentries-brand)
+- [The Carpentries Audiences](#c-the-carpentries-audiences)
+- [The Carpentries Communications Platforms](#d-the-carpentries-communications-platforms)
+- [Inclusivity in our Communications](#e-inclusivity-in-our-communication)
 
 
-<ol style="list-style-type: lower-alpha;">
-
-<h3><li>Language and tone of our communications</li></h3>
+### a. Language and Tone of our Communications
 
 The Carpentries has a collaboration-driven ethos. In our communications, this should translate to inclusive messaging in diverse formats over different channels and as much as possible, using contextualised language, with the ultimate goal of enabling participation.
 
@@ -106,60 +77,7 @@ The language we adapt in our communications should embody our "***people first, 
 
 Depending on the subject and context (i.e. audience) of our communications, the tone we use should be an amalgamation of several attributes, some of which are listed in the table below. The Carpentries badge spells out where on the scale the tone of our communications should fall at any given time.
 
-<table>
-    <thead>
-        <tr>
-            <th colspan=7>Tone scale for our communications at The Carpentries</th>  
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Formal</td>
-            <td></td>
-            <td><img src="img/logo.ico" width="48"></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>Casual</td>
-        </tr>
-        <tr>
-            <td>Serious</td>
-            <td></td>
-            <td><img src="img/logo.ico" width="48"></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>Comical</td>
-        </tr>
-        <tr>
-            <td>Disengaged</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><img src="img/logo.ico" width="48"></td>
-            <td></td>
-            <td>Relatable</td>
-        </tr>
-        <tr>
-            <td>Laid-back</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><img src="img/logo.ico" width="48"></td>
-            <td></td>
-            <td>Energetic</td>
-        </tr>
-        <tr>
-            <td>Dictatorial</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td><img src="../../img/logo.ico" width="48"></td>
-            <td></td>
-            <td>Liberal</td>
-        </tr>
-    </tbody>
-</table>
+![](https://github.com/carpentries/handbook/blob/master/img/comms-tone-scale.png)
 
 The Carpentries messaging is primarily relayed via the following formats: <br><br>
 
@@ -172,14 +90,14 @@ Community Discussions that are recorded using Zoom include audio. To ensure cont
 - Video: <br>
 As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](http://youtube.com/ the carpentries). To ensure  content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
 
-<h3><li>The Carpentries Brand</li></h3>
+### b. The Carpentries Brand
 
 The names "The Carpentries", "Software Carpentry", “Library Carpentry”, and "Data Carpentry", [and their associated logos](https://github.com/carpentries/logo) are all trademarked, and may only be used with permission. Our [current logo use policy](https://docs.google.com/document/d/1vOJ2AT5XWtqEKwZ79k88KUW6glE69BMVpL1LbY-nVlo/edit) includes guidelines on the use of trademarks and details about who to contact for questions about using and/or modifying our logo.
 
 Formal communications should include “The Carpentries” as a proper noun. When describing lesson programs, they should be written as “Library Carpentry”, “Data Carpentry”, and “Software Carpentry”. Although more elaborate guidelines for community use are pending, members should be encouraged to use the same guidelines above, and [official, unmodified versions of our logo](https://github.com/carpentries/logo) to express their involvement with The Carpentries in presentations and talks.
 
 
-<h3><li>The Carpentries Audiences</li></h3>
+### c. The Carpentries Audiences
 
 Through different projects and initiatives at The Carpentries, we primarily engage with:
 - Researchers and scientists
@@ -189,7 +107,7 @@ Through different projects and initiatives at The Carpentries, we primarily enga
 
 A broader analysis of our target audiences, and specific high-level messaging for each one, will live in The Carpentries audience mapping document [currently WIP]. Useful resource: See [Democrati.se's guide to audience mapping](http://democrati.se/docs/Democratise.IdentifyingYourStakeholders.pdf).
 
-<h3><li>The Carpentries Communications Platforms</li></h3>
+### d. The Carpentries Communications Platforms
 
 #### Facebook
 
@@ -312,7 +230,7 @@ Our current Carpentry Clippings strategy is efficient, A team member (Maneesha) 
 
 We don’t communicate in these places, but they are places where our publications and presentations can be found. We will have a strategy for what content we put in these locations and the metadata to include so that our community can find these resources more easily.
 
-<h3><li>Inclusivity in our Communications</li></h3>
+### e. Inclusivity in our Communications
 
 All of our communications will include welcoming and inclusive language per the expected behaviours outlined in [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) (CoC).
 
