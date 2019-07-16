@@ -2,8 +2,6 @@
 
 ## Introduction
 
----
-
 ### Purpose of this document
 
 The purpose of this document is to outline a clear uptake and implementation plan for the communications strategy so The Carpentries project owners and community members can adopt it for use effectively.
@@ -22,8 +20,6 @@ Propelled by a lean core team that exemplifies [holacractic](https://www.holacra
 
 
 ## Project-Centric Communications
-
---- 
 
 For every project, a complete communications plan will be the sum total of four components:
 - [A communications briefing](#communications-briefing)
@@ -87,8 +83,6 @@ Based on responses, questions, and engagement statistics on various platforms, w
 
 ## Organisation-Wide Communications
 
----
-
 The Carpentries Community Development team sees engagement with other relevant communities on the web and in shared physical spaces as an important avenue for amplification of the work and initiatives of The Carpentries team and community. To ensure we are adequately represented in these offline and online spaces, the Community Development team is continually considering the following
 - [Website Search Engine Optimisation](#website-search-engine-optimisation) (SEO) 
 - [Conferences and events](#conferences-and-events)
@@ -144,7 +138,6 @@ The Carpentries Community Development team is also keen on crafting our platform
 
 ## Communications Roles and Responsibilities 
 
---- 
 
 Communication is a shared responsibility. As our larger Carpentries community continues to grow, sub-communities and local communities are continuing to develop. It is imperative that our communications plan include not only what we will communicate, but how we will communicate, and who is responsible for communicating project/program goals and outcomes.
 

@@ -4,7 +4,7 @@
 The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for events such as discussion sessions, teaching demos, and committee meetings.
 
 
-####General Room Usage and Links
+#### General Room Usage and Links
 
 Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
 Links below will open Zoom and enter the respective room.
