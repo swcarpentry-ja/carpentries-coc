@@ -60,7 +60,7 @@ To add an event to the [Community Calendar](https://calendar.google.com/calendar
 
 * Give the event a meaningful title ("Demos" is not as good as "Instructor Training Teaching Demos")
 * List the time zone in UTC - not your local time zone.  Events set in local time zones do not always correctly adjust for daylight savings time.
-* Add a description, including a link to the relevant etherpad or other document.
+* Add a description, including a link to the relevant Etherpad or other document.
 
 ![Event Setup](images/event_setup.png)
 

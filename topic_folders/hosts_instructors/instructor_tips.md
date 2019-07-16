@@ -61,7 +61,7 @@ Once you've selected exercises, there are several ways to actually display them 
 	* More effort, but easy to flip forward to the next one
 * Have a document of some kind with all the exercises in it
 	* More effort, but exercises are all in one place.  
-* Put exercises in the etherpad
+* Put exercises in the Etherpad
 	* If you do this in advance, pretty low-effort.
 	* Can also use this with any of the other strategies so people can find the exercise in two places.  
 * Online tool, like [Socrative](https://www.socrative.com/)

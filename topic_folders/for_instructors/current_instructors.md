@@ -12,7 +12,7 @@ through training, teaching, curriculum development, and other community-related 
 ### Community Discussions
 These hour-long sessions are organised by 
 the [Instructor Development Committee](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html) and 
-serve a number of purposes. Trainee Instructors use them as part of their checkout process. There they can raise questions about teaching workshops and other matters and get advice from more experienced Instructors. All sessions are run by volunteers. Instructors preparing to teach can attend to ask questions, get tips, and find useful examples or analogies they can use. Instructors who have recently taught can attend to debrief about what went well, and what might have gone better, so they can plan for next time. Sessions are coordinated through this [etherpad](https://pad.carpentries.org/community-discussions). 
+serve a number of purposes. Trainee Instructors use them as part of their checkout process. There they can raise questions about teaching workshops and other matters and get advice from more experienced Instructors. All sessions are run by volunteers. Instructors preparing to teach can attend to ask questions, get tips, and find useful examples or analogies they can use. Instructors who have recently taught can attend to debrief about what went well, and what might have gone better, so they can plan for next time. Sessions are coordinated through this [Etherpad](https://pad.carpentries.org/community-discussions). 
 
 ### Mentoring Groups
 Mentoring is a professional development opportunity that The Carpentries offers our growing Instructor pool to help 
@@ -34,7 +34,7 @@ you can also join the `#champions` channel on [Slack](https://swc-slack-invite.h
 
 ### Meetups page
 If you are attending a conference or event and would like to network with other Carpentries community members, 
-please add the details of the event and your own details to our [meetups etherpad](https://pad.carpentries.org/swc-events-meetup).
+please add the details of the event and your own details to our [meetups Etherpad](https://pad.carpentries.org/swc-events-meetup).
 
 ### Instructor Profile
 We maintain a record of information for each of our instructors in our AMY database system. 

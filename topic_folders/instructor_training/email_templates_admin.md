@@ -720,9 +720,9 @@ Subject: Carpentries instructor training: Discussion and teaching demo
 Hi [ trainee_name ],
 
 Thanks very much for your lesson contribution. When you have a 
-moment, please go to the instructor discussion etherpad here:
+moment, please go to the instructor discussion Etherpad here:
 (https://pad.carpentries.org/instructor-discussion) to sign up for a
-discussion session, and then to the teaching demo etherpad 
+discussion session, and then to the teaching demo Etherpad 
 (https://pad.carpentries.org/teaching-demos-recovered) to sign up 
 for your final demo. For more information about completing your 
 instructor certification, please see our simplified checklist:
