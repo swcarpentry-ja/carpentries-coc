@@ -62,7 +62,7 @@ The new members will be included in the committee discussions only after they ha
 * Breach of any part of the CoC by any CoCc member may result in a fair procedure being put in motion that may result in them being asked to resign from the CoCc. Should this happen they will be given the opportunity to be heard. In the event they are asked to resign from the Committee, they will accept the majority decision of the Committee in this matter and resign at the earliest opportunity.
 
 
-## Contact Information:
+## Relevant information:
 
 * CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)
 * [CoC Handbook Documentation](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
