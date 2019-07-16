@@ -87,7 +87,7 @@ the onboarding process.
 12) If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homework. 
 
 13) After the final onboarding meeting, do the following for each of the Maintainers who have completed the onboarding requirements:  
-    - Give them "write" access to their lesson repository on GitHub. 
+    - Add them to the appropriate team for [Software Carpentry][SWC GH Lesson Maintainer Teams], [Data Carpentry][DC GH Lesson Maintainer Teams], [Library Carpentry][LC GH Lesson Maintainer Teams], or [The Carpentries][The Carpentries GH Lesson Maintainer Teams] Lesson Maintainers. This will give them write privileges for that lesson's repo.
     - Add their name to the lesson table on the website.
     - Award them a Maintainer badge in AMY.
 
@@ -96,3 +96,9 @@ the onboarding process.
 15) Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
 
 16) Announce new Maintainers in the next newsletter.
+
+
+[SWC GH Lesson Maintainer Teams]: https://github.com/orgs/swcarpentry/teams/lesson-maintainers
+[DC GH Lesson Maintainer Teams]: https://github.com/orgs/datacarpentry/teams/lesson-maintainers
+[LC GH Lesson Maintainer Teams]: https://github.com/orgs/librarycarpentry/teams/lesson-maintainers
+[The Carpentries GH Lesson Maintainer Teams]: https://github.com/orgs/carpentries/teams/lesson-maintainers
