@@ -9,5 +9,5 @@ CODE OF CONDUCT
    incident-response.md
    incident-reporting.md
    enforcement-guidelines.md
-   termed-suspension.md
    coc-membership-agreement.md
+   termed-suspension.md
