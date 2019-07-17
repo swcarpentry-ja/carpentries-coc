@@ -21,7 +21,7 @@ During the first week of each month, the Workshop Administration Team [invites a
 * State = "Accepted" and Matched = "Unmatched"
 * State = "Accepted" and Matched = "Matched trainee, Unmatched training"
 
-One month before each event the Workshop Administration Team [emails the event's Trainers](email_templates_admin.html#one-month-trainer-email-online-training) with information about setting up the website and etherpad for the event, and generally preparing to teach.
+One month before each event the Workshop Administration Team [emails the event's Trainers](email_templates_admin.html#one-month-trainer-email-online-training) with information about setting up the website and Etherpad for the event, and generally preparing to teach.
 
 Two weeks before each event, the Workshop Administration Team will begin monitoring the event's waitlist.  If there are any cancellations, the seat will be offered to the next person on the waitlist.  If this person does not claim their seat, it will go to the next person, and so on.
 

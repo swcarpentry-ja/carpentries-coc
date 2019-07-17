@@ -44,10 +44,10 @@ A great way to get into hosting these sessions is to first attend as an observer
 ### Signing up to Host or co-Host a Community Dicussion
 
 If you'd like to host a pre/post-workshop session:
-* Identify a session you’d like to host OR co-host on the Community Discussions etherpad: http://pad.carpentries.org/community-discussions
+* Identify a session you’d like to host OR co-host on the Community Discussions Etherpad: http://pad.carpentries.org/community-discussions
 * Type your name in the “Host” or “Co-host/notetaker” slot for the session you’ve chosen (email next to your name optional, however, if you provide your e-mail it may help facilitate communication before and after the discussion)
 * Add the time/date details of the discussion session you’re going to be a “Host” or "Co-host/notetaker" for on your calendar
-* Copying the etherpad link in your calendar event is a good idea, too!
+* Copying the Etherpad link in your calendar event is a good idea, too!
 * Make sure that you're subscribed to the [discussion-hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 If you'd like to host a pre/post-workshop session:
@@ -111,7 +111,7 @@ Each session must have at least one host (although two hosts are preferred). Any
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
 - (Optional) If a group is very large and you have a co-host, you can split the group in two, using the Breakout Rooms feature in Zoom.  
-- Copy the agenda from the bottom of the etherpad to the space under your time slot
+- Copy the agenda from the bottom of the Etherpad to the space under your time slot
 - Lead the discussion
     - We recommend following the main points of the agenda, but feel free to let discussion go where people want.  Not all the questions need to be answered by everyone.  
     - Don't feel like *you* have to answer all the questions as the host - draw on the 
@@ -145,7 +145,7 @@ The agenda should be similar to the following:
   - Reports from breakout rooms   
   - Q&A   
   - Reminders to discussion session participants   
-   - Export the etherpad (button at top right) if you'd like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
+   - Export the Etherpad (button at top right) if you'd like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
    - For small typos in lessons, submit pull request to appropriate lesson   
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)

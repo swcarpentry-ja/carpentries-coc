@@ -404,7 +404,7 @@ Make sure you have the necessary software installed on your laptop [ list requir
 
 If you won't be able to attend, please let us know so that we can offer your seat to someone on the waitlist. 
 
-Some links that will be used in the workshop: workshop page [ link to workshop page ], lesson materials [ link to lesson materials ], etherpad [ link to workshop etherpad ].  
+Some links that will be used in the workshop: workshop page [ link to workshop page ], lesson materials [ link to lesson materials ], Etherpad [ link to workshop Etherpad ].  
 
 Getting to the workshop: [ add directions to your workshop location ]  
 
