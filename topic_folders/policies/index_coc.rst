@@ -10,3 +10,4 @@ CODE OF CONDUCT
    incident-reporting.md
    enforcement-guidelines.md
    termed-suspension.md
+   coc-membership-agreement.md
