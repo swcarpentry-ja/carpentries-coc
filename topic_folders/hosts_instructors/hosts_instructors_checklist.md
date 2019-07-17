@@ -113,7 +113,7 @@ When you make a mistake, calmly talk about the error, how it's part of the proce
 There are several things that can be demotivating or impair the learners' experience. Examples of what not to do:
 
 - Take over the learner's keyboard. Instead, encourage and guide them through the solution, but let them type themselves.
-- Dive into deep discussions with more advanced learners (who might actually not need to be there). You can have those conversations 
+- Dive into deep discussions with more advanced learners (who might actually not need to be there). You can have those conversations during the break. 
 
 **Rule #4: Be aware of demotivating words**  
 
