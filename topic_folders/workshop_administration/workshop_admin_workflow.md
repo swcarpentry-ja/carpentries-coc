@@ -53,9 +53,9 @@
 
 1.  In weeks leading up to workshop, Regional Coordinator sends check in emails to be sure planning is progressing smoothly.
 
-1. After workshop is over Regional Coordinator sends email asking how things went and collecting attendance data.
+1. After workshop is over Regional Coordinator sends email asking how things went.
 
-1. Regional Coordinator records workshop attendance in AMY, and if additional information is provided, in the [Workshop Documents GitHub repo](https://github.com/swcarpentry/workshop_documents).
+1. Regional Coordinator records instructors/helpers and additional information if provided.
 
 
 #### For Self-Organised Workshops
@@ -73,6 +73,6 @@
 
 1. In weeks leading up to workshop, Regional Coordinator sends check in emails to be sure planning is progressing smoothly. This is optional as instructors and hosts should not be expecting direct support from us.
 
-1. After workshop is over Regional Coordinator sends email asking how things went and collecting attendance data.
+1. After workshop is over Regional Coordinator sends email asking how things went.
 
-1. Regional Coordinator records workshop attendance in AMY. 
+1. Regional Coordinator records instructors/helpers and additional information if provided.
