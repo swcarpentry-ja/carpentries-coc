@@ -73,6 +73,8 @@ Participants who are asked to stop any inappropriate behaviour are expected to c
 
 #### Update Logs
 
+- 2019-07-17 The CoCc membership agreement document was added to the handbook. This document is approved by the members of the Code of Conduct committee after the following process: on 31 January 2019, the first draft of this document was shared with CoCc by Malvika Sharan; from February to June of 2019, this document was intesively reviewed and updated by the committee members Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman; on 18 April 2019, The document was presented to The Carpentries Trainers community.
+
 - 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, termed supsension checklist, and expanded clauses for conflicts of interest.
 
 - 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman.
