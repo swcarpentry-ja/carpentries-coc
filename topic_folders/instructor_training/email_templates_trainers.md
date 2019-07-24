@@ -56,7 +56,9 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
+I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. 
+
+You can check your progress in the checkout steps by logging on to our instructor tracking system, AMY, using your GitHub ID here: https://amy.carpentries.org/account/login/. If you have any questions, or did not provide a GitHub user name when registering for training, please email checkout@carpentries.org. They can also answer any additional questions you might have about the checkout procedure.
 
 Welcome to The Carpentries Instructor community!
 
