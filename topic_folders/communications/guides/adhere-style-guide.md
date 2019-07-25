@@ -4,7 +4,7 @@ In contributing to The Carpentries website, handbook and other resources, rememb
 
 For example, headings should use title casing, and tools like the [Title Case Converter](https://titlecaseconverter.com/) serve as a definitive guide to formatting for Title Casing, complete with reasons for or against capitalising certain words.
 
-Another meaningful example is spellings. Because The Carpentries is a global community-led organisation, content standardisation is important. Our Style Guide currently recommends the use of we use British English in all our resources across the board. More about this in the language section of our Style Guide.
+Another meaningful example is spellings. Because The Carpentries is a global community-led organisation, content standardisation is important. Our Style Guide currently recommends the use of British English in all our resources across the board. More about this in the language section of our Style Guide.
 
 **How can you help?** 
 
