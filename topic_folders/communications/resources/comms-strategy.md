@@ -78,7 +78,7 @@ We value accessibility and ensuring community members have access options to our
 Community Discussions that are recorded using Zoom include audio. To ensure content is accessible to as many community members as possible, audio recordings will be added to The Carpentries account on a podcast platform. <br><br>
 
 - Video: <br>
-As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](http://youtube.com/ the carpentries). To ensure  content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
+As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA). To ensure  content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
 
 ### b. The Carpentries Brand
 
