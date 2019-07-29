@@ -16,9 +16,9 @@ submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and on
 
 If you wish to submit a blog post about your favourite tool or workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
 
-- Create a HackMD file, convert your post to Markdown [see Markdown cheatsheet], add a YAML header to the top of your Markdown file, open an issue in The Carpentries blog GitHub repository with new post appended to the issue title. One of the team will help get it published.<mark>moderate-time requirement</mark>
+- Create a HackMD file, convert your post to Markdown [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], add a YAML header to the top of your Markdown file, open an issue in The Carpentries blog GitHub repository with new post appended to the issue title. One of the team will help get it published. (<mark>moderate-time requirement</mark>)
 
-- Convert your post to Markdown [see Markdown cheatsheet], add a YAML header to the top of your Markdown file, and submit a Pull Request to The Carpentries blog GitHub repository (<mark>more tasking</mark>).
+- Convert your post to Markdown [[see Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)], add a YAML header to the top of your Markdown file, and submit a Pull Request to The Carpentries blog GitHub repository (<mark>more tasking</mark>).
 
 Read below and find out how to contribute a blog post to 
 
