@@ -101,7 +101,7 @@ A broader analysis of our target audiences, and specific high-level messaging fo
 
 #### Facebook
 
-The Carpentries community members hail from 46 countries. Statistically [1,2], people in nations outside of the United States and Europe primarily use mobile web/applications to engage. Facebook is therefore a great way for them to receive communication and announcements. 
+The Carpentries community members hail from 46 countries. Statistically <sup>[<a href = "https://jmango360.com/wiki-pages-trends/mobile-app-vs-mobile-website-statistics/">1</a>,<a href = "https://www.statista.com/statistics/271405/global-mobile-data-traffic-forecast/">2</a>]</sup>, people in nations outside of the United States and Europe primarily use mobile web/applications to engage. Facebook is therefore a great way for them to receive communication and announcements. 
 Recommendations for Facebook include:
 - allowing open contributions on our page, using event tools to publicise community discussions, CarpentryCon and CarpentryConnect events, and 
 - using the CarpentryCon 2018 photo as the cover photo.
