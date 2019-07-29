@@ -21,4 +21,4 @@ I understand that it is important to keep up to date and in touch with the Train
 - Teach a curriculum that fulfills all of the current requirements for instructor certification  
 - Provide feedback to other trainers and Carpentries staff about training events to help continue developing our offerings  
 
-I understand that The Carpentries staff need an accurate understanding of Trainer availability in order to plan instructor training events. If at any point I am no longer able to serve as a Trainer, I will let The Carpentries staff know. I understand that only active Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by resuming Trainer activities. 
+I understand that The Carpentries staff need an accurate understanding of Trainer availability in order to plan instructor training events. If at any point I am no longer able to serve as a Trainer, I will let The Carpentries staff know. I understand that only active Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by making arrangements with staff for re-onboarding. 
