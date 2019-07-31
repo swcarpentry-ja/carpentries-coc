@@ -17,7 +17,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 #### Equipment and Materials
 
 * Power strips, as noted above, to ensure everyone's laptop stays charged
-* Sticky notes in two contrasting colors. These are an important part of how we get feedback during a lesson.  We should have enough for each person to have about 8 of each color.
+* Sticky notes in two contrasting colors. These are an important part of how we get feedback during a lesson.  We should have enough for each person to have about 8 of each color. We encourage colors other than red and green, as colorblindness can be an issue.
 * Name tags to help people get to know each other.
 * Extra pens and paper in case people want to take notes by hand
 * Sign in sheets
