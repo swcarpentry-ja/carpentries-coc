@@ -18,6 +18,7 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 
 #### Europe
 - [Germany](https://carpentries.topicbox.com/groups/local-germany)
+- [United Kingdom](https://carpentries.topicbox.com/groups/local-uk)
 
 #### Latin America
 - [Latin America](https://carpentries.topicbox.com/groups/local-latinoamerica)
