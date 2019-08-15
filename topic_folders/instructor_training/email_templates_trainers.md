@@ -36,19 +36,35 @@ See you at the demo session,
 
 [ sender name ] 
 
-##### Trainee Didn’t Pass Teaching Demo
+##### Trainee Invited to Repeat Teaching Demo
+
+Note to Trainers: Even with a template, these emails can be hard to compose and send! When in doubt, don't hesitate to reach 
+out to the Trainer community and/or staff for support in deciding, customizing, or responding to questions about these 
+messages.
+
 
 Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-Thank you for doing a teaching demonstration. While you demonstrated good command of the subject material, I’ve determined not to pass you based on [ reason ]. [ Explanation of this reason. ]  We are excited about having you as a Carpentries instructor and I would be happy to see you do another teaching demonstration [ making these changes ] to certify as an instructor. 
+Thank you for doing a teaching demonstration. While you demonstrated good [ something they did well, e.g. command of the 
+subject material], I am inviting you to return for one more try at the teaching demo. The primary reason is because
+[ reason ]. [ Explanation of what you would like to see instead, and why it is central to Carpentries teaching practices. ]  
 
-Please let me know if you have any questions. 
+This was a difficult determination to make -- we are excited about having you as a Carpentries instructor and we want to have 
+you on board! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional 
+practice and feedback to be worthwhile. 
+
+I have contacted our checkout staff to indicate that this session should be repeated. If you are close to the end of your 
+checkout period, you can email checkout@carpentries.org to request an extension if you need one.
+
+Please get in touch with questions!
 
 Best wishes,
 
 [ sender name ] 
+
+
 
 ##### Trainee Did Pass Teaching Demo
 
