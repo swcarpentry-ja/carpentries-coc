@@ -149,7 +149,8 @@ To join the mentoring program as a mentee, complete [this form](https://docs.goo
 
 ##### Responsibilities
 
-- Decide on a meeting schedule with your Mentees.  
+- Decide on a meeting schedule with your Mentees.
+  - You can use a [Carpentries Zoom room](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html) for your meetings - please reach out to team@carpentries.org for more information about scheduling a room. Details and links for meetings can be kept in a [Carpentries Etherpad](https://pad.carpentries.org). 
 - Personalise meetings based on Mentee’s needs and desires.  
 - Respond promptly to emails from your Mentees.  
 - Follow up with Mentees who miss meetings.  
