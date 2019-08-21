@@ -125,11 +125,6 @@ Include final full stop.
 ##### figures
 Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, e.g., third, fifth, and thereafter use 10th, 31st, etc.
  
-##### first name, forename, given name
-These terms to be used in preference to the term ‘Christian name’, which might offend non-Christians. Use first names the first time someone is mentioned, but not subsequently, _e.g.,_ ‘Mary Brown came late to programming ... Brown later went on to develop several well-known programs.’
-
-Avoid using initials rather than a name, unless that is how a person is best known, _e.g.,_ J. K. Galbraith.
- 
 ##### foreign accents
 If possible, use the correct accents on people’s names in any language, _e.g.,_ Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng Nguyễn (Vietnamese).
  
@@ -142,6 +137,14 @@ Italicise these and provide accents where applicable, _e.g.,_ _bête noire_. In 
 ##### fractions
 Render as two-thirds, three-quarters, etc., but two and a half needs no hyphens.<br>
 _See also [figures](#figures)._
+
+---
+
+## G 
+##### given name
+This term to be used in preference to the terms ‘first name’, ‘forename’, and ‘Christian name’, which might offend non-Christians. Use given name the first time someone is mentioned, but not subsequently, _e.g.,_ ‘Mary Brown came late to programming ... Brown later went on to develop several well-known programs.’
+
+Avoid using initials rather than a name, unless that is how a person is best known, _e.g.,_ J. K. Galbraith.
 
 ---
 
