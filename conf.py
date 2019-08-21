@@ -26,27 +26,18 @@
 
 from datetime import datetime
 
-# Enable use of markdown
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
 source_suffix = ['.rst', '.md']
-
-
-
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #
-# needs_sphinx = '1.0'
+needs_sphinx = '1.8'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = ['sphinx_markdown_tables',
               'notfound.extension',
+              'recommonmark', # Enable use of markdown
               ]
 
 notfound_context = {
