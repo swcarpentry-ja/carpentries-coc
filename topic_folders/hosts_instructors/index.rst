@@ -12,7 +12,7 @@ is responsible for certain key workshop components:
 Centrally Organized Workshop
 ------------------------------
 
-* registration manged by The Carpentries Workshop Administration Team
+* registration managed by The Carpentries Workshop Administration Team
 * instructor recruitment managed by The Carpentries Workshop Administration Team
 
 Self-Organized Workshop
