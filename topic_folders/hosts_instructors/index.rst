@@ -45,4 +45,5 @@ For self organised workshops, the host and instructor are directly responsible f
    instructor_tips.md
    unofficial_workshops.md
    workshop_needs.md
+   handling_emergencies.md
    certificates.md
