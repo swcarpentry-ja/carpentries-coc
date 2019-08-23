@@ -9,14 +9,13 @@ have two options: a centrally-organised or self-organised workshop.
 One way to understand the distinction between centrally-organised and self-organised workshops is who 
 is responsible for certain key workshop components: 
 
-Centrally Organized Workshop
-------------------------------
+**Centrally Organized Workshop**
+
 
 * registration managed by The Carpentries Workshop Administration Team
 * instructor recruitment managed by The Carpentries Workshop Administration Team
 
-Self-Organized Workshop
-------------------------------
+**Self-Organized Workshop**
 
 * registration managed by local organizer
 * instructor recruitment managed by local organizer
