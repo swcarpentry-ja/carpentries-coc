@@ -31,6 +31,7 @@ Curriculum Advisors commit to serving a one year term, but are welcome to contin
 
 * [Curriculum Advisors, Data Carpentry](https://datacarpentry.org/lesson-leadership/)
 * [Curriculum Advisors, Library Carpentry](https://librarycarpentry.org/cac/)
+* [Curriculum Advisors, Software Carpentry](https://software-carpentry.org/curriculum-advisors/)
 
 ### Lesson Infrastructure Subcommittee
 
