@@ -62,7 +62,7 @@ This table has moved. Suggested lessons are available in the [Instructor Trainin
 
 [trainer-agreement]: ../instructor_training/trainers_guide.html#trainer-agreement
 [trainer-process]: ../instructor_training/trainers_training.html
-[trainer-pad]: http://pad.software-carpentry.org/trainers-backup
+[trainer-pad]: http://pad.software-carpentry.org/trainers
 [community-calendar]: https://software-carpentry.org/join/#community-events
 [trainer-minutes]: https://github.com/carpentries/trainers/tree/master/minutes
 [Etherpad-template]: http://pad.software-carpentry.org/ttt-template
