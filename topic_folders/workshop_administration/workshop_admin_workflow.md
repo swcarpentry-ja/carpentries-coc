@@ -60,7 +60,7 @@
 
 #### For Self-Organised Workshops
  
-1. Instructors notify Regional Coordinator about upcoming self organised workshop. This is no fee (suggested or mandated) for a self organised workshop.
+1. Host submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/). There is no fee (suggested or mandated) for a self organised workshop.
 
 1. Regional Coordinator reminds them that as a self organised workshop they will have access to our surveys but will not receive any other support in coordinating this workshop.
 
