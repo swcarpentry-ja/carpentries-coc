@@ -56,6 +56,9 @@ Information coming soon.
 
 ## Maintainer Onboarding
 
+
+**The process for Maintainer onboarding is currently on hold.  If you are interested in becoming a lesson Maintainer, please contact us at [team@carpentries.org](team@carpentries.org).**
+
 New Maintainers go through an onboarding process. The curriculum for 
 onboarding new Maintainers is available as a 
 [Maintainer Onboarding Lesson](https://carpentries.github.io/maintainer-onboarding/). 
