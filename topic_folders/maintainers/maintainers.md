@@ -85,7 +85,7 @@ the onboarding process.
     - [Award them a Maintainer badge in AMY](../workshop_administration/amy_manual.html#issuing-badges). If the individual has [consented to having their profile published](../workshop_administration/amy_manual.html#adding-an-individual-person-record), they will appear on [The Carpentries Maintainers page](https://carpentries.org/maintainers/) within a day.  
 1. Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
 1. Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
-1. Announce new Maintainers in the next newsletter.
+1. Announce new Maintainers in the next [newsletter](https://carpentries.org/newsletter/).
 
 
 [SWC GH Lesson Maintainer Teams]: https://github.com/orgs/swcarpentry/teams/lesson-maintainers
