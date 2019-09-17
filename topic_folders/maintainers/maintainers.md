@@ -78,7 +78,7 @@ the onboarding process.
 1. Run the three weeks of meetings according to [the curriculum](https://carpentries.github.io/maintainer-onboarding/). Keep record of who participates in the AMY event.
 1. If people are not able to make all of the meetings, [email](email_templates.html#missed-onboarding-meeting) them to ask them to write out responses to the discussion questions and homework. 
 
-## Adding Maintainers to Carpentries systems
+### Adding Maintainers to Carpentries systems
 
 1. Do the following for each of the Maintainers who have completed the onboarding requirements:  
     - Add them to the appropriate team for [Software Carpentry][SWC GH Lesson Maintainer Teams], [Data Carpentry][DC GH Lesson Maintainer Teams], [Library Carpentry][LC GH Lesson Maintainer Teams], or [The Carpentries][The Carpentries GH Lesson Maintainer Teams] Lesson Maintainers. This will give them write privileges for that lesson's repo.
