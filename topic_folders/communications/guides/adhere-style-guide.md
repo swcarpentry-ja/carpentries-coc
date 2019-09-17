@@ -8,7 +8,7 @@ Another meaningful example is spellings. Because The Carpentries is a global com
 
 **How can you help?** 
 
-As you read through the resources we make available on the [Data Carpentry](https://twitter.com/datacarpentry), [Library Carpentry](https://librarycarpentry.org/), [Software Carpentry](https://software-carpentry.org/) and [The Carpentries](https://carpentries.org/) websites as well as this Handbook and other resources, you can go to the appropriate repository and either:
+As you read through the resources we make available on the [Data Carpentry](https://datacarpentry.org), [Library Carpentry](https://librarycarpentry.org/), [Software Carpentry](https://software-carpentry.org/) and [The Carpentries](https://carpentries.org/) websites as well as this Handbook and other resources, you can go to the appropriate repository and either:
 - open an issue and report instances of these anomalies (<mark>low time requirement</mark>), or
 
 - submit a Pull Request with edits that help standardise spellings, headings, etc (<mark>Moderate time requirement </mark>).
