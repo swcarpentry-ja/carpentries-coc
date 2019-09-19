@@ -46,8 +46,7 @@ We also ask for social profile information as well as your ORCID and personal we
 on the [instructor page](https://carpentries.org/instructors) of our website if you consent. Being included on our website is 
 strictly opt-in. You must login to your instructor profile and check the box "consent to publish profile" or your instructor 
 information **will not** be included in our listing. 
-![AMY Database tool login window, allowing login with 
-username/password or GitHub account](https://docs.carpentries.org/_images/amy_login_screen.png)
+![AMY Database tool login window, allowing login with username/password or GitHub account](https://docs.carpentries.org/_images/amy_login_screen.png)
 
 ### Teaching
 
