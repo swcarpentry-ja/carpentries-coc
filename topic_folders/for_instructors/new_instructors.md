@@ -58,16 +58,17 @@ Read more about Instructor motivations in Dr. Beth Duckles's report, [*Value of 
 ### Steps to Becoming an Instructor
 
 Anyone who supports the aims of The Carpentries is welcome to apply for Instructor training. However, we are not able to 
-guarantee training to all applicants. While we would like to help everyone, we do need to prioritise people 
-at our member organisations, who have provided funding to us to ensure that they can develop Instructor capacity in-house. 
+guarantee training to all applicants. Member organizations get first priority for Instructor Training seats. For individuals
+interested in becoming certified Instructors outside the scope of membership, applications may be submitted for review
+through our Open Instructor Training program.
 
-Therefore, if you are at an institution that is not affiliated to The Carpentries, there may be a substantial wait 
-to become trained as an instructor.
+Open Instructor Training applications are reviewed and scored periodically, with expected wait times of 1-3 months from 
+submission. When space is available in upcoming events, we invite Open applicants in order of scoring to register. Multiple 
+applicants from a single institution will generally not be admitted at the same time. Acceptance to Open Instructor Training 
+does not expire, and registration codes may be used for any online training event between 1 month and 1 week prior to its start date. 
 
-We periodically review and score applications that have been submitted. When training places go unclaimed by member institutions, 
-we invite applicants in order of scoring to fill any training seats unclaimed by a member institution. 
-
-How do we score applicants? See our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md#).
+How do we score applicants? See our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md#). 
+Applications below a threshold score may be declined. Howewver, we welcome enthusiastic instructors to correspond and re-apply. 
 
 To request training as an Instructor, please fill out this [form](https://amy.carpentries.org/forms/request_training/).
 
@@ -75,4 +76,4 @@ Occasionally, open training events offered to the general public may be announce
 in our [mailing list](https://carpentries.topicbox.com/groups/discuss), 
 newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), or through 
 our [Twitter](https://twitter.com/thecarpentries) feed. 
-For all other events, applicants from our waiting lists are personally invited to attend as seats become available.
+For all other events, seats are reserved for trainees affiliated with member institutions or admitted idividually through our Open Instructor Training program.
