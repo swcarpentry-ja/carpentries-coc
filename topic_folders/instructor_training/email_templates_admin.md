@@ -188,6 +188,27 @@ Best,
 
 [INSERT SENDER’S NAME]
 
+##### Decline Open Training Applications
+
+Subject: The Carpentries Open Instructor Training Application
+
+Hello,
+
+Thank you for applying to The Carpentries Open Instructor Training program. This program provides training to individual applicants who do not otherwise have access to Instructor Training (e.g. through an institutional membership). If you did not intend to apply to this program, you may disregard this email.
+
+This email is being sent to let you know that your application has received a low score and will not be accepted into the program. Low scores usually occur when an application does not meet any of our current [growth priorities](https://github.com/carpentries/instructor-training/blob/gh-pages/files/rubric.md), and additionally can result from blank or insufficiently detailed free text responses, or answers that reflect a lack of clarity about the purpose of the training or The Carpentries’ mission. 
+
+If you feel that you are a good fit to support the mission of The Carpentries and would like to be reconsidered for this program, we welcome you to [reapply](https://amy.carpentries.org/forms/request_training/). In your application, be sure to provide detailed responses to the free text questions explaining your passion for becoming part of The Carpentries Instructor team. You may also want to read more about [our mission](https://carpentries.org/about/) and our [Instructor Training](https://carpentries.github.io/instructor-training/) program before reapplying.
+
+Note that if you have filed multiple applications with us, this message only applies to one of them -- if you might have an application on file with a higher score, you are welcome to inquire by replying to this email. **The application that triggered this message will now be archived**, so you will not be contacted again with respect to the same application.
+
+We do our best to offer training for all, but we regret that there is a limit to the number of free seats we are able to offer for Instructor Training at this time. If you have questions about how to strengthen your application, please get in touch! 
+
+Best,
+
+[Sender name]
+
+
 ##### One Month Trainer Email (online training)
 
 Hi [INSERT TRAINER NAMES], 
