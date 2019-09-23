@@ -86,7 +86,7 @@ I understand that it is important to keep in touch with The Carpentries communit
 
 
 ### Mentor Onboarding
-- [Mentor Onboarding Recording](https://carpentries.zoom.us/recording/share/_wbDBrHDTD_IBp4Gqnso-q6-GBVrhCV2w12OzpDIk5ywIumekTziMw) 
+- [Mentor Onboarding Recording](https://youtu.be/9vivMXnrRFo) 
 
 ### Mentoring Groups Recruitment Strategy
 
@@ -189,7 +189,7 @@ The Carpentries' community is invited to participate in a Virtual Showcase of ou
   - __Why attend:__ Be inspired by the projects of __your__ global community members! Be empowered to start a new project, contribute to a lesson, or prepare to teach a lesson. Explore the benefits of mentoring and being a part of a global community.
 
 #### Sign-Up
-Please visit this [Etherpad](http://pad.software-carpentry.org/carpentries-mentors) to view notes from past meetings or sign up for upcoming meetings.
+Please visit this [Etherpad](https://pad.carpentries.org/mentoring-groups) to view notes from past meetings or sign up for upcoming meetings.
 
 #### Contact
-For information regarding The Carpentries Mentoring Groups, [e-mail](mailto:kariljordan@carpentries.org) Kari L. Jordan. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](http://pad.software-carpentry.org/scf-mentoring). 
+For information regarding The Carpentries Mentoring Groups, [e-mail](mailto:chiapello.m@gmail.com ) Marco Chiapello. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](https://pad.carpentries.org/instructor-development). 
