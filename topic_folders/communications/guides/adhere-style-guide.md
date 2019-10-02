@@ -1,6 +1,6 @@
 ## Adhering to The Carpentries Style Guide
 
-In contributing to The Carpentries website, handbook and other resources, remember to refer to [The Carpentries Style Guide](https://docs.carpentries.org/topic_folders/communications/style-guide.html) and format your contributions accordingly. 
+In contributing to The Carpentries website, handbook and other resources, remember to refer to [The Carpentries Style Guide](https://docs.carpentries.org/topic_folders/communications/resources/style-guide.html) and format your contributions accordingly. 
 
 For example, headings should use title casing, and tools like the [Title Case Converter](https://titlecaseconverter.com/) serve as a definitive guide to formatting for Title Casing, complete with reasons for or against capitalising certain words.
 
