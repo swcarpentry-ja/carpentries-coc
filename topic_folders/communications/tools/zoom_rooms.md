@@ -9,9 +9,9 @@ The Carpentries offers three Zoom rooms for public community events.  Zoom rooms
 Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
 Links below will open Zoom and enter the respective room.
 
-* [**Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
-* [**Room 2:**](https://carpentries.zoom.us/my/carpentriesroom2) Instructor Training backup
-* [**Room 3:**](https://carpentries.zoom.us/my/carpentriesroom3) Community events (teaching demos, discussion sessions, committee meetings, etc.)
+* [**Click to enter Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
+* [**Click to enter Room 2:**](https://carpentries.zoom.us/my/carpentriesroom2) Instructor Training backup
+* [**Click to enter Room 3:**](https://carpentries.zoom.us/my/carpentriesroom3) Community events (teaching demos, discussion sessions, committee meetings, etc.)
 
 
 Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
