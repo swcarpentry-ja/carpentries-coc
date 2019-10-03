@@ -24,28 +24,27 @@
 
 # -- General configuration ------------------------------------------------
 
-
-# Enable use of markdown
-
-from recommonmark.parser import CommonMarkParser
-
-source_parsers = {
-    '.md': CommonMarkParser,
-}
+from datetime import datetime
 
 source_suffix = ['.rst', '.md']
 
-
-
-
 # If your documentation needs a minimal Sphinx version, state it here.
 #
-# needs_sphinx = '1.0'
+needs_sphinx = '1.8'
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx_markdown_tables']
+extensions = ['sphinx_markdown_tables',
+              'notfound.extension',
+              'recommonmark', # Enable use of markdown
+              ]
+
+notfound_context = {
+        'body': '<h1>This page may have moved.</h1> <p>Please select a page from the side menu or contact team@carpentries.org if you need additional help.</p>',
+}
+
+notfound_no_urls_prefix = True
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -61,7 +60,10 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'The Carpentries Handbook'
-copyright = '2018, The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
+
+current_year = str(datetime.now().year)
+
+copyright = '2018-' + current_year + ', The Carpentries. This content is released under the terms of the Creative Commons Attribution License'
 author = 'Authors'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -100,7 +102,7 @@ todo_include_todos = False
 # html_theme = 'alabaster'
 html_theme = "sphinx_rtd_theme"
 
-# Theme options are theme-specific and customize the look and feel of a theme
+# Theme options are theme-specific and customise the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #

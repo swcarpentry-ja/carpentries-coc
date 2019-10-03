@@ -2,7 +2,7 @@
 
 The Carpentries supports and maintains Lesson Programs. Lesson Programs are collections of lessons comprising one or more Carpentries workshops, serving distinct goals and audience, and the leadership guiding their development and implementation. 
 
-From the The Carpentries Bylaws:  
+From The Carpentries Bylaws:  
 *A Lesson Program within The Carpentries possesses the following characteristics:  
 - Intention and purpose for lessons that align with The Carpentries mission and vision
 - Goals and objectives for lessons and/or workshops that are distinct from other Lesson Programs
@@ -43,13 +43,13 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 - The Carpentries will include the Lesson Programs in assessment efforts, including survey development and data analysis. 
 - The Carpentries will ensure the instructor training program addresses the training needs of the Lesson Program, incorporating examples and exercises targeted towards the communities served by the Lesson Program.
 - The Carpentries will prepare Trainers to work with trainees from the Lesson Program. 
-- The Carpentries Instructor Training recruitment and retention strategies will include building communities of InstructorsIinstructors in communities and domains served by the Lesson Program. 
+- The Carpentries Instructor Training recruitment and retention strategies will include building communities of Instructors in domains and communities served by the Lesson Program. 
 - The Carpentries will include the Lesson Program in all community efforts, including but not limited to the activities of the Instructor Development committee, Mentorship program and BugBBQs.
 - The Carpentries programmatic and assessment reports will include Lesson Program activities. The Lesson Program will also have access to data specific to its activities.
 - The Carpentries Organisational Membership program will include The Lesson Program.
 - The Carpentries will provide an annual financial report to the Lesson Program Committee, including an assessment of the financial stability and sustainability of The Carpentries.
 - The Carpentries general revenue through Memberships, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.  
-- The Carpentries maintain and document an administrative and financial management structure that supports the Lesson Program.
+- The Carpentries maintains and documents an administrative and financial management structure that supports the Lesson Program.
 
 ---
 

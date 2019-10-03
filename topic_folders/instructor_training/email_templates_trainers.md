@@ -1,28 +1,32 @@
 ### Email Templates (Trainers)
 
-##### Email after training event
+This section contains email templates for English and Spanish activities.
+
+#### Templates in English
+
+##### Email after Training Event
 
 Subject: Thanks for attending Carpentries Instructor Training!
 
 Hi everyone, 
 
-Thank you for participating in our Carpentry Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentry instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
+Thank you for participating in The Carpentries Instructor training workshop. We really enjoyed having you involved and getting to know you a bit. You are now well on your way towards becoming a certified Carpentries instructor. In order to finish your certification, please finish these tasks (https://carpentries.github.io/instructor-training/checkout/) by the 90-day deadline. If you have any questions about the checkout process, please contact checkout@carpentries.org. 
 
-Looking forward to having you as a Carpentry Instructor!
+Looking forward to having you as a Carpentries Instructor!
 
 Best,
 
 [ name ]
 
-##### Reminder teaching demo
+##### Reminder Teaching Demo
 
-Subject: Software/Data Carpentry teaching demonstration
+Subject: The Carpentries teaching demonstration
 
 Hi,
 
-According to http://pad.software-carpentry.org/teaching-demos you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
+According to https://pad.carpentries.org/teaching-demos you have signed up to give an online teaching demo on [ date ] at [ time ] (See this link for your local time: [ timeanddate.com link ]). I will be the Instructor Trainer running the session.
 
-I wanted to make it very clear that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach 5 minutes from a particular section and nothing else, and these often have to reschedule as they seldom are assigned the section they have prepared for. A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ and http://www.datacarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
+I wanted to make it very clear that I may give you any segment of the lesson you prepared to teach, so you must be ready to teach any part of your chosen lesson. Some people prepare to teach 5 minutes from a particular section and nothing else, and these often have to reschedule as they seldom are assigned the section they have prepared for. A lesson corresponds to a single line in the lesson tables (https://software-carpentry.org/lessons/ , http://www.datacarpentry.org/lessons/ , and https://librarycarpentry.org/lessons/) and a single repository on GitHub. Some lessons have supplementary modules, but you do not need to be prepared to teach the supplementary modules for your teaching demonstration.
 
 For example, if you have chosen The Unix Shell, I may assign you any episode listed at http://swcarpentry.github.io/shell-novice/.
 
@@ -32,34 +36,53 @@ See you at the demo session,
 
 [ sender name ] 
 
-##### Trainee didn’t pass teaching demo
+##### Trainee Invited to Repeat Teaching Demo
+
+Note to Trainers: Even with a template, these emails can be hard to compose and send! When in doubt, don't hesitate to reach 
+out to the Trainer community and/or staff for support in deciding, customizing, or responding to questions about these 
+messages.
+
 
 Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-Thank you for doing a teaching demonstration. While you demonstrated good command of the subject material, I’ve determined not to pass you based on [ reason ]. [ Explanation of this reason. ]  We are excited about having you as a Carpentry instructor and I would be happy to see you do another teaching demonstration [ making these changes ] to certify as an instructor. 
+Thank you for doing a teaching demonstration. While you demonstrated good [ something they did well, e.g. command of the 
+subject material], I am inviting you to return for one more try at the teaching demo. The primary reason is because
+[ reason ]. [ Explanation of what you would like to see instead, and why it is central to Carpentries teaching practices. ]  
 
-Please let me know if you have any questions. 
+This was a difficult determination to make -- we are excited about having you as a Carpentries instructor and we want to have 
+you on board! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional 
+practice and feedback to be worthwhile. 
+
+I have contacted our checkout staff to indicate that this session should be repeated. If you are close to the end of your 
+checkout period, you can email checkout@carpentries.org to request an extension if you need one.
+
+Please get in touch with questions!
 
 Best wishes,
 
 [ sender name ] 
 
-##### Trainee did pass teaching demo
+
+
+##### Trainee Did Pass Teaching Demo
 
 Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of Carpentry teaching methods. We are excited about having you as a Carpentry instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official Carpentry Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. If you have any questions, please email checkout@carpentries.org.
+I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. 
 
-Welcome to the Carpentry Instructor community!
+You can check your progress in the checkout steps by logging on to our instructor tracking system, AMY, using your GitHub ID here: https://amy.carpentries.org/account/login/. If you have any questions, or did not provide a GitHub user name when registering for training, please email checkout@carpentries.org. They can also answer any additional questions you might have about the checkout procedure.
+
+Welcome to The Carpentries Instructor community!
 
 Best wishes,
 
 [ sender name ] 
 
+#### Templates in Spanish
 
 ##### Bilingual Demo Session Reminder Email
 
@@ -67,44 +90,45 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hello,
 
-Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet on [ Insert Date ] at [ Insert Time ] in this Zoom videoconferencing room (https://carpentries.zoom.us/my/carpentriesroom3). Please read this short bi-lingual description of how Teaching Demo session works (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
+Thanks for signing up to complete your “Teaching Demo” as part of the instructor certification process.  We will meet on [ Insert Date ] at [ Insert Time ] in this Zoom videoconferencing room (https://carpentries.zoom.us/my/carpentriesroom3). Please read this short bi-lingual description of how Teaching Demo session works (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md#). Disclaimer: I understand Spanish better than I speak it. So, I will talk in Spanish as much as I can, but I will most likely give feedback about your teaching in English.
 
 Please let me know if you have any questions or concerns.
 
 Hola,
 
-Gracias por inscribirte para completar tu "Demostración de enseñanza" como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee ésta breve descripción bilingüe de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
+Gracias por inscribirte para completar tu demostración de enseñanza como parte del proceso de certificación para instructores. Nos reuniremos [ Insert Date ] [ insert time ] aquí: (https://carpentries.zoom.us/j/357144246). Por favor, lee [ésta breve descripción bilingüe](https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md#) de cómo funciona la sesión de demostración de enseñanza aquí: (https://github.com/carpentries/latinoamerica/blob/master/traducciones/demo.md#). Aviso: Entiendo el español mejor de lo que hablo. Por lo tanto, voy a hablar en español un poco, pero es muy probable que les dé comentarios sobre su enseñanza en Inglés.
 
-Por favor, hágamelo saber si tiene alguna pregunta o inquietud.
+Por favor, hazme saber si tienes alguna pregunta o inquietud.
 
 Best/Saludos,
 
 [ sender name ]
 
 
-##### Completed everything except lesson contribution
+##### Spanish: Trainee Did Not Pass Teaching Demo
 
-Subject: Carpentries instructor training: Lesson Contribution
+Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
 
-Hi [ trainee name ],
+Hola [nombre del aprendiz],
 
-Thank you for participating in an instructor discussion session and a teaching demonstration. I’d like to check you off in our system and issue you your instructor certification, but I don’t currently have a record of your lesson contribution. If you’ve already made a contribution, please send me a link to the PR or issue. If you’re working on your contribution, please check out these guidelines for some tips.
+Gracias por presentar tu demostración de enseñanza. A pesar de que has demostrado un buen conocimiento de los temas cubiertos, he determinado no aprobarte basada/o en [razón]. [Explicar la razón]. Estaremos muy contentos de recibirte como instructor de las Carpentries en el futuro y me gustaría verte hacer otra demostración [especificar los cambios necesarios] para certificarte como instructor.
 
-Please get in touch if you have any questions.
+Por favor, hazme saber si tienes alguna pregunta o inquietud.
 
-Best,
+Saludos,
 
-[ sender name ]
+[nombre del remitente]
 
+##### Spanish: Trainee Did Pass Teaching Demo
 
-##### Completed lesson contribution
+Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
 
-Subject: Carpentries instructor training: Discussion and teaching demo
+Hola [nombre del aprendiz],
 
-Hi [ trainee_name ],
+Estoy muy contenta/o de informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries. EEs un gusto recibirte como instructor/a de las Carpentries. Ya he mandado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación recibirás tu certificado oficial de las Carpentries en alrededor de una semana junto con las instrucciones para inscribirte para impartir talleres. Si aún tienes que completar algunos pasos en tu proceso de certificación asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor manda un correo a heckout@carpentries.org.
 
-Thanks very much for your lesson contribution. When you have a moment, please go to the instructor discussion etherpad here: (https://pad.carpentries.org/instructor-discussion) to sign up for a discussion session, and then to the teaching demo etherpad (https://pad.carpentries.org/teaching-demos-recovered) to sign up for your final demo. For more information about completing your instructor certification, please see our simplified checklist: (http://www.datacarpentry.org/checkout/) and let us know if you have any questions.
+Bienvenida/o a la comunidad de las Carpentries.
 
-Best, 
+Saludos,
 
-[ name ]
+[nombre del remitente]

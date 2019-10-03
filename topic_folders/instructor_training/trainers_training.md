@@ -1,11 +1,11 @@
 ### Becoming a Trainer
-The Trainers group periodically accepts new members via [application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ). New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.html).
+The Trainers group periodically accepts new members via [application](https://docs.google.com/forms/d/11qNXLw8B-nFNWKZKcsosIyudAc3ehCT_UY0DS0UvjpQ). New Trainers undergo an eight-week training program outlined below and agree to the [Trainer Agreement](duties_agreement.md).
 
 #### Trainers Training Program
 
-This outline represents the time commitment required for being an instructor Trainer with the Carpentries. Please read through and check to see that you are able to commit to the responsibilities outlined below.
+This outline represents the time commitment required for being an instructor Trainer with The Carpentries. Please read through and check to see that you are able to commit to the responsibilities outlined below.
 
-Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/) in all communications and interactions with the Carpentry community.
+Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpentry.org/code-of-conduct/) in all communications and interactions with The Carpentries community.
 
 * Read [How Learning Works](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/) by Susan Ambrose and discuss in book club format with Trainers-in-training. Preliminary reading schedule.
   * Time commitment: 1 hour per week for 8 weeks meetings; can miss one meeting; ~10 hours reading
@@ -17,7 +17,7 @@ Instructor Trainers agree to abide by the [Code of Conduct](http://www.datacarpe
   * Time commitment: 4 hours one time
 * Teach once either online or in person with experienced Trainer (after finishing book club)
   * Time commitment: 2 days one time plus prep
-* Agree to the [Trainer Agreement](duties_agreement.html). 
+* Agree to the [Trainer Agreement](duties_agreement.md). 
 
 Total time commitment for continuing Trainers: 
 4 days per year + 2.5 hrs per month
@@ -35,7 +35,7 @@ For the most recent Trainer Training schedule and discussion questions, see the 
 1. Director of Instructor Training and Carpentries staff will decide on goals for Trainer recruitment.
 1. [Trainer Application](https://docs.google.com/forms/d/e/1FAIpQLSchAJhZiLSVmqSab1QxG1H30tCAHg_BcUwfctnJpzIhOVo1Bg/viewform?usp=sf_link) will be modified to reflect these goals.
 1. Open application period will be announced via Carpentries platforms including Twitter, Facebook, the Discuss email list, and blogs. Ask relevant community members to promote within their networks as well.  Personal invitations can be sent with [this email template](email_templates_admin.html#recruiting-new-trainers).
-1. Ensure communication emphasizes overall goals.
+1. Ensure communication emphasises overall goals.
 1. Ask 2-3 existing Trainers to help review applications in line with defined goals. There is no rubric for this.  Reviewers should leave notes supporting their rankings.  
 1. Consolidate rankings, adding discretionary points for gaps in representation by characteristics like gender, race, geography, and experience.
 1. Notify accepted applicants using [this email template](email_templates_admin.html#accepting-new-trainers).
