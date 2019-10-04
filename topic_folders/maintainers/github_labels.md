@@ -170,8 +170,8 @@ install.packages("remotes")
     ```r
     remotes::install_github("fmichonneau/carpenter")
     ```
-1. Make sure you have downloaded the CSV file that contains the information
-   about the GitHub labels. It is in the repository for The Carpentries handbook
+1. Make sure you have downloaded the [CSV file that contains the information
+   about the GitHub labels](https://github.com/carpentries/handbook/blob/master/data/github_labels.csv). It is in the repository for The Carpentries handbook
    in the data folder.
    
 1. Load the `carpenter` package and create the labels on one repository:
