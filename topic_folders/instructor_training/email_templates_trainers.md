@@ -105,27 +105,36 @@ Best/Saludos,
 [ sender name ]
 
 
-##### Spanish: Trainee Did Not Pass Teaching Demo
+##### Spanish: Trainee Invited to Repeat Teaching Demo
 
-Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
+Nota a los Trainers: Incluso con un template, este tipo de emails son difíciles de redactar y enviar! Si tienes preguntas, no dudes en contactar con la comunidad de Trainers y/o nuestro personal para tomar decisiones, personalizar o responder preguntas sobre estos mensajes.
+
+
+Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
 
 Hola [nombre del aprendiz],
 
-Gracias por presentar tu demostración de enseñanza. A pesar de que has demostrado un buen conocimiento de los temas cubiertos, he determinado no aprobarte basada/o en [razón]. [Explicar la razón]. Estaremos muy contentos de recibirte como instructor de las Carpentries en el futuro y me gustaría verte hacer otra demostración [especificar los cambios necesarios] para certificarte como instructor.
+Gracias por realizar tu demostración de enseñanza. A pesar de que has demostrado un buen [algo que hizo bien, puntos positivos, e.g. conocimiento de los materiales de enseñanza], me gustaría invitarte a realizar de nuevo la demostración de enseñanza. La razón principal es [razón]. [Explicar lo que te gustaría ver en el/la candidato/a, y por qué es fundamental de acuerdo a las prácticas educativas de Carpentries].
 
-Por favor, hazme saber si tienes alguna pregunta o inquietud.
+Esta no ha sido una decisión fácil de tomar -- nos encantaría tenerte como instructor en Carpentries! Sé que es complicado hacer tiempo para este tipo de sesiones pero espero que consideres este tiempo adicional de práctica y feedback como una oportunidad.
+
+Me he puesto en contacto con nuestro personal de checkout indicando que esta sesión debe repetirse. Si estás cerca de tu periodo de checkout, puedes enviar un email a checkout@carpentries.org para solicitar una extensión si la necesitas.
+
+No dudes en ponerte en contacto si tienes cualquier pregunta!
 
 Saludos,
 
 [nombre del remitente]
 
+
+
 ##### Spanish: Trainee Did Pass Teaching Demo
 
-Subject: Entrenamiento para instructor de las Carpentries: Demostración de enseñanza
+Subject: Formación para instructor de las Carpentries: Demostración de enseñanza
 
 Hola [nombre del aprendiz],
 
-Estoy muy contenta/o de informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries. EEs un gusto recibirte como instructor/a de las Carpentries. Ya he mandado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación recibirás tu certificado oficial de las Carpentries en alrededor de una semana junto con las instrucciones para inscribirte para impartir talleres. Si aún tienes que completar algunos pasos en tu proceso de certificación asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor manda un correo a heckout@carpentries.org.
+Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a checkout@carpentries.org.
 
 Bienvenida/o a la comunidad de las Carpentries.
 
