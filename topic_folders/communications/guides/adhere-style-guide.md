@@ -6,6 +6,18 @@ For example, headings should use title casing, and tools like the [Title Case Co
 
 Another meaningful example is spellings. Because The Carpentries is a global community-led organisation, content standardisation is important. Our Style Guide currently recommends the use of British English in all our resources across the board. More about this in the language section of our Style Guide.
 
+## Formatting Hyperlinks
+
+Hyperlinks on the websites for The Carpentries and its lesson programs should be formatted using [Jekyll's link formatting syntax](https://jekyllrb.com/docs/liquid/tags/#links).  This includes: 
+
+- using `{% link %}` for pages. For example, `[Become a member organisation]({% link pages/membership.md%})`
+- using `{% post %}` for blog posts. For example `[blog post]({% post _posts/2021/05/2021-05-01-blogging-from-the-future.md %})`
+- not using relative paths
+- not including `https://carpentries.org/` (or the respective website) in the URLs.  The `baseurl` should be defined in the website's `_config` file.
+- using `{{ urlimg }}` for images.  For example, `<img src="{{ site.urlimg }}/blog/2021/05/future.png">`.  The `urlimg` should be defined in the website's `_config` file.
+- using `{{ filesurl }}` for files. For example, `[Read the report]({{ site.filesurl }}/docs/2021/05/future.pdf)`
+
+
 **How can you help?** 
 
 As you read through the resources we make available on the [Data Carpentry](https://datacarpentry.org), [Library Carpentry](https://librarycarpentry.org/), [Software Carpentry](https://software-carpentry.org/) and [The Carpentries](https://carpentries.org/) websites as well as this Handbook and other resources, you can go to the appropriate repository and either:
