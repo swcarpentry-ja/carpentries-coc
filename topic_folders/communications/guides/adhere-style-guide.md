@@ -10,7 +10,7 @@ Another meaningful example is spellings. Because The Carpentries is a global com
 
 Hyperlinks on the websites for The Carpentries and its lesson programs should be formatted using [Jekyll's link formatting syntax](https://jekyllrb.com/docs/liquid/tags/#links).  This includes: 
 
-- using `{% link %}` for pages. For example, `[Become a member organisation]({% link pages/membership.md%})`
+- using `{% link %}` for pages. For example, `[Become a member organisation]({% link pages/membership.md %})`
 - using `{% post %}` for blog posts. For example `[blog post]({% post _posts/2021/05/2021-05-01-blogging-from-the-future.md %})`
 - not using relative paths
 - not including `https://carpentries.org/` (or the respective website) in the URLs.  The `baseurl` should be defined in the website's `_config` file.
