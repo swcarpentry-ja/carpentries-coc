@@ -6,7 +6,7 @@ The highest leadership body of The Carpentries is the [Executive Council](https:
 
 In addition to publicly posting meeting minutes, the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance). 
 
-If you have a question on concern for the Executive Council, please see instructions [here](https://github.com/carpentries/executive-council-info) for communicating with Executive Council Members.
+If you have a question or concern for the Executive Council, please see instructions [here](https://github.com/carpentries/executive-council-info) for communicating with Executive Council Members.
 
 ### Elections
 
