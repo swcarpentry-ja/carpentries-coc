@@ -12,13 +12,17 @@ In case the post you intend to publish reports on activities carried out by The 
 
 Since the Data Carpentry and Software Carpentry merger, and the inclusion of Library Carpentry as a lesson program of The Carpentries, we have realised the need to share relevant posts from each of the three sources with The Carpentries community. As such, cross-posted posts on The Carpentries blog will be tagged [Library Carpentry](https://carpentries.org/posts-by-tags/#blog-tag-library-carpentry), [Data Carpentry](https://carpentries.org/posts-by-tags/#blog-tag-data-carpentry) or [Software Carpentry](https://carpentries.org/posts-by-tags/#blog-tag-software-carpentry) to indicate their original source.
 
+#### Carpentries Tagathon
+
+For posts in the Data Carpentry, Library Carpentry and Software Carpentry blog, there is no need to add Carpentry-specific tags as all posts in the respective blogs are already specific to each Carpentry.
+
 ### By Thematic Focus 
 
 Our core team at The Carpentries works on projects that have specific themes attached to them i.e. [Assessment](https://carpentries.org/posts-by-tags/#blog-tag-assessment), [Equity](https://carpentries.org/posts-by-tags/#blog-tag-equity) and [Inclusion](https://carpentries.org/posts-by-tags/#blog-tag-inclusion). Additionally, as a community-led organisation, we often incorporate pertinent discussions  into our ongoing work and communicate regularly about those i.e. [Accessibility](https://carpentries.org/posts-by-tags/#blog-tag-assessment) and [Roadmaps](https://carpentries.org/posts-by-tags/#blog-tag-roadmap) for achieving specific goals.
 
 ### By Community Activity
  
-The Carpentries has many different activities aimed at bringing our community members together for learning, sharing, discussions, collaboration online and in-person. Remember to tag posts by the appropriate community activity i.e. [Workshops](https://carpentries.org/posts-by-tags/#blog-tag-workshops), [Events](https://carpentries.org/posts-by-tags/#blog-tag-events) (Conferences not organised by the Carpentries, Hackathons, Meetups, Research Bazaars, Hacky Hours, etc), [Community Discussions](https://carpentries.org/posts-by-tags/#blog-tag-discussion-sessions), [Feedback](https://carpentries.org/posts-by-tags/#blog-tag-feedback), [Translations](https://carpentries.org/posts-by-tags/#blog-tag-translations) etc
+The Carpentries has many different activities aimed at bringing our community members together for learning, sharing, discussions, collaboration online and in-person. Remember to tag posts by the appropriate community activity i.e. [Workshops](https://carpentries.org/posts-by-tags/#blog-tag-workshops), [Events](https://carpentries.org/posts-by-tags/#blog-tag-events) (Conferences not organised by the Carpentries, Hackathons, Meetups, Research Bazaars, Hacky Hours, etc), [Discussion Sessions](https://carpentries.org/posts-by-tags/#blog-tag-discussion-sessions), [Feedback](https://carpentries.org/posts-by-tags/#blog-tag-feedback), [Translations](https://carpentries.org/posts-by-tags/#blog-tag-translations) etc
 
 ### By Carpentries-centric Initiatives
 
