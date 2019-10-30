@@ -36,7 +36,7 @@ you can also join the `#champions` channel on [Slack](https://swc-slack-invite.h
 If you are attending a conference or event and would like to network with other Carpentries community members, 
 please add the details of the event and your own details to our [meetups Etherpad](https://pad.carpentries.org/swc-events-meetup).
 
-### Instructor Profile
+### Accessing and Updating Your Instructor Profile
 We maintain a record of information for each of our instructors in our AMY database system. 
 To keep your AMY profile up-to-date you can [login to AMY](https://amy.carpentries.org/) using your GitHub account. 
 If you are unable to login to AMY, please submit your GitHub username to [team@carpentries.org](mailto:team@carpentries.org) 
