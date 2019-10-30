@@ -335,7 +335,7 @@ Choose the two Persons or Events to be merged, and click "Submit" to see merge o
 The quickest and easiest way to search is using the search box in the top menu bar. This will perform a case insensitive search of any field in AMY, including searching for partial matches. For example:
 *  `12-12-` will match any workshop slug containing that string (essentially any workshop on December 12 of any year.)
 * `ola tes` will match `Nikola Tesla` and `Nolan Bates`
-* `stanford` will match any one with a `stanford` email address, with `stanford` in their name, any workshops with `stanford` in the slug, the site `Stanford University` and any records with `stanford` in the notes.
+* `stanford` will match any one with a `stanford` email address, with `stanford` in their name, any workshops with `stanford` in the slug, or the site `Stanford University`.
 
 
 #### Searching for Qualified Instructors
