@@ -12,14 +12,36 @@ We also ask questions to measure learners' mindset (growth vs. fixed). Our objec
 
 Additionally, we measure learners' perception of skill growth and whether or not they plan to recommend our workshops to colleagues.
 
-Our pre- and post-workshop surveys can be previewed here:
-- [Software Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=V6gQbbOKn3NoPKfYKHjAKu_2BBCdtXXsTS2pf1BIdARccEtJQqlu1KFB2j2TcF0MCn)   
-- [Software Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=uN5QPa4MbF1_2BB1plbLWnL1ZUc7Nttqici0Nc0e3G4RahMwwGW5NUp4U5PKQDYmky)    
-- [Data Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=zdE7x498WxTrpyiD6WEQJaspyjn2T7djLpBg2pc36ylXiMCwflbQtv6puqE01NB4)  
-- [Data Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Mrj4bb21g1tgjNuilRh0cOT5mrUI7P2KQPzKG6FqkomqgWhHqR_2BsNWTJLHGif1VF)
-- [Library Carpentry pre-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=8nI_2B0DOHLP4jHhTsSCOYU9TSqrZDqKTG_2Bn1_2FhGgs9YI3kytep_2FN1pWBK4XdrYKMR)  
-- [Library Carpentry post-workshop survey](https://www.surveymonkey.com/r/Preview/?sm=Tv4sTDYjGsYVjZR5zHb9_2BtDV1DPSY42j3dKbSAKU5ET9I40TLpByeEnTIiSf8eNK)
-- [Carpentries Long Term Impact Survey](https://www.surveymonkey.com/r/Preview/?sm=LksuekfCD3hzLW6lPkx9qhkRF5nDt8uGWpN7lq2Mx0Dqw1Zriv3qYFpu3XtR46ei)
+Our pre- and post-workshop surveys can be previewed below.
+
+
+<div class="admonition attention">
+<p class="first admonition-title">Important</p>
+<p class="last">
+Please note that the forms below are for demonstration only. The answers typed
+here will not be taken into account by our assessment efforts. If you are
+looking for the pre- or post-workshop surveys for a workshop you are attending,
+please use the links provided on your workshop website. If you are unsure where
+to find them, please send an email at
+<a href="mailto:team@carpentries.org">team@carpentries.org</a>.
+</p>
+</div>
+
+
+### Pre-workshop survey
+
+<div class="typeform-widget" data-url="https://carpentries.typeform.com/to/wi32rS?__dangerous-disable-submissions" style="width: 100%; height: 500px; padding-bottom: 100px"></div>
+<script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+</div>
+
+
+
+### Post-workshop survey
+
+<div class="typeform-widget" data-url="https://carpentries.typeform.com/to/UgVdRQ?__dangerous-disable-submissions" style="width: 100%; height: 500px; padding-bottom: 100px"></div>
+<script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+</div>
+
 
 ## Programmatic Assessment
 
