@@ -136,7 +136,7 @@ Avoid saying things like:
 - Focus on what is best for the community
 - Show courtesy and respect towards other community members
 >
-If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee completing [this form] (https://goo.gl/forms/KoUfO53Za3apOuOK2), who will take the appropriate action to address the situation.
+If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee completing [this form](https://goo.gl/forms/KoUfO53Za3apOuOK2), who will take the appropriate action to address the situation.
 
 
 More info can be found here: [https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)
