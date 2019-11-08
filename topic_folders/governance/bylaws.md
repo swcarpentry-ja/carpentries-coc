@@ -43,7 +43,7 @@ Individuals who satisfy at least one of the following conditions are eligible fo
 
 The Executive Director is not eligible for Voting Membership.
 
-All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy.
+All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above. For more help with accessing and updating your AMY profile, please see [Accessing and Updating Your Instructor Profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile)
 
 Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries.
 
