@@ -301,65 +301,25 @@ SUBJECT: Information for your upcoming Instructor Training with The Carpentries
 
 Hello everyone,
 
-Thank you for registering for The Carpentries Instructor Training 
-workshop on [ DATE-TIME-TIMEZONE ]. This email contains important 
-information to help you prepare for the training - please read it 
-carefully and let me know if you have any questions. 
+Thank you for registering for The Carpentries Instructor Training workshop on [ DATE-TIME-TIMEZONE ]. This email contains important information to help you prepare for the training - please read it carefully and let me know if you have any questions.
 
-Our instructor Trainers [ trainer1 ] and [ trainer2 ] will be leading
-your training. This website provides the Instructor Training syllabus 
-and schedule: [INSERT LINK].
+This training is for people who want to become certified Carpentries instructors. This workshop will introduce you to evidence-based best-practices of teaching. We will teach you how to create a positive environment for learners at your workshops, provide opportunities for you to practice and build your teaching skills, help you become integrated into the Carpentries community, and prepare you to use these teaching skills in teaching Carpentries workshops. For more information about what will be covered at this training, check out our Instructor Training curriculum: http://carpentries.github.io/instructor-training/.
 
-This training is for people who want to become certified Carpentries 
-instructors. You will be introduced to evidence-based best-practices 
-of teaching, learn how to create a positive environment for learners 
-at your workshops, acquire new teaching skills, and become integrated 
-into The Carpentries community. For more information about what will 
-be covered at this training, check out our Instructor Training curriculum: 
-http://carpentries.github.io/instructor-training/.
+This is training for teaching, not technical training. We recommend that you be familiar with at least one of the technologies that we teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet software, and/or Git) before taking Instructor Training. We will not be covering the contents of our workshop curricula during Instructor Training, but we do provide optional post-training onboarding sessions and mentoring opportunities to help prepare Instructors to teach particular curricula.
 
-As part of your certification, you must demonstrate your ability to teach 
-a programming language or technology using Carpentries lessons.  
-We recommend familiarity with at least one of the technologies that we 
-teach (R, Python, the Unix bash shell, SQL, OpenRefine, spreadsheet
-software, and/or Git) before taking Instructor Training. Aside from 
-these short demonstrations, this workshop does not provide any 
-opportunities for learning how to code.
+Our instructor Trainers [ trainer1 ] and [ trainer2 ] will be leading your training. This online training will be conducted using the Zoom video conferencing platform.  No log in is needed, but you may need to install a browser extension. To access the training please use this link: [INSERT LINK]. All participants are required to have their own laptop and earbuds/headphones. Some participants may be attending the training in the same room. If this is the case, please be sure that everyone is wearing their earbuds/headphones and are muted at all times when not speaking. Your Trainers have put together a workshop website with information about the schedule: [INSERT LINK]
 
+Attendance is required for the full two-days of the workshop in order to certify as a Carpentries Instructor.  Participants who miss more than one hour will not pass our training requirements. If you know ahead of time that you will miss an hour of the training, please notify your Trainers.
 
-This online training will be conducted using the Zoom 
-video conferencing platform at [INSERT LINK].  No log in is needed, but you must 
-install a browser extension to enable the required breakout group feature. 
-Each participant needs their own laptop and earbuds/headphones. 
-If you are co-located with another participant, please use only one microphone 
-at a time to prevent reverberation.
+Before your training, please:
 
+ - Complete our pre-workshop survey [INSERT LINK] . Your responses will help your Trainers understand your background and customize the workshop appropriately.
+ - Read this short paper: https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf which provides a brief overview of some key evidence-based results in teaching.
+ - Go to the Software Carpentry lessons page (http://software-carpentry.org/lessons/), the Data Carpentry lessons page (http://www.datacarpentry.org/lessons/), or the Library Carpentry lessons page (https://librarycarpentry.org/lessons/) to see what we currently teach. Carefully read through one episode of your choice. You will be using your selected episode for several in-class exercises, so be sure you are comfortable with the content. Note: an episode is not the entire lesson, but a single page of the lesson.
 
-Attendance is required for the full two-days of the workshop in order
-to certify as a Carpentries Instructor. Participants who miss more 
-than one hour will not pass our training requirements. If you know 
-ahead of time that you will miss an hour of the training, please 
-notify your Trainers.
+After your training, you will be asked to do three follow-up exercises online in order to become a certified Instructor. These requirements are detailed at http://carpentries.github.io/instructor-training/checkout/ and will be discussed at your training. If you have any questions about the workshop, the reading material, or anything else, please don’t hesitate to get in touch.
 
-Before your training, please: 
-
-- Take 2 minutes to read The Carpentries executive summary to learn about the mission, vision, impact, financials, and community. https://carpentries.org/files/assessment/TheCarpentries2018AnnualReport.pdf
-- Complete our pre-workshop survey [INSERT LINK]. Your responses will help your Trainers understand your background and customize the workshop appropriately. 
-- Read “The Science of Learning” (Deans for Impact,2015) for a brief overview of evidence-based results in teaching. https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf 
-- Visit the lesson pages for Software Carpentry (http://software-carpentry.org/lessons/), Data Carpentry  (http://www.datacarpentry.org/lessons/), or Library Carpentry (https://librarycarpentry.org/lessons/) and choose one episode to study in preparation for several exercises during the workshops. Familiarise yourself with the content, and prepare to teach a 5 minutes-worth of content.
-
-
-After your training, you will need to complete three 
-exercises online in order to become a certified Carpentries Instructor. These 
-requirements are detailed at 
-http://carpentries.github.io/instructor-training/checkout/ and will
-be discussed at your training. 
-
-If you have any questions about the 
-workshop, the reading material, or anything else, please don’t 
-hesitate to get in touch. We look forward to welcoming you into our community.
-
-Best,
+Happy Training - we are excited to have you on board!
 [ SENDER’S NAME ] 
 
 ##### Missing Instructor Training applications
