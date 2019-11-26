@@ -124,7 +124,7 @@ When done, click "ADD RESOURCE" and this new room should be on your list of room
   var rm3 = 'src=carpentries.org_393634313731303431@resource.calendar.google.com&color=%232F6309&'
   var tz_flag = 'ctz='
   var frame_close = '" style="border: 0" width="700" height="550" frameborder="0" scrolling="no"></iframe>'
-  var full_link =  frame_setup + rm1 + rm2 + rm3 + tz_flag + timezone.name() + str_date + frame_close;
+  var full_link =  frame_setup + rm1 + rm2 + rm3 + tz_flag + timezone.name() + date_link + frame_close;
   document.getElementById('zoom_calendar').innerHTML = full_link;
   // console.log(full_link); 
   });
