@@ -7,6 +7,7 @@ LESSON MAINTENANCE
 
    maintainers.md
    github_labels.md
+   github_topics.md
    email_templates.md
    contributing.md
    
