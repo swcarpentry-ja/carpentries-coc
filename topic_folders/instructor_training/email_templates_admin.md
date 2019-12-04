@@ -176,6 +176,31 @@ and closes one week before each event. Since you have been accepted for training
 you may verify that you have completed the application when prompted to do so. 
 **It is not necessary to fill out the Instructor Training application again.**
 
+This online training will be conducted using the Zoom 
+video conferencing platform. No log in is needed, but you must 
+install a browser extension to enable the required breakout group feature. 
+Each participant needs their own laptop and earbuds/headphones. Note, unfortunately, that Zoom access is [restricted in certain parts of the world](https://support.zoom.us/hc/en-us/articles/203806119-Will-Zoom-Work-Internationally-).  Once you are registered for an event, you'll receive details on how to connect one week before the event.
+
+For more information about what will 
+be covered at this training, check out our Instructor Training curriculum: 
+http://carpentries.github.io/instructor-training/.
+
+Attendance is required for the full two-days of the workshop in order
+to certify as a Carpentries Instructor. Participants who miss more 
+than one hour will not pass our training requirements. If you know 
+ahead of time that you will miss an hour of the training, please 
+notify your Trainers.
+
+Before your training, you will
+be asked to read some brief materials to become 
+familiar with The Carpentries.
+
+After your training, you will need to complete three 
+exercises online in order to become a certified Carpentries Instructor. These 
+requirements are detailed at 
+http://carpentries.github.io/instructor-training/checkout/ and will
+be discussed at your training.   
+
 We will send periodic reminders when new events are open, but you may
 register for any event during the open period between 1 month and 1 week
 before the start date. 
