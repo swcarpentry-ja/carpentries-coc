@@ -2,18 +2,18 @@
 
 ### What We Do
 
-Support for the African community is provided by community members and the [regional coordinator who will be appointed in 2019](https://carpentries.org/blog/2019/03/regional-coordinator-southern-africa/)
+Support for the African community is provided by community members and the [a Regional Consultant was appointed in 2019](https://carpentries.org/blog/2019/11/introducing-angelique//)
 
 - Monthly African Instructor Meetup: Our monthly African instructor meetups have been running since 2017 and are  attracting more and more interest. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. The meetings are restricted to folks who have already participated in instructor training as we also focus on helping instructors to complete their checkouts, connecting instructors with others who can co-teach or co-organise workshops, and more.
 
-- Provide logistical support for workshops in Africa: The African Regional Coordinator will work closely with experienced African instructors to provide logistical support for workshops when needed.
+- Provide logistical support for workshops in Southern Africa: The Southern African Regional Consultant will work closely with experienced African instructors to provide logistical support for workshops when needed.
 
 - Mentoring for Instructors and Helpers before a workshop: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
 
 
 ### Join Us
 
-To join the conversation about The Carpentries in Africa,  sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa).
+To join the conversation about The Carpentries in Africa,  sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#african-carpentries](https://swc-slack-invite.herokuapp.com/)
 
 If you’ve trained as an instructor in Africa (even if you’re not qualified yet), please join the [African instructors mailing list](mailto:african-carpentry-instructors&#64;googlegroups.com).
 
