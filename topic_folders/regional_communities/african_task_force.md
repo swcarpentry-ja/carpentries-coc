@@ -2,7 +2,7 @@
 
 ### What We Do
 
-Support for the African community is provided by community members and the [a Regional Consultant was appointed in 2019](https://carpentries.org/blog/2019/11/introducing-angelique//)
+Support for the African community is provided by community members and [a Regional Consultant was appointed in 2019](https://carpentries.org/blog/2019/11/introducing-angelique//)
 
 - Monthly African Instructor Meetup: Our monthly African instructor meetups have been running since 2017 and are  attracting more and more interest. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. The meetings are restricted to folks who have already participated in instructor training as we also focus on helping instructors to complete their checkouts, connecting instructors with others who can co-teach or co-organise workshops, and more.
 
