@@ -51,6 +51,8 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 - The Carpentries general revenue through Memberships, workshop coordination fees and general grants or donations, will support the ongoing work of the Lesson Program - running workshops, diversity and inclusion efforts, instructor training, lesson maintenance and community engagement.  
 - The Carpentries maintains and documents an administrative and financial management structure that supports the Lesson Program.
 
+[add content here]
+
 ---
 
 Update log:
