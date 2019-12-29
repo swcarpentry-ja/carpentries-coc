@@ -4,11 +4,11 @@ The goal of this document is to outline a roadmap for a Lesson Program to become
 
 The Roadmap describes the three phases of a Carpentries Lesson Program: Pre-incubation, Incubation as a Lesson Project, and Adoption as a Lesson Program. Advancement from one phase to the next requires a proposal and approval process that is described in detail below.
 
-- [Phase 1: Pre-Incubation](#Phase-1:-Pre-Incubation)
-  - [Application and Approval for Incubation Phase](#Application-and-Approval-for-Incubation-Phase)
-- [Phase 2: Incubation](#Phase-2:-Incubation)
- - [Application and Approval for Official Lesson Program Adoption](#Application-and-Approval-for-Official-Lesson-Program-Adoption)
-- [Phase 3: Adopted](#Phase-3:-Adopted)
+- [Phase 1: Pre-Incubation](#phase-1-pre-incubation)
+  - [Application and Approval for Incubation Phase](#application-and-approval-for-incubation-phase)
+- [Phase 2: Incubation](#phase-2-incubation)
+  - [Application and Approval for Official Lesson Program Adoption](#application-and-approval-for-official-lesson-program-adoption)
+- [Phase 3: Adopted](#phase-3-adopted)
 
 ### Phase 1: Pre-Incubation
 
@@ -90,4 +90,4 @@ The Executive Council will decide on one of the options below:
 
 Once The Executive Council has approved Adoption, the new Lesson Program will be listed as such on The Carpentries website and will be included as part of the standard workshop offerings. The Lesson Program should be committed at this point to maintaining their lesson materials and their community and to working with The Carpentries on long-term sustainability and the fulfillment of its roles and responsibilities in accordance with the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-policy).
 
-Once adopted, The Carpentries core team will update operations and documentation across the organization to reflect the addition of the new Lesson Program as outlined in their Lesson Program adoption implementation document. The Carpentries will also fulfill its roles and responsibilities in accordance with the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-policy).
+Once adopted, The Carpentries core team will update operations and documentation across the organization to reflect the addition of the new Lesson Program. The Carpentries will also fulfill its roles and responsibilities in accordance with the [Lesson Program Policy](https://docs.carpentries.org/topic_folders/governance/lesson-program-policy.html#lesson-program-policy).
