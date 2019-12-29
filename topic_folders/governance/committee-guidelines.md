@@ -41,7 +41,7 @@ Each committee should have a public page with the following information:
 - __Name of incoming committee (co)-chair or vice-chair__
 - __Names of individuals in other committee roles__
 - __Executive Council Liaison__ 
-- __ Core Team Liaison__
+- __Core Team Liaison__
 - __Current committee members__  
 - __Information for how to join the committee__
 - __Past committee members__
