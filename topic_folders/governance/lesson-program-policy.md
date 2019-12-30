@@ -71,8 +71,10 @@ During the Pre-incubation phase, activities by the Lesson Project will likely in
 - Completion of draft versions of lesson content, including learning objectives
 - Early test runs of the lesson material at workshops with actual learners
 - Results from Carpentries short-term surveys if appropriate and possible
-- Application and Approval for Incubation Phase
-- As the Lesson Project develops and undertakes the activities listed above in the Pre-incubation Phase, it may consider applying for Incubation as an official Carpentries Lesson Program. Application for Incubation requires the submission of a report from the Lesson Project that must include:
+
+**Application and Approval for Incubation Phase**
+
+As the Lesson Project develops and undertakes the activities listed above in the Pre-incubation Phase, it may consider applying for Incubation as an official Carpentries Lesson Program. Application for Incubation requires the submission of a report from the Lesson Project that must include:
 - Description of the community that is working on the Lesson Project
 - Description of domain knowledge required for instructors to teach the material, so that we can determine to what extent our existing instructor pool may possess these skills and be able to teach these workshops 
 - Description of the community that the Lesson Project serves with their workshops
@@ -119,8 +121,10 @@ During the Incubation phase, The Carpentries will:
 - Allow the use of our survey infrastructure (currently Typeform)
 - Post information on The Carpentries website regarding the Incubation of the Lesson Project as well as through other communication channels and at instructor training workshops
 - Provide a Carpentries team member to meet with the Lesson Project for feedback or advice on a regular basis, with the frequency to be determined mutually by the Lesson Project and The Carpentries.
-- Application and Approval for Official Lesson Program Adoption 
-- At the end of the agreed upon Incubation time period, or prior to that if the Lesson Project feels it has completed all the listed tasks, the Lesson Project's status will be reviewed by the Executive Council. The Lesson Project should submit a request to The Carpentries documenting how it meets the criteria listed above. The Carpentries Executive Council will review this application and evaluate whether the criteria have been met. 
+
+**Application and Approval for Official Lesson Program Adoption**
+
+At the end of the agreed upon Incubation time period, or prior to that if the Lesson Project feels it has completed all the listed tasks, the Lesson Project's status will be reviewed by the Executive Council. The Lesson Project should submit a request to The Carpentries documenting how it meets the criteria listed above. The Carpentries Executive Council will review this application and evaluate whether the criteria have been met. 
 
 The Executive Council will decide on one of the options below:
 - Approve the application and adopt the Lesson Project as an official Carpentries Lesson Program
@@ -137,7 +141,7 @@ Once adopted, The Carpentries will update operations and documentation across th
 
 Update log:
 - [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/5) by the Executive Council
-
+- Updated 2019-12-29 to include Lesson Program Incubation Roadmap
 
 
 
