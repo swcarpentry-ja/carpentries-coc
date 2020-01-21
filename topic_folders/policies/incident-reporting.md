@@ -14,7 +14,6 @@ The Code of Conduct Committee takes all incident reports seriously and will revi
 
 If you would prefer other ways to contact us, an email to [coc@carpentries.org](mailto:coc@carpentries.org) will be seen by all of the [Code of Conduct committee](https://carpentries.org/coc-ctte). If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org).  
 
-The Carpentries Executive Director (Tracy Teal) can also be contacted by telephone at +1-530-341-3230 or email at [tkteal@carpentries.org](mailto:tkteal@carpentries.org).
 
 ##### Confidentiality
 
