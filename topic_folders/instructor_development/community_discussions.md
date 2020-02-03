@@ -158,7 +158,7 @@ Based on discussion among the Instructor Development Committee, temporary questi
 
 ##### After the Discussion Session
 - Archive the Etherpad by clicking on the star in the top right corner.  
-- Fill out the [host questionnaire](https://goo.gl/forms/iXkMQABmO6HROfCy1)
+- Fill out the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7)
     - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
     - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to checkout@carpentries.org.
 - Clear the information from your session (date/time, attendees, notes) from the Etherpad. 
