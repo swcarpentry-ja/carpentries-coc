@@ -56,7 +56,7 @@ Calendar<br>published by |7 Dec               |7 Mar                |7 Jun      
 
 
 
-Once Discussion Hosts have scheduled themselves in for a Community Discussion session, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the [Community Calendar](https://carpentries.org/community/#community-events).  
+Once Discussion Hosts have scheduled themselves in for a Community Discussion session via Calendly, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the [Community Calendar](https://carpentries.org/community/#community-events).  
 
 This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.  
 
