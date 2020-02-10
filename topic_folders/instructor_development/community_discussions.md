@@ -43,6 +43,13 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 ### Signing up to Host or co-Host a Community Dicussion
 
+The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions ) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability. 
+
+[Insert schedule table here]
+
+Once Discussion Hosts have scheduled themselves in for a Community Discussion session, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the Community Calendar(link).  
+
+This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.  
 
 
 ### Host Expectations
