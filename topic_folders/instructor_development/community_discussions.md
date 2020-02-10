@@ -45,7 +45,16 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions ) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability. 
 
-[Insert schedule table here]
+
+
+For the period           |1 Jan - 31 Mar<br>(Q1) |1 Apr - 30 Jun<br>(Q2) |1 Jul - 30 Sep<br>(Q3) |1 Oct - 31 Dec<br>(Q4)|
+-------------------------|--------------------|---------------------|---------------------|--------------------|
+Email group on           |15 Nov              |15 Feb               |15 May               |15 Aug              |
+Responses<br>due by      |30 Nov              |28 Feb               |31 May               |31 Aug               |
+Calendar<br>published by |7 Dec               |7 Mar                |7 Jun                |7 Sept               |
+
+
+
 
 Once Discussion Hosts have scheduled themselves in for a Community Discussion session, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the [Community Calendar](https://carpentries.org/community/#community-events).  
 
