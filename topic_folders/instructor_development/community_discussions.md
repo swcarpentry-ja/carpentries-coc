@@ -43,15 +43,7 @@ A great way to get into hosting these sessions is to first attend as an observer
 
 ### Signing up to Host or co-Host a Community Dicussion
 
-If you'd like to host a pre/post-workshop session:
-* Identify a session you’d like to host OR co-host on the Community Discussions Etherpad: http://pad.carpentries.org/community-discussions
-* Type your name in the “Host” or “Co-host/notetaker” slot for the session you’ve chosen (email next to your name optional, however, if you provide your e-mail it may help facilitate communication before and after the discussion)
-* Add the time/date details of the discussion session you’re going to be a “Host” or "Co-host/notetaker" for on your calendar
-* Copying the Etherpad link in your calendar event is a good idea, too!
-* Make sure that you're subscribed to the [discussion-hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
-If you'd like to host a pre/post-workshop session:
-* Complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
 
 ### Host Expectations
 
