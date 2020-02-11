@@ -26,7 +26,7 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 ### Motivation
 
-1. The Carpentries is a community based project and the community needs opportunity to interact.
+1. The Carpentries is a community-led project and the community needs opportunity to interact.
 
 1. The Carpentries believes in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
@@ -36,15 +36,14 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 Hosting community discussions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
 
-### Signing up to Host or co-Host a Community Dicussion
+### Signing up to Host or co-Host a Community Discussion
 
-The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions ) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability. 
-
+The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability. 
 
 ![Calendly Demo](images/calendly.gif)
 
@@ -61,7 +60,7 @@ This system aims to build Community Discussion schedules around the Host availab
 
 #### Event Cancellations
 
-We recognize that even after scheduling their own events, Discussion Hosts may have conflicts and may need to cancel a scheduled event. If this happens, the Host should contact community@carpentries.org as soon as possible so a Core Team member can ensure another Host is able to cover this event.
+We recognise that even after scheduling their own events, Discussion Hosts may have conflicts and may need to cancel a scheduled event. If this happens, the Host should contact community@carpentries.org as soon as possible so a Core Team member can ensure another Host is able to cover this event.
 
 
 ### Host Expectations
