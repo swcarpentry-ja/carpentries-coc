@@ -26,7 +26,7 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 ### Motivation
 
-1. The Carpentries is a community based project and the community needs opportunity to interact.
+1. The Carpentries is a community-led project and the community needs opportunity to interact.
 
 1. The Carpentries believes in jugyokenkyu, or "lesson study", and evidence-based education so instructors need opportunity to share experiences.
 
@@ -36,22 +36,32 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 Hosting community discussions is a great way to meet more people in The Carpentries community, to get to know the organisation better, to learn from the experiences of others and to share your own knowledge and experience with an even greater number of people.
 
-Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you're subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
 
 
-### Signing up to Host or co-Host a Community Dicussion
+### Signing up to Host or co-Host a Community Discussion
 
-If you'd like to host a pre/post-workshop session:
-* Identify a session you’d like to host OR co-host on the Community Discussions Etherpad: http://pad.carpentries.org/community-discussions
-* Type your name in the “Host” or “Co-host/notetaker” slot for the session you’ve chosen (email next to your name optional, however, if you provide your e-mail it may help facilitate communication before and after the discussion)
-* Add the time/date details of the discussion session you’re going to be a “Host” or "Co-host/notetaker" for on your calendar
-* Copying the Etherpad link in your calendar event is a good idea, too!
-* Make sure that you're subscribed to the [discussion-hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
+The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability. 
 
-If you'd like to host a pre/post-workshop session:
-* Complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSen9_axxQ3_0FN5HjL7cyot9RzTdIGpOU16Wr1eatZblsfU7w/viewform).
+![Calendly Demo](images/calendly.gif)
+
+
+For the period           |1 Jan - 31 Mar<br>(Q1) |1 Apr - 30 Jun<br>(Q2) |1 Jul - 30 Sep<br>(Q3) |1 Oct - 31 Dec<br>(Q4)|
+-------------------------|--------------------|---------------------|---------------------|--------------------|
+Email group on           |15 Nov              |15 Feb               |15 May               |15 Aug              |
+Responses<br>due by      |30 Nov              |28 Feb               |31 May               |31 Aug               |
+Calendar<br>published by |7 Dec               |7 Mar                |7 Jun                |7 Sept               |
+
+Once Discussion Hosts have scheduled themselves in for a Community Discussion session via Calendly, The Carpentries Core Team will ensure that these events appear on the [Etherpad](https://pad.carpentries.org/community-discussions) and on the [Community Calendar](https://carpentries.org/community/#community-events).  
+
+This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.  
+
+#### Event Cancellations
+
+We recognise that even after scheduling their own events, Discussion Hosts may have conflicts and may need to cancel a scheduled event. If this happens, the Host should contact community@carpentries.org as soon as possible so a Core Team member can ensure another Host is able to cover this event.
+
 
 ### Host Expectations
 
