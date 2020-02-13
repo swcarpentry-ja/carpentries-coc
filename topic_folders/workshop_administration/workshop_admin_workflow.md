@@ -26,7 +26,7 @@
 
 1. For non-member sites, Regional Coordinator asks host for invoicing contact, and introduces them to the Administrative Support Specialist to begin the invoicing process.
 
-1. Regional Coordinator adds workshop to appropriate tab (by geography) on call for instructors [sign up sheet](https://docs.google.com/spreadsheets/d/1gYmN7zn1dcrQTFGunsCq6Pqj82Hs2csoCL9hjt0o3uo/edit#gid=0) and sends email to instructors list notifying them of upcoming opportunities.
+1. Regional Coordinator adds workshop to appropriate tab (by geography) on call for instructors [sign up sheet](https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=0) and sends email to instructors list notifying them of upcoming opportunities.
 
 1. Regional Coordinator reviews list of instructors signed up as interested in upcoming workshops and tentatively places them based on experience, geography, and skill set. See [blog post for details](https://software-carpentry.org/blog/2018/01/assign-instructors.html).  Selection guidelines include:
 
