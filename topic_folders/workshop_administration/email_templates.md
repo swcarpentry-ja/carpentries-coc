@@ -251,7 +251,7 @@ Here are your pre and post survey response links for you to review.  As a remind
 
 For your convenience, below you will find several resources that are available to you as an instructor.  
 
-Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar here (http://pad.software-carpentry.org/instructor-discussion). Be sure to check your timezone when you sign up.
+Weekly instructors discussion sessions where you can share your feedback and hear from other instructors. Feel free to join us whenever you are available. Check out the calendar here (https://pad.carpentries.org/instructor-discussion). Be sure to check your timezone when you sign up.
 
 Data Carpentry (http://www.datacarpentry.org/blog/), Software Carpentry (https://software-carpentry.org/blog/), Library Carpentry (https://librarycarpentry.org/blog/) and The Carpentries (https://carpentries.org/blog/) also welcome blog posts from instructors and workshop hosts who share their experience conducting a workshop. You are more than welcome to contribute as well! If this is something that interests you, please let me know. 
 
