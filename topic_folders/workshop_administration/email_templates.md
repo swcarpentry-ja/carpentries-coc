@@ -427,13 +427,13 @@ Hi [ helper names ],
  
 Thanks for making yourselves available to help with the [ workshop name ] workshop on [ workshop date ].
  
-The workshop is being held at [ add location and directions ]. The teaching component will run from [ start to finish time ]. Please be at the venue at [ briefing time ] for a briefing – we will go through the schedule for the day and make sure we’re all on the same page so the learners can get the most out of the day.
+The workshop is being held at [ add location and directions ]. The teaching component will run from [ start to finish time ]. Please arrive at the venue at [ briefing time ] for a briefing – we will go through the schedule for the day and make sure we all have an understanding of the goals for the day. We want to ensure the learners optimise their time with us. 
  
 The material we will be teaching is available at: [ add workshop webpage ]. Please look through this prior to the workshop and also read through the Code of Conduct for The Carpentries workshops that we will be abiding by: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
  
 [ Say if you will be providing coffee, snacks, and/or lunch. Include time of lunch break if not providing lunch ]. Please bring a drink bottle and/or a re-useable cup so we can reduce waste.
  
-Please remember to bring your laptop charger so you don’t run out of power.
+Please remember to bring your laptop charger so you don’t run out of power. We look forward to running a great workshop with you! 
  
 Best,
 [ sender name ]
