@@ -4,8 +4,7 @@ We know that unexpected things can happen, even with the best laid plans. Below 
 
 **Situation: Co-instructor can't come due to illness, flight delay, etc.** 
 * Contact team@carpentries.org.  Depending on how much notice we get, we may be able to help find another Instructor.
-* Contact your helpers a
-nd host to see if any of them can provide extra support, and even teach a portion of the lessons
+* Contact your helpers and host to see if any of them can provide extra support, and even teach a portion of the lessons
 * If your co-Instructor is delayed (rather than having to cancel entirely), adjust the schedule of your event so that person's lesson come later in the event.
 
 **Situation: Group can't get on wi-fi**
