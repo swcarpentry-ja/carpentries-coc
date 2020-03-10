@@ -12,7 +12,7 @@ The Carpentries welcomes blog posts from our community members including worksho
 
 Our blog content is formatted in Markdown, and rendered as html thanks to Jekyll. You can submit your blog post draft in one of three ways
 - Email your blog post draft to community[at]carpentries[dot]org, or
-submit it through [this form](https://carpentries.typeform.com/to/BK55ld) and one of the team will follow up with you to get it published. (<mark>low time requirement</mark>)
+submit it through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and one of the team will follow up with you to get it published. (<mark>low time requirement</mark>)
 
 If you wish to submit a blog post about your favourite tool or workflow, you can submit the post through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeiu5NzJsLxYueaQrNn_qKbaa5JR2Sz12CeCRyedKQxwb54Dw/viewform) and we will post it on the blog for you. 
 
