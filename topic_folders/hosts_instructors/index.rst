@@ -35,7 +35,7 @@ then proceeding through the relevant checklists and list of tips below.
 For centrally organised workshops, the Regional Coordinator will guide the host and instructor(s) on following 
 through on all these steps. A global team of Regional Coordinators support workshop activity and community building in regions around the world. `Read more <https://carpentries.org/regionalcoordinators/>`_ about who they are and what they do.
 
-For self organised workshops, the host and instructor are directly responsible for ensuring all the steps below are followed without support from the Regional Coordinator.  
+For self organised workshops, the host and instructor are directly responsible for ensuring all the steps below are followed without support from the Regional Coordinator. If you are planning to self-organise a workshop, check out these `Tips for Organising Your First Carpentries Workshop <https://carpentries.org/blog/2019/10/organising-workshops/>`.
 
 .. toctree::
    :maxdepth: 2
