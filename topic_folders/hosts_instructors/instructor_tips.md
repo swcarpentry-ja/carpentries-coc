@@ -16,6 +16,7 @@ Software installation can be frustrating, but in the end, it almost always gets 
 * If you anticipate issues (or want to be extra prepared), have some of the emergency options listed below ready to go.  
 * If you're teaching for an organisation where participants are bringing work laptops where they don't have administrative access (common in government organisations) -- ask about it.  Try to plan ahead either with their central IT organisation or with the "emergency exits" listed below.  
 * Will you have decent Wi-Fi?  A bunch of people installing software at once can kill a poor internet connection.  If this is the case, prep a few flash drives with the relevant installers.  
+* Attend a [Community Discussion session](https://pad.carpentries.org/community-discussions), where you can talk to other Instructors to ask questions and get feedback to help you prepare to teach.  
 
 **On the day of:**
 
