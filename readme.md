@@ -30,7 +30,7 @@ Open the file `_build/html/index.html` to preview the site locally. Python offer
 ```
 $ cd _build/html
 
-# Python 2:
+# Python 2: (Deprecated; not recommended)
 $ python2 -m SimpleHTTPServer
 
 # Python 3:
