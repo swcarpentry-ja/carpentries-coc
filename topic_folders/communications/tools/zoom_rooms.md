@@ -27,7 +27,11 @@ All Carpentries online events are set up such that participants can enter the ro
 ##### Host Abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  The host can also mute all participants at once.
 - When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
-- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants assignments manually if desired.  
+- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. 
+  - Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. 
+  - Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. If you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
+  - It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
+  - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. This can not be scheduled in advance.
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
 ##### General Tips:  
