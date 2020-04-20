@@ -22,7 +22,7 @@ The Carpentries online community events are held on [Zoom][zoom-home].  The Carp
 
 If you are leading an event, you will be given host access to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
 
-All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact The Carpentries staff immediately.
+All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please [contact The Carpentries staff](mailto:team@carpentries.org) immediately.
 
 ##### Host Abilities:  
 - “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
