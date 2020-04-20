@@ -10,8 +10,8 @@ Rooms are generally used as follows.  However, any room can be used for other pu
 Links below will open Zoom and enter the respective room.
 
 * [**Click to enter Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
-* [**Click to enter Room 2:**](https://carpentries.zoom.us/my/carpentriesroom2) Instructor Training backup
-* [**Click to enter Room 3:**](https://carpentries.zoom.us/my/carpentriesroom3) Community events (teaching demos, discussion sessions, committee meetings, etc.)
+* [**Click to enter Room 2:**](https://carpentries.zoom.us/my/carpentriesroom2) Community events (teaching demos, discussion sessions, committee meetings, etc.)
+* [**Click to enter Room 3:**](https://carpentries.zoom.us/my/carpentriesroom3) Other events as needed 
 
 
 Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
@@ -22,12 +22,16 @@ The Carpentries online community events are held on [Zoom][zoom-home].  The Carp
 
 If you are leading an event, you will be given host access to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
 
-All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please contact The Carpentries staff immediately.
+All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please [contact The Carpentries staff](mailto:team@carpentries.org) immediately.
 
 ##### Host Abilities:  
-- “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  
+- “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  The host can also mute all participants at once.
 - When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
-- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. Breakout rooms can be assigned automatically. By default, participants will be assigned to the same groups each time breakout rooms are used. You can change participants assignments manually if desired.  
+- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. 
+  - Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. 
+  - Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. If you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
+  - It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
+  - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. This can not be scheduled in advance.
 - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 
 ##### General Tips:  
@@ -38,6 +42,20 @@ All Carpentries online events are set up such that participants can enter the ro
 - If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
 please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
 
+
+#### Scheduling Zoom Rooms
+
+Zoom Room 1 is scheduled by The Carpentries Core Team for online instructor training events. Zoom Room 2 is for Community Discussions and Instructor Training Demos. These events are scheduled by Discussion Hosts and Trainers using Calendly. Attendees can sign up to attend these events on the relevant Etherpads.
+
+- Community Discussions:
+  - [Calendly for Hosts](https://calendly.com/carpentries-discussion-sessions/thecarpentries)
+  - [Etherpad for Attendees](https://pad.carpentries.org/community-discussions)
+
+- Teaching Demos:
+  - [Calendly for Hosts](https://calendly.com/carpentries-trainers-signup)
+  - [Etherpad for Attendees](https://pad.carpentries.org/teaching-demos)
+
+If you would like to schedule a Zoom Room for another event, please [contact us at team@carpentries.org](mailto:team@carpentries.org).
 
 #### Viewing Zoom Room Availability
 
