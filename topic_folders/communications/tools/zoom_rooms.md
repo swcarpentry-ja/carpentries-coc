@@ -9,36 +9,97 @@ The Carpentries offers three Zoom rooms for public community events.  Zoom rooms
 Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
 Links below will open Zoom and enter the respective room.
 
-* [**Click to enter Room 1:**](https://carpentries.zoom.us/my/carpentriesroom1) Instructor Training
-* [**Click to enter Room 2:**](https://carpentries.zoom.us/my/carpentriesroom2) Community events (teaching demos, discussion sessions, committee meetings, etc.)
-* [**Click to enter Room 3:**](https://carpentries.zoom.us/my/carpentriesroom3) Other events as needed 
+* Room 1: Instructor Training
+* Room 2: Community events (teaching demos, discussion sessions, committee meetings, etc.)
+* Room 3: Other events as needed 
+
+Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom/us/j/**1234567**`.  This URL can only be used for that specific event. In the interest of security, these rooms will be unavailable at other times.
+
+For Instructor Training events, this link will be shared with the Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  Participants will not need a password to enter, but the event host may enable a waiting room for the event. 
 
 
-Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
+<!-- Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
+ -->
+
+### Information for event hosts
+
+Please read below if you are teaching an Instructor Training workshop or hosting a Teaching Demo or Community Discussion.
+
+#### Gaining Host Access
+
+If you are teaching an Instructor Training workshop, about a week before the event, you will receive an email with host credentials and other logistical information.
+
+If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event. 
+
+Enter the room and select "Particpants."
+
+Near the bottom of the Participants view is a button to Claim Host Access.  This will open up a pop up window where you will be able to enter in the Host Key you were given.  You will now have host access.  It is not possible to claim host access in this way if a logged on host is already present.
+
+#### Creating a Waiting Room
+
+Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
+
+Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group.
+
+#### Assigning a co-host
+
+A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.
+
+A co-host can:
+- Admit people from the waiting room
+- Mute/unmute people
+- Create polls
+
+A co-host can not:
+- Create breakout rooms 
 
 
-### Zoom Manual 
-The Carpentries online community events are held on [Zoom][zoom-home].  The Carpentries staff will set up host access to our Zoom rooms for people leading community events. No login is needed for event guests; however a browser plug in may be required.
+#### Turning participants' audio and video on or off
 
-If you are leading an event, you will be given host access to the event. This will give you extra privileges including the ability to mute participants and assign participants into breakout rooms. Only one person can be logged in as host at a time, and another person logging in as host will kick the original offline. However, the host can transfer host privileges to other participants if you need to trade host status with co-facilitators during the event.
+As host, you will be able to mute and unmute participants.
 
-All Carpentries online events are set up such that participants can enter the room without the host being present. If you ever get an error message saying you can’t join the room because you’re not the host, please [contact The Carpentries staff](mailto:team@carpentries.org) immediately.
 
-##### Host Abilities:  
-- “Mute” is in the lower left. To mute other participants, the host can go to “Manage Participants”, hover over a participant’s name, and click “mute”.  The host can also mute all participants at once.
-- When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
-- Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. 
-  - Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. 
-  - Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. If you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
-  - It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
-  - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. This can not be scheduled in advance.
-- The host can move between breakout rooms and can send messages to all rooms simultaneously.  
+#### Creating Breakout Rooms
 
-##### General Tips:  
+Breakout rooms can be created automatically or manually.
+```
+    - Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. 
+      - Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. 
+      - Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. If you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
+      - It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
+      - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. This can not be scheduled in advance.
+    - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
+```
+#### Creating Polls
+
+The host can create polls of participants. Responses can be identifiable or anonymous, and the host can decide whether to share results with the participants.  Note the host can not participate in the poll.
+
+#### Yes/no questions
+
+The host can ask yes/no questions. Responses are always public.
+
+#### Screen sharing
+
+The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.
+
+Options to share whole desktop or a given window.
+
+#### Zoom chat
+
+Zoom chat allows participants to send messages to the whole group or to a select individual. Group chats are not an option.
+
+Zoom chat is not preserved across breakout rooms. A participant can only see the chat since they most recently joined. If a participant leaves and re-enters, they will not see old chats. 
+
+#### Ending a call
+
+When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
+
+If the host leaves while participants are still in the room, 
+
+
+#### General Tips:  
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
-- “Share screen” is at the bottom middle of the screen. To end “share screen” you click the red button that will appear at the top middle of the screen when you are in screen sharing mode.  
-- When you screen share, you have the option to share individual apps or your entire desktop. The default is the full desktop.  
-- The Zoom chat is not stable (it is not saved across sessions or after going into breakout rooms). We highly recommend using the Etherpad or Google Doc chat instead. 
+
 - If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
 please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
 
