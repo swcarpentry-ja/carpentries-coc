@@ -16,3 +16,4 @@ This section outlines their work specifically as it relates to workshop administ
    survey_monkey.md
    eventbrite.md
    email_templates.md
+   resources_for_online_workshops.md
