@@ -86,6 +86,8 @@ Zoom chat allows participants to send messages to the whole group or to a select
 
 Zoom chat is not preserved across breakout rooms. A participant can only see the chat since they most recently joined. If a participant leaves and re-enters, they will not see old chats. 
 
+Emojis are not recommended as they are not consistently available and do not render consistently across platforms.
+
 #### Ending a call
 
 When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
