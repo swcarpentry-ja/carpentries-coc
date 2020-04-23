@@ -39,7 +39,7 @@ Near the bottom of the Participants view is a button to Claim Host Access.  This
 
 Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
 
-Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group.
+Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. You can also message the waiting room (as a whole; not individuals) before admitting them. 
 
 #### Assigning a co-host
 
@@ -91,7 +91,6 @@ Zoom chat is not preserved across breakout rooms. A participant can only see the
 When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
 
 If the host leaves while participants are still in the room, 
-
 
 ### General Tips
 
