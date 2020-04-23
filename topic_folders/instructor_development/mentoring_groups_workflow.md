@@ -26,7 +26,7 @@ This workflow was set up to guide the [Instructor Development Committee Mentorin
 - Schedule tweets for Carpentries Mentoring Groups recruitment
   - Make a copy of [this tweets template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0)
   - Draft tweets to be shared on [The Carpentries Twitter account](https://twitter.com/thecarpentries) using the template. Include the dates you’d like the tweets to be scheduled.
-  - E-mail the tweets to the Community Engagement Lead on `serah@carpentries.org`.
+  - E-mail the tweets to the Communications Lead on `okhan@carpentries.org`.
 
 ### Setting Up Mentoring Groups
 

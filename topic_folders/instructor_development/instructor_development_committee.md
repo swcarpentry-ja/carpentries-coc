@@ -56,7 +56,7 @@ The Secretary of the Instructor Development Committee is responsible for:
 The Communications Chair of the Instructor Development Committee is responsible for:
 
 1. Adding IDC Meetings to The Carpentries Community Calendar
-2. Actively recruiting participants to join IDC meetings and projects by sending out communications via Slack, Topicbox, Twitter (with the help of the Community Engagement Lead) and The Carpentries Blog.
+2. Actively recruiting participants to join IDC meetings and projects by sending out communications via Slack, Topicbox, Twitter (with the help of The Carpentries Communications Lead, Omar Khan) and The Carpentries Blog.
 3. Creating communications around IDC projects or other initiatives.
 
 ##### Time Commitment
