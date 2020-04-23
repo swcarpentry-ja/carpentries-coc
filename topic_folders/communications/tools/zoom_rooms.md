@@ -4,7 +4,7 @@
 The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for events such as discussion sessions, teaching demos, and committee meetings.
 
 
-#### General Room Usage and Links
+### General Room Usage and Links
 
 Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
 Links below will open Zoom and enter the respective room.
@@ -97,14 +97,15 @@ When the room host clicks “End Meeting” a dialogue box appears with three op
 If the host leaves while participants are still in the room, 
 
 
-#### General Tips:  
+### General Tips
+
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
 
 - If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
 please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
 
 
-#### Scheduling Zoom Rooms
+### Scheduling Zoom Rooms
 
 Zoom Room 1 is scheduled by The Carpentries Core Team for online instructor training events. Zoom Room 2 is for Community Discussions and Instructor Training Demos. These events are scheduled by Discussion Hosts and Trainers using Calendly. Attendees can sign up to attend these events on the relevant Etherpads.
 
@@ -131,7 +132,7 @@ Room availability can be viewed below.
 
 <p>
 
-### Adding an Event to the Community Calendar
+#### Adding an Event to the Community Calendar
 
 Note while anyone can view room availability, only Carpentries staff members may book events or reserve a Zoom room.
 
@@ -163,7 +164,7 @@ Be sure to complete the above steps in order (i.e., do not select a room before 
 
 <p>
 
-### Creating a Zoom Room Option on Google Calendars
+#### Creating a Zoom Room Option on Google Calendars
 
 This will only need to be done once for each new room.  This is already done for Zoom Rooms 1, 2, and 3.  If additional Zoom rooms are added, they will need to be set up here.  This must be done by someone with admin access to The Carpentries' Google console.  
 
