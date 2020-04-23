@@ -48,7 +48,6 @@ A host may assign a co-host. The co-host has most, but not all, of the privilege
 A co-host can:
 - Admit people from the waiting room
 - Mute/unmute people
-- Create polls
 
 A co-host can not:
 - Create breakout rooms 
@@ -70,9 +69,6 @@ Breakout rooms can be created automatically or manually.
       - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. This can not be scheduled in advance.
     - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
 ```
-#### Creating Polls
-
-The host can create polls of participants. Responses can be identifiable or anonymous, and the host can decide whether to share results with the participants.  Note the host can not participate in the poll.
 
 #### Yes/no questions
 
