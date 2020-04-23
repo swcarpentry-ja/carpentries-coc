@@ -38,7 +38,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 	- Inform The Carpentries Staff Liaisons about the Community Discussion by emailing `community@carpentries.org`.
 	- Draft tweets for Community Discussion
     - Make a copy of [this template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0) and draft tweets to spread the word about the Community Discussion. 
-		- Send the tweet template to the Community Engagement Lead on `serah@carpentries.org`.
+		- Send the tweet template to the Communications Manager by emailing `okhan@carpentries.org`.
 - Request Blog Post to Promote Community Discussion
   - Remind facilitator to write a blog post to get the word out about the community discussion. [Here's a handy blog post drafting guide to help them get started](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html?highlight=blog%20posts)
 
@@ -57,7 +57,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
     - Remind attendees to complete the questionnaire
     - Ensure we recognise those attending the discussion for checkout and facilitate Q&A for checkout participants.
 - Share Zoom Room Credentials & Practice Breakout Rooms
-  - Contact the Community Engagement Lead on `serah@carpentries.org` in case you need alternative Zoom Room Credentials shared.
+  - Contact the Community Development Team on `community@carpentries.org` in case you need alternative Zoom Room Credentials shared.
 - [Optional] Review [The Carpentries Community Discussions Host Onboarding slide deck](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit?usp=sharing)
 
 ### Community Discussion Wrap-Up
@@ -65,13 +65,13 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - Add Community Discussions Slide Deck to Google Drive
   - Add the slide deck to either the [Themed Discussion Session](https://drive.google.com/open?id=1rzmJrqv6XVa-KKyUpK5Gm-vRpSXNOlKQ) folder or the [#CarpentriesConversation](https://drive.google.com/open?id=1ChI8ziUxmsHo4Y0OVUiJkPq7Bz8gk0ww) folder on Google Drive.
 - Upload Community Discussion Recording to YouTube
-	- Contact the Community Engagement Lead on `serah@carpentries.org` to have the recording of the Community Discussion uploaded to [The Carpentries YouTube Channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA).
+	- Contact the Community Development Team on `community@carpentries.org` to have the recording of the Community Discussion uploaded to [The Carpentries YouTube Channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA).
 - Add Community Discussion to the [Past Calls](https://carpentries.org/community_discussions/#past-calls) section of the Community Discussions page on The Carpentries website.
 - Send thank you notes to the Community Discussion Facilitator & Moderator using [this template email as a starting point if need be](https://docs.google.com/document/d/1Y-LuKXwe3NF8HC2v_Og3jOkihjre9Q9x-KSWlIUhEKw/edit). 
 - Review Discussion Questionnaire Results
   - Request access to the results of the Community Discussion Questionnaire. Review the results and share your notes with the rest of the [Instructor Development Committee Leadership Team](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html).
-- Review the Community Discussion blog post and ask Community Engagement Lead to merge by emailing `serah@carpentries.org` or tagging `@serahrono` in the PR.
-  - If the discussion host wrote a blog post, review the blog post and the results of the questionnaire. Add/edit blog post content and be sure to include any responses from the survey that are valuable/interesting before requesting the Community Engagement Lead to merge.
+- Review the Community Discussion blog post and ask Community Development Team to merge by emailing `community@carpentries.org` or tagging `@kmomar` in the PR.
+  - If the discussion host wrote a blog post, review the blog post and the results of the questionnaire. Add/edit blog post content and be sure to include any responses from the survey that are valuable/interesting before requesting the Communications Lead to merge.
 
 
 
