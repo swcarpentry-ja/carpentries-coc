@@ -176,9 +176,6 @@ To add a new "room" in this "building" - click on the yellow plus sign next to "
 When done, click "ADD RESOURCE" and this new room should be on your list of rooms.  This room will now be available for scheduling events as described above.
 
 
-[zoom-home]: https://www.zoom.us/
-
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.4/jstz.min.js"></script>
 <script type="text/javascript">
