@@ -1,6 +1,6 @@
 ### Resources for Online Workshops
 
-[add intro text]
+In the wake of COVID-19 in early 2020, The Carpentries community came together to share experiences, tips and best practices for teaching online. This page lists all the resources developed and links to ongoing conversations by The Carpentries Core Team and community on different platforms.
 
 #### Resources by The Carpentries
 
