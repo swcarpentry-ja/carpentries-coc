@@ -51,6 +51,10 @@ A co-host can not:
 #### Turning participants' audio and video on or off
 
 As host, you will be able to mute and unmute participants.
+~~~
+SECTION NEEDS UPDATING
+- Can host also turn video on/off? Co-host?
+~~~
 
 #### Creating Breakout Rooms
 
@@ -62,15 +66,28 @@ Breakout rooms can be created automatically or manually. Only the host (not the 
 - The host can move between breakout rooms and can send messages to all rooms simultaneously. 
 - People in the breakout rooms will see a button to ask the host for help. The host will get a notification to join that room. Participants can not communicate across breakout rooms.  
 
-#### Yes/no questions
+#### Yes/no questions and other real-time feedback
 
 The host can ask yes/no questions. Responses are always public.
+
+~~~
+SECTION NEEDS UPDATING
+- Can host/co-host put people's responses down?
+- Where do responses show? (in participants list? in chat? in video box?)
+- Include images
+~~~
 
 #### Screen sharing
 
 The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.
 
 Options to share whole desktop or a given window.
+
+~~~
+SECTION NEEDS UPDATING
+- Including images 
+~~~
+
 
 #### Zoom chat
 
@@ -80,11 +97,24 @@ A participant can only see the chat since they most recently joined. If a partic
 
 Emojis are not recommended as they are not consistently available and do not render consistently across platforms.
 
+~~~
+SECTION NEEDS UPDATING
+- Include images
+~~~
+
+
 #### Ending a call
 
 When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
 
 If the host leaves while participants are still in the room, 
+
+~~~
+SECTION NEEDS UPDATING
+- What happens when host leaves?
+
+~~~
+
 
 ### General Tips
 
