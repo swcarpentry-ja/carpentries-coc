@@ -8,6 +8,8 @@ The Carpentries convened a [Task Force to address the urgent demand for remote C
 
 Official guidelines and recommendations by for teaching pilot-phase Carpentries workshops [can be found here on The Carpentries website](https://carpentries.org/online-workshop-recommendations/).
 
+[Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
+
 
 #### Resources by Community
 
