@@ -28,6 +28,7 @@ Carpentries community members have written many blog posts and facilitated sever
 ##### Webinars and Community Calls 
 
 - Jason Bell on February 27, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8)
+- Darya Vanichkina on April 7, [Jumping into digital: Lessons learned while moving live-coding workshops online](https://youtu.be/w0DHye2M1IM)
 
 ##### Other Relevant Resources
 
@@ -39,7 +40,8 @@ Carpentries community members have written many blog posts and facilitated sever
 
 #### Discussions in Carpentries Socials
 
-[add links]
+- [Discussion under Lex Nederbragt's post](https://swcarpentry.slack.com/archives/C08BVNU00/p1587540700017100) in the #instructors Slack channel over tips for participatory live coding online
+- 
 
 ##### Slack
 
