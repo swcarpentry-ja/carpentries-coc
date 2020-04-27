@@ -10,6 +10,14 @@ The Carpentries Handbook
    :glob:
 
    topic_folders/policies/index_coc.rst
+   
+   
+.. toctree::
+    :maxdepth: 2
+    :glob:
+   
+    topic_folders/hosts_instructors/index_online.rst
+   
 
 Below are general resources of use to various segments of The Carpentries community.
 
