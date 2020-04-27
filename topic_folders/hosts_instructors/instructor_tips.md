@@ -26,9 +26,11 @@ Software installation can be frustrating, but in the end, it almost always gets 
 
 **"Emergency Exits"**
 
-If there's absolutely no way that you'll be able to install the software locally on someone's computer, consider using the following: 
+If there's absolutely no way that you'll be able to install the software locally on someone's computer, consider using the [following solutions](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#supporting-learners-with-carpentries-scaffolds):
 
-* The "cloud" variants of [RStudio](https://rstudio.cloud) or [Jupyter](http://jupyter.org/try).
+> Read our [blog post, "Scaffolding Installation for Online Workshops"](https://carpentries.org/blog/2020/04/scaffolds/)
+
+* Pre-configured "scaffolds" for [RStudio Cloud](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#rstudio-cloud) and [My Binder](https://github.com/carpentries/scaffolds/blob/master/instructions/workshop-coordination.md#my-binder) (hosting Jupyter and OpenRefine). 
 * [Microsoft Azure](https://notebooks.azure.com/) gives you a cloud based Jupyter notebook with many languages and platforms installed.  It also includes a shell terminal with git.
 * If your institution's library does laptop rentals, rent 1-2 laptops and set them up with the software before the workshop and keep them on hand as loaners during the workshop.  
 
