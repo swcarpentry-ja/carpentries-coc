@@ -4,7 +4,10 @@ In the wake of COVID-19 in early 2020, The Carpentries community came together t
 
 #### Resources by The Carpentries
 
-[point to official recommendations and blog posts]
+The Carpentries convened a [Task Force to address the urgent demand for remote Carpentries workshops](https://github.com/carpentries/task-forces/blob/master/2020/COVID-19/COVID-19-charter.md) as communities have shifted to distance work across the globe. The Task Force concluded its work on April 1, with an initial set of guidelines for teaching, supporting, and communicating about fully remote versions of all Data Carpentry, Library Carpentry, and Software Carpentry workshops.
+
+Official guidelines and recommendations by for teaching pilot-phase Carpentries workshops [can be found here on The Carpentries website](https://carpentries.org/online-workshop-recommendations/).
+
 
 #### Resources by Community
 
