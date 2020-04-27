@@ -11,7 +11,30 @@ Official guidelines and recommendations by for teaching pilot-phase Carpentries 
 
 #### Resources by Community
 
-[list all community recommendations and blog posts]
+Carpentries community members have written many blog posts and facilitated several webinars on this topic. 
+
+##### Blog posts
+
+- Elizabeth Wickes on March 12, [Tips for Live Teaching Tech Online, Deeply Informed by The Carpentries](https://elizabethwickes.com/2020/03/12/tips-for-live-teaching-tech-online-deeply-informed-by-the-carpentries/)
+- Collaborative blog posts by Carpentries community in March 2020 as a result of this [call for contributions](https://twitter.com/thecarpentries/status/1238479488037593088)
+  - March 19, [Tips for Teaching Online from The Carpentries Community](https://carpentries.org/blog/2020/03/tips-for-teaching-online/)
+  - March 30, [More Community-Contributed Tips for Teaching Online](https://carpentries.org/blog/2020/03/more-tips-teaching-online/)
+- Radovan Bast et al April 20, [Lessons Learned from Running Code Refinery's First Online Workshop](https://carpentries.org/blog/2020/04/coderefinery-first-online-workshop/)
+- David Perez-Suarez on April 21, [Running University College London's First Online Git Workshop](https://carpentries.org/blog/2020/04/ucl-first-online-git-workshop/)
+- Darya Vanichkina on April 23, [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/)
+- Darya Vanichkina on April 24, [Having a Great Online Learning Experience: A Guide for Students](https://carpentries.org/blog/2020/04/great-online-learning-student/)
+
+
+##### Webinars and Community Calls 
+
+- Jason Bell on February 27, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8)
+
+##### Other Relevant Resources
+
+- Laura Czerniewicz on March 15, [What we learnt from “going online” during university shutdowns in South Africa](https://philonedtech.com/what-we-learnt-from-going-online-during-university-shutdowns-in-south-africa/)
+- Greg Wilson on March 24, [Teaching Online at Short Notice](https://resources.rstudio.com/webinars/teaching-online-at-short-notice)
+- [Strategies for addressing unequal technological access from the University of Cape Town](https://docs.google.com/document/d/1541zKh3UCtVKAkdITkYHWu4GXVW1lGWEdWFE-I8PeXk/edit?usp=sharing)
+- [Detailed guide from the University of Cape Town on low-tech online teaching resources](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit)
 
 
 #### Discussions in Carpentries Socials
