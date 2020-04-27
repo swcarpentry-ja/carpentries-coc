@@ -84,7 +84,7 @@ Those expecting reimbursement are responsible for discerning appropriate and all
 Reimbursement requests and documentation should be submitted to the Administrative Support Specialist at finance@carpentries.org. The Administrative Support Specialist will organise the forms for the request, then submit to the Executive Director or the Executive Council Treasurer for approval, before sending the request to our fiscal sponsor for payment, in accordance with our reimbursement workflow. Reimbursement workflow guidelines are available for staff.
 
 **VI. Contact Roles and Responsibilities**
-- Acting Executive Director - Kari L. Jordan
+- Executive Director - Kari L. Jordan
 - Executive Council Treasurer - Juan Steyn
 - Administrative Support Specialist - Talisha Sutton-Kennedy
 
