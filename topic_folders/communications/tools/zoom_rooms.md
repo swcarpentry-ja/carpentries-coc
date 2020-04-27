@@ -1,13 +1,12 @@
 
 ## Zoom Rooms
 
-The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for events such as discussion sessions, teaching demos, and committee meetings.
+The Carpentries offers three Zoom rooms for public community events.  Zoom rooms are available for events such as instructor trainings, discussion sessions, teaching demos, and committee meetings.
 
 
 ### General Room Usage and Links
 
-Rooms are generally used as follows.  However, any room can be used for other purposes if it is available.
-Links below will open Zoom and enter the respective room.
+Rooms are generally used as follows. However, any room can be used for other purposes if it is available.
 
 * Room 1: Instructor Training
 * Room 2: Community events (teaching demos, discussion sessions, committee meetings, etc.)
@@ -16,10 +15,6 @@ Links below will open Zoom and enter the respective room.
 Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom/us/j/**1234567**`.  This URL can only be used for that specific event. In the interest of security, these rooms will be unavailable at other times.
 
 For Instructor Training events, this link will be shared with the Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  Participants will not need a password to enter, but the event host may enable a waiting room for the event. 
-
-
-<!-- Each room can have a host who will have privileges to mute people, create breakout rooms, etc.  Please contact team@carpentries.org if you would like host privileges for an event.
- -->
 
 ### Information for event hosts
 
@@ -31,7 +26,7 @@ If you are teaching an Instructor Training workshop, about a week before the eve
 
 If you are hosting a Community Discussion or Teaching Demo, you should have signed up to do so via Calendly. Two days before the event, you will receive an automated email from Calendly that includes the host key for the event. 
 
-Enter the room and select "Particpants."
+Enter the room and select "Participants."
 
 Near the bottom of the Participants view is a button to Claim Host Access.  This will open up a pop up window where you will be able to enter in the Host Key you were given.  You will now have host access.  It is not possible to claim host access in this way if a logged on host is already present.
 
@@ -39,7 +34,7 @@ Near the bottom of the Participants view is a button to Claim Host Access.  This
 
 Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
 
-Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. You can also message the waiting room (as a whole; not individuals) before admitting them. 
+Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call or other latecomers will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. You can also message the waiting room (as a whole; not individuals) before admitting them. 
 
 #### Assigning a co-host
 
@@ -57,18 +52,15 @@ A co-host can not:
 
 As host, you will be able to mute and unmute participants.
 
-
 #### Creating Breakout Rooms
 
-Breakout rooms can be created automatically or manually.
-```
-    - Only the host has the ability to create “Breakout rooms”. The button for this is on the lower left. 
-      - Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. 
-      - Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. If you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
-      - It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
-      - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. This can not be scheduled in advance.
-    - The host can move between breakout rooms and can send messages to all rooms simultaneously.  
-```
+Breakout rooms can be created automatically or manually. Only the host (not the co-host) has the ability to create "Breakout rooms". The button for this is on the lower left. Breakout rooms can be created manually or automatically.
+
+- Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
+- Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. If you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
+- The host can manually end breakout rooms by clicking on the button in the breakout rooms window. All breakout rooms will then get a 60-second warning and automatically be returned to the main room. Closing breakouts can not be scheduled in advance.
+- The host can move between breakout rooms and can send messages to all rooms simultaneously. 
+- People in the breakout rooms will see a button to ask the host for help. The host will get a notification to join that room. Participants can not communicate across breakout rooms.  
 
 #### Yes/no questions
 
