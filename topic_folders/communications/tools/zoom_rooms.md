@@ -106,13 +106,7 @@ SECTION NEEDS UPDATING
 
 When the room host clicks “End Meeting” a dialogue box appears with three options: “Cancel”, “Leave Meeting” and “End Meeting for All”. Be careful not to end the meeting if you are leaving the room while the event is still active.
 
-If the host leaves while participants are still in the room, 
-
-~~~
-SECTION NEEDS UPDATING
-- What happens when host leaves?
-
-~~~
+If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
 
 
 ### General Tips
