@@ -1,4 +1,3 @@
-s
 In the wake of COVID-19 in early 2020, The Carpentries community came together to share experiences, tips and best practices for teaching online. This page lists all the resources developed and links to ongoing conversations by The Carpentries Core Team and community on different platforms.
 
 #### Resources by The Carpentries
@@ -36,7 +35,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - Laura Czerniewicz on March 15, [What we learnt from “going online” during university shutdowns in South Africa](https://philonedtech.com/what-we-learnt-from-going-online-during-university-shutdowns-in-south-africa/)
 - Greg Wilson on March 24, [Teaching Online at Short Notice](https://resources.rstudio.com/webinars/teaching-online-at-short-notice)
 - [Strategies for addressing unequal technological access from the University of Cape Town](https://docs.google.com/document/d/1541zKh3UCtVKAkdITkYHWu4GXVW1lGWEdWFE-I8PeXk/edit?usp=sharing)
-- - Lex Nederbragt on April 2, [Scaling participatory live coding in an undergraduate computational biology course](https://lexnederbragt.com/blog/2020-04-02-scaling-live-coding)
+- Lex Nederbragt on April 2, [Scaling participatory live coding in an undergraduate computational biology course](https://lexnederbragt.com/blog/2020-04-02-scaling-live-coding)
 - [Detailed guide from the University of Cape Town on low-tech online teaching resources](https://docs.google.com/document/d/1zPN7XUitOCw75FW6UeqrYAcWl41UqgKoZ_HRoYTKFZI/edit)
 - [MetaDocencia](https://metadocencia.netlify.app/en/post/cumple_mes/), an educational community for teaching Spanish-speaking teachers to teach online. If you know Spanish-speaking teachers that could be interested in this new community of practice, share [this report](https://metadocencia.netlify.app/post/cumple_mes/) with them.
 

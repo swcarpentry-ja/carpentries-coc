@@ -1,7 +1,5 @@
 RESOURCES FOR ONLINE WORKSHOPS
 ==============================
-
-[Add intro text about this list]
  
 
 .. toctree::
