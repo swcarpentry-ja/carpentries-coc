@@ -68,14 +68,8 @@ Breakout rooms can be created automatically or manually. Only the host (not the 
 
 #### Yes/no questions and other real-time feedback
 
-The host can ask yes/no questions. Responses are always public.
+The host can ask yes/no questions for participants to respond to. Participants can also offer feedback to note things are moving too fast or too slow; raise their hand; or ask for a break. These responses show up in the participants list and are visible to everyone.  The host can clear all responses, but can not clear individual responses.
 
-~~~
-SECTION NEEDS UPDATING
-- Can host/co-host put people's responses down?
-- Where do responses show? (in participants list? in chat? in video box?)
-- Include images
-~~~
 
 #### Screen sharing
 
