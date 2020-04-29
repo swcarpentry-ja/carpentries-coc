@@ -73,15 +73,9 @@ The host can ask yes/no questions for participants to respond to. Participants c
 
 #### Screen sharing
 
-The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.
+The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.  Next to the screen sharing button, the host will see an arrow offering them these options. 
 
-Options to share whole desktop or a given window.
-
-~~~
-SECTION NEEDS UPDATING
-- Including images 
-~~~
-
+The person screen sharing will have options to share their whole desktop or only a given window. Multiple windows can not be selected for screen sharing.
 
 #### Zoom chat
 
