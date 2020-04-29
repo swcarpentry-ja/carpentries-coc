@@ -49,11 +49,12 @@ A co-host can not:
 
 #### Turning participants' audio and video on or off
 
-As host, you will be able to mute and unmute participants.
-~~~
-SECTION NEEDS UPDATING
-- Can host also turn video on/off? Co-host?
-~~~
+As host, you will be able to mute and unmute participants.  This can either be done selectively or for the room as a whole. By default, participants can unmute themselves. The host can also choose not to allow participants to unmute themselves.
+
+As a host, you will be able to turn off video for participants. The participant will not be able to turn their video back on themselves. The host must request that the participant turn video back on.
+
+A participant can choose to keep their own video off.  The host can not turn a participant's video on directly, but can request them to turn their video on.
+
 
 #### Creating Breakout Rooms
 
