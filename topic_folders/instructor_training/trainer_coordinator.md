@@ -1,28 +1,4 @@
-## Trainer Coordinator
-
-The Trainer Coordinator plays an essential role in The Carpentries community by ensuring that teaching demonstrations run smoothly and by coordinating meetings for the Trainers group. The duties for this position are estimated to take about two hours per month.
-
-### Duties
-
-Every Two Weeks:
-- Check the [teaching demonstration Etherpad](http://pad.software-carpentry.org/teaching-demos) to ensure that all events on the etherpad have Trainers listed. 
-- Send a reminder to all Trainers signed up to teach over the next two weeks. See the [email templates](#Reminder-to-Trainers-signed-up-for-teaching-demos) for suggested language.
-- If any events don’t have a Trainer listed, send out a notification to the [Trainer Slack channel](https://swcarpentry.slack.com/messages/G7A6ED1SA/details/) and the [Trainer mailing list](mailto:trainers@lists.carpentries.org) asking Trainers to sign up. See the [email templates](#teaching-demos-without-hosts) for suggested language.
-- If one week before the demo is scheduled to take place, there is still no Trainer available, directly contact any staff member or email [team@carpentries.org](mailto:team@carpentries.org). The Carpentries staff will try to find a staff member to cover the demo or will cancel the event, accordingly.
-
-
-Bi-monthly:
-- Make sure that demo sessions are listed on the community calendar. 
-  - If you do not have edit access to the community calendar, contact [team@carpentries.org](mailto:team@carpentries.org). 
-
-
-Monthly:
-- Take notes in Trainer Business meetings. 
-  - If not available to take notes, coordinate a replacement notetaker. 
-  - Submit notes as a pull request to the [Trainers’ GitHub repository](https://github.com/carpentries/trainers/tree/master/minutes).
-  - Send [email to Trainers mailing list](#business-meeting-notes-available) and post to Slack channel after Business meetings with a link to the notes.
-
-### Email templates (Trainer Coordinator) 
+### Email templates 
 
 #### Reminder to Trainers signed up for teaching demos
 
