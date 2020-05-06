@@ -11,7 +11,7 @@ Rooms are generally used as follows. However, any room can be used for other pur
 * Room 2: Community events (teaching demos, discussion sessions, committee meetings, etc.)
 * Room 3: Other events as needed 
 
-Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom.us/j/**1234567**`.  This URL can only be used for that specific event. In the interest of security, these rooms will be unavailable at other times.
+Events are scheduled for each room by The Carpentries Core Team. Each event will have a URL in the format `https://carpentries.zoom.us/my/**room_name**`.  
 
 For Instructor Training events, this link will be shared with the Trainers and trainees for that event.  For Community Discussion sessions and Teaching Demos, the link will be on the relevant Etherpad and in that event's description on our Community Calendar.  Participants will not need a password to enter, but the event host may enable a waiting room for the event. 
 
@@ -29,11 +29,17 @@ Enter the room and select "Participants."
 
 Near the bottom of the Participants view is a button to Claim Host Access.  This will open up a pop up window where you will be able to enter in the Host Key you were given.  You will now have host access.  It is not possible to claim host access in this way if a logged on host is already present.  The logged on host can transfer host access to another participant.
 
+![Claim Host](images/claim_host.png)
+![Enter Host Key](images/host_key.png)
+
 #### Creating a Waiting Room
 
 Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
 
 Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call or other latecomers will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. You can also message the waiting room (as a whole; not individuals) before admitting them. 
+
+![Enable waiting room](images/host_security_waiting_room.png)
+
 
 #### Assigning a co-host
 
@@ -73,7 +79,14 @@ The host can ask yes/no questions for participants to respond to. Participants c
 
 #### Screen sharing
 
-The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.  Next to the screen sharing button, the host will see an arrow offering them these options. 
+The host can decide whether any participant can share their screen, or limit this access to host only.  Screen sharing access can not be granted or denied to specific participants only.  Screen sharing can be granted one of two ways:
+
+The "Security" button on the bottom panel.<br>
+![Host Security Settings](images/host_security_screenshare.png)
+
+The "Advanced Sharing Options" on the "Share Screen" button on the bottom panel.<br>
+![Advanced Sharing Options](images/screenshare_advanced.png)
+
 
 The person screen sharing will have options to share their whole desktop or only a given window. Multiple windows can not be selected for screen sharing.
 
