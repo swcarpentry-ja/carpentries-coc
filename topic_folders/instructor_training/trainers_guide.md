@@ -25,7 +25,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 
 ##### Before the demo
 -  Sign up to [lead demos][demo-pad].  
--  Get acquainted with using [Zoom](../communications/tools/zoom_rooms.html) for videoconferencing.
+-  Get acquainted with using [Zoom](../communications/tools/zoom_rooms.md) for videoconferencing.
 - a day or two before the demo, send a reminder email using the [email template](email_templates_trainers.html#reminder-teaching-demo). This often leads to people letting you know they cannot make it, or clarifications regarding what to prepare for (episode versus lesson)
 -  For each trainee, pick a suitable starting point in the lesson that they have chosen. Suggested lessons are available in the [Instructor Training Curriculum](https://carpentries.github.io/instructor-training/demo_lessons/index.html) (under *Extras*). Do not have them start in the middle of an episode. Note that some lessons (e.g., the Software Carpentry R lesson using inflammation data) have supplementary episodes. Do not pick from those.  
 
@@ -47,7 +47,7 @@ If you would like to watch an example teaching demo, there is a recording of one
 - more tips can be found in the [instructor notes](https://carpentries.github.io/instructor-training/guide/index.html#vi-teaching-demonstration-tips) of the instructor training website.
 
 ##### During the Demo (Troubleshooting)
-- Refer to the [Zoom](../communications/tools/zoom_rooms.html) guide to help troubleshoot connection issues.
+- Refer to the [Zoom](../communications/tools/zoom_rooms.md) guide to help troubleshoot connection issues.
 - If a trainee is teaching a Python lesson and their Jupyter notebook doesn't start, direct them to http://jupyter.org/try.
 
 ##### After the Demo 
