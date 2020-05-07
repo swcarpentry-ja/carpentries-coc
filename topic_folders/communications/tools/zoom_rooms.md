@@ -128,7 +128,7 @@ please use x11 instead", have them log out of Zoom and log back in. On the login
 
 ### Scheduling Zoom Rooms
 
-Zoom Room 1 is scheduled by The Carpentries core team for online instructor training events. Zoom Room 2 is for Community Discussions and Instructor Training Demos. These events are scheduled by Discussion Hosts and Trainers using Calendly. Attendees can sign up to attend these events on the relevant Etherpads.
+Zoom Room 1 is scheduled by The Carpentries Core Team for online instructor training events. Zoom Room 2 is for Community Discussions and Instructor Training Demos. These events are scheduled by Discussion Hosts and Trainers using Calendly. Attendees can sign up to attend these events on the relevant Etherpads.
 
 - Community Discussions:
   - [Calendly for Hosts](https://calendly.com/carpentries-discussion-sessions/thecarpentries)
@@ -142,7 +142,7 @@ If you would like to schedule a Zoom Room for another event, please [contact us 
 
 #### Viewing Zoom Room Availability
 
-Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries core team members can actually book a room. If a room is available, please contact a core team member or team@carpentries.org if you would like to make a room reservation.
+Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries team members can actually book a room. If a room is available, please contact a Core Team member or team@carpentries.org if you would like to make a room reservation.
 
 Room availability can be viewed below. 
 * Red: Room 1
@@ -155,7 +155,7 @@ Room availability can be viewed below.
 
 #### Adding an Event to the Community Calendar
 
-Note while anyone can view room availability, only Carpentries core team members may book events or reserve a Zoom room.
+Note while anyone can view room availability, only Carpentries Core Team members may book events or reserve a Zoom room.
 
 To add an event to the [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&ctz=America%2FNew_York) and book a Zoom Room for it:
 
