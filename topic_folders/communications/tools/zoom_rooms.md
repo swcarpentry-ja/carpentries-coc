@@ -44,9 +44,10 @@ This will give you (as host) a notification every time someone tries to enter th
 
 ![Admit people from waiting room](images/someone_entered_waiting_room.png)
 
-You can also message the waiting room (as a whole; not individuals) before admitting them. 
+You can also message the waiting room (as a whole; not individuals) before admitting them. If a name does not look familiar or valid to you, you may be worried about letting them in.  In this case, you can consider messaging them to ask them to verify themselves another way, like asking them to leave a message in the Etherpad chat.
 
 ![Message people in waiting room](images/chat_waiting_room.png)
+
 
 #### Assigning a co-host
 
