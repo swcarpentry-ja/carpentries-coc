@@ -51,7 +51,7 @@ You can also message the waiting room (as a whole; not individuals) before admit
 
 #### Assigning a co-host
 
-A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.
+A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.  Click on "More" next to the participant's name to get the option to make them a co-host.
 
 ![Participants "More" option](images/participants_more.png)
 ![Make Co-host](images/make_cohost.png)
