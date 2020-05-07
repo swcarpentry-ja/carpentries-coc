@@ -53,6 +53,9 @@ You can also message the waiting room (as a whole; not individuals) before admit
 
 A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.
 
+![Participants "More" option](images/participants_more.png)
+![Make Co-host](images/make_cohost.png)
+
 A co-host can:
 - Admit people from the waiting room
 - Mute/unmute people
@@ -83,9 +86,6 @@ Breakout rooms can be created automatically or manually. Only the host (not the 
 #### Yes/no questions and other real-time feedback
 
 The host can ask yes/no questions for participants to respond to. Participants can also offer feedback to note things are moving too fast or too slow; raise their hand; or ask for a break. These responses show up in the participants list and are visible to everyone.  
-
-![Participants "More" option](images/participants_more.png)
-![Make Co-host](images/make_cohost.png)
 
 The host can lower someone's hand.  For other responses, the host can clear all responses, but can not clear individual responses. 
 
