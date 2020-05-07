@@ -36,14 +36,25 @@ Near the bottom of the Participants view is a button to Claim Host Access.  This
 
 Once you have entered and claimed host access, it is recommended that you create a waiting room.  This enables you to explicitly let people in, rather than allowing anyone to simply come in.  It helps prevent "zoombombing," or entry of unwelcome guests.
 
-Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call or other latecomers will not be able to re-join.  Select "Enable Waiting Room."  This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. You can also message the waiting room (as a whole; not individuals) before admitting them. 
+Click on "Security" in the bottom panel.  At this point, you can lock the room entirely.  This is not recommended, as someone who accidentally gets bumped off the call or other latecomers will not be able to re-join.  Select "Enable Waiting Room."  
 
 ![Enable waiting room](images/host_security_waiting_room.png)
+
+This will give you (as host) a notification every time someone tries to enter the room.  You can admit them individually or as a group. 
+
+![Admit people from waiting room](images/someone_entered_waiting_room.png)
+
+You can also message the waiting room (as a whole; not individuals) before admitting them. If a name does not look familiar or valid to you, you may be worried about letting them in.  In this case, you can consider messaging them to ask them to verify themselves another way, like asking them to leave a message in the Etherpad chat.
+
+![Message people in waiting room](images/chat_waiting_room.png)
 
 
 #### Assigning a co-host
 
-A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.
+A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.  Click on "More" next to the participant's name to get the option to make them a co-host.
+
+![Participants "More" option](images/participants_more.png)
+![Make Co-host](images/make_cohost.png)
 
 A co-host can:
 - Admit people from the waiting room
@@ -74,7 +85,9 @@ Breakout rooms can be created automatically or manually. Only the host (not the 
 
 #### Yes/no questions and other real-time feedback
 
-The host can ask yes/no questions for participants to respond to. Participants can also offer feedback to note things are moving too fast or too slow; raise their hand; or ask for a break. These responses show up in the participants list and are visible to everyone.  The host can clear all responses, but can not clear individual responses.
+The host can ask yes/no questions for participants to respond to. Participants can also offer feedback to note things are moving too fast or too slow; raise their hand; or ask for a break. These responses show up in the participants list and are visible to everyone.  
+
+The host can lower someone's hand.  For other responses, the host can clear all responses, but can not clear individual responses. 
 
 
 #### Screen sharing
