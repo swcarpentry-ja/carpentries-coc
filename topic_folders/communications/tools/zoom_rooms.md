@@ -142,7 +142,7 @@ If you would like to schedule a Zoom Room for another event, please [contact us 
 
 #### Viewing Zoom Room Availability
 
-Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries team members can actually book a room. If a room is available, please contact a Core Team member or team@carpentries.org if you would like to make a room reservation.
+Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries Core Team can actually book a room. If a room is available, please contact a Core Team member or team@carpentries.org if you would like to make a room reservation.
 
 Room availability can be viewed below. 
 * Red: Room 1
