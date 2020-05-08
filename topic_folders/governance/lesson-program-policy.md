@@ -17,7 +17,7 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 
 #### Roles and Responsibilities of Lesson Programs
 
-- The Lesson Program maintains a Lesson Program Committee of a minimum of 3 members to serve as community governance body and act as a point of contact with The Carpentries Executive Council and staff.
+- The Lesson Program maintains a Lesson Program Committee of a minimum of 3 members to serve as community governance body and act as a point of contact with The Carpentries Executive Council and Core Team.
 - The Lesson Program Committee provides the Executive Council with an annual report of Lesson Program operations based on a template provided by The Carpentries.
 - The Lesson Program follows all general policies as outlined by The Carpentries, including, but not limited to, the Code of Conduct.
 - The Lesson Program workshops are conducted and administered as outlined in The Carpentries handbook, including tracking activities and using at least one certified instructor per workshop.
@@ -35,11 +35,11 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 	
 #### Roles and Responsibilities of The Carpentries 
 
-- The Carpentries staff and affiliates will coordinate Lesson Program workshops in accordance with standard workshop coordination practices as outlined in The Carpentries Handbook.
+- The Carpentries Core Team and affiliates will coordinate Lesson Program workshops in accordance with standard workshop coordination practices as outlined in The Carpentries Handbook.
 - The Carpentries will enable the Lesson Programs to make use of all The Carpentries infrastructure, including workshop coordination tools and database.
 - The Carpentries will provide the Lesson Programs access to all lesson and workshop templates. The Carpentries will include representatives from the Lesson Program on task forces or committees tasked with updating and maintaining these templates.
 - The Carpentries will support development opportunities for the Lesson Program, including grants, donations and other revenue opportunities. Funds brought in for Lesson Program activities will go to support that work.
-- The Carpentries will include Lesson Programs in the regular lesson release and publication cycle, coordinating between the Lesson Program maintainers and The Carpentries staff and affiliates.
+- The Carpentries will include Lesson Programs in the regular lesson release and publication cycle, coordinating between the Lesson Program maintainers and The Carpentries Core Team and affiliates.
 - The Carpentries will include the Lesson Programs in assessment efforts, including survey development and data analysis. 
 - The Carpentries will ensure the instructor training program addresses the training needs of the Lesson Program, incorporating examples and exercises targeted towards the communities served by the Lesson Program.
 - The Carpentries will prepare Trainers to work with trainees from the Lesson Program. 
@@ -53,7 +53,7 @@ This Policy outlines the Roles and Responsibilities of the Lesson Programs and T
 
 ### Lesson Program Incubation Roadmap
 
-The Roadmap describes the three phases of a Carpentries Lesson Program: Pre-incubation, Incubation as a Lesson Project, and Adoption as a Lesson Program. Advancement from one phase to the next requires a proposal and approval process involving both staff and the Executive Council. Approval of a new Lesson Program requires substantial investment from both the applicants and The Carpentries. In the case of the previous applicant for Lesson Program (Library Carpentry), the process was aided by a grant supporting a full-time staff member, and took about a year (though the community existed for several years prior). Details for each phase are described below.
+The Roadmap describes the three phases of a Carpentries Lesson Program: Pre-incubation, Incubation as a Lesson Project, and Adoption as a Lesson Program. Advancement from one phase to the next requires a proposal and approval process involving both Core Team and the Executive Council. Approval of a new Lesson Program requires substantial investment from both the applicants and The Carpentries. In the case of the previous applicant for Lesson Program (Library Carpentry), the process was aided by a grant supporting a full-time Core Team member, and took about a year (though the community existed for several years prior). Details for each phase are described below.
 
 #### Phase 1: Pre-incubation
 
