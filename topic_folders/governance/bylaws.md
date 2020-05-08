@@ -10,7 +10,7 @@
 Lesson Programs are collections of lessons which comprise one or more Carpentries workshops and the leadership guiding their development and implementation. The following requirements outline the general expectations associated with Lesson Programs; additional detail can be found in the Lesson Program Policy.
 
 ### Eligibility for Lesson Program Membership
-The Executive Council is responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which requires a majority vote. The Executive Director will be responsible for developing and implementing policies related to Lesson Program incubation and assessing the ability of the staff and community to meet obligations associated with new Lesson Programs.
+The Executive Council is responsible for assessing a prospective Lesson Program for acceptance into The Carpentries, which requires a majority vote. The Executive Director will be responsible for developing and implementing policies related to Lesson Program incubation and assessing the ability of the Core Team and community to meet obligations associated with new Lesson Programs.
 
 ### Roles and Responsibilities of Lesson Programs
 A Lesson Program within The Carpentries should possess the following characteristics:
@@ -20,7 +20,7 @@ A Lesson Program within The Carpentries should possess the following characteris
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development
 
 ### Governance of Lesson Programs
-Each Lesson Program will have a Lesson Program Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and staff. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations.
+Each Lesson Program will have a Lesson Program Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and Core Team. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations.
 
 ### Resignation and Termination of Lesson Programs
 In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and The Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with The Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
@@ -43,9 +43,9 @@ Individuals who satisfy at least one of the following conditions are eligible fo
 
 The Executive Director is not eligible for Voting Membership.
 
-All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries staff within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above. For more help with accessing and updating your AMY profile, please see [Accessing and Updating Your Instructor Profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile)
+All individuals who satisfy conditions for 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries Core Team within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above. For more help with accessing and updating your AMY profile, please see [Accessing and Updating Your Instructor Profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile)
 
-Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries staff for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries.
+Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries Core Team for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries.
 
 ## 5. Executive Council
 
@@ -71,7 +71,7 @@ Each Member of the Executive Council is responsible for:
 
 ### Number, Tenure, Requirements, and Qualifications
 The Executive Council will be composed of nine (9) Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st, except when filling between-election vacancies (see below). Five (5) Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected Members"). The other four (4) Members will be elected by the Membership of the organisation ("Community-elected Members").
-No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries staff are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
+No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries Core Team are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
 The Executive Council must meet at least ten (10) times per year, either in person or online. Quorum for meetings of the Executive Council is five Members, including at least one Council-elected and one Community-elected Member.
@@ -96,7 +96,7 @@ Four (4) to five (5) of the nine (9) Members of the Executive Council will be el
 - February 1: Responsibility for governance is transferred to the new Executive Council
 
 ### Community-elected Members
-Two (2) Community-elected Members will be elected each year by the Voting Members of The Carpentries. Any Voting Member of The Carpentries may stand for election by announcing their candidacy as dictated by the Election Policy; Carpentries staff may not stand for election. If there are fewer than two candidates for the election, the current Community-elected Members will decide amongst them who will remain in office.
+Two (2) Community-elected Members will be elected each year by the Voting Members of The Carpentries. Any Voting Member of The Carpentries may stand for election by announcing their candidacy as dictated by the Election Policy; Carpentries Core Team may not stand for election. If there are fewer than two candidates for the election, the current Community-elected Members will decide amongst them who will remain in office.
 
 Elections will take place once every calendar year and no later than 30 days before the new Executive Council becomes active (February 1). Each Voting Member may vote for as many candidates as there are Community-elected Member seats to be filled. The candidates who receive the highest number of votes will be elected into the Executive Council.
 
@@ -150,9 +150,9 @@ If an officer steps down, is removed from the Executive Council, or is otherwise
 ## 8. Committees
 
 ### Committee Formation
-Committees are organised by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Task forces are similar in that they perform specific tasks, but on a short-term basis (e.g., a year or less) and may be organised by staff. Both committees and task forces are overseen by staff, although the Executive Council may request quarterly reports on each group’s activities.
+Committees are organised by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Task forces are similar in that they perform specific tasks, but on a short-term basis (e.g., a year or less) and may be organised by Core Team. Both committees and task forces are overseen by Core Team, although the Executive Council may request quarterly reports on each group’s activities.
 
-## 9. Staff
+## 9. Core Team
 
 ### Executive Director
 The Executive Director acts as the Chief Executive Officer of The Carpentries in accordance with its vision and mission as overseen by the Executive Council. The Executive Director provides oversight and overall management, planning, vision and leadership for all aspects of The Carpentries including programs, finances, resource development, human resources, member services, communications, and Executive Council development. The Executive Director assumes a leadership role in partnering with collaborating organisations, businesses, universities, foundations, government agencies, other nonprofits and supporters. The Executive Director works with the Executive Council to establish vision, policies, strategic focus, priorities, and general scope of programs The Carpentries will deliver, and communicates on progress towards these goals via an annual report.

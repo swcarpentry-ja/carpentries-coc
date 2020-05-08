@@ -123,7 +123,7 @@ If the host leaves while participants are still in the room, the host will be as
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
 
 - If a trainee is using Linux and gets the error message "Can not start share, wayland has not been supported yet, 
-please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there choose the option with x11.
+please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there, choose the option with x11.
 
 
 ### Scheduling Zoom Rooms
@@ -142,7 +142,7 @@ If you would like to schedule a Zoom Room for another event, please [contact us 
 
 #### Viewing Zoom Room Availability
 
-Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries Core Team members can actually book a room. If a room is available, please contact a Core Team member or team@carpentries.org if you would like to make a room reservation.
+Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries Core Team can actually book a room. If a room is available, please contact a Core Team member or team@carpentries.org if you would like to make a room reservation.
 
 Room availability can be viewed below. 
 * Red: Room 1
