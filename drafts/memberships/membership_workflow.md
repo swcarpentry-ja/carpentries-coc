@@ -4,14 +4,14 @@
 1. One of the following occurs
     * People email membership@carpentries.org and ask about membership
     * People fill out [membership typeform](https://carpentries.typeform.com/to/Hmfe6L) on Software Carpentry website
-    * People express interest to a staff member
-        * Staff then put them in touch with Executive Directors
+    * People express interest to a Core Team member
+        * Core Team then put them in touch with Executive Directors
     * People get in touch with Executive Director(s) directly
 2. HubSpot ‘Deal’ is set up at initial interest. (See HubSpot Guide)
     * Emails are about membership are logged here.
         * Business manager logs emails that come into HubSpot here.
-    * Notes updating situation logged here (may tag other staff).
-    * Tasks assigned to other staff members here.
+    * Notes updating situation logged here (may tag other Core Team).
+    * Tasks assigned to other Core Team members here.
     * Deal status is updated here.
 3. Membership conversation occurs (Hubspot status updated to Appointment Scheduled)
     * Email conversation
