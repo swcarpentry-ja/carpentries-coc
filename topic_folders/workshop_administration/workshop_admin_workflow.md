@@ -5,7 +5,7 @@
 1. One of the following occurs:
     * Someone submits the [Carpentries workshop request form](https://amy.carpentries.org/forms/workshop/) 
     * Someone emails team@carpentries.org to request a workshop.
-    * Someone contacts a staff member to request a workshop.
+    * Someone contacts a Core Team member to request a workshop.
 
 1. Workshop & Logistics Manager or the Regional Coordinators for that region responds to request by email or phone/video call.
     * Give them more information about The Carpentries as needed.

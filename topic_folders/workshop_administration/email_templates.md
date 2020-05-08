@@ -331,7 +331,7 @@ Subject: Recruiting co-instructors for Carpentry Workshop
 
 Hi [ person name ], 
 
-I'm organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
+I'm organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
 I've completed instructor training for The Carpentries and am certified to teach their materials. To run a workshop, I'll need at least one (preferably two) co-instructors to help out in teaching the material. The workshops are two days long and instructors usually switch every half day. I'm planning to cover [ your workshop topics ] and was hoping you could teach the [ topic ] section of the workshop. The Carpentries provides ready-to-go lesson materials, so we wouldn't need to develop anything from scratch. If you're interested, you can see the materials for [ topic ] here [ link to lesson ] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ ].
 
@@ -350,7 +350,7 @@ Subject: Recruiting helpers for Carpentry Workshop
 
 Hi [ name ], 
 
-I'm running a [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
+I'm running a [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
 During the workshop, I'll need a few people to help out in case learners run into problems or get stuck. Helpers move around the room to answer questions and help learners work through things like installation problems, error messages and unexpected output. You don't need to be an expert in the tools we're covering, just to have used one or more of them and be comfortable helping people troubleshoot. At this workshop, we're planning on covering [ list of your topics ]. I think you would be a great person to help out with [ topic ]. If you're interested, you can see the materials for [ topic]  here [link to lesson] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ ].  Please let me know if you're interested in being a helper and if you know anyone else who might be willing to help out.
 
@@ -365,7 +365,7 @@ Subject: Carpentries workshop at [ site name ]
 
 On [ dates ], [ organisation name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
 
-The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/staff/faculty - your target audience] become more efficient in their research.
+The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
 
 This workshop is focused on [ Carpentry/domain ]. The curriculum will include:

@@ -2,7 +2,7 @@
 
 ### Logging in
 
-* Log in to AMY [here](https://amy.carpentries.org/workshops/admin-dashboard/).  Contact [Carpentries staff](mailto:team@carpentries.org) if you need login credentials.
+* Log in to AMY [here](https://amy.carpentries.org/workshops/admin-dashboard/).  Contact [Carpentries Core Team](mailto:team@carpentries.org) if you need login credentials.
 
 ![AMY login screen goes here](images/amy_login_screen.png)
 
@@ -340,7 +340,7 @@ The quickest and easiest way to search is using the search box in the top menu b
 
 #### Searching for Qualified Instructors
 
-Under the "More" menu, select "Find Workshop Staff."  Here you can filter by the following criteria:
+Under the "More" menu, select "Find Workshop Core Team."  Here you can filter by the following criteria:
 
 * Airport: This returns a list of all Instructors beginning with those who list that airport as their closest airport, and then continues reaching farther out.
 * Country: This returns a list of all Instructors who are in that country.  It does not continue to any proximate countries.

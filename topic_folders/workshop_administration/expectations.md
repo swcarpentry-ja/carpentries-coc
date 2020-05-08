@@ -19,7 +19,7 @@ Respond to workshop requests from host sites in your region within two business 
 * Communicate Carpentries community values to instructors, host sites, and others constituents. 
 * Communicate successes and challenges with Carpentries Workshop and Logistics Manager and other Regional Coordinators.
 * Promote The Carpentries culture of an inclusive and supportive learning environment informed by best practices in pedagogical research. Follow The Carpentries Code of Conduct and report any violations.
-* Elevate questions and issues to Carpentries staff as needed.
+* Elevate questions and issues to Carpentries Core Team as needed.
 
 
 
