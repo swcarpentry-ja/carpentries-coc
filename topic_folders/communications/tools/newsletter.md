@@ -18,12 +18,12 @@ Our newsletter, [*Carpentry Clippings*](https://carpentries.org/newsletter/), ap
 
 #### Submitting Newsletter Content
 
-Carpentries staff manage newsletter content through this [private Asana project](https://app.asana.com/0/1111365359623439/1111365359623465).  Submissions from community members are welcome by emailing [newsletter@carpentries.org](mailto:newsletter@carpentries.org).
+Carpentries Core Team manage newsletter content through this [private Asana project](https://app.asana.com/0/1111365359623439/1111365359623465).  Submissions from community members are welcome by emailing [newsletter@carpentries.org](mailto:newsletter@carpentries.org).
 
 
 #### Publishing the Newsletter
 
-This information is intended for staff or community members who have taken on the responsibility of publishing the newsletter.
+This information is intended for Core Team or community members who have taken on the responsibility of publishing the newsletter.
 
 Each newsletter is a campaign on MailChimp.
 
@@ -47,7 +47,7 @@ Add images by clicking on the *Image* icon in the edit window.  All images must 
 
 Go to *Preview and Test* to preview the newsletter before sending it out. This includes a desktop and mobile version preview.  Send a test email to yourself to preview it in your email client.
 
-*Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the staff channel so staff have a chance to review the newsletter before it goes out.
+*Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the Core Team channel so Core Team have a chance to review the newsletter before it goes out.
 
 The newsletter will now be locked. If any changes need to be made after the newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
 
