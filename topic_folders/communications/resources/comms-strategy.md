@@ -111,7 +111,7 @@ Recommendations for Facebook include:
 [LinkedIn](https://www.linkedin.com/company/the-carpentries/about/) is primarily used for making professional connections, networking, and job opportunities. It is a good place for us to list Carpentries team members, and cross-post relevant organisation announcements, particularly targeted at potential member organisations. We have an [instructors group](https://www.linkedin.com/groups/8279689/) and an organisation page.
 
 Recommendations for LinkedIn are: 
-- remove the two staff not associated with The Carpentries and encourage other team members to list themselves, 
+- remove the two Core Team not associated with The Carpentries and encourage other team members to list themselves, 
 - establish a mechanism for community members to indicate their connection to The Carpentries i.e. through LinkedIn Badges, Tags or Groups. 
 - Use the [existing LinkedIn group](https://www.linkedin.com/groups/8279689/) as a place where we could encourage people to post jobs to have a more standardised place for people to look and share.
 
@@ -146,7 +146,7 @@ Recommendations:
 - Actively manage remaining private Google groups (which cannot be private in TopicBox
   
 #### Slack
-[The Carpentries Slack](https://swcarpentry.slack.com/) is used to receive immediate feedback from community members. Channels are driven by community members (e.g. initiatives) and staff (e.g. project related). Due to the primarily community driven approach to Slack, some channels fall idle while others remain active. A comprehensive approach to weeding channels that are idle for greater than one year will be taken. The approach will be communicated to the community and feedback will be solicited on the channels to be weeded before they are delisted. 
+[The Carpentries Slack](https://swcarpentry.slack.com/) is used to receive immediate feedback from community members. Channels are driven by community members (e.g. initiatives) and Core Team (e.g. project related). Due to the primarily community driven approach to Slack, some channels fall idle while others remain active. A comprehensive approach to weeding channels that are idle for greater than one year will be taken. The approach will be communicated to the community and feedback will be solicited on the channels to be weeded before they are delisted. 
 
 **Welcome channel**
 
@@ -191,7 +191,7 @@ Due to historical timelines, [Software Carpentry](https://twitter.com/swcarpentr
 
 #### Website and Blog
 
-[The Carpentries blog posts](https://carpentries.org/blog/) allow community and staff members to share announcements with the broader community. Major mechanisms for sharing include the website, Twitter, the newsletter, and Slack. As with lessons, the [Creative Commons Attribution (CC-BY) license](https://creativecommons.org/licenses/by/4.0/) will be extended to all website content, including blog posts.
+[The Carpentries blog posts](https://carpentries.org/blog/) allow community and Core Team members to share announcements with the broader community. Major mechanisms for sharing include the website, Twitter, the newsletter, and Slack. As with lessons, the [Creative Commons Attribution (CC-BY) license](https://creativecommons.org/licenses/by/4.0/) will be extended to all website content, including blog posts.
 
 Recommendations: 
 
@@ -214,7 +214,7 @@ Recommendations:
 
 #### Newsletter
 
-Our current Carpentry Clippings strategy is efficient, A team member (Maneesha) and community volunteer (Malvika) work together to solicit and organise contributions - making sure staff members submit updates, and then writing, formatting, and publishing content from them.  Some content curation is also involved i.e. for  "Tweet of the Week" and "Toolshed (Posts from our Past)" sections.Going forward we will actively deliberate on what we are sharing via the newsletter and why and determine a strategy for improving our open and click rates, which currently stand at 30-40% and 3-6% respectively. 
+Our current Carpentry Clippings strategy is efficient, A team member (Maneesha) and community volunteer (Malvika) work together to solicit and organise contributions - making sure Core Team members submit updates, and then writing, formatting, and publishing content from them.  Some content curation is also involved i.e. for  "Tweet of the Week" and "Toolshed (Posts from our Past)" sections.Going forward we will actively deliberate on what we are sharing via the newsletter and why and determine a strategy for improving our open and click rates, which currently stand at 30-40% and 3-6% respectively. 
 
 #### Zotero and FigShare
 

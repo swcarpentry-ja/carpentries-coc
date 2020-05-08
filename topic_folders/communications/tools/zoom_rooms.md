@@ -142,7 +142,7 @@ If you would like to schedule a Zoom Room for another event, please [contact us 
 
 #### Viewing Zoom Room Availability
 
-Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries staff members can actually book a room. If a room is available, please contact a staff member or team@carpentries.org if you would like to make a room reservation.
+Zoom room calendar views are public - anyone can view whether a room is available.  Only Carpentries Core Team members can actually book a room. If a room is available, please contact a Core Team member or team@carpentries.org if you would like to make a room reservation.
 
 Room availability can be viewed below. 
 * Red: Room 1
@@ -155,7 +155,7 @@ Room availability can be viewed below.
 
 #### Adding an Event to the Community Calendar
 
-Note while anyone can view room availability, only Carpentries staff members may book events or reserve a Zoom room.
+Note while anyone can view room availability, only Carpentries Core Team members may book events or reserve a Zoom room.
 
 To add an event to the [Community Calendar](https://calendar.google.com/calendar/embed?src=oseuuoht0tvjbokgg3noh8c47g%40group.calendar.google.com&ctz=America%2FNew_York) and book a Zoom Room for it:
 

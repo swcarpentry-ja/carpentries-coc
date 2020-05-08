@@ -37,7 +37,7 @@ The following is a summary of the steps the Code of Conduct Committee takes when
 - After further collection and review of information, if needed, the IRG determines a resolution. Possible [resolutions](#resolutions) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension.
 - The IRL updates the reporter and  solicits feedback on the resolution. Feedback may or may not be used to update the resolution. 
 - The IRL updates the reportee(s).
-- The Staff Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken.
+- The Core Team Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken.
 - Essential personnel are notified to implement any actions. Report details remain confidential. 
 - Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository. 
 - The Chair of the Code of Conduct Committee and Executive Council Liaison write up a transparency report.

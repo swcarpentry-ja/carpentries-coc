@@ -39,7 +39,7 @@ See you at the demo session,
 ##### Trainee Invited to Repeat Teaching Demo
 
 Note to Trainers: Even with a template, these emails can be hard to compose and send! When in doubt, don't hesitate to reach 
-out to the Trainer community and/or staff for support in deciding, customizing, or responding to questions about these 
+out to the Trainer community and/or Core Team for support in deciding, customizing, or responding to questions about these 
 messages.
 
 
@@ -55,7 +55,7 @@ This was a difficult determination to make -- we are excited about having you as
 you on board! I know it is hard to make time for these sessions, and I hope you will find the opportunity for additional 
 practice and feedback to be worthwhile. 
 
-I have contacted our checkout staff to indicate that this session should be repeated. If you are close to the end of your 
+I have contacted our checkout Core Team to indicate that this session should be repeated. If you are close to the end of your 
 checkout period, you can email checkout@carpentries.org to request an extension if you need one.
 
 Please get in touch with questions!
@@ -72,7 +72,7 @@ Subject: Carpentries instructor training: Teaching Demo
 
 Hi [ trainee name ], 
 
-I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our staff. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. 
+I’m happy to tell you that you have passed your teaching demonstration! You demonstrated a good command of the subject material and a solid understanding of The Carpentries teaching methods. We are excited about having you as a Carpentries instructor. I’ve forwarded this information to our Core Team. If this was the last stage in your instructor training checkout, you should get your official The Carpentries Instructor certificate in about a week, along with instructions for signing up to teach workshops. If you still have steps remaining in your checkout, please be sure to complete them before your deadline. 
 
 You can check your progress in the checkout steps by logging on to our instructor tracking system, AMY, using your GitHub ID here: https://amy.carpentries.org/account/login/. If you have any questions, or did not provide a GitHub user name when registering for training, please email checkout@carpentries.org. They can also answer any additional questions you might have about the checkout procedure.
 
@@ -134,7 +134,7 @@ Subject: Formación para instructor de las Carpentries: Demostración de enseña
 
 Hola [nombre del aprendiz],
 
-Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro staff. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a checkout@carpentries.org.
+Me alegra informarte que has pasado tu demostración de enseñanza. Has demostrado un buen dominio del contenido de los materiales y de las metodologías de enseñanza de las Carpentries, por tanto, es un placer recibirte como instructor/a en las Carpentries. Ya he comunicado esta información a nuestro Core Team. Si esta fue la última parte de tu proceso de certificación, recibirás tu certificado oficial de las Carpentries junto con las instrucciones para inscribirte para impartir talleres en una semana aproximadamente. Si aún tienes que completar algún paso en tu proceso de certificación, asegúrate de completarlos antes de la fecha límite. Si tienes alguna pregunta, por favor envía un correo a checkout@carpentries.org.
 
 Bienvenida/o a la comunidad de las Carpentries.
 

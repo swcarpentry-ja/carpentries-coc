@@ -8,7 +8,7 @@ You’re signed up to host a Carpentries teaching demo within the next two weeks
 
 Please double check your time/date link on the [etherpad](https://pad.carpentries.org/teaching-demos) and confirm this one-hour time slot in your calendar. 
 
-If you know in advance that you will have a conflict and are unable to host your demo, please email the Trainers list request a replacement. In most cases staff will fill in as needed if a replacement isn’t found.
+If you know in advance that you will have a conflict and are unable to host your demo, please email the Trainers list request a replacement. In most cases Core Team will fill in as needed if a replacement isn’t found.
 
 If you have a last-minute conflict, please use Slack as well as email to request a replacement. You may use "@here" to get 
 the attention of all online group members as well as tagging Karen Word and Erin Becker in your request on Slack. If you are 
