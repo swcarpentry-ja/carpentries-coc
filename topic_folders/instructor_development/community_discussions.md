@@ -58,6 +58,8 @@ Once Discussion Hosts have scheduled themselves in for a Community Discussion se
 
 This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.  
 
+People interested in being Co-hosts can review the calendar once it is published, and sign up on the Etherpad to co-host an event of their choice. 
+
 #### Event Cancellations
 
 We recognise that even after scheduling their own events, Discussion Hosts may have conflicts and may need to cancel a scheduled event. If this happens, the Host should contact community@carpentries.org as soon as possible so a Core Team member can ensure another Host is able to cover this event.
