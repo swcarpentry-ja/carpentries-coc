@@ -19,9 +19,9 @@ I understand that it is important to keep up to date and in touch with the Train
 - Read emails sent to the Trainer listserv  
 - Keep up-to-date with the instructor training curriculum  
 - Teach a curriculum that fulfills all of the current requirements for instructor certification  
-- Provide feedback to other trainers and Carpentries staff about training events to help continue developing our offerings  
+- Provide feedback to other trainers and Carpentries Core Team about training events to help continue developing our offerings  
 
-I understand that The Carpentries staff need an accurate understanding of Trainer availability in order to plan instructor training events. If at any point I am no longer able to serve as a Trainer, I will let The Carpentries staff know. I understand that only active Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by making arrangements with staff for re-onboarding. 
+I understand that The Carpentries Core Team need an accurate understanding of Trainer availability in order to plan instructor training events. If at any point I am no longer able to serve as a Trainer, I will let The Carpentries Core Team know. I understand that only active Trainers are voting members of the Trainer community, but that I will be able to re-activate my Trainer status at any time by making arrangements with Core Team for re-onboarding. 
 
 ##### Trainer Alumni Status
 
@@ -30,7 +30,7 @@ Active Trainers may elect to become inactive by requesting Trainer Alumni status
 Trainer Alumni will not be permitted to:
 - teach Carpentries Instructor Training workshops
 - host teaching demonstrations
-Exceptions may be made at the discretion of The Carpentries staff. To request permission to teach or host a demo, contact team@carpentries.org.
+Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact team@carpentries.org.
 
 Trainer Alumni may select to:
 - continue to receive Topicbox Instructor Training emails & participate in conversations

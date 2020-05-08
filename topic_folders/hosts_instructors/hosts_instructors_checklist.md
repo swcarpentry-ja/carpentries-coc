@@ -2,7 +2,7 @@
 
 #### Host Checklist
 
-A workshop host contacts The Carpentries staff about running a workshop.  He or she will work with The Carpentries Program Manager and Workshop Administration Team to plan and implement the workshop.
+A workshop host contacts The Carpentries Core Team about running a workshop.  He or she will work with The Carpentries Program Manager and Workshop Administration Team to plan and implement the workshop.
 
 **Before the workshop, the host will**
 

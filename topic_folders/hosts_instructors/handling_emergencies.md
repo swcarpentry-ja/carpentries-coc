@@ -14,4 +14,4 @@ We know that unexpected things can happen, even with the best laid plans. Below 
 **Situation: Building or classroom is locked**
 * Ensure that you have emergency contact information for hosts(s) before the workshop and any other people involved in logistics.
 * Contact all participants if possible, and put signs on doors letting them know the workshop is postponed until further notice.
-* If your room is locked, check with building staff to see if a nearby room is available.
+* If your room is locked, check with building Core Team to see if a nearby room is available.
