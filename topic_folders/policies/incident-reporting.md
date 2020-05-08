@@ -23,7 +23,7 @@ You are welcome to report an incident anonymously. If you would like someone to 
 
 **All reports will be kept confidential** with details shared only with the Code of Conduct committee members. In the case that a CoC committee member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the CoC committee. 
 
-In rare cases, the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Staff will be informed in order to prevent future harm to the community, and The Carpentries Staff [Immediate Response Checklist](incident-response.html#checklists-for-responding-to-an-incident) will be employed. 
+In rare cases, the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Core Team will be informed in order to prevent future harm to the community, and The Carpentries Core Team [Immediate Response Checklist](incident-response.html#checklists-for-responding-to-an-incident) will be employed. 
 
 Some incidents happen in one-on-one interactions, and though details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases, we can compile several anonymised reports into a pattern of behaviour, and take action on that pattern.
 

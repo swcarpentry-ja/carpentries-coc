@@ -82,7 +82,7 @@ When interacting with my mentoring group, I agree to
 I understand that it is important to keep in touch with The Carpentries community so that my mentorship will reflect current practices. I agree to:  
 + stay active in one or more Carpentries communication channels,   
 + keep up-to-date with changes to the lesson(s) I teach, and 
-+ provide feedback to the Mentoring Subcommittee and Carpentries staff to help continue improving our mentoring groups.
++ provide feedback to the Mentoring Subcommittee and Carpentries Core Team to help continue improving our mentoring groups.
 
 
 ### Mentor Onboarding

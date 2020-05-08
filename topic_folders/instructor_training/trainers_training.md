@@ -32,7 +32,7 @@ For the most recent Trainer Training schedule and discussion questions, see the 
 
 #### Reviewing New Trainer Applications
 
-1. Director of Instructor Training and Carpentries staff will decide on goals for Trainer recruitment.
+1. Director of Instructor Training and Carpentries Core Team will decide on goals for Trainer recruitment.
 1. [Trainer Application](https://docs.google.com/forms/d/e/1FAIpQLSchAJhZiLSVmqSab1QxG1H30tCAHg_BcUwfctnJpzIhOVo1Bg/viewform?usp=sf_link) will be modified to reflect these goals.
 1. Open application period will be announced via Carpentries platforms including Twitter, Facebook, the Discuss email list, and blogs. Ask relevant community members to promote within their networks as well.  Personal invitations can be sent with [this email template](email_templates_admin.html#recruiting-new-trainers).
 1. Ensure communication emphasises overall goals.

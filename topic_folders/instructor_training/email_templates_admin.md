@@ -139,7 +139,7 @@ will also need to complete The Carpentries instructor training application
 form using the same registration code: 
 https://amy.carpentries.org/forms/request_training/. This 
 application is a formality - you are guaranteed to be accepted into 
-the training program - but The Carpentries staff needs this 
+the training program - but The Carpentries Core Team needs this 
 application in order to get your information for training into their
 system. 
 
