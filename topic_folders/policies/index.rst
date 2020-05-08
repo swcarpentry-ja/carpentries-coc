@@ -8,4 +8,4 @@ POLICIES
    privacy.md
    instructor-no-show-policy.md
    reimbursement-policy.md
-   staff/professional-development-policy.md
+   Core Team/professional-development-policy.md

@@ -20,7 +20,7 @@ Information obtained and how it is used is described in sections below for
 - *Instructors and Trainers* - people who are teaching a Carpentries workshop
 - *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification
 - *Lesson contributors and maintainers* - people who contribute to or maintain lessons
-- *The Carpentries staff* - people employed by The Carpentries
+- *The Carpentries Core Team* - people employed by The Carpentries
 - *Authorised administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop or volunteer coordinators
 
 #### How is personally identifiable information stored?
@@ -30,7 +30,7 @@ Personally identifiable information is stored in secure databases. Refer to [Lim
 
 #### Who has access to personally identifiable information?
 
-Access will be limited to The Carpentries staff and authorised administrators.
+Access will be limited to The Carpentries Core Team and authorised administrators.
 
 ## Section 1: Workshop Participants
 Workshop participants include Learners, Helpers and Hosts
@@ -70,7 +70,7 @@ This Privacy Policy is applicable to information that you provided/collected thr
 #### What information do we obtain?
 We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.
 In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.
-If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our staff or authorised administrators and to the staff of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
+If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our Core Team or authorised administrators and to the Core Team of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems
 
 #### What do we do with this information?
 We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding visitors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.

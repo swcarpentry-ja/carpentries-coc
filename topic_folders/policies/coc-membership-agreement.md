@@ -26,7 +26,7 @@ In order to uphold the CoC, the CoCc members will:
 
 In addition to the core membership agreement, CoCc members will be required to:
 
-* support the committee chair and the designated staff liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them.
+* support the committee chair and the designated Core Team liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them.
 * attend in the order of 75% of all *CoCc Business meetings* [2]. In these meetings, CoCc members will actively engage in discussion, voting and contributing in a constructive way, listening carefully, challenging sensitively and avoiding conflict. 
 * promptly respond to emails, or, if they realize they will be out of touch for a while, inform the committee chair.
 * participate in any training that is organized to support the work of the committee, and to responsibly use any technical solutions that the CoCc is asked to use in order to maintain the security and privacy of personal information conveyed to the committee.
