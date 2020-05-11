@@ -832,3 +832,21 @@ I know that's a lot! Let me know if you have any questions. I'm looking forward 
 
 Best,
 [ name ]
+
+##### Trainers' reminder: Teaching Demos
+
+Hi! 
+
+You’re signed up to host a Carpentries teaching demo within the next two weeks! 
+
+Please double check your time/date link on the [etherpad](https://pad.carpentries.org/teaching-demos) and confirm this one-hour time slot in your calendar. 
+
+If you know in advance that you will have a conflict and are unable to host your demo, please email the Trainers list request a replacement. In most cases staff will fill in as needed if a replacement isn’t found.
+
+If you have a last-minute conflict, it is best to use Slack as well as email to request a replacement, and tag both me and [name]in your request on Slack. If you are unable to get help in time, please contact your trainees to cancel or reschedule.
+
+Instructions for hosting demos are [here](https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html#running-a-teaching-demonstration). Since we often have last-minute cancellations, if you have trainees contacting you to request an extra spot we suggest giving them permission to come, noting that they may not be able to present if everyone shows up. However, you are also very free to say ‘no.’ At the present time we are not able to track no-shows or cancellations for checkout, so it’s only necessary to mention those who attended in your email to checkout@carpentries.org after the demo.
+
+Please get in touch with questions, and enjoy your demo session!
+
+Best, 
