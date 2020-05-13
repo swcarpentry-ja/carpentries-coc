@@ -284,18 +284,14 @@ including Zoom room connection information and homework. Please let
 me know if there is any other information specific to your event that
 you would like shared with your trainees.
 
-This event uses the Zoom video-conferencing platform. You can read 
-more about how to use Zoom here: 
-https://docs.carpentries.org/topic_folders/instructor_training/trainers_guide.html?highlight=zoom#zoom-manual-online-trainings.
-Logging in with the credentials below will give you host access, 
-including creating breakout rooms and muting participants as needed. 
-Please do not share these credentials with anyone. Participants will 
-be given a direct link to enter the Zoom room and do not need these 
-credentials.
+This event uses the Zoom video-conferencing platform. You can join the 
+Zoom call at the link below.  Once you have joined, you can claim host
+access using the host key provided below.  Read more about how to 
+claim host access and all the host capabilities here: 
+https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html
 
-Username: room1@carpentries.org
-Password: (hide for template email)
 Direct link: https://carpentries.zoom.us/my/carpentriesroom1
+Host Key: [INSERT HOST KEY HERE]
 
 Your participants will be completing a survey before the event. This 
 survey gives information about your participants’ backgrounds and 
