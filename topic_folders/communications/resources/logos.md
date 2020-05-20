@@ -13,3 +13,5 @@ If you have any doubts about your intended use of the trademarks, please write t
 * [Library Carpentry](https://github.com/LibraryCarpentry/lc-styleguide/tree/master/logo)
 * [Software Carpentry](https://github.com/swcarpentry/communications/tree/master/misc/logo)
 
+#### Virtual Backgrounds
+Virtual backgrounds featuring the logos of The Carpentries lesson programs are available for download and use in the [Carpentries Commons GitHub repository](https://github.com/carpentries/commons/tree/master/virtual-backgrounds).
