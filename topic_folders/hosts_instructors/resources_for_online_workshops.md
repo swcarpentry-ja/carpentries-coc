@@ -28,7 +28,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - David Perez-Suarez on April 21, [Running University College London's First Online Git Workshop](https://carpentries.org/blog/2020/04/ucl-first-online-git-workshop/)
 - Darya Vanichkina on April 23, [Mapping & Planning a Live Coding Workshop for Digital Delivery](https://carpentries.org/blog/2020/04/plan-map-live-coding-workshop/)
 - Darya Vanichkina on April 24, [Having a Great Online Learning Experience: A Guide for Students](https://carpentries.org/blog/2020/04/great-online-learning-student/)
-
+- Radovan Bast, Flavio Calvo, Richard Darst, Anne Fouilloux, Pavlin Mitev, Hasti Narimanzadeh, Pedro Ojeda May, João M. da Silva and Thor Wikfeldt on 14 April, [Lessons learned from running our first online workshop](https://coderefinery.org/blog/2020/04/14/first-online-workshop/)
 
 ##### Webinars and Community Calls 
 
@@ -52,5 +52,6 @@ Carpentries community members have written many blog posts and facilitated sever
 - April 6, [Post-workshop eval questions related to online delivery?](https://carpentries.topicbox.com/groups/discuss/Te89ac5e6b2f4c3b6-M79691c07b99dc8a455597c88/post-workshop-eval-questions-related-to-online-delivery) discussion on TopicBox
 - April 16, [Discussion under David Perez-Suarez' post](https://swcarpentry.slack.com/archives/C03LE48AY/p1587034437098200) in the #general Slack on his experiences from running an online workshop
 - April 22, [Discussion under Lex Nederbragt's post](https://swcarpentry.slack.com/archives/C08BVNU00/p1587540700017100) in the #instructors Slack channel over tips for participatory live coding online
+- May 14, [Discussion on using online sticky notes for feedback](https://swcarpentry.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) in the #general Slack channel. 
 
 
