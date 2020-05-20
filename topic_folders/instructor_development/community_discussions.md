@@ -97,9 +97,9 @@ The Instructor Development Committee is responsible for organising the community
 -   each month has at least eight discussion sessions, and
 -   each session has at least one host (preferably two) to conduct the discussion.
 
-[This is done periodically using Calendly](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html#signing-up-to-host-or-co-host-a-community-discussion). The Discussion Session Coordinator is responsible for scheduling the events and inviting instructors who are about to teach and who have recently taught.  
+[This is done periodically using Calendly](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html#signing-up-to-host-or-co-host-a-community-discussion). The Discussion Session Coordinator is responsible for scheduling the events and ensuring instructors who are about to teach and who have recently taught are being invited.  
 
-Meeting scheduling will be coordinated via this [Etherpad](http://pad.carpentries.org/community-discussions).
+Scheduled events are listed on this [Etherpad](http://pad.carpentries.org/community-discussions).
 
 
 #### Host and Co-Host
