@@ -73,6 +73,7 @@ We recognise that even after scheduling their own events, Discussion Hosts may h
 * Collecting feedback from instructors who have recently taught.
 * Engaging newly trained instructors and evaluating their participation using a subset of questions described in the checkout procedure here: http://carpentries.github.io/instructor-training/checkout/.
 * Encouraging attendees to create issues or pull requests to correct problems.
+* Complete the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7) at the end of the community discussion.
 
 ### Co-Host Expectations
 
