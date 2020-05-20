@@ -31,13 +31,12 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts on Carpentries activities in Africa
 
-- [Increasing Researchers' Digital Literacy in Ethiopia](https://carpentries.org/blog/2020/05/ambo-university-workshop/)
-- [Feedback: Remote Teaching of Genomics Data Carpentry Curriculum](https://carpentries.org/blog/2020/01/genomics-workshop-icipe-kenya/)
-- [With Thanks from Carpentries Instructors in Africa](https://carpentries.org/blog/2019/12/africa-instructors-gratitudes/)
-- [Introducing our new Regional Consultant for Southern Africa](https://carpentries.org/blog/2019/11/introducing-angelique/)
-- [Teaching Software Carpentry at the University of Botswana](https://carpentries.org/blog/2019/10/botswana-software-carpentry/)
-- [Wrapping Up the Rural Campuses Connection Project Capacity Development Initiative](https://carpentries.org/blog/2019/04/rccpii/)
-- [Highlights from the recent Instructor Training in South Africa](https://carpentries.org/blog/2019/04/ukzn-ttt/)
-- [CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/)
-- [A Wrap-up from the African Task Force](https://carpentries.org/blog/2019/01/african-task-force-update/)
-- [CarpentryCon Experienced by the African Carpentry Task Force](https://carpentries.org/blog/2018/07/actf-carpcon-post/)
+- [Increasing Researchers' Digital Literacy in Ethiopia](https://carpentries.org/blog/2020/05/ambo-university-workshop/) by Yared Abera Ergu
+- [Feedback: Remote Teaching of Genomics Data Carpentry Curriculum](https://carpentries.org/blog/2020/01/genomics-workshop-icipe-kenya/) by Daniel Ouso and Bianca Peterson
+- [With Thanks from Carpentries Instructors in Africa](https://carpentries.org/blog/2019/12/africa-instructors-gratitudes/) by Yared Abera, Ayansina Ayangbenro, Mamsi Khantsi, Samar Elsheikh, Margareth Gfrerer, Martin Dreyer, Mesfin Diro, Abisola Regina Sholeye, Bianca Peterson, Nobublele Shozi and Angelique van Rensburg
+- [Teaching Software Carpentry at the University of Botswana](https://carpentries.org/blog/2019/10/botswana-software-carpentry/) by Raniere Silva
+- [Wrapping Up the Rural Campuses Connection Project Capacity Development Initiative](https://carpentries.org/blog/2019/04/rccpii/) by Anelda van der Walt and Katri Tirok
+- [Highlights from the recent Instructor Training in South Africa](https://carpentries.org/blog/2019/04/ukzn-ttt/) by Katrin Tirok, Malvika Sharan, Samar Elsheikh and Saymore Chifamba
+- [CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/) by Anelda van der Walt and Juan Steyn
+- [A Wrap-up from the African Task Force](https://carpentries.org/blog/2019/01/african-task-force-update/) by Anelda van der Walt, Katrin Tirok, Caroline F. Ajilogba, Juan Steyn and Kayleigh Lino
+- [CarpentryCon Experienced by the African Carpentry Task Force](https://carpentries.org/blog/2018/07/actf-carpcon-post/) by Caroline F. Ajilogba, Mesfin Diro, Kayleigh Lino, Erika Mias, Lactatia Motsuku, Juan Steyn, Katrin Tirok and Anelda van der Walt
