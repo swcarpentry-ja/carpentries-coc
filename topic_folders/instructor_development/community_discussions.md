@@ -111,7 +111,7 @@ Each session must have at least one host (although two hosts are preferred). Any
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
-- (Optional) If a group is very large and you have a co-host, you can split the group in two, using the Breakout Rooms feature in Zoom.  
+- (Optional) If a group is very large and you have a co-host, you can split the group in two, using the [Breakout Rooms feature in Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts). 
 - Copy the agenda from the bottom of the Etherpad to the space under your time slot
 - Lead the discussion
     - We recommend following the main points of the agenda, but feel free to let discussion go where people want.  Not all the questions need to be answered by everyone.  
