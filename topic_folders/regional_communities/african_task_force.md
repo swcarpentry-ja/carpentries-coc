@@ -28,3 +28,16 @@ Provide mentorship before workshops: If you are available to meet with an instru
 The first Carpentries workshops in Africa were run in 2013 but it only really kicked off in 2015. An African Task Force was established in 2016, consisting of international mentors from the USA, UK, and Australia, and guided the first batch of trained African instructors through the checkout process as most of them were very isolated and new to the world of The Carpentries.
 
 Since then more than 100 African instructors have participated in online or in-person instructor training events. The African Task Force was revived in December 2017, then completely consisting of African instructors. The task force played a role in mentoring instructors who had been trained but hadn’t qualified as well as qualified instructors who needed support before teaching a workshop. Small online sessions were hosted by task force members to demonstrate how various lessons are taught and to help solidify skills in the tools we teach. The second African Task Force finished its activities in December 2018. Some of the South African-based activities were funded through the Rural Campuses Connection Project II (RCCP II), which ended in March 2019. You can read more about the experiences of the African Task Force in this [blog post](https://carpentries.org/blog/2019/01/african-task-force-update/) and about RCCPII [here](https://tenet-rccpii.github.io/rccpii-2018/).
+
+### Blog posts on Carpentries activities in Africa
+
+- [Increasing Researchers' Digital Literacy in Ethiopia](https://carpentries.org/blog/2020/05/ambo-university-workshop/)
+- [Feedback: Remote Teaching of Genomics Data Carpentry Curriculum](https://carpentries.org/blog/2020/01/genomics-workshop-icipe-kenya/)
+- [With Thanks from Carpentries Instructors in Africa](https://carpentries.org/blog/2019/12/africa-instructors-gratitudes/)
+- [Introducing our new Regional Consultant for Southern Africa](https://carpentries.org/blog/2019/11/introducing-angelique/)
+- [Teaching Software Carpentry at the University of Botswana](https://carpentries.org/blog/2019/10/botswana-software-carpentry/)
+- [Wrapping Up the Rural Campuses Connection Project Capacity Development Initiative](https://carpentries.org/blog/2019/04/rccpii/)
+- [Highlights from the recent Instructor Training in South Africa](https://carpentries.org/blog/2019/04/ukzn-ttt/)
+- [CarpentryConnect Johannesburg 2018: Building Bridges for Digital and Computational Literacy](https://carpentries.org/blog/2019/01/carpentryconnect-jhb2018/)
+- [A Wrap-up from the African Task Force](https://carpentries.org/blog/2019/01/african-task-force-update/)
+- [CarpentryCon Experienced by the African Carpentry Task Force](https://carpentries.org/blog/2018/07/actf-carpcon-post/)
