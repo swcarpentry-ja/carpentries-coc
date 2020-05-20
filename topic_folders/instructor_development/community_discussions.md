@@ -21,7 +21,7 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 -   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
 -   **Discussion Session Host**: member of The Carpentries community who facilitates a community discussion.
--   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsibilities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-session-coordinators).
+-   **Discussion Session Coordinator**: a volunteer from the Instructor Development Committee whose responsibilities include updating the scheduling Etherpad and emailing invitations to instructors. For more information about this role, see the [role description](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html#instructor-development-committee-roles).
 
 ### Motivation
 
