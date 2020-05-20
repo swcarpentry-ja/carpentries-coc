@@ -10,7 +10,6 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
 
 3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:
 
-  - African Task Force
   - Carpentries en Latinoamérica    
   - CarpentryCon Task Force
   - Code of Conduct Committee    
