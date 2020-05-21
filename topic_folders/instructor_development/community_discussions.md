@@ -170,20 +170,16 @@ Based on discussion among the Instructor Development Committee, temporary questi
 
 #### Call for Instructors (to Instructor Development Committee)
 
-Subject: Call for Hosts - Carpentries Community Discussions
+Subject: Sign-up to Host [QUARTER-YEAR] Community Discussion Sessions
 
-Hello, 
+Hello,
 
-The Discussion Host Coordinator has posted new community discussion dates on the Community Discussions Etherpad: http://pad.carpentries.org/community-discussions
+Sign-up for host for Community Discussion sessions for [QUARTER-YEAR] is open now!
 
-The following discussion sessions are in need of discussion hosts!
-* [Date 1, UTC time, time zones - example below]
-* Tuesday, May 1, UTC 21:00 UTC (Wed 7am AEDT, 5pm NYC, 2pm LA) -  Aus/S. America/N. America
-
-Please feel free to browse other community discussion sessions to see if there is a date/time that works for you to sign on as a host! If you have questions about hosting, please visit the Instructor Development Committee onboarding document's section about host expectations: https://docs.carpentries.org/topic_folders/mentoring/mentoring-subcommittee-roles.html#discussion-hosts
+Please take a look at our Calendly link [insert link here] and put yourself down for a slot or two that best suits your schedule. We want to accommodate your schedules as much as possible! We ask that you sign up by [insert date here], so that we can publish the calendar the following week. If you know you'd like to host something in [QUARTER-YEAR] but aren't sure of your availability yet, please let me know so we can follow up with you.
 
 We hope to see you soon!
 
-Cheers,
-[Your name]
-Carpentries Instructor Development Committee
+Cheers, 
+
+[Your name].
