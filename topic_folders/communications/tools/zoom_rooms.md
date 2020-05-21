@@ -118,7 +118,7 @@ When the room host clicks “End Meeting” a dialogue box appears with three op
 If the host leaves while participants are still in the room, the host will be asked to designate a new host before they can leave.
 
 
-### General Tips
+#### General Tips
 
 - “Gallery view” in the upper right toggles the display to show more participants videos.  
 
@@ -126,7 +126,7 @@ If the host leaves while participants are still in the room, the host will be as
 please use x11 instead", have them log out of Zoom and log back in. On the login screen there is a gear with a dropdown menu there, choose the option with x11.
 
 
-### Scheduling Zoom Rooms
+### For Administrators: Scheduling Zoom Rooms
 
 Zoom Room 1 is scheduled by The Carpentries Core Team for online instructor training events. Zoom Room 2 is for Community Discussions and Instructor Training Demos. These events are scheduled by Discussion Hosts and Trainers using Calendly. Attendees can sign up to attend these events on the relevant Etherpads.
 
