@@ -171,11 +171,11 @@ The content below comes from [this blog post](https://carpentries.org/blog/2019/
 
 ##### What if I'm hosting a discussion and there are no pre/post workshop debriefs?
 
-You could start by introducing the session and what it should be about. You could also give some feedback on your own experience in previous workshops and/or upcoming workshops that you are apart of.
+You could start by introducing the session and what it should be about. You could also give some feedback on your own experience in previous workshops and/or upcoming workshops that you are a part of.
 
 ##### What if I do not know the answer to someone's questions and no one in the room does either?
 
-It is totally fine if you do not know all the answers, in such a situation you are welcome to refer the question to someone within The Carpentries community that will have the answer. If not, you could always send your question to [community@carpentries.org](mailto:community@carpentries.org).
+It is totally fine if you do not know all the answers. In such a situation you are welcome to refer the question to someone within The Carpentries community that will have the answer. If not, you could always send your question to [community@carpentries.org](mailto:community@carpentries.org).
 
 ##### What if the host/co-host has a poor internet connection and is unable to communicate? What if Zoom fails to work (e.g. your internet connection fails?)
 
@@ -183,7 +183,7 @@ It is very important to test your internet connection beforehand and to make sur
 
 ##### What if a group from a single site has connectivity issues?
 
-You could ask them to try and reconnect, however if they continue to have issues and cannot participate in the session, please ask them to reschedule.
+You could ask them to try and reconnect. However if they continue to have issues and cannot participate in the session, please ask them to reschedule.
 
 ##### What if no one shows up?
 
@@ -213,13 +213,13 @@ The participants will not have updated profiles for the checkout sessions and it
 
 In the case that this happens The Carpentries has a set of [guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html) that can be followed.
 
-##### What if one person doesn’t say/contribute to the conversation?
+##### What if one person doesn’t contribute to the conversation?
 
 Always try and encourage participation. This can be done by asking them a question or asking them their thoughts on a specific topic of conversation. There is also a point in the agenda that allows you as the host to talk to participants and ask them each for a specific question that they need answering.
 
 ##### What if someone asks me to join the instructor checkout session and it is already full?
 
-You could email the host and ask if it would be ok with them if you joined the session although it is already fully booked.
+Participants can email the host and ask if it would be ok with them if they joined the session although it is already fully booked. 
 
 ##### What if someone is loud/obnoxious and/or talks down to other people?
 
