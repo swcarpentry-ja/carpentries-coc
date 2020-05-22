@@ -17,6 +17,8 @@ The Carpentries Community Discussions are designed for everyone in The Carpentri
   - Lesson Infrastructure Committee
   - The Carpentries Executive Council     
 
+Read more about the [history of Community Discussions](https://carpentries.org/community_discussions/) on The Carpentries website.
+
 ### Terminology
 
 -   **Community Discussion**: an online meeting where instructors share experiences from teaching and obtain information while preparing to teach.
