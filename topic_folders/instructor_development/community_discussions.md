@@ -203,7 +203,7 @@ Depending on how late the person joins, you could simply welcome them and ask th
 
 ##### What if someone does not have a headset and can’t control their background noise?
 
-As a host you will have the privileges to mute other participants, or you could simply ask the person directly to mute their microphone.
+As a host you will have the privileges to mute other participants, or you could simply ask the person directly to mute their microphone.  Read more about how to use [host features in Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts).
 
 ##### What if I forget to complete the host questionnaire?
 
