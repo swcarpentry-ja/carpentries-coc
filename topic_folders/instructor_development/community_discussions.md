@@ -165,6 +165,71 @@ Based on discussion among the Instructor Development Committee, temporary questi
 - Clear the information from your session (date/time, attendees, notes) from the Etherpad. 
 - (Optional) write a [blog post](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html#how-to-contribute-a-blog-post-to-the-carpentries-blog) about interesting points that came up in discussion.
 
+### Discussion Session FAQ
+
+The content below comes from [this blog post](https://carpentries.org/blog/2019/05/community-discussions-primer/).
+
+##### What if I'm hosting a discussion and there are no pre/post workshop debriefs?
+
+You could start by introducing the session and what it should be about. You could also give some feedback on your own experience in previous workshops and/or upcoming workshops that you are a part of.
+
+##### What if I do not know the answer to someone's questions and no one in the room does either?
+
+It is totally fine if you do not know all the answers. In such a situation you are welcome to refer the question to someone within The Carpentries community that will have the answer. If not, you could always send your question to [community@carpentries.org](mailto:community@carpentries.org).
+
+##### What if the host/co-host has a poor internet connection and is unable to communicate? What if Zoom fails to work (e.g. your internet connection fails?)
+
+It is very important to test your internet connection beforehand and to make sure that you as a host are able to communicate. The host is the session leader and should have a stable connection. If, however, when you test your connection you find that you do not have a good connection, reach out to the community to see if someone could take over as host for that session. Do this by sending a message to [discussion-hosts on TopicBox](https://carpentries.topicbox.com/groups/discussion-hosts).
+
+##### What if a group from a single site has connectivity issues?
+
+You could ask them to try and reconnect. However if they continue to have issues and cannot participate in the session, please ask them to reschedule.
+
+##### What if no one shows up?
+
+If no one shows up simply wait for a few minutes, send out reminder emails to the signed up participants, and then fill in the post discussion questionnaire and indicate that no one showed up for your session.
+
+##### What if someone talks too much?
+
+Limit the amount of time that you give participants to ask and answer questions. You could ask for feedback from someone who has not spoken yet as well.
+
+##### What if there is no co-host/note taker and the session is fully booked?
+
+As a host you are more than welcome to take a few notes, however there is no need to take down every single thing that is said. Note down important points, making sure to add links to useful information. Also encourage the participants to contribute to the notes on the [Community Discussions Etherpad](https://pad.carpentries.org/community-discussions).
+
+##### What if someone joins in late?
+
+Depending on how late the person joins, you could simply welcome them and ask them to introduce themselves to the rest of the participants. If you have time, you can ask the individual to stay on the call for a few minutes after it's finished to summarise what they missed, and answer any questions they may have.
+
+##### What if someone does not have a headset and can’t control their background noise?
+
+As a host you will have the privileges to mute other participants, or you could simply ask the person directly to mute their microphone.  Read more about how to use [host features in Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts).
+
+##### What if I forget to complete the host questionnaire?
+
+The participants will not have updated profiles for the checkout sessions and it will take a lot of administration to solve this challenge. Please remember to fill in the form directly after hosting your session.
+
+##### What if someone breaks the Code of Conduct? What if someone had a report of misconduct?
+
+In the case that this happens The Carpentries has a set of [guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html) that can be followed.
+
+##### What if one person doesn’t contribute to the conversation?
+
+Always try and encourage participation. This can be done by asking them a question or asking them their thoughts on a specific topic of conversation. There is also a point in the agenda that allows you as the host to talk to participants and ask them each for a specific question that they need answering.
+
+##### What if someone asks me to join the instructor checkout session and it is already full?
+
+Participants can email the host and ask if it would be ok with them if they joined the session although it is already fully booked. 
+
+##### What if someone is loud/obnoxious and/or talks down to other people?
+
+It is very important to remind everyone of the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/index_coc.html) as The Carpentries observes it in every community discussion. This will be a clear violation of this and you could ask the person to leave.
+
+##### What if I am having trouble understanding one of the attendees?
+
+You could ask the participant to type their questions in the Community Discussions Etherpad for you to read and respond to them, which will also make note taking much easier. Consider asking them to speak up if the microphone is too soft.
+
+
 
 ### Email Templates
 
