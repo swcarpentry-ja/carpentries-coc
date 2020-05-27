@@ -48,12 +48,11 @@ You can also message the waiting room (as a whole; not individuals) before admit
 ![Message people in waiting room](images/chat_waiting_room.png)
 
 
-#### Assigning a co-host
+#### Transferring host privileges or assigning a co-host
 
-A host may assign a co-host. The co-host has most, but not all, of the privileges of the host.  Click on "More" next to the participant's name to get the option to make them a co-host.
+A host may transfer host privileges or assign a co-host. In making someone else a host, the new host will have full host privileges.  The original host loses all host priviliges, but can reclaim host access by clicking on "Reclaim Host."  The co-host has most, but not all, of the privileges of the host.  Click on "More" next to the participant's name to get the option transfer host privileges or to make them a co-host.
 
-![Participants "More" option](images/participants_more.png)
-![Make Co-host](images/make_cohost.png)
+![Make another participant the host](images/zoom_make_host.gif)
 
 A co-host can:
 - Admit people from the waiting room
