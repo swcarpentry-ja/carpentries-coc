@@ -92,3 +92,43 @@ the onboarding process.
 [DC GH Lesson Maintainer Teams]: https://github.com/orgs/datacarpentry/teams/lesson-maintainers
 [LC GH Lesson Maintainer Teams]: https://github.com/orgs/librarycarpentry/teams/lesson-maintainers
 [The Carpentries GH Lesson Maintainer Teams]: https://github.com/orgs/carpentries/teams/lesson-maintainers
+
+
+## Maintainer Community Meetings
+
+The Maintainer community meets on the third Wednesday of every month. Times for these meetings can be found on the [Community Calendar](https://static.carpentries.org/community/#community-events). A reminder for these meetings should be sent out to the Maintainers email list one week before the meeting takes place, and the [Maintainers Etherpad](https://pad.carpentries.org/maintainers) should also be updated. Ideally, these meetings will be co-facilitated by two members of the Carpentries team.
+
+The following is a Etherpad template that can be used as a Maintainer meeting agenda:
+
+
+```
+Join from PC, Mac, Linux, iOS or Android: {Zoom link} 
+
+Meeting 1: Wednesday, {Date} at 16:00 UTC
+Please click this link to convert to your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200617T16 (edit this)
+
+Meeting 2: Wednesday, {Date} at 21:00 UTC
+Please click this link to convert to your local time: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20200617T21 (edit this)
+
+Attending (1st Meeting): 
+
+- {name}
+- {name}
+
+Attending (2nd Meeting): 
+
+- {name}
+- {name}
+
+Timekeeper:
+Notetaker (please add notes within agenda below):
+
+Agenda:
+
+- Introductions (5 min)
+- Updates from Carpentries team (15 min):
+ - Topic 1
+ - Topic 2
+- Issues to discuss (please add links to the issues you'd like feedback or insight on) (30 min):
+ - Issue 1: {link}
+ ```
