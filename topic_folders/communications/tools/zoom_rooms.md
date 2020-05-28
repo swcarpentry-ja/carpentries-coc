@@ -50,7 +50,11 @@ You can also message the waiting room (as a whole; not individuals) before admit
 
 #### Transferring host privileges or assigning a co-host
 
+A meeting can have only one Host, but can also have a co-host.
+
 A host may transfer host privileges or assign a co-host. In making someone else a host, the new host will have full host privileges.  The original host loses all host priviliges, but can reclaim host access by clicking on "Reclaim Host."  The co-host has most, but not all, of the privileges of the host.  Click on "More" next to the participant's name to get the option transfer host privileges or to make them a co-host.
+
+Having a co-host is useful in managing participants entering the room and controlling background noise by muting people as needed.
 
 ![Make another participant the host](images/zoom_make_host.gif)
 
@@ -60,6 +64,7 @@ A co-host can:
 
 A co-host can not:
 - Create breakout rooms 
+- Move independently between breakout rooms 
 
 
 #### Turning participants' audio and video on or off
@@ -78,7 +83,7 @@ Breakout rooms can be created automatically or manually. Only the host (not the 
 - Manually create rooms: You can manually assign people to the number of rooms of your choice. This is useful if you know you want to have certain people together, or if you want to have rooms of varying sizes. It is recommended that you add in 1-2 empty rooms to make it easier to change rooms during the session. Zoom will not allow you to create more rooms during the breakout session.
 - Automatically create rooms: Zoom will automatically divide your participants in a given number of rooms. For example, if you have 25 participants and choose 4 rooms, Zoom will randomly assign them to 4 rooms of 6-7 people each.
 - The host can manually end breakout rooms by clicking on the button in the breakout rooms window. All breakout rooms will then get a 60-second warning and automatically be returned to the main room. Closing breakouts can not be scheduled in advance.  Participants can return to the main room early if they choose.
-- The host can move between breakout rooms and can send messages to all rooms simultaneously. 
+- The host can move between breakout rooms and can send messages to all rooms simultaneously. The co-host can not move between rooms; they must be moved by the host.
 - People in the breakout rooms will see a button to ask the host for help. The host will get a notification to join that room. Participants can not communicate across breakout rooms.  
 
 #### Yes/no questions and other real-time feedback
