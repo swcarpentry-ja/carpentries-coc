@@ -11,6 +11,7 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 - April 28, [blog post with information to guide Carpentries Instructors as they teach workshops remotely](https://carpentries.org/blog/2020/04/instructor-updates-for-online-workshops/).
 - FAQ For Workshop Coordination [can be found here on The Carpentries website](https://carpentries.org/workshop_faq/).
 - Announcing a New Series of Online Workshop Themed Discussions. Learn more [here](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/)
+- Carpentries Handbook: How to use [Zoom Rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts)
 
 [Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
 
@@ -57,5 +58,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - April 16, [Discussion under David Perez-Suarez' post](https://swcarpentry.slack.com/archives/C03LE48AY/p1587034437098200) in the #general Slack on his experiences from running an online workshop
 - April 22, [Discussion under Lex Nederbragt's post](https://swcarpentry.slack.com/archives/C08BVNU00/p1587540700017100) in the #instructors Slack channel over tips for participatory live coding online
 - May 14, [Discussion on using online sticky notes for feedback](https://swcarpentry.slack.com/archives/C03LE48AY/p1589424702251700?thread_ts=1589418680.251000&cid=C03LE48AY) in the #general Slack channel. 
+- May 25, [Discussion on using HackMD when teaching online workshops](https://swcarpentry.slack.com/archives/C08BVNU00/p1590393408057100)
+- May 28, [Discussion on using Zoom Breakout Rooms during online workshops](https://swcarpentry.slack.com/archives/C08BVNU00/p1590647888066700)
 
 
