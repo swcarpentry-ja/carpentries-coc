@@ -1,7 +1,7 @@
 ## Regional Coordinators
 
 Around the world, Carpentries workshops are organised by a team of Regional Coordinators.
-Our Core Team Workshop and Logistics Manager, SherAaron Hurt, manages workshops in most of the world. In some parts of the world, local Carpenters support managing local workshops and building local communities. They work with our [member sites](https://carpentries.org/members/) or as volunteers.
+Our Deputy Director of Workshops and Meetings, SherAaron Hurt, manages workshops in most of the world. In some parts of the world, local Carpenters support managing local workshops and building local communities. They work with our [member sites](https://carpentries.org/members/) or as volunteers.
 
 Regional Coordinators are the front face of The Carpentries, promoting our work and our culture in their geographical area. They manage workshop logistics, communicate with hosts and Instructors, and respond to general inquiries. The Regional Coordinators work together to support each other and ensure communities can thrive locally while maintaining quality and consistency globally.
 
