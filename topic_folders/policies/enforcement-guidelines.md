@@ -58,7 +58,7 @@ Upon receiving a report of an incident, at least three members of the CoCc will 
 - Discuss appropriate resolutions to the incident.
 - Determine the follow up actions for the reportee, reporter and anyone else named in the report who may have been impacted.
  
-The deliberations of the incident response assessment will be stored in the Code of Conduct Committe’s private GitHub repository.
+The deliberations of the incident response assessment will be stored in the Code of Conduct Committee’s private GitHub repository.
 
 The committee will aim to have a resolution agreed upon within one week of receipt of the incident response form. In the event that a resolution cannot be determined in that time, the IRL will respond to the reporter(s) with an update and projected timeline for resolution.  
 
