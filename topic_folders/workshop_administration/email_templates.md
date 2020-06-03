@@ -121,8 +121,6 @@ Best,
 [ sender name ]
 
 
-____________________________________________________________________________
-
 
 ##### Email Learners after Workshop  
 
@@ -138,7 +136,6 @@ We hope to see more of you as you continue to develop your data analysis skills!
 Best, 
 
 [ sender name ]
-____________________________________________________________________________
 
 
 ##### Encourage Learners to Complete Pre-workshop Survey
