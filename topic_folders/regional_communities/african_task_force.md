@@ -19,7 +19,9 @@ If you’ve trained as an instructor in Africa (even if you’re not qualified y
 
 We would love to get more people involved in specific activities to support our growing African community.
 
-Join the monthly African meetup: We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join or host a session, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
+Join the monthly African meetup: We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join or host a session, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call). Subscribe to the calendar below to watch all that is going on throughout our community.
+
+<div id='calendar' markdown="0">Community Calendar goes here</div><br/>
 
 Provide mentorship before workshops: If you are available to meet with an instructor/helper team before they run a workshop to answer any questions they may have or to help them prepare for the lessons they will be teaching, please get in touch via [our email](mailto:admin-afr&#64;carpentries.org) and we can pair you up with a team at a time and date that will suit you.
 
