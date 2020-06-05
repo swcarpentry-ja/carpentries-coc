@@ -31,6 +31,7 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts on Carpentries activities in Africa
 
+- [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/) by Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer and Angelique van Rensburg
 - [Increasing Researchers' Digital Literacy in Ethiopia](https://carpentries.org/blog/2020/05/ambo-university-workshop/) by Yared Abera Ergu
 - [Feedback: Remote Teaching of Genomics Data Carpentry Curriculum](https://carpentries.org/blog/2020/01/genomics-workshop-icipe-kenya/) by Daniel Ouso and Bianca Peterson
 - [With Thanks from Carpentries Instructors in Africa](https://carpentries.org/blog/2019/12/africa-instructors-gratitudes/) by Yared Abera, Ayansina Ayangbenro, Mamsi Khantsi, Samar Elsheikh, Margareth Gfrerer, Martin Dreyer, Mesfin Diro, Abisola Regina Sholeye, Bianca Peterson, Nobublele Shozi and Angelique van Rensburg
