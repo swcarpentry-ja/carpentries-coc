@@ -12,6 +12,11 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 - FAQ For Workshop Coordination [can be found here on The Carpentries website](https://carpentries.org/workshop_faq/).
 - Announcing a New Series of Online Workshop Themed Discussions. Learn more [here](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/)
 - Carpentries Handbook: [How to use Zoom Rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts)
+- Themed Discussions: Online Workshop Series
+  - Session One, 1 June 2020
+    - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5)
+    - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929)
+    - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461)
 
 [Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
 
@@ -33,6 +38,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - Radovan Bast, Flavio Calvo, Richard Darst, Anne Fouilloux, Pavlin Mitev, Hasti Narimanzadeh, Pedro Ojeda May, João M. da Silva and Thor Wikfeldt on 14 April, [Lessons learned from running our first online workshop](https://coderefinery.org/blog/2020/04/14/first-online-workshop/)
 - Sarah Stevens on 12 May, [Running a Virtual Social Carpentries Meetup in UW-Madison](https://carpentries.org/blog/2020/05/virtual-carpentries-social-meetup/)
 - Charles Guan, Rachel Lombardi, Akshay Paropkari, Donny Winston on 14 May, [Learnings from the First Centrally-Organised Online Workshop of 2020](https://carpentries.org/blog/2020/05/centrally-organised-workshop-learnings/)
+- Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer, Angelique van Rensburg on 28 May, [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/)
 
 ##### Webinars and Community Calls 
 
