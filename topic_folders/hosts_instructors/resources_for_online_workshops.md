@@ -39,6 +39,9 @@ Carpentries community members have written many blog posts and facilitated sever
 - Sarah Stevens on 12 May, [Running a Virtual Social Carpentries Meetup in UW-Madison](https://carpentries.org/blog/2020/05/virtual-carpentries-social-meetup/)
 - Charles Guan, Rachel Lombardi, Akshay Paropkari, Donny Winston on 14 May, [Learnings from the First Centrally-Organised Online Workshop of 2020](https://carpentries.org/blog/2020/05/centrally-organised-workshop-learnings/)
 - Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer, Angelique van Rensburg on 28 May, [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/)
+- Jane Koh on 15 June, [Outlining a Successful Virtual Software Carpentry Workshop on Zoom](https://carpentries.org/blog/2020/06/virtual-software-carpentry-workshop/)
+- Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/)
+
 
 ##### Webinars and Community Calls 
 
@@ -55,6 +58,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - [MetaDocencia](https://metadocencia.netlify.app/en/post/cumple_mes/), an educational community for teaching Spanish-speaking teachers to teach online. If you know Spanish-speaking teachers that could be interested in this new community of practice, share [this report](https://metadocencia.netlify.app/post/cumple_mes/) with them.
 - Daniel Stanford on March 16, [Videoconferencing Alternatives: How Low-Bandwidth Teaching Will Save Us All](https://www.iddblog.org/videoconferencing-alternatives-how-low-bandwidth-teaching-will-save-us-all/)
 - [CodeRefinery's](https://coderefinery.org) manual on [using Zoom for online teaching](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
+
 
 
 #### Discussions in Carpentries Socials
