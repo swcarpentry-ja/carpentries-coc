@@ -130,6 +130,7 @@ Agenda:
  - Topic 1
  - Topic 2
 - Current Maintainer RFCs: https://github.com/carpentries/maintainer-RFCs/issues (10 min)
+- Quarterly Software Review (item owned by Lesson Infrastructure Technology Developer) (5 min)
 - Lesson issues to discuss (please add links to the issues you'd like feedback or insight on) (30 min):
  - Issue 1: {link}
  ```
