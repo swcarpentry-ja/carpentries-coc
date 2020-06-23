@@ -2,24 +2,20 @@
 
 ### What We Do
 
-Support for the African community is provided by community members and [a Regional Consultant was appointed in 2019](https://carpentries.org/blog/2019/11/introducing-angelique//)
+- **Monthly African Instructor Meetup**: Our monthly African Carpentries Community meetups have been running since 2017. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call).
 
-- Monthly African Instructor Meetup: Our monthly African instructor meetups have been running since 2017 and are  attracting more and more interest. Here we discuss topics that are of interest to our instructors in the African context, including previous and upcoming workshops, available resources, opportunities, events, and more. The meetings are restricted to folks who have already participated in instructor training as we also focus on helping instructors to complete their checkouts, connecting instructors with others who can co-teach or co-organise workshops, and more.
+- **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
 
-- Provide logistical support for workshops in Southern Africa: The Southern African Regional Consultant will work closely with experienced African instructors to provide logistical support for workshops when needed.
-
-- Mentoring for Instructors and Helpers before a workshop: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
+- Angelique van Rensburg is our Regional Coordinator in South Africa. She works with  <a href="https://carpentries.org/">The Carpentries</a> as the Regional Consultant for Southern Africa, and is ready to help you with any questions you have about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
 
 
 ### Join Us
 
-To join the conversation about The Carpentries in Africa,  sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#african-carpentries](https://swc-slack-invite.herokuapp.com/)
+To join the conversation about The Carpentries in Africa, sign up at [Topicbox](https://carpentries.topicbox.com/groups/local-africa) and join the Slack channel [#african-carpentries](https://swc-slack-invite.herokuapp.com/). If you’ve trained as an instructor in Africa (even if you’re not qualified yet), sign up at [Topicbox](https://carpentries.topicbox.com/groups/instructors)
 
-If you’ve trained as an instructor in Africa (even if you’re not qualified yet), please join the [African instructors mailing list](mailto:african-carpentry-instructors&#64;googlegroups.com).
+**We would love to get more people involved in specific activities to support our growing African community** - meet the South African instructors [here](https://carpentries.org/regions_za/)!
 
-We would love to get more people involved in specific activities to support our growing African community.
-
-Join the monthly African meetup: We would love to hear more voices at our monthly online meetup, on the 4th Thursday each month, 12:00 - 13:00 SAST (10:00 - 11:00 UTC). If you are keen to join or host a session, please sign up at [our Etherpad](http://pad.software-carpentry.org/ZA-community-call). Subscribe to the calendar below to watch all that is going on throughout our community.
+Subscribe to the calendar below to watch all that is going on throughout our community.
 
 <div id='calendar' markdown="0">Community Calendar goes here</div><br/>
 
@@ -39,6 +35,7 @@ Since then more than 100 African instructors have participated in online or in-p
 - [Increasing Researchers' Digital Literacy in Ethiopia](https://carpentries.org/blog/2020/05/ambo-university-workshop/) by Yared Abera Ergu
 - [Feedback: Remote Teaching of Genomics Data Carpentry Curriculum](https://carpentries.org/blog/2020/01/genomics-workshop-icipe-kenya/) by Daniel Ouso and Bianca Peterson
 - [With Thanks from Carpentries Instructors in Africa](https://carpentries.org/blog/2019/12/africa-instructors-gratitudes/) by Yared Abera, Ayansina Ayangbenro, Mamsi Khantsi, Samar Elsheikh, Margareth Gfrerer, Martin Dreyer, Mesfin Diro, Abisola Regina Sholeye, Bianca Peterson, Nobublele Shozi and Angelique van Rensburg
+- [Introducing our new Regional Consultant for Southern Africa](https://carpentries.org/blog/2019/11/introducing-angelique//)
 - [Teaching Software Carpentry at the University of Botswana](https://carpentries.org/blog/2019/10/botswana-software-carpentry/) by Raniere Silva
 - [Wrapping Up the Rural Campuses Connection Project Capacity Development Initiative](https://carpentries.org/blog/2019/04/rccpii/) by Anelda van der Walt and Katrin Tirok
 - [Highlights from the recent Instructor Training in South Africa](https://carpentries.org/blog/2019/04/ukzn-ttt/) by Katrin Tirok, Malvika Sharan, Samar Elsheikh and Saymore Chifamba
