@@ -36,7 +36,7 @@ b) teaching is actually an excellent way to become more familiar with the materi
 
 And because Carpentries Instructors never teach alone, you will always have help around if you get stuck!
 
-Many Instructors add to the number of lessons they feel comfortable teaching only gradually. Not knowing the material well should not hold you back from applying to become an Instructor. However, if you do want to apply, it would be useful to have attended a Carpentries workshop either as a learner or helper and have some familiarly with at least one of the topics. That way, you will know more about what being an Instructor involves, and you can assess whether the workshop style and teaching method are for you. 
+Many Instructors add to the number of lessons they feel comfortable teaching only gradually. Not knowing the material well should not hold you back from applying to become an Instructor. However, if you do want to apply, it would be useful to have attended a Carpentries workshop either as a learner or helper and have some familiarity with at least one of the topics. That way, you will know more about what being an Instructor involves, and you can assess whether the workshop style and teaching method are for you. 
 Having already participated in a workshop will be a plus on our [scoring rubric](https://github.com/carpentries/Instructor-training/blob/gh-pages/files/rubric.md#) if you decide to apply. 
 
 ### Motivation for People to Train as Instructors
@@ -76,4 +76,4 @@ Occasionally, open training events offered to the general public may be announce
 in our [mailing list](https://carpentries.topicbox.com/groups/discuss), 
 newsletter, [*Carpentry Clippings*](http://eepurl.com/cfODMH), or through 
 our [Twitter](https://twitter.com/thecarpentries) feed. 
-For all other events, seats are reserved for trainees affiliated with member institutions or admitted idividually through our Open Instructor Training program.
+For all other events, seats are reserved for trainees affiliated with member institutions or admitted individually through our Open Instructor Training program.
