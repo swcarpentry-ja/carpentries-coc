@@ -7,7 +7,7 @@
     * Someone emails team@carpentries.org to request a workshop.
     * Someone contacts a Core Team member to request a workshop.
 
-1. Workshop & Logistics Manager or the Regional Coordinators for that region responds to request by email or phone/video call.
+1. Deputy Director of Workshops and Meetings or the Regional Coordinators for that region responds to request by email or phone/video call.
     * Give them more information about The Carpentries as needed.
         * [Software Carpentry lessons](https://software-carpentry.org/lessons/)
         * [Data Carpentry lessons](http://www.datacarpentry.org/lessons/)
@@ -22,13 +22,13 @@
             * US$2500 standard fee due to our fiscal sponsor (for non-member university, government, or non-profit sites only)
             * Costs for instructor travel (airfare, ground travel, hotel, and meals/incidentals) are managed entirely between host and instructors. We will look for local instructors but can not guarantee it. Member sites are still responsible for travel costs.
         * Ask them to complete the [official request form](https://amy.carpentries.org/forms/workshop/)  
-    * Workshop & Logistics Manager or the Regional Coordinators records request form in AMY.
+    * Deputy Director of Workshops and Meetings or the Regional Coordinators records request form in AMY.
 
-1. For non-member sites, Regional Coordinator asks host for invoicing contact, and introduces them to the Administrative Support Specialist to begin the invoicing process.
+1. For non-member sites, Regional Coordinator asks host for invoicing contact, and introduces them to the Operations Manager to begin the invoicing process.
 
 1. Regional Coordinator adds workshop to appropriate tab (by geography) on call for instructors [sign up sheet](https://docs.google.com/spreadsheets/d/1YhTAzEalDqKUowgej7aRa7E1K0XcB6ZezoVUt6VN2qY/edit#gid=0) and sends email to instructors list notifying them of upcoming opportunities.
 
-1. Regional Coordinator reviews list of instructors signed up as interested in upcoming workshops and tentatively places them based on experience, geography, and skill set. See [blog post for details](https://software-carpentry.org/blog/2018/01/assign-instructors.html).  Selection guidelines include:
+1. Regional Coordinator reviews list of instructors signed up as interested in upcoming workshops and tentatively places them based on experience, geography, and skill set. See [blog post for details](https://software-carpentry.org/blog/2018/01/assign-instructors.html). Selection guidelines include:
 
     * **Other workshops has that person signed up for in that time period**  If they have volunteered to teach three workshops over the next few months, we likely won’t place them at all of them. However, we will take advantage of their flexibility to get them in on at least one.
     * **Each person's experience with The Carpentries** We want to be sure to match up experienced instructors with new instructors, so new instructors are supported by experienced instructors. 
@@ -49,7 +49,7 @@
 1. Regional Coordinator sets up surveys in Survey Monkey and emails results links to hosts and instructors.
 
 1. If needed Regional Coordinator sets up registration in Eventbrite. 
-    * If there is a registration fee,Regional Coordinator informs Business Administrator that this will need to be refunded or applied to the workshop invoice.
+    * If there is a registration fee, Regional Coordinator informs the Business Team (finance@carpentries.org) that this will need to be refunded or applied to the workshop invoice.
 
 1.  In weeks leading up to workshop, Regional Coordinator sends check in emails to be sure planning is progressing smoothly.
 
