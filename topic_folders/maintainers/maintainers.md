@@ -65,7 +65,7 @@ onboarding new Maintainers is available as a
 This documentation describes how to recruit new Maintainers and take them through
 the onboarding process. 
 
-1. The application to become a Maintainer is [a Google form](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link).
+1. The application to become a Maintainer is [a Google form](https://docs.google.com/forms/d/e/1FAIpQLSfuSUffza_DrqqMwdokdNtSgNfdxzMSmbwLw8655GU31BXPyg/viewform?usp=sf_link). Please ensure that this collects the Github usernames of new Maintainers.
 1. Advertise for new Maintainers on the blog, mailing lists and Twitter. 
 1. Once the application period has closed, reviewing applications and send accepted applicants an [invitation](email_templates.html#inviting-new-maintainers) to become a Maintainer.
 1. To set up a scheduling poll to schedule Maintainer Onboarding, use [WhenIsGood](http://whenisgood.net/). Click "Use Timezones" and then "SHOW OPTIONS". Unselect Sunday and Saturday. Add Duration = 60 minutes. Select "hide dates".
@@ -83,6 +83,8 @@ the onboarding process.
 1. Do the following for each of the Maintainers who have completed the onboarding requirements:  
     - Add them to the appropriate team for [Software Carpentry][SWC GH Lesson Maintainer Teams], [Data Carpentry][DC GH Lesson Maintainer Teams], [Library Carpentry][LC GH Lesson Maintainer Teams], or [The Carpentries][The Carpentries GH Lesson Maintainer Teams] Lesson Maintainers. This will give them write privileges for that lesson's repo.
     - [Award them a Maintainer badge in AMY](../workshop_administration/amy_manual.html#issuing-badges). If the individual has [consented to having their profile published](../workshop_administration/amy_manual.html#adding-an-individual-person-record), they will appear on [The Carpentries Maintainers page](https://carpentries.org/maintainers/) within a day.  
+    - Add them to the "maintainers" channel in the Carpentries Slack.
+    - Add them to the "maintainers" Topicbox email list.
 1. Send [email](email_templates.html#welcoming-new-maintainers) to the Maintainers email list announcing new Maintainers.
 1. Run sendmail_maintainer_certificates.R to send new Maintainers their certificates.
 1. Announce new Maintainers in the next [newsletter](https://carpentries.org/newsletter/).
