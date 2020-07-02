@@ -41,6 +41,7 @@ Carpentries community members have written many blog posts and facilitated sever
 - Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer, Angelique van Rensburg on 28 May, [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/)
 - Jane Koh on 15 June, [Outlining a Successful Virtual Software Carpentry Workshop on Zoom](https://carpentries.org/blog/2020/06/virtual-software-carpentry-workshop/)
 - Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/)
+ - Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
 
 
 ##### Webinars and Community Calls 
