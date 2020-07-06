@@ -106,6 +106,10 @@ The "Advanced Sharing Options" on the "Share Screen" button on the bottom panel.
 
 The person screen sharing will have options to share their whole desktop or only a given window. Multiple windows can not be selected for screen sharing.
 
+If you would like to include your computer's audio feed when screensharing, please be sure to select the "Share Computer Sound" setting.  This can be useful, for example, when sharing a video clip.
+
+![Share audio with screenshare](images/zoom_screenshare_audio.png)
+
 #### Zoom chat
 
 Zoom chat allows participants to send messages to the whole group or to a select individual. Group chats are not an option.
