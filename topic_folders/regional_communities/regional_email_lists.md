@@ -19,13 +19,11 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 #### Europe
 - [Germany](https://carpentries.topicbox.com/groups/local-germany)
 - [United Kingdom](https://carpentries.topicbox.com/groups/local-uk)
+- [Nordic countries](https://carpentries.topicbox.com/groups/local-nordic)
 
 #### Latin America
 - [Latin America](https://carpentries.topicbox.com/groups/local-latinoamerica)
 - [Puerto Rico](https://carpentries.topicbox.com/groups/local-puertorico)
-
-#### Nordic Countries
-- [Nordic countries](https://carpentries.topicbox.com/groups/local-nordic)
 
 #### United States
 - [Bay Area](https://carpentries.topicbox.com/groups/local-bayarea)
