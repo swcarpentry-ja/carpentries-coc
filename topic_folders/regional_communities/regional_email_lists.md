@@ -24,6 +24,9 @@ All mailing lists for [The Carpentries](https://carpentries.topicbox.com/groups)
 - [Latin America](https://carpentries.topicbox.com/groups/local-latinoamerica)
 - [Puerto Rico](https://carpentries.topicbox.com/groups/local-puertorico)
 
+#### Nordic Countries
+- [Nordic countries](https://carpentries.topicbox.com/groups/local-nordic)
+
 #### United States
 - [Bay Area](https://carpentries.topicbox.com/groups/local-bayarea)
 - [Boston](https://carpentries.topicbox.com/groups/local-boston)
