@@ -76,3 +76,5 @@ In the wake of COVID-19 in early 2020, The Carpentries community came together t
 .. toctree::
    :maxdepth: 2
    :glob:
+   
+   resources_for_online_workshops.md
