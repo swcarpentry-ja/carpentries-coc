@@ -67,4 +67,12 @@ For self organised workshops, the host and instructor are directly responsible f
    workshop_needs.md
    handling_emergencies.md
    certificates.md
-   resources_for_online_workshops.md
+   
+Resources for Online Workshops
+******************************
+
+In the wake of COVID-19 in early 2020, The Carpentries community came together to share experiences, tips, and best practices for teaching online. This page lists all the resources developed and links to ongoing conversations by The Carpentries Core Team and community on different platforms.
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
