@@ -19,3 +19,4 @@
 18,"type","teaching example","#CED8DC",TRUE,"PR showing how lesson was modified in a workshop","PR that illustrates how someone modified the lesson in their workshop. Not intended to be merged, but as a way to document how other instructors have used the lesson. Can be closed once the label has been applied."
 19,"difficulty","good first issue","#FFEB3A",FALSE,"Good issue for first-time contributors","Good issue for a new Contributor to our lesson."
 20,"priority","high priority","#D22E2E",FALSE,"Need to be addressed ASAP","For issues and pull requests that needs to be addressed as soon as possible because the lesson uses code that doesn’t work anymore or includes information that is out of date."
+21,"status","waiting for response","#e0c423",TRUE,"Waiting for Contributor's response","Maintainers are waiting for contributor to respond to maintainers' feedback. For Pull Requests: no changes are expected."
