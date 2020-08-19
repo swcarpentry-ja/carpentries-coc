@@ -12,18 +12,10 @@ The Carpentries convened a [Task Force to address the urgent demand for online C
 - FAQ For Workshop Coordination [can be found here on The Carpentries website](https://carpentries.org/workshop_faq/).
 - Announcing a New Series of Online Workshop Themed Discussions. Learn more [here](https://carpentries.org/blog/2020/05/online-workshop-themed-discussions/)
 - Carpentries Handbook: [How to use Zoom Rooms](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts)
-- Themed Discussions: Online Workshop Series
-  - Session One, 1 June 2020
-    - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5)
-    - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929)
-    - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461)
-
-[Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
-
 
 #### Resources by Community
 
-Carpentries community members have written many blog posts and facilitated several webinars on this topic. 
+Carpentries community members have written many blog posts and facilitated several webinars on this topic and they are listed below. If you are looking to write a blog post on your experiences from online workshops, check out the [blog post prompts](#blog-post-prompts) section.  
 
 ##### Blog posts
 
@@ -43,11 +35,41 @@ Carpentries community members have written many blog posts and facilitated sever
 - Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/)
 - Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
 - Rosa Lönneborg, Omar Khan, and Serah Rono on 2 July, [Lessons Learned - Teaching Carpentries Workshops Online in Sweden, May 2020](https://carpentries.org/blog/2020/07/stockholm-online-workshop/)
+ 
+##### blog post prompts
+ 
+Review these if you are looking to write about your teaching experiences: 
+
+1. How many learners were in the workshop and were they distributed locally (if locally, where?) or globally?
+2. What other important contextual information can you give about the workshop?
+    - When was it held, over what period of time? 
+    - Which lessons were taught?
+    - Were there asynchronous portions or was it all live
+       * If there was an asynchronous element to your workshop, did you create any resources that you can link to / share with the broader Carpentries community?
+    - How many instructors and helpers were there? What were the roles?
+3. What worked well for this workshop? Were there specific technologies or tools that you used that you would recommend? Please describe how the tools were used and what you would recommend in terms of their usage.
+4. What challenges came up during the workshop. These can be challenges in teaching online or general challenges (It is important to know what aspects of the workshop experience    remains the same regardless of online or in-person)
+5. In migrating the content of the workshop online, what did you learn? Were there portions of the curriculum that were easier to modify for hosting online?
+6. What do you wish you had known or considered before the workshop? What preparation would have been helpful in delivering the workshop?
+7. Which resources (e.g. blog posts, carpentries recommendations) did you use prior to the workshop
+    - Were they helpful?
+    - How would you adapt the resources post workshop.
+8. Would you be willing to share your experience briefly in a Themed Discussion session around running online workshops in the future? If yes, we would afford you a 5-15 minute slot to share your experiences. How much time would you need?
+
 
 ##### Webinars and Community Calls 
 
 - Jason Bell on February 27, [Virtual Software Carpentry Workshops - key learnings to make it a success](https://youtu.be/MzsJyOkxqv8)
 - Darya Vanichkina on April 7, [Jumping into digital: Lessons learned while moving live-coding workshops online](https://youtu.be/w0DHye2M1IM)
+- Themed Discussions: Online Workshop Series
+  - Session One, 1 June 2020
+    - Planning/registering your online workshop - Led by Deputy Director of Workshops and Meetings, Sher! Hurt: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=5)
+    - How to fill out the workshop template to set up your website correctly for online workshops - Led by Lesson Infrastructure Technology Developer, Zhian Kamvar, PhD: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=929)
+    - How to use Zoom for online workshops - Led by Quality Assurance Manager, Maneesha Sane: [Link to Recording](https://youtu.be/Ml1AGYD0x1o?t=1461)
+[Discussions on Discourse](https://forum.carpentries.org/) by The Carpentries Instructor Trainer community.
+- CarpentryCon @ Home sessions 
+  - on July 15 by Angelique van Rensburg and Serah Rono - [Carpentries Instructors' Experiences from Teaching Online - Session One](https://youtu.be/vNIyz__WiM8)
+  - on July 23 by Kelly Barnes and Sher! Hurt - [Carpentries Instructors' Experiences from Teaching Online - Session Two](https://youtu.be/STA9DQF5J3E)
 
 ##### Other Relevant Resources
 
