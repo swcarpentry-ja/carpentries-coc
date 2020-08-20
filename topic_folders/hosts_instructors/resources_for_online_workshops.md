@@ -73,6 +73,7 @@ Review these if you are looking to write about your teaching experiences:
 
 ##### Other Relevant Resources
 
+- UK Software Sustainbility Institute's [guidance for running online training events](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/)
 - Laura Czerniewicz on March 15, [What we learnt from “going online” during university shutdowns in South Africa](https://philonedtech.com/what-we-learnt-from-going-online-during-university-shutdowns-in-south-africa/)
 - Greg Wilson on March 24, [Teaching Online at Short Notice](https://resources.rstudio.com/webinars/teaching-online-at-short-notice)
 - [Strategies for addressing unequal technological access from the University of Cape Town](https://docs.google.com/document/d/1541zKh3UCtVKAkdITkYHWu4GXVW1lGWEdWFE-I8PeXk/edit?usp=sharing)
