@@ -2,7 +2,7 @@
 
 ## Carpentries Colours 
 
-Carpentries Blue is #192151 (as per Erin) OR #071159 (François says this is the color on the website). 
+Carpentries Blue is #071159.
 
 Additional "brand colours" are: 
 
@@ -12,5 +12,6 @@ Additional "brand colours" are:
 - #3D7BBA
 
 ## Carpentries Fonts 
-What header and body fonts does The Carpentries brand use?
 
+The font used in the headers on the <https://carpentries.org> website is [Lato](https://fonts.google.com/specimen/Lato).
+The font used in the body of the website is [Roboto](https://fonts.google.com/specimen/Roboto).
