@@ -2,7 +2,7 @@
 
 The Instructor Development Committee leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
 
-**Note: Discussion host coordination is a role the the IDC, but for now it is being handled by the Core Team in effort to support our community during the COVID-19 pandemic.**
+**Note: Discussion host coordination is a role the the Instructor Development Committee, but for now it is being handled by the Core Team in effort to support our community during the COVID-19 pandemic.**
 
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
@@ -42,6 +42,16 @@ Hosting community discussions is a great way to meet more people in The Carpentr
 Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
 A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
+
+
+#### Discussion Host Onboarding
+
+Interested in becoming a session host? Not sure how or what would be required of you? No problem! Follow these steps:
+
+1. Complete this [form](https://docs.google.com/forms/d/e/1FAIpQLSc3a0OJ3_mXMpBKhwdk5i_t36pt_Nd3_v0GzoOkeIVCOfzS-w/viewform) to start the onboarding process.
+2. Work through the following section of the [Carpentries Handbook](https://docs.carpentries.org/topic_folders/instructor_development/community_discussions.html). Watch this Discussion Host Onboarding [video](https://www.youtube.com/watch?v=4hP5kBmNdYM&t=2s) and then the accompanying [slides](https://docs.google.com/presentation/d/11pm8NeYr5YwaW3AS5-cI4NLYebyDi_qTYQwL8V4M61M/edit#slide=id.g3b8317a2f2_1_29), presented by our Executive  Director, Dr Kari L. Jordan.
+3. To co-host a Community Discussion session, you can sign-up [here](https://pad.carpentries.org/community-discussions) as notetaker.
+4. Have any other questions? - reach out to the Discussion Host [Slack channel](https://swcarpentry.slack.com/archives/CBHECTZJN) or [TopicBox channels](https://swcarpentry.slack.com/archives/CBHECTZJN).
 
 
 ### Signing up to Host or co-Host a Community Discussion
