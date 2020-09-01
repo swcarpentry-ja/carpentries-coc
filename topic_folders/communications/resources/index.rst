@@ -9,6 +9,7 @@ RESOURCES
   
   
    style-guide.md
+   brand_identity.md
    commons.md
    logos.md
    presentations.md
