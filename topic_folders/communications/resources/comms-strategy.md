@@ -67,7 +67,7 @@ The language we adapt in our communications should embody our "***people first, 
 
 Depending on the subject and context (i.e. audience) of our communications, the tone we use should be an amalgamation of several attributes, some of which are listed in the table below. The Carpentries badge spells out where on the scale the tone of our communications should fall at any given time.
 
-![Communiations Tone Scale](https://github.com/carpentries/handbook/raw/master/img/comms-images/comms-tone-scale.png)
+![Communications Tone Scale](https://github.com/carpentries/handbook/raw/master/img/comms-images/comms-tone-scale.png)
 
 The Carpentries messaging is primarily relayed via the following formats: <br><br>
 
@@ -102,18 +102,11 @@ A broader analysis of our target audiences, and specific high-level messaging fo
 #### Facebook
 
 The Carpentries community members hail from 46 countries. Statistically <sup>[<a href = "https://jmango360.com/wiki-pages-trends/mobile-app-vs-mobile-website-statistics/">1</a>,<a href = "https://www.statista.com/statistics/271405/global-mobile-data-traffic-forecast/">2</a>]</sup>, people in nations outside of the United States and Europe primarily use mobile web/applications to engage. Facebook is therefore a great way for them to receive communication and announcements. 
-Recommendations for Facebook include:
-- allowing open contributions on our page, using event tools to publicise community discussions, CarpentryCon and CarpentryConnect events, and 
-- using the CarpentryCon 2018 photo as the cover photo.
+
 
 #### LinkedIn
 
 [LinkedIn](https://www.linkedin.com/company/the-carpentries/about/) is primarily used for making professional connections, networking, and job opportunities. It is a good place for us to list Carpentries team members, and cross-post relevant organisation announcements, particularly targeted at potential member organisations. We have an [instructors group](https://www.linkedin.com/groups/8279689/) and an organisation page.
-
-Recommendations for LinkedIn are: 
-- remove the two Core Team not associated with The Carpentries and encourage other team members to list themselves, 
-- establish a mechanism for community members to indicate their connection to The Carpentries i.e. through LinkedIn Badges, Tags or Groups. 
-- Use the [existing LinkedIn group](https://www.linkedin.com/groups/8279689/) as a place where we could encourage people to post jobs to have a more standardised place for people to look and share.
 
 #### GitHub
 
@@ -140,10 +133,6 @@ There is also an inactive Data Carpentry Gitter <https://gitter.im/data-carpentr
   
 #### Google Groups
 Many of The Carpentries Google Groups are now lists on [TopicBox](https://carpentries.topicbox.com/latest). 
-
-Recommendations: 
-- Identify lists that are idle and/or have been moved, reach out to the community about decommissioning the groups, and look into archiving past threads and making them available in a way that would be easy to reference in various TopicBox lists.
-- Actively manage remaining private Google groups (which cannot be private in TopicBox
   
 #### Slack
 [The Carpentries Slack](https://swcarpentry.slack.com/) is used to receive immediate feedback from community members. Channels are driven by community members (e.g. initiatives) and Core Team (e.g. project related). Due to the primarily community driven approach to Slack, some channels fall idle while others remain active. A comprehensive approach to weeding channels that are idle for greater than one year will be taken. The approach will be communicated to the community and feedback will be solicited on the channels to be weeded before they are delisted. 
@@ -152,7 +141,7 @@ Recommendations:
 
 There’s a range of meaningful ways to onboard new members to our Slack community that we are open to exploring in Q2 2019, key among them:
 - The welcome bot, such as the one Maneesha Sane integrated into Slack in February 2019, which would prompt newcomers to introduce themselves and plug into the community. This option is the least tasking for The Carpentries team, but also the most impersonal.
-- Personalised messages by one of the team, such as what Erin has done for most of January and February 2019 to help newcomers feel like they belong. This is the most tasking, but by far, the best engagement practice.
+- Personalised messages by one of the team, such as what Erin Becker did in January and February 2019 to help newcomers feel like they belong. This is the most tasking, but by far, the best engagement practice.
   - We suggest taking this path, and adding it as a task for the communications committee (3 times a week) and the Carpentries communications team (twice a week).
   - A sample welcome message would be a variation of the one below:
   _Hello [person] and welcome to The Carpentries Slack channel. Please read our Code of Conduct [link] and feel free to browse our Slack channels, join any that you like and contribute freely. Welcome!_
