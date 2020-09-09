@@ -42,7 +42,7 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - Request Blog Post to Promote Community Discussion
   - Remind facilitator to write a blog post to get the word out about the community discussion. [Here's a handy blog post drafting guide to help them get started](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html?highlight=blog%20posts)
   
-### Scheduling Pre- and Post-Workshop Community Disucssions
+### Scheduling Pre- and Post-Workshop Community Discussions
 
 1. Coordinate with Infrastructure Team (Maneesha Sane) regarding quarterly sign-ups. This process has been semi-automated with the use of Calendly.
 2. After signups have closed the Community Discussions Coordinator and Infrastructure Team discuss distributions of time slots identified by Discussions Hosts (during sign-up) per week and time zone. This will result in either extending signups (if more are needed), or cancel duplicate/sessions not needed.
