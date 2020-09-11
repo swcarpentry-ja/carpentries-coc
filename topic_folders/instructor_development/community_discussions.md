@@ -1,6 +1,6 @@
 ## Community Discussions 
 
-The Instructor Development Committee leads and organises Community Discussions. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
+The Instructor Development Committee leads and organises Community Discussions, sets up mentoring cycles, leads special projects aimed at improving instructor resources in The Carpentries and advocates for activities and initiatives that promote professional development, equity and inclusivity for Carpentries instructors. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
 
 **Note: Discussion host coordination is a role the the Instructor Development Committee, but for now it is being handled by the Core Team in effort to support our community during the COVID-19 pandemic.**
 
