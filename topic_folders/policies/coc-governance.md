@@ -105,5 +105,3 @@ In addition to the roles and responsibilities outlined in the membership agreeme
 - The Core Teamstaff liaison will create a collaborative document for each case and share with the Incident Response Group
 - A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
 - A time-keeper will notify the Incident Response Group of the various deadlines
-
-*Log detail: This document is drafted by Karin Lagesen, Malvika Sharan, and Karen Cranston and reviewed by the current members of the Code of Conduct committee: Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, Francçois Michonneau and Konrad Förstner (2019-2020) and the Executive Director, Kari L. Jordan.*
