@@ -11,3 +11,4 @@ CODE OF CONDUCT
    enforcement-guidelines.md
    termed-suspension.md
    coc-membership-agreement.md
+   coc-governance.md
