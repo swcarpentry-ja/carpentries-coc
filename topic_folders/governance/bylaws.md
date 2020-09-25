@@ -175,3 +175,4 @@ Any changes to these bylaws require a majority vote of the Executive Council. Th
 
 Update log:
 - [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/7) by the Executive Council
+- [Amended 2020-09-25](https://github.com/carpentries/docs.carpentries.org/pull/670) by the Executive Council
