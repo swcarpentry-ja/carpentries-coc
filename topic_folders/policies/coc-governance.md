@@ -102,6 +102,6 @@ In addition to the roles and responsibilities outlined in the membership agreeme
 
 - An Incident Response Group of a minimum of 3 people are convened for any reported incident
 - An Incident Response Lead is selected in the Incident Response Group to ensure accountability of the report handling
-- The Core Teamstaff liaison will create a collaborative document for each case and share with the Incident Response Group
+- The Core Team liaison will create a collaborative document for each case and share with the Incident Response Group
 - A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee
 - A time-keeper will notify the Incident Response Group of the various deadlines
