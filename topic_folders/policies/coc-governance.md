@@ -57,7 +57,7 @@ New Chairs are selected from among those who have been on the Committee for at l
 ## Main duties of the position holders
 
 All members of the CoCc must read, understand and abide by the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html#). 
-In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the g duties outlined below.
+In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below.
 
 ### Chairs’ roles
 
