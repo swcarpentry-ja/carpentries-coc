@@ -73,7 +73,7 @@ Participants who are asked to stop any inappropriate behaviour are expected to c
 
 #### Update Logs
 
-- 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Word (2019) and intesively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Word, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, Francçois Michonneau and Konrad Förstner (2019-2020).
+- 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Word (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Word, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020).
 
 - 2019-07-17 The CoCc membership agreement document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Tracy Teal and trainers community. Contributors: drafted by Malvika Sharan (January 2019) and intesively reviewed and updated by the committee members Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman (February-April 2019).
 
