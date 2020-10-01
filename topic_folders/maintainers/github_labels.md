@@ -5,7 +5,7 @@
 <!-- and running:                                                          -->
 <!--   carpenter::document_github_labels("data/github_labels.csv")         -->
 <!-- the canonical definition of the GitHub labels is stored in the CSV    -->
-<!-- file hosted https://github.com/carpentries/handbook/blob/master/data/github_labels.csv -->
+<!-- file hosted https://github.com/carpentries/docs.carpentries.org/blob/master/data/github_labels.csv -->
 
 <ul><h3>"status" labels</h3> <li><span style="font-family: monospace; font-weight: bold; font-size: 1.2em; color: #222222; background-color: #DCECC7; border-radius: 4px; padding: 4px;">help wanted</span>
   <ul>
@@ -142,15 +142,15 @@ install.packages("remotes")
 
 1. Go to <https://github.com/settings/tokens>, and click on the "Generate new
    token" button.
-   
+
 1. Choose a name that will help you remember what you use this token for, and
    click on the `repo` box. Finish the creation of the token by clicking on
    "Generate token" at the bottom of the page. The token will be displayed on
    the screen.
-   
+
 1. Using RStudio or text editor, open (or create if it doesn't exist), a
    `~/.Renviron` file, and add (replacing the XXXX with your actual PAT):
-   
+
    ```
    GITHUB_PAT=XXXXXXXXXXXXXXXXXXXXXXXXXXXX
    ```
@@ -160,10 +160,10 @@ install.packages("remotes")
     ```r
     Sys.getenv("GITHUB_PAT")
     ```
-   
+
    If everything worked, you should see your PAT being displayed. If something
    didn't work it will display empty quotes (`""`).
-    
+
 1. Use the `remotes` package to install `carpenter`. Type at the R console in
    RStudio:
 
@@ -173,7 +173,7 @@ install.packages("remotes")
 1. Make sure you have downloaded the [CSV file that contains the information
    about the GitHub labels](https://raw.githubusercontent.com/carpentries/handbook/master/data/github_labels.csv). It is in the repository for The Carpentries handbook
    in the data folder.
-   
+
 1. Load the `carpenter` package and create the labels on one repository:
 
    ```r
@@ -183,6 +183,6 @@ install.packages("remotes")
      repo = "name_of_github_repo",
      delete_previous = FALSE)
    ```
-   
+
    If you set `delete_previous` to `TRUE`, all existing labels will be deleted
    from the repository (and removed from issues/PR that had it).
