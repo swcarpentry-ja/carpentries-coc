@@ -3,7 +3,7 @@
 <!-- DO NOT EDIT THIS SECTION BY HAND: this section should be generated    -->
 <!-- the chisel  R package https://github.com/fmichonneau/chisel           -->
 <!-- and running:                                                          -->
-<!--   carpenter::document_github_labels("data/github_labels.csv")         -->
+<!--   chisel::document_github_labels("data/github_labels.csv")         -->
 <!-- the canonical definition of the GitHub labels is stored in the CSV    -->
 <!-- where `data/github_labels.csv` is the the canonical definition of     -->
 <!-- the GitHub labels is stored in the CSV  file hosted at:               -->
@@ -202,7 +202,7 @@
 
 #### How to Populate a GitHub Repository with these Labels
 
-The [carpenter](https://github.com/fmichonneau/carpenter) R package provides helper functions to create these labels from a CSV file using the GitHub API.
+The [chisel](https://github.com/fmichonneau/chisel) R package provides helper functions to create these labels from a CSV file using the GitHub API.
 To use the GitHub API, you need to obtain a GitHub Personal Access Token (PAT). This PAT is a way for GitHub to identify you and should be treated as a password.
 
 1. Once you have installed [R](https://cran.r-project.org/) and [RStudio](https://www.rstudio.com/products/rstudio/download/#download), at the RStudio console, install the `remotes` package:
@@ -235,20 +235,20 @@ install.packages("remotes")
    If everything worked, you should see your PAT being displayed. If something
    didn't work it will display empty quotes (`""`).
 
-1. Use the `remotes` package to install `carpenter`. Type at the R console in
+1. Use the `remotes` package to install `chisel`. Type at the R console in
    RStudio:
 
     ```r
-    remotes::install_github("fmichonneau/carpenter")
+    remotes::install_github("fmichonneau/chisel")
     ```
 1. Make sure you have downloaded the [CSV file that contains the information
    about the GitHub labels](https://raw.githubusercontent.com/carpentries/handbook/master/data/github_labels.csv). It is in the repository for The Carpentries handbook
    in the data folder.
 
-1. Load the `carpenter` package and create the labels on one repository:
+1. Load the `chisel` package and create the labels on one repository:
 
    ```r
-   library(carpenter)
+   library(chisel)
    create_github_labels(label_csv = "~/path/to/csv/file/github_labels.csv",
      owner = "owner_of_github_repo",
      repo = "name_of_github_repo",
