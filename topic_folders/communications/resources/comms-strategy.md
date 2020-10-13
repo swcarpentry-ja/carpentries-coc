@@ -78,7 +78,7 @@ We value accessibility and ensuring community members have access options to our
 Community Discussions that are recorded using Zoom include audio. To ensure content is accessible to as many community members as possible, audio recordings will be added to The Carpentries account on a podcast platform. <br><br>
 
 - Video: <br>
-As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA). To ensure  content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
+As often as possible we record onboardings and other community events for dissemination to the community via [The Carpentries YouTube Channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA). To ensure content is accessible to as many community members as possible, we require videos to be uploaded including closed captioning in the language the discussion was recorded in.<br>
 
 ### b. The Carpentries Brand
 
@@ -101,7 +101,9 @@ A broader analysis of our target audiences, and specific high-level messaging fo
 
 #### Facebook
 
-The Carpentries community members hail from 46 countries. Statistically <sup>[<a href = "https://jmango360.com/wiki-pages-trends/mobile-app-vs-mobile-website-statistics/">1</a>,<a href = "https://www.statista.com/statistics/271405/global-mobile-data-traffic-forecast/">2</a>]</sup>, people in nations outside of the United States and Europe primarily use mobile web/applications to engage. Facebook is therefore a great way for them to receive communication and announcements. 
+The Carpentries community members hail from 46 countries. Statistically <sup>[<a href = "https://jmango360.com/wiki-pages-trends/mobile-app-vs-mobile-website-statistics/">1</a>,<a href = "https://www.statista.com/statistics/271405/global-mobile-data-traffic-forecast/">2</a>]</sup>, people in nations outside of the United States and Europe primarily use mobile web/applications to engage. Facebook is therefore a great way for them to receive communication and announcements.
+
+We are currently working on bolstering our following on Facebook, and increasing the number of linear communications we send out on the platform.
 
 
 #### LinkedIn
@@ -139,10 +141,10 @@ Many of The Carpentries Google Groups are now lists on [TopicBox](https://carpen
 
 **Welcome channel**
 
-There’s a range of meaningful ways to onboard new members to our Slack community that we are open to exploring in Q2 2019, key among them:
+There’s a range of meaningful ways to onboard new members to our Slack community that we are open to exploring in Q1 2021 and beyond, key among them:
 - The welcome bot, such as the one Maneesha Sane integrated into Slack in February 2019, which would prompt newcomers to introduce themselves and plug into the community. This option is the least tasking for The Carpentries team, but also the most impersonal.
 - Personalised messages by one of the team, such as what Erin Becker did in January and February 2019 to help newcomers feel like they belong. This is the most tasking, but by far, the best engagement practice.
-  - We suggest taking this path, and adding it as a task for the communications committee (3 times a week) and the Carpentries communications team (twice a week).
+  - We suggest taking this path, and adding it as a task for the forthcoming communications committee (3 times a week) and the Carpentries communications team (twice a week).
   - A sample welcome message would be a variation of the one below:
   _Hello [person] and welcome to The Carpentries Slack channel. Please read our Code of Conduct [link] and feel free to browse our Slack channels, join any that you like and contribute freely. Welcome!_
 
@@ -157,7 +159,7 @@ Since The Carpentries team has been thinking about regional or local TopicBox li
 
 [Discuss](https://carpentries.topicbox.com/groups/discuss) is where The Carpentries community comes to amplify their own opportunities, suggestions, and observations. The popularity of discuss is somewhat due to its ease of use as a general all purpose communications channel. Instead of dividing the channel into separate channels such as jobs, announcements, events, etc., we will inform the community to use tags such as [Job], [Announcement], [Event], etc. in the subject of their posts. These instructions/reminders will be:
 - primarily included in the Topicbox “About” section, or 
-- where necessary, sent via email  reminder to the community every 3 to 6 months. We will scan Discuss for themes for the past 6-12 months to determine if there are additional tags to include.
+- where necessary, sent via email reminder to the community every 3 to 6 months. We will scan Discuss for themes for the past 6-12 months to determine if there are additional tags to include.
 
 #### Twitter
 
@@ -186,7 +188,7 @@ Recommendations:
 
 - Employ schema to improve direct traffic to Carpentries blog posts, lessons, workshops, and events.
 - Narrative blog posts from people guided by questions
-- Additionally, we will use Discuss,Slack, Twitter and GitHub conversations as the basis for setting up a community-led communications committee in the last quarter of 2019. Their primary mandate will be:
+- Additionally, we will use Discuss,Slack, Twitter and GitHub conversations as the basis for setting up a community-led communications committee in the second quarter of 2021. Their primary mandate will be:
   - To identify pertinent issues / conversational trends that resonate with several people 
   - To help community members draft, edit and publish blog posts to the main Carpentries blog
   
@@ -195,7 +197,7 @@ Recommendations:
     This will be a one-pager that links to relevant resources - photos to use, logo repository, our Code of Conduct, blog and blog repo links, etc
     - A checklist to guide the communications committee in identifying relevant topics in community conversations, soliciting posts and guiding the blog post drafting process
     - A list of tasks that are in the communications committee's scope of work i.e.
-      - Implementing meaningful ways to onboard new members to our Slack community that we are open to exploring from Q1 2020 
+      - Implementing meaningful ways to onboard new members to our Slack community that we are open to exploring from Q1 2021 
 
 #### YouTube
 
@@ -203,7 +205,7 @@ Recommendations:
 
 #### Newsletter
 
-Our current Carpentry Clippings strategy is efficient, A team member (Maneesha) and community volunteer (Malvika) work together to solicit and organise contributions - making sure Core Team members submit updates, and then writing, formatting, and publishing content from them.  Some content curation is also involved i.e. for  "Tweet of the Week" and "Toolshed (Posts from our Past)" sections.Going forward we will actively deliberate on what we are sharing via the newsletter and why and determine a strategy for improving our open and click rates, which currently stand at 30-40% and 3-6% respectively. 
+Our current Carpentry Clippings strategy is efficient; members of the Community Development Team work together to solicit and organise contributions - making sure Core Team members submit updates, and then writing, formatting, and publishing content from them.  Some content curation is also involved i.e. for  "Tweet of the Week" and "Toolshed (Posts from our Past)" sections. Going forward we will actively deliberate on what we are sharing via the newsletter and why and determine a strategy for improving our open and click rates, which currently stand at 30-40% and 3-6% respectively. 
 
 #### Zotero and FigShare
 
@@ -219,12 +221,12 @@ The Carpentries is dedicated to providing a welcoming and supportive environment
 
 ##### Localisation efforts at The Carpentries
 
-The Carpentries is intent on creating inclusive spaces in which communities from diverse backgrounds can thrive. Contextualising the resources The Carpentries creates is a big part of this. The Community Development team sees it as a positive step toward community growth and sustainability at hyper-local levels that is worth exploring in different ways from April 2019
+The Carpentries is intent on creating inclusive spaces in which communities from diverse backgrounds can thrive. Contextualising the resources The Carpentries creates is a big part of this. The Community Development team sees it as a positive step toward community growth and sustainability at hyper-local levels that is worth exploring in different ways from April 2019 onwards
 
   <ol style="list-style-type: lower-alpha;">
   <strong><li>Translations </li></strong>
   
-  Several of our lessons have been translated through the tireless efforts of our community members. A framework to guide community groups interested in translating our lessons into other languages will be prioritised in Q2, 2019.
+  Several of our lessons have been translated through the tireless efforts of our community members. A framework to guide community groups interested in translating our lessons into other languages will be prioritised in Q2 2021.
     
   <strong><li>Message broadcast and communication discussion timings</li></strong>
   
