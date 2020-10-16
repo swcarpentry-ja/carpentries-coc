@@ -31,6 +31,8 @@ Since then more than 100 African instructors have participated in online or in-p
 
 ### Blog posts on Carpentries activities in Africa
 
+- [Reflections on my First Data Carpentry Workshop](https://carpentries.org/blog/2020/10/reflections-on-my-first-Data-Carpentry-workshop/) by Selorm Tamakloe.
+- [Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020](https://carpentries.org/blog/2020/10/Lessons-Learned-DCW-for-SADiLaR-August/) by Jannetta Steyn, Benson Muite, Marissa Griesel, Maggi Mars, Lactatia Motsuku, Varshita Sher, SamuelLe Lelièvre and Angelique van Rensburg.
 - [Learners' Experiences from South Africa's Online Workshop](https://carpentries.org/blog/2020/05/south-africa-online-workshop/) by Samar Elsheikh, Caroline Fadeke Ajilogba, Martin Dreyer and Angelique van Rensburg
 - [Increasing Researchers' Digital Literacy in Ethiopia](https://carpentries.org/blog/2020/05/ambo-university-workshop/) by Yared Abera Ergu
 - [Feedback: Remote Teaching of Genomics Data Carpentry Curriculum](https://carpentries.org/blog/2020/01/genomics-workshop-icipe-kenya/) by Daniel Ouso and Bianca Peterson
