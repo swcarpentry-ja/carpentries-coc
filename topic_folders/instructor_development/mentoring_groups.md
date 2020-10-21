@@ -2,7 +2,7 @@
 
 Mentoring is a professional development opportunity that The Carpentries offers our growing instructor pool to help community members learn and grow.
 
-Mentoring Groups support instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal. 
+Mentoring Groups support instructors in a variety of ways. Whether you are a new instructor preparing to teach your first workshop, a seasoned instructor hoping to launch workshops in a new community, or an instructor excited about getting involved with lesson development and maintenance, mentoring groups will help you gain the confidence, technical skills, and teaching skills you need to reach your goal.
 
 Mentors guide small groups of no more than five mentees toward a particular outcome. Outcomes might be anything from teaching a specific lesson (i.e. Version Control with Git) to making a meaningful contribution to one of our lessons.  
 
@@ -40,17 +40,17 @@ Groups are encouraged to set [SMART](http://templatelab.com/writing-smart-goals/
 #### Sample Mentoring Group Outline: Community Building
 + Introductions, review The Carpentries community culture, and communication channels.  
 + Discuss desired local outcome. Discuss existing community, if any. Identify stakeholders and potential supporters.  
-+ Discuss community building methods used elsewhere (e.g. ResBaz, Hacky Hours, MeetUps, communities of practice). 
++ Discuss community building methods used elsewhere (e.g. ResBaz, Hacky Hours, MeetUps, communities of practice).
 + Discuss the use of communication tools such as Slack and Gitter channels.    
 + Identify a representative to attend the mid-way touch base.  
-+ Draft one slide for the mentoring group showcase. Identify a representative to attend the mid-group touch base. 
++ Draft one slide for the mentoring group showcase. Identify a representative to attend the mid-group touch base.
 + Draft a plan for a local community building event that includes a marketing strategy.  
 + Review plans collectively. Identify gaps or further resources needed.  
 + Finish slide for mentoring group showcase. Attend mentoring group showcase.  
 
 ### Mentoring Groups Highlights  
 
-Participants can choose the type of mentoring group they'd like to belong to:
+Participants can choose the type of mentoring group they would like to belong to:
 + Lesson Maintenance  
   - Contributing to current lesson development  
   - Contributing to lesson maintenance  
@@ -64,29 +64,29 @@ Participants can choose the type of mentoring group they'd like to belong to:
   - Strategies to build local communities  
   - Tried-and-true events that help foster local communities  
 
-An additional highlight includes the opportunity to participate in in-person mentoring groups. 
+An additional highlight includes the opportunity to participate in in-person mentoring groups.
 
 During the final week of the mentoring groups, we will host a virtual mentoring groups showcase. During this event, the community can hear about the projects on which the mentoring groups worked.
 
-Lastly, both mentors and mentees will receive a certificate! 
+Lastly, both mentors and mentees will receive a certificate!
 
 ### Mentor Agreement
 
 I agree to follow the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) in all communications and interactions with The Carpentries community and to [promptly report any violations of the CoC](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines) that I become aware of.
 
-When interacting with my mentoring group, I agree to 
+When interacting with my mentoring group, I agree to
 + communicate The Carpentries community values to mentees and model that behaviour myself in how I mentor,   
 + provide a welcoming and supporting environment for mentees,
 + avoid dismissive language, question my expert blind spot, and model error-making as a vital part of the mentoring process.
 
 I understand that it is important to keep in touch with The Carpentries community so that my mentorship will reflect current practices. I agree to:  
 + stay active in one or more Carpentries communication channels,   
-+ keep up-to-date with changes to the lesson(s) I teach, and 
++ keep up-to-date with changes to the lesson(s) I teach, and
 + provide feedback to the Mentoring Subcommittee and Carpentries Core Team to help continue improving our mentoring groups.
 
 
 ### Mentor Onboarding
-- [Mentor Onboarding Recording](https://youtu.be/9vivMXnrRFo) 
+- [Mentor Onboarding Recording](https://youtu.be/9vivMXnrRFo)
 
 ### Mentoring Groups Recruitment Strategy
 
@@ -150,12 +150,12 @@ To join the mentoring program as a mentee, complete [this form](https://docs.goo
 ##### Responsibilities
 
 - Decide on a meeting schedule with your Mentees.
-  - You can use a [Carpentries Zoom room](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html) for your meetings - please reach out to team@carpentries.org for more information about scheduling a room. Details and links for meetings can be kept in a [Carpentries Etherpad](https://pad.carpentries.org). 
+  - You can use a [Carpentries Zoom room](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html) for your meetings - please reach out to team@carpentries.org for more information about scheduling a room. Details and links for meetings can be kept in a [Carpentries Etherpad](https://pad.carpentries.org).
 - Personalise meetings based on Mentee’s needs and desires.  
 - Respond promptly to emails from your Mentees.  
 - Follow up with Mentees who miss meetings.  
 - Be respectful of Mentees. Provide a safe space for questions and mistakes.  
-- Report Mentee attendance and progress to mentoring coordinator. 
+- Report Mentee attendance and progress to mentoring coordinator.
 
 ##### Time commitment
 
@@ -176,7 +176,7 @@ To join a mentoring group as a mentor, complete [this form](https://docs.google.
 - Recruit mentors and mentees for the Mentoring Program.  
 - Pair Mentors and Mentees based on responses to Google form surveys.    
 - Send email introductions for each mentoring team.  
-- Follow up with each mentoring team on a monthly basis and ask if there's anything you can do to help.  
+- Follow up with each mentoring team on a monthly basis and ask if there is anything you can do to help.  
 - Keep track of program completion rates to assess success.  
 - Get feedback from Mentors and Mentees about program.  
 
@@ -192,4 +192,4 @@ The Carpentries' community is invited to participate in a Virtual Showcase of ou
 Please visit this [Etherpad](https://pad.carpentries.org/mentoring-groups) to view notes from past meetings or sign up for upcoming meetings.
 
 #### Contact
-For information regarding The Carpentries Mentoring Groups, [e-mail](mailto:chiapello.m@gmail.com ) Marco Chiapello. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](https://pad.carpentries.org/instructor-development). 
+For information regarding The Carpentries Mentoring Groups, [e-mail](mailto:chiapello.m@gmail.com ) Marco Chiapello. To join the next Instructor Development Committee meeting, sign up via this [Etherpad](https://pad.carpentries.org/instructor-development).

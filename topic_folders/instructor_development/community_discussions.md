@@ -1,4 +1,4 @@
-## Community Discussions 
+## Community Discussions
 
 The Instructor Development Committee leads and organises Community Discussions, sets up mentoring cycles, leads special projects aimed at improving instructor resources in The Carpentries and advocates for activities and initiatives that promote professional development, equity and inclusivity for Carpentries instructors. This document describes how community discussions are organised and conducted.  Checklists for the Hosts and Discussion Session Coordinator are [here](#checklists-community-discussions).  
 
@@ -6,9 +6,9 @@ The Instructor Development Committee leads and organises Community Discussions, 
 
 The Carpentries Community Discussions are designed for everyone in The Carpentries community interested in learning, educating and advocating for teaching foundational coding and data science skills globally. Discussion topics range anywhere from teaching workshops and developing curricula to building local communities and assessing the impact of our workshops globally. There are three types of Community Discussions:
 
-1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community. 
+1. __Pre- and Post-Workshop Discussions__ These discussions are designed for those getting ready to teach or having recently taught to come discuss their workshop with the community.
 
-2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies. 
+2. __Themed Discussion Sessions__ These discussions are centered around a particular topic ranging anywhere from teaching your first workshop to community building strategies.
 
 3.	__Carpentries Conversations__ These Conversations are hosted by one of our Committees or Task Forces to provide the community with the opportunity to learn about and discuss new developments and programs in our organisation. Our committees and task forces include:
 
@@ -41,7 +41,7 @@ Hosting community discussions is a great way to meet more people in The Carpentr
 
 Any instructor with experience of organising/teaching workshops and a good knowledge of The Carpentries as an organisation is welcome to host a discussion session. Sessions are coordinated by the [Instructor Development Committee](https://pad.carpentries.org/instructor-development) and hosts are encouraged to join the meetings of this committee. Committee meetings include an update on community discussions and an opportunity to discuss the format, to ask questions about hosting a session, and to get to know other hosts. To receive messages relating to discussion sessions and hosting, make sure that you are subscribed to the [discussion hosts mailing list](https://carpentries.topicbox.com/groups/discussion-hosts).
 
-A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you don't have to "fly solo" in your first session. 
+A great way to get into hosting these sessions is to first attend as an observer or co-host. An experienced host will be happy to talk you through it, and may return the favour when you host for the first time, so that you do not have to "fly solo" in your first session.
 
 
 #### Discussion Host Onboarding
@@ -56,7 +56,7 @@ Interested in becoming a session host? Not sure how or what would be required of
 
 ### Signing up to Host or co-Host a Community Discussion
 
-The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability. 
+The Carpentries uses [Calendly](https://calendly.com/carpentries-discussion-sessions/community-discussion-sessions) to manage scheduling of Community Discussion sessions.  This allows hosts to schedule discussion sessions at times that are best for them, rather than requiring them to choose from a predefined schedule.  Four times a year, Discussion Hosts will be asked to slot in their availability.
 
 ![Calendly Demo](images/calendly.gif)
 
@@ -71,7 +71,7 @@ Once Discussion Hosts have scheduled themselves in for a Community Discussion se
 
 This system aims to build Community Discussion schedules around the Host availability.  The community of Discussion Session Hosts should represent a good cross-section of the general Carpentries community, and should offer the broader community a better option of sessions to attend.  
 
-People interested in being Co-hosts can review the calendar once it is published, and sign up on the Etherpad to co-host an event of their choice. 
+People interested in being Co-hosts can review the calendar once it is published, and sign up on the Etherpad to co-host an event of their choice.
 
 #### Event Cancellations
 
@@ -98,7 +98,7 @@ We recognise that even after scheduling their own events, Discussion Hosts may h
 * If a co-host/notetaker does want to chime in, it is welcome!
 * **NOTE:** if the session is mostly instructor checkouts, it is highly recommended that you, as the co-host, contribute to the discussion with your experience helping out with workshops.
 
-### Checklists - Community Discussions 
+### Checklists - Community Discussions
 
 Community discussions are organised and conducted through [this Etherpad](http://pad.carpentries.org/community-discussions).
 
@@ -121,17 +121,17 @@ Scheduled events are listed on this [Etherpad](http://pad.carpentries.org/commun
 
 Meetings will be hosted on a Zoom videoconference, linked via the [community discussions Etherpad](http://pad.carpentries.org/community-discussions).
 
-Each session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee. 
+Each session must have at least one host (although two hosts are preferred). Any experienced instructor is welcome to host, but hosts are encouraged to join the Instructor Development Committee.
 
 - Sign on as close to the start time as you can.  
 - Confirm that your fellow host is present (if there is one) and who will be leading/taking notes
-- (Optional) If a group is very large and you have a co-host, you can split the group in two, using the [Breakout Rooms feature in Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts). 
+- (Optional) If a group is very large and you have a co-host, you can split the group in two, using the [Breakout Rooms feature in Zoom](https://docs.carpentries.org/topic_folders/communications/tools/zoom_rooms.html#information-for-event-hosts).
 - Copy the agenda from the bottom of the Etherpad to the space under your time slot
 - Lead the discussion
     - We recommend following the main points of the agenda, but feel free to let discussion go where people want.  Not all the questions need to be answered by everyone.  
-    - Don't feel like *you* have to answer all the questions as the host - draw on the 
+    - You should not feel like *you* have to answer all the questions as the host - draw on the
     other discussion participants to answer each other's questions.  
-    - If someone is attending as part of their training checkout, prompt them to ask a question. 
+    - If someone is attending as part of their training checkout, prompt them to ask a question.
     - Try to leave enough time at the end for the final agenda item.  
 
 The agenda should be similar to the following:
@@ -152,7 +152,7 @@ The agenda should be similar to the following:
   - Hosts: Choose 1-3 of these questions, or add your own.
   - What additional resources would be useful to you in teaching or preparing for a workshop?
   - Do you find the instructor notes helpful? How do you use them? How could they be more useful?
-  - What are you most excited about for teaching with The Carpentries? 
+  - What are you most excited about for teaching with The Carpentries?
 - Preparing for instructor training checkout (2 minutes)
   - Questions about checkout procedure, lessons, or workshop organisation?
   - Have you asked a question here yet?
@@ -160,7 +160,7 @@ The agenda should be similar to the following:
   - Reports from breakout rooms   
   - Q&A   
   - Reminders to discussion session participants   
-   - Export the Etherpad (button at top right) if you'd like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
+   - Export the Etherpad (button at top right) if you would like to save notes from our session. Notes will be removed (but available in the archives) soon after the discussion ends!   
    - For small typos in lessons, submit pull request to appropriate lesson   
 
 (A copy of this agenda is kept at the bottom of the instructor discussion Etherpad.)
@@ -174,16 +174,16 @@ Based on discussion among the Instructor Development Committee, temporary questi
 ##### After the Discussion Session
 - Archive the Etherpad by clicking on the star in the top right corner.  
 - Fill out the [host questionnaire](https://forms.gle/N74pFuGkRLawpCHh7)
-    - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire. 
+    - Note: Please copy the list of attendees (including all attendees but removing no-shows) and paste it into question 7 of the questionnaire.
     - This questionnaire will automatically send an email to the Instructor Development Committee Co-Chairs and to checkout@carpentries.org.
-- Clear the information from your session (date/time, attendees, notes) from the Etherpad. 
+- Clear the information from your session (date/time, attendees, notes) from the Etherpad.
 - (Optional) write a [blog post](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html#how-to-contribute-a-blog-post-to-the-carpentries-blog) about interesting points that came up in discussion.
 
 ### Discussion Session FAQ
 
 The content below comes from [this blog post](https://carpentries.org/blog/2019/05/community-discussions-primer/).
 
-##### What if I'm hosting a discussion and there are no pre/post workshop debriefs?
+##### What if I am hosting a discussion and there are no pre/post workshop debriefs?
 
 You could start by introducing the session and what it should be about. You could also give some feedback on your own experience in previous workshops and/or upcoming workshops that you are a part of.
 
@@ -213,7 +213,7 @@ As a host you are more than welcome to take a few notes, however there is no nee
 
 ##### What if someone joins in late?
 
-Depending on how late the person joins, you could simply welcome them and ask them to introduce themselves to the rest of the participants. If you have time, you can ask the individual to stay on the call for a few minutes after it's finished to summarise what they missed, and answer any questions they may have.
+Depending on how late the person joins, you could simply welcome them and ask them to introduce themselves to the rest of the participants. If you have time, you can ask the individual to stay on the call for a few minutes after it is finished to summarise what they missed, and answer any questions they may have.
 
 ##### What if someone does not have a headset and can’t control their background noise?
 
@@ -233,7 +233,7 @@ Always try and encourage participation. This can be done by asking them a questi
 
 ##### What if someone asks me to join the instructor checkout session and it is already full?
 
-Participants can email the host and ask if it would be ok with them if they joined the session although it is already fully booked. 
+Participants can email the host and ask if it would be ok with them if they joined the session although it is already fully booked.
 
 ##### What if someone is loud/obnoxious and/or talks down to other people?
 
@@ -255,10 +255,10 @@ Hello,
 
 Sign-up for host for Community Discussion sessions for [QUARTER-YEAR] is open now!
 
-Please take a look at our Calendly link [insert link here] and put yourself down for a slot or two that best suits your schedule. We want to accommodate your schedules as much as possible! We ask that you sign up by [insert date here], so that we can publish the calendar the following week. If you know you'd like to host something in [QUARTER-YEAR] but aren't sure of your availability yet, please let me know so we can follow up with you.
+Please take a look at our Calendly link [insert link here] and put yourself down for a slot or two that best suits your schedule. We want to accommodate your schedules as much as possible! We ask that you sign up by [insert date here], so that we can publish the calendar the following week. If you know you would like to host something in [QUARTER-YEAR] but are not sure of your availability yet, please let me know so we can follow up with you.
 
 We hope to see you soon!
 
-Cheers, 
+Cheers,
 
 [Your name].

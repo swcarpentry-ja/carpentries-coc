@@ -7,24 +7,24 @@ This workflow was established for the [Instructor Development Committee Discussi
 - Review responses from the [Call for Community Discussions Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form.
   - The [Call for Community Discussions Facilitators](https://forms.gle/nDgJWUdpaH4gYP9c9) form includes an integration which, when a form response is received, an e-mail is sent to The Carpentries Discussion Session Coordinator who should then open the attachment and review its contents.
 - Add potential Community Discussions to [the Etherpad](https://pad.carpentries.org/community-discussions).
-- If the Community Discussions Facilitator proposed a day/time for the community discussion they'll be hosting, add that day/time to [the Etherpad](https://pad.carpentries.org/community-discussions) as TBD in this format:
+- If the Community Discussions Facilitator proposed a day/time for the community discussion they will be hosting, add that day/time to [the Etherpad](https://pad.carpentries.org/community-discussions) as TBD in this format:
 ```
 Themed Discussion Sessions/#CarpentriesConversation
 DAY OF WEEK, MONTH DAY TIME
-TIME UTC 
+TIME UTC
 Click here for your time zone:
 Topic:
 Description
 Host (name & email):
 Host questionnaire to be completed at the end of call: https://goo.gl/forms/iXkMQABmO6HROfCy1
-Co-host/notetaker (name & email): 
-Attending (Name/Affiliation/Twitter): 
+Co-host/notetaker (name & email):
+Attending (Name/Affiliation/Twitter):
   Sharing an upcoming or past workshop? Please add the link to your workshop website along with your name.
   Attending as part of the instructor checkout requirement? Please add your e-mail address and checkout along with your name.
     1.
     2.
     3.
-Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/uCeESfUUWsX5dpPu2 
+Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/uCeESfUUWsX5dpPu2
 ```
 
 - Add potential Community Discussion to [the community calendar](https://carpentries.org/community/#community-events)
@@ -33,15 +33,15 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
   - Submit a PR to update the [Community Discussions page on The Carpentries website](https://carpentries.org/community_discussions/)
   - The appropriate GitHub repository to submit your Pull Request to [is here](https://github.com/carpentries/carpentries.org/pulls). Add the new community discussion in the upcoming discussions section.
 - Contact potential Community Discussions Facilitator
-  - Send [a version of the following templated e-mail](https://docs.google.com/document/d/1Xag1PA5Ya2iEqpYTKjaKR9gh-JqhsS-yKiZaCAA9VUk/edit) to the individual who completed the form. Once the e-mail has been sent, highlight the row in the spreadsheet yellow indicating that you've contacted the individuals. 
+  - Send [a version of the following templated e-mail](https://docs.google.com/document/d/1Xag1PA5Ya2iEqpYTKjaKR9gh-JqhsS-yKiZaCAA9VUk/edit) to the individual who completed the form. Once the e-mail has been sent, highlight the row in the spreadsheet yellow indicating that you have contacted the individuals.
 - Communications Tasks
 	- Inform The Carpentries Core Team Liaisons about the Community Discussion by emailing `community@carpentries.org`.
 	- Draft tweets for Community Discussion
-    - Make a copy of [this template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0) and draft tweets to spread the word about the Community Discussion. 
+    - Make a copy of [this template](https://docs.google.com/spreadsheets/d/1REIQrKnbFFgiNU0tjKLHLXARnIYaMIXlgZbmz8o5Boo/edit#gid=0) and draft tweets to spread the word about the Community Discussion.
 		- Send the tweet template to the Communications Manager by emailing `okhan@carpentries.org`.
 - Request Blog Post to Promote Community Discussion
-  - Remind facilitator to write a blog post to get the word out about the community discussion. [Here's a handy blog post drafting guide to help them get started](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html?highlight=blog%20posts)
-  
+  - Remind facilitator to write a blog post to get the word out about the community discussion. [Here is a handy blog post drafting guide to help them get started](https://docs.carpentries.org/topic_folders/communications/submit_blog_post.html?highlight=blog%20posts)
+
 ### Scheduling Pre- and Post-Workshop Community Discussions
 
 1. Coordinate with Infrastructure Team (Maneesha Sane) regarding quarterly sign-ups. This process has been semi-automated with the use of Calendly.
@@ -78,16 +78,8 @@ Attendee questionnaire to be completed at the end of call: https://goo.gl/forms/
 - Upload Community Discussion Recording to YouTube
 	- Contact the Community Development Team on `community@carpentries.org` to have the recording of the Community Discussion uploaded to [The Carpentries YouTube Channel](https://www.youtube.com/channel/UCBOUNBBZxc4DML3F89cEvGA).
 - Add Community Discussion to the [Past Calls](https://carpentries.org/community_discussions/#past-calls) section of the Community Discussions page on The Carpentries website.
-- Send thank you notes to the Community Discussion Facilitator & Moderator using [this template email as a starting point if need be](https://docs.google.com/document/d/1Y-LuKXwe3NF8HC2v_Og3jOkihjre9Q9x-KSWlIUhEKw/edit). 
+- Send thank you notes to the Community Discussion Facilitator & Moderator using [this template email as a starting point if need be](https://docs.google.com/document/d/1Y-LuKXwe3NF8HC2v_Og3jOkihjre9Q9x-KSWlIUhEKw/edit).
 - Review Discussion Questionnaire Results
   - Request access to the results of the Community Discussion Questionnaire. Review the results and share your notes with the rest of the [Instructor Development Committee Leadership Team](https://docs.carpentries.org/topic_folders/instructor_development/instructor_development_committee.html).
 - Review the Community Discussion blog post and ask Community Development Team to merge by emailing `community@carpentries.org` or tagging `@kmomar` in the PR.
   - If the discussion host wrote a blog post, review the blog post and the results of the questionnaire. Add/edit blog post content and be sure to include any responses from the survey that are valuable/interesting before requesting the Communications Lead to merge.
-
-
-
-
-
-
-
-

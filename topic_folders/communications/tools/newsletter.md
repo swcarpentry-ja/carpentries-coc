@@ -39,9 +39,9 @@ Select *Edit design* to add newsletter content. When the newsletter opens, click
 
 Remove the old content and paste in the new, leaving the headings so that the formatting for them is not disturbed.
 
-Be sure to update the date at the top of the email as well. 
+Be sure to update the date at the top of the email as well.
 
-Highlight each paragraph and click *Clear styles* if anything you are copying in appears in bold when you don't want it to.
+Highlight each paragraph and click *Clear styles* if anything you are copying in appears in bold when you do not want it to.
 
 Add images by clicking on the *Image* icon in the edit window.  All images must be no more than 550px wide to render properly. These can be resized within MailChimp by working with the image styling and location.
 
@@ -49,7 +49,7 @@ Go to *Preview and Test* to preview the newsletter before sending it out. This i
 
 *Save and Close* and schedule the newsletter to be sent.  This should be set for Wednesday at 9 am Eastern time. **Be sure it is set for _AM_, not _PM_.** A confirmation message saying **"Rock On! Your campaign has been scheduled"** will be displayed, and a link to a published view of the newsletter will be displayed. Paste this link into the Core Team channel so Core Team have a chance to review the newsletter before it goes out.
 
-The newsletter will now be locked. If any changes need to be made after the newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign. 
+The newsletter will now be locked. If any changes need to be made after the newsletter has been scheduled, you will need to _pause_ the campaign, make changes, and restart the campaign.
 
 After a campaign has been paused and then restarted, it is important to double check that the date and time for sending out the newsletter is still correctly set as this will often default to the current time, rather than the original scheduled time.
 
