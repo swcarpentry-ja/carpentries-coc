@@ -11,8 +11,8 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 * The room should have a projector and screen that everyone can see, with HDMI, VGA, and Mac adapters to allow anyone to plug in their laptop.
 * High speed Wi-Fi internet access that can withstand everyone using it together. This may include securing guest access codes.
 * Power outlets for all participants. This may include setting up extension cords or power strips.
-* High table or podium that instructor can stand at while teaching.  A flat podium is important; it's difficult to use a laptop on a slanted podium.
-* Refreshments. People learn better when they are well fed.  They also won't lose as much instructional time if they don't have to leave to get coffee.
+* High table or podium that instructor can stand at while teaching.  A flat podium is important; it is difficult to use a laptop on a slanted podium.
+* Refreshments. People learn better when they are well fed.  They also will not lose as much instructional time if they do not have to leave to get coffee.
 
 #### Equipment and Materials
 
@@ -25,7 +25,7 @@ A good venue is crucial to establishing a positive learning environment.  Some t
 
 #### Accessibility
 
-It's important to make sure the workshop space is accessible to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not:
+It is important to make sure the workshop space is accessible to all individuals. The registration form should ask whether instructors, helpers, and learners need any advance arrangements to ensure they can participate in the event. This may include considering whether or not:
 
 * Building and room are accessible to those who can not use stairs (ramps, elevators, etc.)
 * Restrooms are accessible

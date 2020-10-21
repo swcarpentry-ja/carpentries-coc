@@ -68,4 +68,4 @@ If you would like to contribute to the development of our lessons,
 a good place to start is our [Help Wanted page](https://carpentries.org/help-wanted-issues/),
 where you can find issues from our repositories that are in need of attention.
 You can find a number of contacts for specific areas of work on our [Get Involved](https://carpentries.org/community/) page.
-Please [email us](mailto:team@carpentries.org) if you'd like to help but are not sure who to approach.
+Please [email us](mailto:team@carpentries.org) if you would like to help but are not sure who to approach.

@@ -11,7 +11,7 @@ A workshop host contacts The Carpentries Core Team about running a workshop.  He
 1. Work with The Carpentries Program Manager and Workshop Administration Team to set dates and location for your workshop
     * Be sure to account for other events and programs at your site that may affect room availability and participant availability
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
-1. Recruit helpers to join your workshop. They don't need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
+1. Recruit helpers to join your workshop. They do not need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
 1. Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
 1. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
 1. Work with The Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
@@ -20,7 +20,7 @@ A workshop host contacts The Carpentries Core Team about running a workshop.  He
 1. Arrange for [required materials and equipment](workshop_needs.md)
 1. Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 1. Email learners to remind them of workshop location, timing, pre-workshop survey and software installation requirements
-1. Organise a meetup with the instructors the day before the workshop.  While this is not always possible, it's useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
+1. Organise a meetup with the instructors the day before the workshop.  While this is not always possible, it is useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
 
@@ -99,30 +99,30 @@ Helpers are often recruited from the local community at the host site to support
 
 **Teaching Rules:**  
 
-**Rule #1: Be kind** 
+**Rule #1: Be kind**
 
 This means to be inclusive, respectful, mindful and welcoming.
 
 **Rule #2: Remember that we are all learners**  
 
-Admitting that you don't know everything helps create a growth mindset, where we are all constantly learning.
-When you make a mistake, calmly talk about the error, how it's part of the process and necessary to make progress.
+Admitting that you do not know everything helps create a growth mindset, where we are all constantly learning.
+When you make a mistake, calmly talk about the error, how it is part of the process and necessary to make progress.
 
 **Rule #3: Be aware of demotivating attitudes**  
 
 There are several things that can be demotivating or impair the learners' experience. Examples of what not to do:
 
 - Take over the learner's keyboard. Instead, encourage and guide them through the solution, but let them type themselves.
-- Dive into deep discussions with more advanced learners (who might actually not need to be there). You can have those conversations during the break. 
+- Dive into deep discussions with more advanced learners (who might actually not need to be there). You can have those conversations during the break.
 
 **Rule #4: Be aware of demotivating words**  
 
-Avoid saying things like: 
+Avoid saying things like:
 
-- Just: "oh, that's easy, you just..."
-- "It's too easy..."
-- "It's too hard..."
-- "I can't believe you don't know X ..."
+- Just: "oh, that is easy, you just..."
+- "It is too easy..."
+- "It is too hard..."
+- "I cannot believe you do not know X ..."
 - Say negative things about any applications or OS (Word, Excel, Windows, Mac, GUI). No tool is perfect, and this kind of disdain is not productive or conducive to the learning process.
 
 
