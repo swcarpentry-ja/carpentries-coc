@@ -78,7 +78,7 @@
   <ul>
     <li><b>Hex code:</b> #EEEEEE</li>
     <li><b>Short Description:</b> Proposed changes are out of scope </li>
-    <li><b>Long Description:</b> Changes proposed in the issue or in the pull request doesn't fall within the scope of the lesson </li>
+    <li><b>Long Description:</b> Changes proposed in the issue or in the pull request does not fall within the scope of the lesson </li>
  </ul>
 </li>
 </ul>
@@ -219,7 +219,7 @@ install.packages("remotes")
    "Generate token" at the bottom of the page. The token will be displayed on
    the screen.
 
-1. Using RStudio or text editor, open (or create if it doesn't exist), a
+1. Using RStudio or text editor, open (or create if it does not exist), a
    `~/.Renviron` file, and add (replacing the XXXX with your actual PAT):
 
    ```
@@ -233,7 +233,7 @@ install.packages("remotes")
     ```
 
    If everything worked, you should see your PAT being displayed. If something
-   didn't work it will display empty quotes (`""`).
+   did not work it will display empty quotes (`""`).
 
 1. Use the `remotes` package to install `chisel`. Type at the R console in
    RStudio:
