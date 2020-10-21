@@ -31,7 +31,7 @@ Note: These guidelines are adapted from those currently in use by the Data Carpe
 
 ## How to Stay in Touch
 
-The overall Maintainer community communicates using our [mailing list](https://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you don't already have a Slack account with The Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
+The overall Maintainer community communicates using our [mailing list](https://carpentries.topicbox.com/groups/maintainers) and our [Slack channel](https://swcarpentry.slack.com/messages/C8H5LN44V/details/). If you do not already have a Slack account with The Carpentries, you can [create one](https://swc-slack-invite.herokuapp.com/).
 
 The Maintainer community meets monthly to discuss issues relevant to all lesson Maintainers. Our meeting schedule can be found on [our Etherpad](http://pad.software-carpentry.org/maintainers) and on the [community calendar](https://carpentries.org/community/#community-events).
 
@@ -70,7 +70,7 @@ the onboarding process.
 1. Once the application period has closed, reviewing applications and send accepted applicants an [invitation](email_templates.html#inviting-new-maintainers) to become a Maintainer.
 1. To set up a scheduling poll to schedule Maintainer Onboarding, use [WhenIsGood](http://whenisgood.net/). Click "Use Timezones" and then "SHOW OPTIONS". Unselect Sunday and Saturday. Add Duration = 60 minutes. Select "hide dates".
 1. Add Maintainers who are going through training to the [maintainer-onboarding Google Group](https://groups.google.com/a/carpentries.org/forum/#!forum/maintainer-onboarding). This is where announcements about upcoming meetings should be sent.
-1. After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximise attendance. This needs to be done manually from the whenisgood results, as there isn't a "choose two times" option.
+1. After the deadline has passed for responding to the Maintainer Onboarding scheduling poll, select the two times that maximise attendance. This needs to be done manually from the whenisgood results, as there is not a "choose two times" option.
 1. Populate the [Maintainer onboarding Etherpad](http://pad.software-carpentry.org/maintainer-onboarding) with meeting dates and times. Use [timeanddate meeting time announcer](https://www.timeanddate.com/worldclock/fixedform.html) links to make it easy for people to convert meeting times to their own time zone.
 1. Send out an [email](email_templates.html#maintainer-onboarding-meetings) to the Google Group letting everyone know about the scheduling.
 1. Set up a [new event in AMY](../workshop_administration/amy_manual.html#adding-a-new-event) with the slug YEAR-MO-DA-maintainer-onboarding. Add all maintainer trainees as learners. Add onboarding leader as instructor.
@@ -133,6 +133,6 @@ Agenda:
  - Topic 2
 - Current Maintainer RFCs: https://github.com/carpentries/maintainer-RFCs/issues (10 min)
 - Quarterly Software Review (item owned by Lesson Infrastructure Technology Developer) (5 min)
-- Lesson issues to discuss (please add links to the issues you'd like feedback or insight on) (30 min):
+- Lesson issues to discuss (please add links to the issues you would like feedback or insight on) (30 min):
  - Issue 1: {link}
  ```
