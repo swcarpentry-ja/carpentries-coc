@@ -13,11 +13,11 @@ Subject: Recruiting co-instructors for Carpentry Workshop
 
 Hi [ person name ], 
 
-I'm organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
+I am organising a local [ Data/Library/Software ] Carpentry workshop for [ estimated month/season of workshop ].  The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
-I've completed instructor training for The Carpentries and am certified to teach their materials. To run a workshop, I'll need at least one (preferably two) co-instructors to help out in teaching the material. The workshops are two days long and instructors usually switch every half day. I'm planning to cover [ your workshop topics ] and was hoping you could teach the [ topic ] section of the workshop. The Carpentries provides ready-to-go lesson materials, so we wouldn't need to develop anything from scratch. If you're interested, you can see the materials for [ topic ] here [ link to lesson ] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/].
+I have completed instructor training for The Carpentries and am certified to teach their materials. To run a workshop, I will need at least one (preferably two) co-instructors to help out in teaching the material. The workshops are two days long and instructors usually switch every half day. I am planning to cover [ your workshop topics ] and was hoping you could teach the [ topic ] section of the workshop. The Carpentries provides ready-to-go lesson materials, so we would not need to develop anything from scratch. If you are interested, you can see the materials for [ topic ] here [ link to lesson ] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/].
 
-I'm looking forward to running a workshop here and think it will be very helpful to our [ target audience ]. If you're interested in being a co- instructor, please let me know and we can get together and plan. Also let me know if you know anyone else who might be interested and able to help out with the [ topic ] part of the workshop.
+I am looking forward to running a workshop here and think it will be very helpful to our [ target audience ]. If you are interested in being a co- instructor, please let me know and we can get together and plan. Also let me know if you know anyone else who might be interested and able to help out with the [ topic ] part of the workshop.
 
 Looking forward to working with you on this!
 
@@ -32,9 +32,9 @@ Subject: Recruiting helpers for Carpentry Workshop
 
 Hi [ name ], 
 
-I'm running a [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
+I am running a [ Data/Library/Software ] Carpentry workshop on [ dates of workshop ]. The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
-During the workshop, I'll need a few people to help out in case learners run into problems or get stuck. Helpers move around the room to answer questions and help learners work through things like installation problems, error messages and unexpected output. You don't need to be an expert in the tools we're covering, just to have used one or more of them and be comfortable helping people troubleshoot. At this workshop, we're planning on covering [ list of your topics ]. I think you would be a great person to help out with [ topic ]. If you're interested, you can see the materials for [ topic]  here [link to lesson] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/].  Please let me know if you're interested in being a helper and if you know anyone else who might be willing to help out.
+During the workshop, I will need a few people to help out in case learners run into problems or get stuck. Helpers move around the room to answer questions and help learners work through things like installation problems, error messages and unexpected output. You do not need to be an expert in the tools we are covering, just to have used one or more of them and be comfortable helping people troubleshoot. At this workshop, we are planning on covering [ list of your topics ]. I think you would be a great person to help out with [ topic ]. If you are interested, you can see the materials for [ topic]  here [link to lesson] and the rest of the curricular materials here [link to http://www.datacarpentry.org/lessons/ or https://software-carpentry.org/lessons/ or https://librarycarpentry.org/lessons/].  Please let me know if you are interested in being a helper and if you know anyone else who might be willing to help out.
 
 Best,
 
@@ -47,7 +47,7 @@ Subject: Carpentries workshop at [ site name ]
 
 On [ dates ], [ organisation name ] is hosting a [ Data/Library/Software ] Carpentry workshop for [ target audience/domain ]. 
 
-The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they've learned to their own work. I'm really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
+The Carpentries is a fiscally sponsored project of Community Initiatives. They teach skills that are immediately useful for researchers, using lessons and datasets that allow researchers to quickly apply what they have learned to their own work. I am really excited about using the [ Data/Library/Software ] Carpentry curriculum here to help our [graduate students/Core Team/faculty - your target audience] become more efficient in their research.
 
 
 This workshop is focused on [ Carpentry/domain ]. The curriculum will include:
@@ -84,7 +84,7 @@ Make sure you have the necessary software installed on your laptop [ list requir
 
 [ Say if you will be providing coffee, snacks, and/or lunch. Include time of lunch break if not providing lunch. ] 
 
-If you won't be able to attend, please let us know so that we can offer your seat to someone on the waitlist. 
+If you will not be able to attend, please let us know so that we can offer your seat to someone on the waitlist. 
 
 Some links that will be used in the workshop: workshop page [ link to workshop page ], lesson materials [ link to lesson materials ], Etherpad [ link to workshop Etherpad ].  
 
@@ -142,7 +142,7 @@ Best,
 
 Hello,
 
-We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] (INSERT WORKSHOP WEBSITE LINK). To help your instructors provide an inclusive environment, and to learn more about your current experience with the tools you'll learn, we ask that you complete our pre-workshop survey ( INSERT LINK TO SURVEY ). 
+We are excited to meet you at the upcoming [ Data/Software/Library Carpentry workshop ] (INSERT WORKSHOP WEBSITE LINK). To help your instructors provide an inclusive environment, and to learn more about your current experience with the tools you will learn, we ask that you complete our pre-workshop survey ( INSERT LINK TO SURVEY ). 
 
 Your responses will be recorded anonymously. Your IP address will be registered; however, your responses will remain anonymous. You are not required to take this survey to participate in our workshop, but your responses are very valuable to us. You may quit the survey at any time, or skip any item other than those required to correctly sort your responses. 
 
@@ -155,7 +155,7 @@ Your instructors
 
 Hello,
 
-Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We'd like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (  INSERT LINK TO SURVEY  ) as soon as possible.
+Thank you for attending the recent [ Data/Library/Software Carpentry workshop ]. We hope you left your workshop feeling empowered to continue learning more about the tools that were covered. We would like to capture your thoughts about what was covered and your perception of the workshop overall. Please complete the post-workshop survey at (  INSERT LINK TO SURVEY  ) as soon as possible.
 
 If you have any questions about our assessment strategy, please contact Kari L. Jordan, Director of Assessment and Community Equity for The Carpentries at kariljordan@carpentries.org. We look forward to your continued involvement with our community!
 
