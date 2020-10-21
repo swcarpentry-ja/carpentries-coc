@@ -14,7 +14,7 @@ Click on "Manage Events" under "CARPENTRIES"
 
 ![Eventbrite new event](images/eventbrite_start.png)
 
-You'll see Live, Draft, and Past workshops. To create a new event, you can use one of the existing drafts as a template. Click on "Drafts."
+You will see Live, Draft, and Past workshops. To create a new event, you can use one of the existing drafts as a template. Click on "Drafts."
 
 ![Eventbrite events](images/eventbrite_livedraftpast.png)
 
@@ -58,7 +58,7 @@ For paid tickets, you can customise the ticket type name. Edit the number of tic
 ![Eventbrite paid ticket settings](images/eventbrite_paidticketsettings.png)
 ![Eventbrite paid ticket settings](images/eventbrite_refunds.png)
 
-At this point the event is almost ready to be published.  It's a good idea to let the host contact look over the page before it goes live. You can do this by initially publishing it as password protected.
+At this point the event is almost ready to be published.  It is a good idea to let the host contact look over the page before it goes live. You can do this by initially publishing it as password protected.
 
 ![Eventbrite password settings](images/eventbrite_savepassword.png)
 
@@ -74,13 +74,13 @@ Share this link with the host site along with the password you created so they c
 
 #### Giving Hosts Access to View Registration
 
-Often a workshop host will want to check in to see who's registered, manage the waitlist, email registrants, etc. You can set this up through Account Settings.
+Often a workshop host will want to check in to see who is registered, manage the waitlist, email registrants, etc. You can set this up through Account Settings.
 
 ![Eventbrite account settings](images/eventbrite_acctsettings.png)
 
 From here, select "Multi user access" from the options on the left.
 
-You'll see a list of all email addresses that have access to at least one of our events. If you're giving an existing user access to a new event, select "edit" next to their email address.  Otherwise click the "Add Email Address" button at the bottom of the page.
+You will see a list of all email addresses that have access to at least one of our events. If you are giving an existing user access to a new event, select "edit" next to their email address.  Otherwise click the "Add Email Address" button at the bottom of the page.
 
 Enter the person's email address and give them access to their event only.
 
