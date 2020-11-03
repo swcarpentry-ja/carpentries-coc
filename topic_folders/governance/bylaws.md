@@ -24,13 +24,13 @@ A Lesson Program within The Carpentries should possess the following characteris
 - Evidence of community member commitment to Lesson Program governance (see below), lesson maintenance, and curriculum development
 
 ### Governance of Lesson Programs
-Each Lesson Program will have a Lesson Program Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and Core Team. The Lesson Program Committee will provide the Executive Council with an annual report of Lesson Program operations.
+Each Lesson Program will have a Curriculum Advisory Committee to serve as community governance organisation and act as a point of contact with The Carpentries Executive Council and Core Team. The Curriculum Advisory Committee will provide the Executive Council with an annual report of Lesson Program operations.
 
 ### Resignation and Termination of Lesson Programs
-In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and The Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Lesson Program Committee can choose to discontinue the Lesson Program's association with The Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
+In the event that either the Lesson Program or The Carpentries is not fulfilling its obligations under the Lesson Program Policy, or the mission and vision of The Carpentries and the Lesson Program no longer align, the relationship between the Lesson Program and The Carpentries can be terminated. The Executive Council may decide to retire the Lesson Program through a majority vote, or the Curriculum Advisory Committee can choose to discontinue the Lesson Program's association with The Carpentries. In either case, notice must be given to the other organisation to arrange for separation of responsibilities and resources.  
 
 ## 3. Organisational Membership
-### Eligibility, Rights, and Termination of Organisational Members
+
 Member Organisations have committed to supporting the maintenance and growth of The Carpentries community according to the specific details outlined in each institution's Membership Agreement. In general, Member Organisations financially support The Carpentries in exchange for priority access to instructor training and guidance in building training capacity at their organisation.
 
 ## 4. Individual Voting Membership
@@ -43,19 +43,22 @@ In a yearly timeframe associated with the dates of the election, starting Decemb
 1. Every individual who has completed Instructor or Trainer certification in the past year
 2. Every individual who has completed their Instructor or Trainer certification in the last two years and has taught at least one official workshop of The Carpentries
 3. Every individual who is a certified Instructor or Trainer and has taught at least two official workshops of The Carpentries in the past two years
-4. Any individual who has participated on a committee, served as a Mentor or Maintainer, or otherwise made a significant contribution, to any Lesson Program or The Carpentries organisation in the past year, as determined on a case-by-case basis by the Executive Council, and thus is considered active in the community
+4. Any individual who has contributed to The Carpentries through [participation on a Committee or Task Force, serving as a mentor or maintainer](https://carpentries.org/community/), or otherwise making a significant contribution to any Lesson Program or The Carpentries organisation in the past year, as and thus is considered active in the community
 
 The Executive Director is not eligible for Voting Membership.
 
-All individuals who satisfy conditions 1-3 above are automatically tracked and will receive Voting Membership. Any individual who only satisfies condition 4 may receive Voting Membership by contacting The Carpentries Core Team within a reasonable timeframe prior to release of ballots to confirm their participation, as dictated by the Election Policy. If you’re not sure if you’re a voting-eligible member, log in to [AMY](https://amy.carpentries.org/account/login/) and see if records show that you are eligible based on the criteria above. For more help with accessing and updating your AMY profile, please see [Accessing and Updating Your Instructor Profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile)
+All individuals who satisfy conditions 1-3 above are automatically tracked and will receive Voting Membership. Contributing community members who satisfy condition 4 are indicated by having a badge in AMY, The Carpentries’ internal database. Community members that do not have a badge in AMY, but feel they have contributed sufficiently, can contact The Carpentries Core Team (team@carpentries.org) within a reasonable timeframe prior to release of ballots, as dictated by the Election Policy, to request their voting privileges updated.
+Community members can log in to [AMY](https://amy.carpentries.org/account/login/)
+to check their records and voting-eligible status. For more help with accessing and updating your AMY profile, please see [Accessing and Updating Your Instructor Profile](https://docs.carpentries.org/topic_folders/for_instructors/current_instructors.html#accessing-and-updating-your-instructor-profile).
 
-Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries Core Team for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries.
+Any individual who no longer wishes to be affiliated with The Carpentries or included as a Voting Member must inform The Carpentries Core Team for removal from membership lists. Voting Membership may be terminated by a majority vote of the Executive Council for individuals who are recommended for termination by the Code of Conduct Committee or Executive Director for non-compliance with The Carpentries policies or violation of the core values of The Carpentries.
 
 ## 5. Executive Council
 
 ### General Powers
 As the highest leadership body of the organisation, the Executive Council is responsible for:
 - determining the mission, vision and purposes of the organisation
+- write, maintain and update the bylaws
 - selecting the Executive Director and evaluating their performance
 - strategic and organisational planning
 - ensuring strong fiduciary oversight and financial management
@@ -74,7 +77,8 @@ Each Member of the Executive Council is responsible for:
 - preparing for, attending, and conscientiously participating in Executive Council meetings
 
 ### Number, Tenure, Requirements, and Qualifications
-The Executive Council will be composed of nine Members, each serving a two-year term, without limit on the number of terms. Member terms will begin on February 1st following the election, except when filling between-election vacancies (see below). Five Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected Members"). The other four Members will be elected by the Membership of the organisation ("Community-elected Members").
+The Executive Council will be composed of nine Members, each serving a two-year term. Member terms will begin on February 1st following the election, except when filling between-election vacancies (see below). Five Members of the Executive Council will be elected by the Executive Council (hereafter referred to as "Council-elected Members"). The other four Members will be elected by the Membership of the organisation ("Community-elected Members").
+Executive Council members will not serve for more than three consecutive 2 year terms, followed by at least a one year hiatus before serving any new term(s).
 No employer may have more than two elected or appointed representatives on the Executive Council, and Carpentries Core Team are not eligible to serve as Executive Council Members. The Executive Council has the final say in determining whether people are working for the same employer. If more than two people who are working for the same employer are elected, they must step down one by one to be replaced by other nominees in order of the number of votes received.
 
 ### Regular Meetings and Quorum
@@ -87,7 +91,7 @@ Members of the Executive Council shall not receive compensation from the Organis
 Members of the Executive Council will sometimes discuss or be made aware of information or activities that may be sensitive to share publicly (e.g. salary information). Executive Council Members are expected to treat such information confidentially and to disclose such information to those outside the Executive Council only when the Executive Council has agreed that such dissemination is appropriate.
 
 ### Removal
-If a Member of the Executive Council consistently fails to meet the obligations outlined above, they may be removed by a vote of three-quarters of the other Members of the Executive Council. A vote to remove a Member must be announced in writing (in the meeting agenda) to the entire Executive Council at least ten days in advance to vote on the removal. A vacated Executive Council seat will be filled following the Between-election vacancies procedure outlined in the Nominations and Elections section. 
+If a Member of the Executive Council consistently fails to meet the obligations outlined above, they may be removed by a vote of three-quarters of the other Members of the Executive Council. A vote to remove a Member must be announced in writing (in the meeting agenda) to the entire Executive Council at least ten days in advance to vote on the removal. A vacated Executive Council seat will be filled following the Between-election vacancies procedure outlined in the Nominations and Elections section.
 
 ## 6. Nominations and Elections
 
@@ -132,7 +136,7 @@ Responsibilities of each officer of the Executive Council are as follows:
 
 ### Vice-Chair
 - Understand the responsibilities of the Executive Council Chair and be able to perform these duties in the chair's absence
-- Participate in leadership of the Executive Council by chairing special committees and carrying out assignments as requested by the Chair
+- Participate in leadership of the Executive Council by chairing special Committees and carrying out assignments as requested by the Chair
 - Ensure the circulation of agendas, minutes, and other communications to the Executive Council
 - Ensure that any Executive Council members who have been given tasks know what it is they have been asked to do
 - Check that action has been taken following decisions at previous meetings
@@ -154,10 +158,19 @@ All officers must be members of the Executive Council. Officers will be selected
 ### Removal of Officers
 If an officer steps down, is removed from the Executive Council, or is otherwise unable to meet their obligations as determined by the Chair and/or Vice Chair, a new officer will be elected from the remaining Executive Council Members.
 
-## 8. Committees
+A detailed description of the Responsibilities of Executive Council members and officers is described [elsewhere](https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md#executive-council-roles-and-responsibilities).
 
-### Committee Formation
-Committees are organised by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Task forces are similar in that they perform specific tasks, but on a short-term basis (e.g., a year or less) and may be organised by Core Team. Both committees and task forces are overseen by Core Team, although the Executive Council may request quarterly reports on each group’s activities.
+## 8. Committees and Task Forces
+
+### Committees
+Committees are organised by the Executive Council to carry out specific tasks as delegated on an ongoing basis. Formation, Operations and terminations of Committees are regulated in the [Committee Policy](https://docs.carpentries.org/topic_folders/governance/committee-policy.html).
+Both Committees and Task Forces are overseen by Core Team, although the Executive Council may request quarterly reports on each group’s activities.
+
+### Task Forces
+Task Forces are organised by the Executive Council to carry out specific tasks on a short-term basis (e.g., a year or less). Formation, Operations and terminations of Task Forces are regulated in the [Task Force Policy](https://docs.carpentries.org/topic_folders/governance/task-force-policy.html).
+
+### CarpentryCon Task Force
+CarpentryCon is the key community-building and networking event in The Carpentries' calendar of activities. This event brings together newer and more experienced community members to share knowledge, to network, to develop new skills, and to develop strategies for building strong local communities. Location and frequency of the meeting is determined by the CarpentryCon Task Force.
 
 ## 9. Core Team
 
@@ -175,4 +188,4 @@ Any changes to these bylaws require a majority vote of the Executive Council. Th
 
 Update log:
 - [Approved 2018-11-01](https://github.com/carpentries/executive-council-info/issues/7) by the Executive Council
-- [Amended 2020-09-25](https://github.com/carpentries/docs.carpentries.org/pull/670) by the Executive Council
+- Amended [2020-09-25](https://github.com/carpentries/docs.carpentries.org/pull/670) and [2020-10-22](https://github.com/carpentries/docs.carpentries.org/pull/681) by the Executive Council
