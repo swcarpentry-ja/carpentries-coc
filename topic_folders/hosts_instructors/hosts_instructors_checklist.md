@@ -2,25 +2,25 @@
 
 #### Host Checklist
 
-A workshop host contacts The Carpentries Core Team about running a workshop.  He or she will work with The Carpentries Program Manager and Workshop Administration Team to plan and implement the workshop.
+A workshop host contacts The Carpentries Core Team about running a workshop.  They will work with The Carpentries Workshop Administration Team to plan and implement the workshop.
 
 **Before the workshop, the host will**
 
 1. Decide on the [Software Carpentry](https://software-carpentry.org/lessons/), [Data Carpentry](http://www.datacarpentry.org/lessons/), or [Library Carpentry](https://librarycarpentry.org/lessons/) curriculum that would best serve your learners
 1. Fill out the [workshop request form](https://amy.carpentries.org/forms/workshop/)
-1. Work with The Carpentries Program Manager and Workshop Administration Team to set dates and location for your workshop
+1. Work with The Carpentries Workshop Administration Team to set dates and location for your workshop, unless your workshop is virtual
     * Be sure to account for other events and programs at your site that may affect room availability and participant availability
     * Ensure your location is [accessible](workshop_needs.html#accessibility)
-1. Recruit helpers to join your workshop. They do not need to be directly connected with us. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
+1. Recruit helpers to join your workshop. They do not need to be directly connected with The Carpentries. They do need basic knowledge of the tools we teach and enthusiasm to help others learn.  We recommend 1 helper for every 8-10 students, not counting the two instructors.
 1. Advertise your workshop. The Workshop Administration Team can help by creating an Eventbrite registration page.
 1. Decide if you want to charge a workshop fee. Even a small fee can greatly reduce the no-show rate. If the Workshop Administration Team creates an Eventbrite registration page, The Carpentries can collect this fee via Eventbrite and use it to offset your workshop fee.
-1. Work with The Carpentries Program Manager and Administrative Support Specialist to make arrangements to pay the workshop fee (only for centrally organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
-1. Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses)
+1. Work with The Carpentries Operations Manager to make arrangements to pay the workshop fee (only for centrally organised workshops). This includes being sure vendor forms or other documentation are in place. The actual invoice will be issued after the workshop is complete.
+1. Make travel arrangements for visiting instructors (or communicate process to reimburse them for expenses) if the workshop is in person
 1. Get emergency contact information for instructors in case of last minute changes
 1. Arrange for [required materials and equipment](workshop_needs.md)
 1. Arrange for coffee, snacks, and/or lunch. We all learn better with fuel!
 1. Email learners to remind them of workshop location, timing, pre-workshop survey and software installation requirements
-1. Organise a meetup with the instructors the day before the workshop.  While this is not always possible, it is useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
+1. Organise a meetup with the instructors the day before the workshop if the workshop is in person, or sooner if the workshop is virtual.  While this is not always possible, it is useful for the host and instructors to get to know each other. This can be over coffee, dinner, or anything else that works for your team.
 
 **During the workshop, the host will**
 
@@ -43,7 +43,7 @@ Invoices overdue 4 or more months may lead to the cessation of work on current a
 
 #### Instructor Checklist
 
-The Program Manager or Workshop Administration Team will introduce workshop hosts and instructors.
+The Workshop Administration Team will introduce workshop hosts and instructors.
 
 **Before the workshop, instructors will**
 
