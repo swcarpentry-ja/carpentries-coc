@@ -67,7 +67,7 @@ The language we adapt in our communications should embody our "***people first, 
 
 Depending on the subject and context (i.e. audience) of our communications, the tone we use should be an amalgamation of several attributes, some of which are listed in the table below. The Carpentries badge spells out where on the scale the tone of our communications should fall at any given time.
 
-![Communications Tone Scale](https://github.com/carpentries/handbook/raw/master/img/comms-images/comms-tone-scale.png)
+![Communications Tone Scale](https://github.com/carpentries/handbook/raw/main/img/comms-images/comms-tone-scale.png)
 
 The Carpentries messaging is primarily relayed via the following formats: <br><br>
 
