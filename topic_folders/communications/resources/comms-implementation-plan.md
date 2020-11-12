@@ -33,8 +33,8 @@ For every project, a complete communications plan will be the sum total of four 
 The role of the Community Development team is to help align all of The Carpentries’ communications with our strategy, and empower our community by communicating effectively. To help The Carpentries’ Communications team review your project communications adequately, each project team will schedule an hour-long communications brainstorm session at the onset of their project to talk about Project particulars highlighted in orange. 
 Highlighted in green are existing project details you will need to have before the Communications brainstorm meeting in order for us to collaboratively develop a wholesome communications plan.
 
-![](https://github.com/carpentries/handbook/raw/master/img/comms-images/comms-plan-1.png)
-![](https://github.com/carpentries/handbook/raw/master/img/comms-images/comms-plan-2.png)
+![](https://github.com/carpentries/handbook/raw/main/img/comms-images/comms-plan-1.png)
+![](https://github.com/carpentries/handbook/raw/main/img/comms-images/comms-plan-2.png)
 
 ### Audience Mapping
 
