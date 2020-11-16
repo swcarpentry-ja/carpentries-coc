@@ -135,6 +135,9 @@ Always spell out in writing the numbers from one to nine. Use numerals for numbe
 Render as two-thirds, three-quarters, etc., but two and a half needs no hyphens.<br>
 _See also [figures](#figures)._
 
+##### full-stops
+The first character after a full-stop should be capitalised and have one space before it, rather than two.
+
 ---
 
 ## G 
@@ -155,6 +158,9 @@ Honourifics such as FRCS should not include full stops.
 ---
 
 ## I
+
+##### i.e.
+include full stops, does not precede a comma in British English
 
 ##### inclusivity
 Use inclusive language.  This includes word choice that recognises the complexity of the subject matter and respects the diversity of all members of the community. Use globally accessible references, either with a more common name or a more verbose description.
@@ -192,6 +198,16 @@ Always spell out in writing the numbers from one to nine. Use numerals for numbe
 
 When starting a sentence with any number, the number should be written out as words, _e.g.,_ ‘Twenty-five people attended the workshop.’ ‘Nineteen-ninety-five was not a leap year.’
 
+##### numbered lists
+Like bullet points,should ideally include a full stop after each one if it is not just a list of terms, i.e: <br>
+  1. This is the first numbered item that covers a range of ideas.
+  2. This is the second that also ranges quite widely.
+  3. And this is the third and these are just examples.
+
+But <br>
+  1. Instructors
+  2. Trainers
+  3. Mentors
 ---
 
 ## O
@@ -211,6 +227,8 @@ Carpentries style is to prefer the Oxford comma unless necessary.
 ##### per cent
 Please spell this out in text, _e.g.,_ not as %, and write as two words, not one. 
 
+##### periods
+_See [full stops](#full-stops)._
 ---
 
 ## Q
