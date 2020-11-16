@@ -229,6 +229,7 @@ Please spell this out in text, _e.g.,_ not as %, and write as two words, not one
 
 ##### periods
 _See [full stops](#full-stops)._
+
 ---
 
 ## Q
