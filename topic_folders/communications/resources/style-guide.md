@@ -108,6 +108,9 @@ Use figures for decades, _e.g.,_ the 1990s, the radical 60s, etc. Do not add an 
 _See also [times](#times)._<br>
 _See also [seasons](#seasons)._
 
+##### diacritical marks
+If possible, use the correct diacritical marks on people’s names in any language, _e.g.,_ Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng Nguyễn (Vietnamese).
+
 ---
 
 ## E
@@ -124,15 +127,6 @@ Include final full stop.
  
 ##### figures
 Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, e.g., third, fifth, and thereafter use 10th, 31st, etc.
- 
-##### foreign accents
-If possible, use the correct accents on people’s names in any language, _e.g.,_ Sven-Göran Eriksson (Swedish), Béla Bartók (Hungarian), Phượng Nguyễn (Vietnamese).
- 
-##### foreign names
-The French (or French origin) de, d’, des, la, les or le and the Dutch van are normally lowercase when the name is fully written out, _e.g.,_ Marianne d’Alpuget, Erik van der Walden, but capitalised when written without forenames, _e.g.,_ D’Alpuget, Van der Walden.
-
-##### foreign words and phrases
-Italicise these and provide accents where applicable, _e.g.,_ _bête noire_. In the case of frequently used foreign terms in accepted English usage, _e.g.,_ avant garde, vis a vis, vice versa, you do not need to italicise.
  
 ##### fractions
 Render as two-thirds, three-quarters, etc., but two and a half needs no hyphens.<br>
@@ -174,7 +168,7 @@ not –ization, _e.g.,_ organisation, characterisation.
 not -ize at end of word, _e.g._, characterise, sympathise, organise. One exception is capsize.
  
 ##### italics
-Foreign words and phrases, and scientific names, _e.g._, *Macropus rufus*, *Bufo marinus*.
+Words and phrases in languages other than English, and scientific names, _e.g._, *Macropus rufus*, *Bufo marinus*.
 
 ---
 
@@ -182,7 +176,13 @@ Foreign words and phrases, and scientific names, _e.g._, *Macropus rufus*, *Bufo
  
 ###### names
 Do not use the terms Christian name, first name, or forename. Instead use given name or personal name. We will defer to people's chosen spelling, choice of given name, punctuation, capitalisation, and name order (when known or obtainable).<br>
-_See also [foreign names](#foreign-names)._
+_See also [non-English names](#non-English-names)._
+
+##### non-english names
+The French (or French origin) de, d’, des, la, les or le and the Dutch van are normally lowercase when the name is fully written out, _e.g.,_ Marianne d’Alpuget, Erik van der Walden, but capitalised when written without forenames, _e.g.,_ D’Alpuget, Van der Walden.
+
+##### non-English words and phrases
+Italicise these and provide accents where applicable, _e.g.,_ _bête noire_. In the case of frequently used non-English terms in accepted English usage, _e.g.,_ avant garde, vis a vis, vice versa, you do not need to italicise.
 
 ##### numbers
 Always spell out in writing the numbers from one to nine. Use numerals for numbers 10 to 999,999, and thereafter go back to writing numbers out in full, _e.g.,_ one million readers, eight billion people, but when the first number is above nine, you can go back to figures for that first part, _e.g.,_ 20 million lines. Spell out ordinals from the first to the ninth, _e.g.,_ third, fifth, and thereafter use 10th, 31st, etc.
