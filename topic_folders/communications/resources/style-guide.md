@@ -24,6 +24,9 @@ Use on non-English words when known. People’s names, in whatever language, sho
 ##### adverbs
 
 Hyphens are not needed after adverbs ending in _-ly_, _e.g._ a hotly argued topic, a constantly evolving career, a recently published program, etc. Hyphens are needed with short and common adverbs, _e.g.,_ ever-faithful follower, ill-written script, much-quoted speech.
+
+#### alphabetisation
+The lesson programs within The Carpentries, when listed together, should be listed in alphabetical order: Data Carpentry, Library Carpentry, and Software Carpentry
  
 ##### ampersand
 
