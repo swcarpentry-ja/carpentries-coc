@@ -25,5 +25,29 @@ Sincerely,
 [Your name]
 [Your role within The Carpentries]
 
-## [Appeal Video from The Executive Director - Long Form](https://youtu.be/EEdBj3vybW4)
-![](https://github.com/carpentries/handbook/raw/main/img/comms-images/fundraising-video-executive-director-long-form.png)
+## Short Calls to Action/Tweet Length Messages
+- A Call To Action: Support The Carpentries <br />
+Read Executive Director, @DrKariLJordan's  letter to The Carpentries Community and consider donating to The Carpentries to help us reach our 2020 fundraising goal! <br /> https://carpentries.org/blog/2020/11/a-call-to-action-donate-to-the-carpentries/
+
+- “The Carpentries supports more than 1,700 highly skilled instructors in communities in 61 countries… Now more than ever we need you to champion our mission.” - Dr. Kari L. Jordan <br />
+Help us teach data skills to the communities that need them most<br />
+https://carpentries.wedid.it/campaigns/8261 
+
+- Thank you to everyone who has donated so far to help The Carpentries achieve our mission! With your help we are on track to reach our goal.<br/>
+Please consider donating to help us achieve our 2020 fundraising goal
+https://carpentries.wedid.it/campaigns/8261
+
+
+## Videos
+
+### [Appeal Video from The Executive Director - Long Form](https://youtu.be/EEdBj3vybW4)
+
+### [Appeal Video from The Executive Director - Short Form](https://youtu.be/pibzxCFaM3I)
+
+### [The Carpentries | Our Goal (Shorter appeal video with community](https://youtu.be/KiTjUuEC4_I)
+
+## Appeal Images
+### Fundraising Letter Pull Quote
+![](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/EOCY-fundraising-letter-pullquote.jpg)
+### Fundraising Video Title Card
+![](https://github.com/carpentries/docs.carpentries.org/raw/main/img/comms-images/fundraising-video-title-card.jpg)
