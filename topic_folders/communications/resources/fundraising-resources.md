@@ -44,7 +44,7 @@ https://carpentries.wedid.it/campaigns/8261
 
 ### [Appeal Video from The Executive Director - Short Form](https://youtu.be/pibzxCFaM3I)
 
-### [The Carpentries | Our Goal (Shorter appeal video with community](https://youtu.be/KiTjUuEC4_I)
+### [The Carpentries | Our Goal (Shorter appeal video with community)](https://youtu.be/KiTjUuEC4_I)
 
 ## Appeal Images
 ### Fundraising Letter Pull Quote
