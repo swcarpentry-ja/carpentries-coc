@@ -25,6 +25,5 @@ Sincerely,
 [Your name]
 [Your role within The Carpentries]
 
-## Appeal Video from The Executive Director - Long Form
-[![Appeal Video from The Executive Director]({{ site.urlimg }}/img/comms-images/fundraising-video-executive-director-long-form.png)](https://youtu.be/EEdBj3vybW4)
- _Appeal Video from The Executive Director_
+## [Appeal Video from The Executive Director - Long Form](https://youtu.be/EEdBj3vybW4)
+![](https://github.com/carpentries/handbook/raw/main/img/comms-images/fundraising-video-executive-director-long-form.png)
