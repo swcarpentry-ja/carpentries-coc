@@ -25,6 +25,27 @@ Sincerely,
 [Your name]
 [Your role within The Carpentries]
 
+## Donation Request Letter - Organisation
+Hello [potential donor’s name]
+
+I am writing to thank you for [previous interaction or partnership]. By partnering with us on [previous interaction] The Carpentries was able to [positive result or impact]. As we move into the fourth quarter of the year, I want to make you aware of another  opportunity for [their organisation] to partner with The Carpentries. 
+
+This year has been a challenging one for us all, and we understand the impact this crisis has had on The Carpentries community, and other communities around the world.  As the world shifts to virtual instruction, we believe the importance of digital skills is undeniable; educators and organisations are collaborating to support effective instructional strategies, and with your help, The Carpentries is primed to thrive in this environment. Despite the unprecedented impact of the Coronavirus pandemic, our instructors have run even more self-organised workshops this year than we anticipated, teaching our established digital skills curricula, but our work is never finished and we want to do so much more.
+
+The Carpentries supports more than 1,700 highly skilled instructors in communities in 61 countries across the world. We have experience training educators, researchers, librarians, and technologists. We are working to scale our instructor training and curriculum development programs to respond to the shift in the nature of education around the world. Now more than ever we need organisations like [       ] to champion our mission. With your help, we can teach data skills to the communities that need them most. We invite [organisation] to donate any amount you feel comfortable with.
+
+Our goal is to raise $100,000 by December 31, 2020. Will you help us get there?
+
+Your organisation’s donation will allow The Carpentries to expand into new geographies and new disciplines, and will help bring workshops to individuals who might otherwise have barriers to participation.
+
+If you are interested in partnering with us with a donation or have any questions, please reply directly to this email. I am also available to discuss our fundraising goal via phone or Zoom call.
+
+Thank you so much!
+
+Sincerely,
+[Your name]
+[Your role within The Carpentries]
+
 ## Short Calls to Action/Tweet Length Messages
 - A Call To Action: Support The Carpentries <br />
 Read Executive Director, @DrKariLJordan's  letter to The Carpentries Community and consider donating to The Carpentries to help us reach our 2020 fundraising goal! <br /> https://carpentries.org/blog/2020/11/a-call-to-action-donate-to-the-carpentries/
