@@ -71,7 +71,7 @@ Active Trainers may elect to become inactive by requesting Trainer Alumni status
 Trainer Alumni will not be permitted to:
 - teach Carpentries Instructor Training workshops
 - host teaching demonstrations
-- vote in Trainer community elections
+- vote in Trainer community elections  
 Exceptions may be made at the discretion of The Carpentries Core Team. To request permission to teach or host a demo, contact team@carpentries.org.
 
 Trainer Alumni may select to:
