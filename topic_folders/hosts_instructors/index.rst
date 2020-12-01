@@ -78,3 +78,15 @@ In the wake of COVID-19 in early 2020, The Carpentries community came together t
    :glob:
    
    resources_for_online_workshops.md
+
+
+Publishing Workshops
+******************************
+
+Workshops are published to `The Carpentries website <https://carpentries.org>`_  and the appropriate lesson program sites (`Data Carpentry <https://datacarpentry.org>`_, `Library Carpentry <https://librarycarpentry.org>`_, or `Software Carpentry <https://software-carpentry.org>`_)  when all of the following criteria are met:
+
+    * A workshop request or notification form has been submitted
+    * The workshop request form gives permission to list the workshop on our websites
+    * The workshop venue has been identified on the workshop website
+    * At least one instructor is identified
+
