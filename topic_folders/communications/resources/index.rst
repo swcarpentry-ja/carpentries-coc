@@ -14,4 +14,5 @@ RESOURCES
    logos.md
    presentations.md
    comms-strategy.md
-   comms-implementation-plan.md   
+   comms-implementation-plan.md
+   fundraising-resources.md
