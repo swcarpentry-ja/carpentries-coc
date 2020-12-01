@@ -15,7 +15,7 @@ There are many ways to help build The Carpentries community in Latin America.
 - We need help with workshop coordination from people familiar with pricing structures, geography and computational infrastructure in Latin America. 
 - We need local Champions to spread the word about The Carpentries and the work that we do and advocate for The Carpentries workshops and memberships in the region.
 
-If you can help in any of these ways, or know of another way you can support development of The Carpentries community in Latin America, please [get in touch via the mailing list!](local-latinoamerica@lists.carpentries.org) 
+If you can help in any of these ways, or know of another way you can support development of The Carpentries community in Latin America, please [get in touch via the mailing list!](mailto:local-latinoamerica@lists.carpentries.org) 
 
 ### Cómo participar / How to Get Involved
 
