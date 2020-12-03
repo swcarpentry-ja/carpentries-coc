@@ -35,6 +35,12 @@ Carpentries community members have written many blog posts and facilitated sever
 - Ibraheem Ali, Jamie Jamison, Kristian Allen, Leigh Phan and Tim Dennis on 16 Jun, [Lessons Learned - Teaching Carpentries Workshop Online UCLA Spring 2020](https://carpentries.org/blog/2020/06/ucla-online-workshop/)
 - Daniel Chen on 26 June, [Online Workshop Logistics and Screen Layouts](https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/)
 - Rosa Lönneborg, Omar Khan, and Serah Rono on 2 July, [Lessons Learned - Teaching Carpentries Workshops Online in Sweden, May 2020](https://carpentries.org/blog/2020/07/stockholm-online-workshop/)
+- Shoaib Sufi, Aleksandra Nenadic, Rachael Ainsworth, Lucia Michielin, Steve Crouch, Mario Antonioletti, Giacomo Peru on 10 July, [The Software Sustainability Institute's Guidance for Running Online Training](https://carpentries.org/blog/2020/07/software-sustainability-institute-online-training-guidance/)
+- Richard Darst and Naoe Tatara on 26 August, [Report from the Mega-CodeRefinery Workshop](https://carpentries.org/blog/2020/08/Report-from-the-Mega-Coderefinery-workshop/)
+- Jannetta Steyn on 24 September, [Running Newcastle University's First Online Software Carpentries Workshop](https://carpentries.org/blog/2020/09/Newcastle-first-online-SWC-Workshop/)
+- Jannetta Steyn, Benson Muite, Marissa Griesel, Maggi Mars, Lactatia Motsuku, Varshita Sher, Marissa Griesel, SamuelLe Lelièvre, Angelique van Rensburg on 7 October, [Lessons Learned - Data Carpentries Workshop for SADiLaR (August 31, 2020)](https://carpentries.org/blog/2020/10/Lessons-Learned-DCW-for-SADiLaR-August/)
+- Selorm Tamakloe on 13 October, [Reflections on my First Data Carpentry Workshop](https://carpentries.org/blog/2020/10/reflections-on-my-first-Data-Carpentry-workshop/)
+- Ariel Deardorff, Reid Otsuji, Stephanie Labou, Tim Dennis, Khue Duong, Elizabeth McAulay, Leigh Phan on 22 October, [Teaching a Library Carpentry Workshop in Southern California (and the Virtual Yonder)](https://carpentries.org/blog/2020/10/teaching-a-library-carpentry-workshop-in-southern-california/)
  
 ##### Blog post prompts
  
