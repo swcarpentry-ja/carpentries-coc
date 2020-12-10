@@ -11,5 +11,4 @@ HOW-TO GUIDES
    adhere-style-guide.md
    submit_blog_post.md
    select-blog-tags.md
-   submit-job-posting.md
    share-opportunities.md
