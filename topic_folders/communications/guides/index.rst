@@ -12,4 +12,4 @@ HOW-TO GUIDES
    submit_blog_post.md
    select-blog-tags.md
    submit-job-posting.md
-   submit-news-item.md
+   share-opportunities.md
