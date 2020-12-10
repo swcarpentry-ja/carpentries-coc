@@ -1,6 +1,6 @@
 ## Sharing Job Postings and other Community Opportunities
 
-The Carpentries has three main mechanisms by which to share job postings and other community opportunities: One is within our newsletter, [Carpentries Clippings](https://carpentries.org/newsletter/) the second is our [#jobs channel on Slack](https://join.slack.com/share/zt-jw6ndhkl-rKyqtKGiBZnVtojOUDtgLw)and the third is the [opportunities mailing list on Topicbox](https://carpentries.topicbox.com/groups/opportunities).
+The Carpentries has three main mechanisms by which to share job postings and other community opportunities: One is within our newsletter, [Carpentries Clippings](https://carpentries.org/newsletter/) the second is our [#jobs channel on Slack](https://join.slack.com/share/zt-jw6ndhkl-rKyqtKGiBZnVtojOUDtgLw) and the third is the [opportunities mailing list on Topicbox](https://carpentries.topicbox.com/groups/opportunities).
 
 ### Criteria for Posting
 In order to ensure that postings for opportunities featured on Carpentries channels are applicable and of relevance to our community, The Carpentries Core Team has a list of criteria that a posting must meet in order to be shared. If the posting does not meet the criteria, then the post will be removed or modified after discussion with the poster. However, we reserve the right to remove a posting without notice, in particular, if we believe that the opportunity has been submitted automatically (i.e., by a bot).
@@ -42,7 +42,7 @@ Note: Please do not request that applicants or those interested in the opportuni
 
 If a post does not contain the above or does not meet the criteria outlined earlier, then a member of The Carpentries Core Team will reach out to you via Slack DM to address the concerns and suggest modifications.
 
-In cases where this process is not able to be carried out effectively (such as if the posting is by a spam bot), the Core Team will remove the posting, and with repeated instances of this, will potentially remove the account from the #jobs channel
+In cases where this process is not able to be carried out effectively (such as if the posting is by a spam bot), the Core Team will remove the posting, and with repeated instances of this, will potentially remove the account from the #jobs channel.
 
 ### Sharing Job Postings and other Community Opportunities on the "opportunities" Mailing List on Topicbox
 Posting opportunities to the ["opportunities" mailing list](https://carpentries.topicbox.com/groups/opportunities) requires one to be a member of the group. 
@@ -52,4 +52,4 @@ To join the group, navigate to the mailing list and click "Join The Conversation
 - In the title field please include the opportunity title and organisation
 - In the body of the message, include other relevant information about the opportunity including deadlines, links to apply and learn more, location (if applicable)
 
-Once you have submitted the posting, moderators for the opportunity will approve the posting or reach out to you if the posting does not meet the criteria to address the concerns and suggest modifications.
+Once you have submitted the posting, moderators of the mailing list will approve the posting or reach out to you if the posting does not meet the criteria to address the concerns and suggest modifications.
