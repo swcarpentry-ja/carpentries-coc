@@ -3,6 +3,7 @@ name: check, build, deploy docs.carpentries.org
 on:
   push:
     branches: main
+  pull_requests: []
 
 jobs:
   build-deploy-docs:
@@ -25,3 +26,14 @@ jobs:
       - name: Build site
         run: |
           make html
+
+      - name: Deploy
+        uses: jakejarvis/s3-sync-action@master
+        if: github.ref == 'refs/heads/main'
+        with:
+          args: --acl public-read --follow-symlinks --delete
+        env:
+          AWS_S3_BUCKET: 'docs.carpentries.org'
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          SOURCE_DIR: '_build/html'
