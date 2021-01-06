@@ -6,7 +6,7 @@
 
 - **Mentoring for Instructors and Helpers before a workshop**: Some members of the African instructor community are willing to host online mentoring sessions for instructors and helpers before a workshop to ensure everyone knows what to expect and what is expected of them.
 
-- Angelique van Rensburg is our Regional Coordinator in South Africa. She works with  <a href="https://carpentries.org/">The Carpentries</a> as the Regional Consultant for Southern Africa, and is ready to help you with any questions you have about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
+- Angelique van Rensburg works with  <a href="https://carpentries.org/">The Carpentries</a> as the Regional Consultant for Southern Africa, and is ready to help you with any questions you have about running **Carpentries workshops** or any other ways you can get involved with **The Carpentries in Africa**!  Contact her at [admin-afr@carpentries.org](mailto:admin-afr@carpentries.org)
 
 
 ### Join Us
