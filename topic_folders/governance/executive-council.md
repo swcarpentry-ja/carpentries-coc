@@ -18,16 +18,6 @@ there are three ways for communicating with Executive Council Members:
 2. **Send us an [email](mailto:carpentries-executive-council@carpentries.org).** This is appropriate for communicating directly with the Executive Council but not the rest of our community.
 3. **Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLScdo7AlYfeQN-z5dnO-p8KVI8t17kQUc1VH-Cvrlga5txIwCA/viewform?usp=sf_link).** This is preferable if you would like confidential communication with the Executive Council, or if you would like to remain anonymous.
 
-
-### Elections
-
-Details about how Executive Council Members are elected and their terms of service are available in the [bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#nominations-and-elections). Elections are currently administered by an Executive Council Member (who is not up for re-election) via [ElectionBuddy](https://electionbuddy.com).
-
-A checklist for the Executive Council election process is available as a
-[Google Doc](https://docs.google.com/document/d/1qg__La6vsBfw2vEO22ftalIOdnUsvZ1CGldz1Em3zPM/edit?usp=sharing).
-An overview of whose council member's seats are up for (re-)election
-can be found in a [Google Sheet](https://docs.google.com/spreadsheets/d/1OJQr9HMdfQ0AEwBviajTlrQuhIIE2Zu4b_g-b77aB2s/edit?usp=sharing).
-
 ### The Carpentries Executive Council Documentation
 
 The information below describes all procedures, routines and resources
@@ -41,7 +31,7 @@ restricted to Executive Council members.
 We wish to be as transparent as we can,
 but sometimes we need to choose to withhold information from others.
 
-[from https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md]
+<!--From https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md]-->
 
 #### Responsibilities of all Executive Council Members
 
@@ -96,14 +86,14 @@ We use two mailing lists:
 The Executive Council generally meets once monthly (we are required to hold at least 10 meetings a year, either in person or online). Smaller groups of Executive Council members may hold additional meetings when needed.
 
 - [Publicly available meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
-- [Meeting conduct](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit?usp=sharing): how we prepare for and conduct regular meetings
-- [Agendas and minutes directory](https://drive.google.com/drive/folders/1iaDOmMPxkHtkHH-wAHK_LPNmNSNjynrN): we use a single document for meeting agendas/minutes for the entire year (meetings from February - January)
-- Scheduling through [Google calendar](https://calendar.google.com/calendar/ical/q7j1ftdldoaapso2on44qrdnps%40group.calendar.google.com/private-426a931882cc901bd08f0f49ee2d0bb4/basic.ics)
+- [Meeting conduct](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit?usp=sharing)<sup>*</sup>: how we prepare for and conduct regular meetings
+- [Agendas and minutes directory](https://drive.google.com/drive/folders/1iaDOmMPxkHtkHH-wAHK_LPNmNSNjynrN)<sup>*</sup>: we use a single document for meeting agendas/minutes for the entire year (meetings from February - January)
+- Scheduling through [Google calendar](https://calendar.google.com/calendar/ical/q7j1ftdldoaapso2on44qrdnps%40group.calendar.google.com/private-426a931882cc901bd08f0f49ee2d0bb4/basic.ics)<sup>*</sup>
 - Executive Council members are invited to attend the Core Team meetings whenever they desire
 
 ### Finances
 
-See the [Finance folder](https://drive.google.com/drive/folders/1521cY9O-ud5UahP9IM0BoxFAvZDspx9t) in Google Drive
+See the [Finance folder](https://drive.google.com/drive/folders/1521cY9O-ud5UahP9IM0BoxFAvZDspx9t)<sup>*</sup> in Google Drive
 
 ### GitHub
 
@@ -113,19 +103,19 @@ We maintain multiple repositories with variable permissions (some public, some r
 
 This is a GitHub organisation 'owned' by The Carpentries Core Team. Executive council members have access, as well as members of the Core Team and some community members
 
-https://github.com/carpentries/executive-council-info
+<https://github.com/carpentries/executive-council-info>
 
 * *public* repository
 * used to publish information intended for the community, such as our monthly meeting minutes
 
-https://github.com/carpentries-ec/conversations_ec_ed
+<https://github.com/carpentries-ec/conversations_ec_ed><sup>*</sup>
 
 * *private* repository. Executive council members have access, as well as the Executive Director
 * used for
     * off-meeting discussions and voting, through the issue functionality
     * storing relevant information that needs to be private to the world, and necessary or OK for the Executive Director or the Core Team to have access to
 
-https://github.com/carpentries/executive-council
+<https://github.com/carpentries/executive-council><sup>*</sup>
 
 * *private* repository
 * used for discussions between Executive Council and Executive Director that require broader direct feedback from the Core Team
@@ -135,12 +125,12 @@ https://github.com/carpentries/executive-council
 
 This is a GitHub organisation 'owned' by the Executive Council, used for information or documents that *only* Executive Council members should have access to. Optionally, the Executive Director can be given access by inviting them as collaborator.
 
-https://github.com/carpentries-ec/conversations_ec_ed
+<https://github.com/carpentries-ec/conversations_ec_ed><sup>*</sup>
 
 * *private* repository, only Executive Council and Executive Director have access (not the Core Team)
 * used to discuss issues between Executive Council and Executive Director outside of the Executive Council monthly meetings
 
-https://github.com/carpentries-ec/minutes-private
+<https://github.com/carpentries-ec/minutes-private><sup>*</sup>
 
 * *private* repository, *only Executive Council* (not Executive Director or the Core Team) have access
 * used for
@@ -150,18 +140,18 @@ https://github.com/carpentries-ec/minutes-private
     * hiring of a new Executive Director
     * salary discussions/decisions
 
-https://github.com/carpentries-ec/financeviz
+<https://github.com/carpentries-ec/financeviz><sup>*</sup>
 
 * *private* repository, Executive Council, Executive Director and the Core Team have access
 * used for visualizations and plots for communicating The Carpentries finances
 
 ### Google Drive
 
-We use a private Google Drive folder called ['Executive Council'](https://drive.google.com/drive/folders/1Ss6oh2vfLc_pE8xk9UpOh9UUwSpDBr2g). See its [README](https://docs.google.com/document/d/1wYSRcD2504Xxpl9TlSerexIh6z5kBkq2CVbP2eofl4o/edit_) for orientation to contents.
+We use a private [Google Drive folder](https://drive.google.com/drive/folders/1Ss6oh2vfLc_pE8xk9UpOh9UUwSpDBr2g)<sup>*</sup>. See its [README](https://docs.google.com/document/d/1wYSRcD2504Xxpl9TlSerexIh6z5kBkq2CVbP2eofl4o/edit_) for orientation to contents.
 
 ### Yearly Timeline
 
-[From https://github.com/carpentries/executive-council-info/blob/master/process/timeline.md]
+<!--From https://github.com/carpentries/executive-council-info/blob/master/process/timeline.md]-->
 
 Additional annual tasks:
 
@@ -238,9 +228,20 @@ Additional recurring tasks:
 * Review and discussion of strategic plan activities
 
 
+### Elections
+
+Details about how Executive Council Members are elected and their terms of service are available in the [bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#nominations-and-elections). Elections are currently administered by an Executive Council Member (who is not up for re-election) via [ElectionBuddy](https://electionbuddy.com).
+
+A checklist for the Executive Council election process is available as a
+[Google Doc](https://docs.google.com/document/d/1qg__La6vsBfw2vEO22ftalIOdnUsvZ1CGldz1Em3zPM/edit?usp=sharing)<sup>*</sup>.
+
+An overview of whose council member's seats are up for (re-)election
+can be found in a [Google Sheet](https://docs.google.com/spreadsheets/d/1OJQr9HMdfQ0AEwBviajTlrQuhIIE2Zu4b_g-b77aB2s/edit?usp=sharing)<sup>*</sup>.
+
+
 ### Transitions between Executive Councils
 
-[From https://github.com/carpentries/executive-council-info/blob/master/process/EC_transition.md]
+<!--From https://github.com/carpentries/executive-council-info/blob/master/process/EC_transition.md]-->
 
 The transfer of responsibilities to the incoming Executive Council includes
 
@@ -248,7 +249,7 @@ The transfer of responsibilities to the incoming Executive Council includes
 * [updating access to resources](#access-to-resources)
 * [selecting members to serve in specific roles](#transfer-of-member-responsibilities)
 
-A checklist for the transition process can be found as a [Google Doc](https://docs.google.com/document/d/1rMoTIOWiMMExe_WzHrRv3Ye8Yra5WyTas5zAOdAbRDA/edit?usp=sharing).
+A checklist for the transition process can be found as a [Google Doc](https://docs.google.com/document/d/1rMoTIOWiMMExe_WzHrRv3Ye8Yra5WyTas5zAOdAbRDA/edit?usp=sharing)<sup>*</sup>.
 
 
 #### Onboarding new Executive Council members
@@ -300,8 +301,10 @@ The following Executive Council roles should be assigned at the February meeting
   * CoC representative
   * Representatives to Community Initiatives (CI)
 
-----
+<sup>*</sup>Access to this link is restricted to Executive Council members.
 
+
+<!--
 Original sources:
 
 FIXME: remove some/all of the information from these resources and point to this page instead.
@@ -312,3 +315,5 @@ FIXME: remove some/all of the information from these resources and point to this
 * [x] https://github.com/carpentries/executive-council-info/blob/master/process/EC_transition.md
 * [x] https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md
 * [x] https://github.com/carpentries/executive-council-info/blob/master/process/timeline.md
+
+-->

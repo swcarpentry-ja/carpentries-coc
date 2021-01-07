@@ -61,13 +61,14 @@ More specifically, the Vice Chair should:
 
 * Monitoring activities of the EC:
   * Ensure all obligations of members of the Executive Council are being fulfilled, particularly those of the Chair
-  * Track all items in the yearly [EC timeline]() FIXME link to executive-council#yearly-timeline
+  * Track all items in the yearly [EC timeline](https://docs.carpentries.org/topic_folders/governance/executive-council.html#yearly-timeline
+)
   * Check that the meeting minutes are approved (via GitHub vote in a private repo) and published (in the public EC repo) within two weeks of the meeting occurring
   * Watch issues/PRs in all GitHub repositories and taking appropriate action as necessary: adding to agendas, noting in nonverbal updates for meetings, etc.
-* Elections: so far the Vice Chair has been point of contact for the elections. The complete process is documented [here](https://docs.google.com/document/d/1qg__La6vsBfw2vEO22ftalIOdnUsvZ1CGldz1Em3zPM/edit). At the very least, the Vice Chair should ensure each part of the election process is delegated to someone.
+* Elections: so far the Vice Chair has been point of contact for the elections. The complete process is documented [here](https://docs.google.com/document/d/1qg__La6vsBfw2vEO22ftalIOdnUsvZ1CGldz1Em3zPM/edit)<sup>*</sup>. At the very least, the Vice Chair should ensure each part of the election process is delegated to someone.
 * Communications
   * Send newsletter updates to the appropriate Carpentries team member. The newsletter is published every other Wednesday, and updates should be sent the prior Friday. These updates are important to help the community know what the Executive Council does and to encourage feedback and communication about our activities
-  * Monitor communication from the community. As described in the FIXME link to executive-council#communication, community members may use a Google Form, an email address or GitHub issues to communicate with the EC
+  * Monitor communication from the community. As described [elsewhere](https://docs.carpentries.org/topic_folders/governance/executive-council.html#communication), community members may use a Google Form, an email address or GitHub issues to communicate with the EC
 
 ### Secretary
 
@@ -80,7 +81,7 @@ The Secretary’s responsibilities are to:
 * Revise minutes of regularly occurring meetings to report decisions, policy, and passage of formal motions prior to
 circulation among the Executive Council for approval.
 * Publish meeting minutes and policy decisions
-  * publicly for the community, as described in the "Meeting conduct" document under the section ["Preparing the minutes for release"](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit#heading=h.yg8xqbjr7yxb)
+  * publicly for the community, as described in the "Meeting conduct" document under the section ["Preparing the minutes for release"](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit#heading=h.yg8xqbjr7yxb)<sup>*</sup>
   * or, if necessary, in secure locations only accessible to the Executive Council or Executive Council/Executive Director.
 
 ### Treasurer
@@ -97,8 +98,13 @@ The Treasurer’s responsibilities are to:
 
 Practical information for the Treasurer role can be found in a [Google Doc](https://docs.google.com/document/d/1i7BX7PEU9kF3fNLh7aD3qD0Ro3bKwdIzqL9UoglGZTc/edit?usp=sharing).
 
+
+<sup>*</sup>Access to this link is restricted to Executive Council members.
+
+<!--
 Original sources:
 
 - [Chair](https://docs.google.com/document/d/1bW2TqnFrT-pSlASZvtRkJ89WsbeCGDoETpEXUkHGLyI/edit)
 - [Vice Chair](https://docs.google.com/document/d/1mjsv0bVc6TlVSuMS0Fp3KTtSWglEULvP4u_ngpP73rU/edit)
 - [Treasurer](https://docs.google.com/document/d/1i7BX7PEU9kF3fNLh7aD3qD0Ro3bKwdIzqL9UoglGZTc/edit#heading=h.r2lkwgs29qo0)
+-->
