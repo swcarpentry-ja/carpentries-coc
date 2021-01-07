@@ -2,7 +2,7 @@
 
 General tasks for each officer position are described in
 [the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council).
-this document derscribes their tasks in more detail.
+This document describes their tasks in more detail.
 
 
 * [Chair](#chair)
