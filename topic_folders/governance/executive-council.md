@@ -86,7 +86,7 @@ We use two mailing lists:
 The Executive Council generally meets once monthly (we are required to hold at least 10 meetings a year, either in person or online). Smaller groups of Executive Council members may hold additional meetings when needed.
 
 - [Publicly available meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
-- [Meeting conduct](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit?usp=sharing)<sup>*</sup>: how we prepare for and conduct regular meetings
+- [Meeting conduct](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit?usp=sharing): how we prepare for and conduct regular meetings
 - [Agendas and minutes directory](https://drive.google.com/drive/folders/1iaDOmMPxkHtkHH-wAHK_LPNmNSNjynrN)<sup>*</sup>: we use a single document for meeting agendas/minutes for the entire year (meetings from February - January)
 - Scheduling through [Google calendar](https://calendar.google.com/calendar/ical/q7j1ftdldoaapso2on44qrdnps%40group.calendar.google.com/private-426a931882cc901bd08f0f49ee2d0bb4/basic.ics)<sup>*</sup>
 - Executive Council members are invited to attend the Core Team meetings whenever they desire
