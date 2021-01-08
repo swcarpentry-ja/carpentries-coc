@@ -2,7 +2,7 @@
 
 ### About the Executive Council
 
-The Carpentries Executive Council is the highest leadership body of The Carpentries. It is responsible for strategic and organizational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Council also serve as advocates and ambassadors for the organization, leveraging their networks to benefit the organization’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
+The Carpentries Executive Council is the highest leadership body of The Carpentries. It is responsible for strategic and organisational planning, selecting the Executive Director and evaluating their performance, financial oversight, identifying revenue streams and resource development, approving and monitoring The Carpentries programs and services, and enhancing The Carpentries public image. Members of the Council also serve as advocates and ambassadors for the organisation, leveraging their networks to benefit the organization’s reputation and fundraising. The Executive Council executes these responsibilities through a combination of monthly Executive Council meetings and regular correspondence and collaboration via email and online platforms.
 
 The governance of The Carpentries by the Executive Council is outlined in the [Bylaws](bylaws.md).
 
@@ -37,7 +37,7 @@ but sometimes we need to choose to withhold information from others.
 
 The [Carpentries Bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council)
 describe the formal responsibilities of the Executive Council from an
-organizational level. This text describes the current implementation of the tasks described in the bylaws and represents
+organisational level. This text describes the current implementation of the tasks described in the bylaws and represents
 flexible guidelines that may be adapted as the Executive Council deems necessary. In addition to documenting Executive Council standard operating
 procedures, it is also intended to clarify Executive Council function for the broader community and help potential members understand the
 commitment to serve on the Executive Council.
@@ -70,7 +70,7 @@ terms. Officer positions include:
 * Secretary
 * Treasurer
 
-General tasks for each offiver position are described in
+General tasks for each officer position are described in
 [the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council).
 More detailed descriptions can be found on the page describing the [Executive Council officers responsibilities](executive-council-officers.html).
 
@@ -143,7 +143,7 @@ This is a GitHub organisation 'owned' by the Executive Council, used for informa
 <https://github.com/carpentries-ec/financeviz><sup>*</sup>
 
 * *private* repository, Executive Council, Executive Director and the Core Team have access
-* used for visualizations and plots for communicating The Carpentries finances
+* used for visualisations and plots for communicating The Carpentries finances
 
 ### Google Drive
 
@@ -180,7 +180,7 @@ Additional recurring tasks:
 * Reassess meeting procedures, including methods for setting the agenda and taking minutes
 * Review previous year’s financial report for new Executive Council
 * Select new officers
-* Finalize annual goals for Executive Council
+* Finalise annual goals for Executive Council
 
 #### March
 * Annual financial report for community
@@ -224,7 +224,7 @@ Additional recurring tasks:
 * First full week (Monday-Friday) in December: elections open
 * Selection of appointed members
 * Announcement of the new Executive Council
-* Start organizing dates for face-to-face meeting in first half of year
+* Start organising dates for face-to-face meeting in first half of year
 * Review and discussion of strategic plan activities
 
 
@@ -271,8 +271,8 @@ The outgoing Chair and/or Vice Chair should meet with the incoming Executive Cou
 Executive Council members have access to the following resources:
 
 * Google Drive
-* GitHub organizations, teams, and repositories
-  * Organization: carpentries
+* GitHub organisations, teams, and repositories
+  * Organisation: carpentries
     * Team: carpentries/executive-council
     * Repo: executive-council-info (public, this repository)
   * Repo: private (Executive Council + the Core Team)

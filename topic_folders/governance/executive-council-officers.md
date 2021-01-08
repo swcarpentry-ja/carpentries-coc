@@ -12,25 +12,25 @@ This document describes their tasks in more detail.
 
 ### Chair
 
-The Chair’s primary role is to organize and facilitate the activities of the Council. General tasks are described in
+The Chair’s primary role is to organise and facilitate the activities of the Council. General tasks are described in
 [the bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#executive-council).
 
 The Chair’s responsibilities are to:
 
-* Organize official meetings, including regularly occurring monthly meetings and additional special meetings as necessary.
+* Organise official meetings, including regularly occurring monthly meetings and additional special meetings as necessary.
   * Set meeting times and make sure these are properly adjusted with respect to daylight savings (which does not change for all members at the same time)
   * Send out reminder email 7-10 days before each monthly meeting (more details in the monthly minutes document)
   * Plan dates, location, and agenda for the annual in-person meeting with input from the rest of the EC
 * Set the agenda and ensure that it is circulated in a timely fashion to allow EC members to prepare for the meeting.
   * Review submissions to the agenda form and add these to the agenda for the meeting
-  * Invite non-members to the EC meeting as needed for specific discussions, such as staff, CI representatives
+  * Invite non-members to the EC meeting as needed for specific discussions, such as staff, Community Initiatives (CI) representatives
 * Ensure meetings are led fairly and transparently.
   * Make sure the Secretary is posting minutes for approval, voted on by EC members, and published in the public repository all in a timely fashion.
   * Make sure that motions are voted on in a timely fashion (send out a notice when they are ready for voting and reminders as necessary to the group or individuals).
 * Facilitate the formation of necessary Committees and appointments of EC liaisons.
   * Make sure that committees and task forces report back to the EC on their work at monthly meetings, either verbally or in non-verbal updates.
 * Act as the primary liaison between the Executive Director and the Executive Council.
-  * This typically involves a monthly meeting with the ED to discuss current issues and possible agenda items for the next monthly meeting and is typically two weeks offset from the monthly EC meeting.
+  * This typically involves a monthly meeting with the Executive Director (ED) to discuss current issues and possible agenda items for the next monthly meeting and is typically two weeks offset from the monthly Executive Council (EC) meeting.
 * Coordinate the Executive Director’s annual performance evaluation (November)
 * Oversee the search for a new Executive Director when necessary.
 * Ensure that EC members are aware of their duties and responsibilities.
@@ -59,7 +59,7 @@ The Vice Chair’s responsibilities are to:
 More specifically, the Vice Chair should:
 
 
-* Monitoring activities of the EC:
+* Monitor activities of the EC:
   * Ensure all obligations of members of the Executive Council are being fulfilled, particularly those of the Chair
   * Track all items in the yearly [EC timeline](https://docs.carpentries.org/topic_folders/governance/executive-council.html#yearly-timeline
 )
@@ -67,7 +67,7 @@ More specifically, the Vice Chair should:
   * Watch issues/PRs in all GitHub repositories and taking appropriate action as necessary: adding to agendas, noting in nonverbal updates for meetings, etc.
 * Elections: so far the Vice Chair has been point of contact for the elections. The complete process is documented [here](https://docs.google.com/document/d/1qg__La6vsBfw2vEO22ftalIOdnUsvZ1CGldz1Em3zPM/edit)<sup>*</sup>. At the very least, the Vice Chair should ensure each part of the election process is delegated to someone.
 * Communications
-  * Send newsletter updates to the appropriate Carpentries team member. The newsletter is published every other Wednesday, and updates should be sent the prior Friday. These updates are important to help the community know what the Executive Council does and to encourage feedback and communication about our activities
+  * Send newsletter updates to the appropriate Carpentries core team member to be published. The newsletter is published every other Wednesday, and updates should be sent the prior Friday. These updates are important to help the community know what the Executive Council does and to encourage feedback and communication about our activities
   * Monitor communication from the community. As described [elsewhere](https://docs.carpentries.org/topic_folders/governance/executive-council.html#communication), community members may use a Google Form, an email address or GitHub issues to communicate with the EC
 
 ### Secretary
@@ -96,7 +96,7 @@ The Treasurer’s responsibilities are to:
 * Ensure that an up-to-date report on the status of accounts can be given at each Council meeting.
 * Maintain open lines of communication with the Executive Director and the fiscal sponsor.
 
-Practical information for the Treasurer role can be found in a [Google Doc](https://docs.google.com/document/d/1i7BX7PEU9kF3fNLh7aD3qD0Ro3bKwdIzqL9UoglGZTc/edit?usp=sharing).
+Practical information for the Treasurer role can be found in a [private document](https://docs.google.com/document/d/1i7BX7PEU9kF3fNLh7aD3qD0Ro3bKwdIzqL9UoglGZTc/edit?usp=sharing).
 
 
 <sup>*</sup>Access to this link is restricted to Executive Council members.
