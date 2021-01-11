@@ -86,14 +86,24 @@ We use two mailing lists:
 The Executive Council generally meets once monthly (we are required to hold at least 10 meetings a year, either in person or online). Smaller groups of Executive Council members may hold additional meetings when needed.
 
 - [Publicly available meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes)
-- [Meeting conduct](https://docs.google.com/document/d/195omPpTOAnwNsUCqbH6S7Wpt9WDqU5joQKGMofTYDmg/edit?usp=sharing): how we prepare for and conduct regular meetings
-- [Agendas and minutes directory](https://drive.google.com/drive/folders/1iaDOmMPxkHtkHH-wAHK_LPNmNSNjynrN)<sup>*</sup>: we use a single document for meeting agendas/minutes for the entire year (meetings from February - January)
-- Scheduling through [Google calendar](https://calendar.google.com/calendar/ical/q7j1ftdldoaapso2on44qrdnps%40group.calendar.google.com/private-426a931882cc901bd08f0f49ee2d0bb4/basic.ics)<sup>*</sup>
+- See the <u>Agendas and minutes directory</u><sup>*</sup> in our Google Drive. We use a single document for meeting agendas/minutes for the entire year (meetings from February - January)
+- Our <u>Meeting conduct</u><sup>*</sup> describes how we prepare for and conduct regular meetings, see the Google Doc in the above-mentioned folder (Agendas_Minutes --> Meeting conduct.gdoc)
+- Scheduling is done through our Google calendar
 - Executive Council members are invited to attend the Core Team meetings whenever they desire
 
-### Finances
+### Finances and Fiscal Sponsor
 
-See the [Finance folder](https://drive.google.com/drive/folders/1521cY9O-ud5UahP9IM0BoxFAvZDspx9t)<sup>*</sup> in Google Drive
+See the <u>Finance folder</u><sup>*</sup> in our Google Drive.
+
+#### The Carpentries Fiscal Sponsor
+
+The Carpentries is fiscally sponsored by [Community Initiatives](https://communityin.org/), a registered 501c3 based in Oakland, CA. Here are some relevant resources:
+
+*   [What is fiscal sponsorship?](https://communityin.org/fiscal-sponsorship/solving-problems-for-nonprofits/#fiscal-sponsorship)
+*   Who are CI's [other fiscally sponsored projects](https://communityin.org/our-projects/support-a-project/) (FSPs)?
+
+See also the Community Initiative's bylaws and the Carpentries’ fiscal sponsor agreement in the <u>Fiscal Sponsor</u><sup>*</sup> folder on Google Drive (EC_processes --> Fiscal_Sponsor).
+
 
 ### GitHub
 
@@ -147,7 +157,7 @@ This is a GitHub organisation 'owned' by the Executive Council, used for informa
 
 ### Google Drive
 
-We use a private [Google Drive folder](https://drive.google.com/drive/folders/1Ss6oh2vfLc_pE8xk9UpOh9UUwSpDBr2g)<sup>*</sup>. See its [README](https://docs.google.com/document/d/1wYSRcD2504Xxpl9TlSerexIh6z5kBkq2CVbP2eofl4o/edit_) for orientation to contents.
+We use a private Google Drive folder<sup>*</sup>, see its README for orientation to contents.
 
 ### Yearly Timeline
 
@@ -232,12 +242,10 @@ Additional recurring tasks:
 
 Details about how Executive Council Members are elected and their terms of service are available in the [bylaws](https://docs.carpentries.org/topic_folders/governance/bylaws.html#nominations-and-elections). Elections are currently administered by an Executive Council Member (who is not up for re-election) via [ElectionBuddy](https://electionbuddy.com).
 
-A checklist for the Executive Council election process is available as a
-[Google Doc](https://docs.google.com/document/d/1qg__La6vsBfw2vEO22ftalIOdnUsvZ1CGldz1Em3zPM/edit?usp=sharing)<sup>*</sup>.
+A checklist for the Executive Council election process is available as a <u>Google Doc<u><sup>*</sup> in our Google Drive (Elections --> EC Election Process.gdoc)
 
 An overview of whose council member's seats are up for (re-)election
-can be found in a [Google Sheet](https://docs.google.com/spreadsheets/d/1OJQr9HMdfQ0AEwBviajTlrQuhIIE2Zu4b_g-b77aB2s/edit?usp=sharing)<sup>*</sup>.
-
+can be found in a <u>Google Sheet</u><sup>*</sup> (Elections --> Year-of-term for executive council members.gsheet).
 
 ### Transitions between Executive Councils
 
@@ -249,7 +257,7 @@ The transfer of responsibilities to the incoming Executive Council includes
 * [updating access to resources](#access-to-resources)
 * [selecting members to serve in specific roles](#transfer-of-member-responsibilities)
 
-A checklist for the transition process can be found as a [Google Doc](https://docs.google.com/document/d/1rMoTIOWiMMExe_WzHrRv3Ye8Yra5WyTas5zAOdAbRDA/edit?usp=sharing)<sup>*</sup>.
+A checklist for the transition process can be found as a <u>Google Doc</u><sup>*</sup> (EC_processes --> Onboarding_offboarding members, ED.gdoc).
 
 
 #### Onboarding new Executive Council members
@@ -301,8 +309,7 @@ The following Executive Council roles should be assigned at the February meeting
   * CoC representative
   * Representatives to Community Initiatives (CI)
 
-<sup>*</sup>Access to this link is restricted to Executive Council members.
-
+<sup>*</sup>Access to this information is restricted to Executive Council members.
 
 <!--
 Original sources:
