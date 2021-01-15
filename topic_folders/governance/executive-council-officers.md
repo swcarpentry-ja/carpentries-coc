@@ -64,7 +64,7 @@ More specifically, the Vice Chair should:
 )
   * Check that the meeting minutes are approved (via GitHub vote in a private repo) and published (in the public EC repo) within two weeks of the meeting occurring
   * Watch issues/PRs in all GitHub repositories and taking appropriate action as necessary: adding to agendas, noting in nonverbal updates for meetings, etc.
-* Elections: so far the Vice Chair has been point of contact for the elections. The complete process is documented in a <u>Google Doc</u><sup>*</sup> (Elections --> EC Election Process.gdoc). At the very least, the Vice Chair should ensure each part of the election process is delegated to someone.
+* Elections: so far the Vice Chair has been point of contact for the elections. The complete process is documented in a <u>Google Doc</u><sup>*</sup> (Folder Elections --> EC Election Process.gdoc). At the very least, the Vice Chair should ensure each part of the election process is delegated to someone.
 * Communications
   * Send newsletter updates to the appropriate Carpentries core team member to be published. The newsletter is published every other Wednesday, and updates should be sent the prior Friday. These updates are important to help the community know what the Executive Council does and to encourage feedback and communication about our activities
   * Monitor communication from the community. As described [elsewhere](https://docs.carpentries.org/topic_folders/governance/executive-council.html#communication), community members may use a Google Form, an email address or GitHub issues to communicate with the EC
@@ -80,7 +80,7 @@ The Secretary’s responsibilities are to:
 * Revise minutes of regularly occurring meetings to report decisions, policy, and passage of formal motions prior to
 circulation among the Executive Council for approval.
 * Publish meeting minutes and policy decisions
-  * publicly for the community, as described in the <u>Meeting conduct document</u><sup>*</sup> (Agendas_Minutes --> Meeting conduct.gdoc) under the section "Preparing the minutes for release"
+  * publicly for the community, as described in the <u>Meeting conduct</u> document<sup>*</sup> (folder Agendas_Minutes --> Meeting conduct.gdoc) under the section "Preparing the minutes for release"
   * or, if necessary, in secure locations only accessible to the Executive Council or Executive Council/Executive Director.
 
 ### Treasurer
@@ -95,7 +95,7 @@ The Treasurer’s responsibilities are to:
 * Ensure that an up-to-date report on the status of accounts can be given at each Council meeting.
 * Maintain open lines of communication with the Executive Director and the fiscal sponsor.
 
-Practical information for the Treasurer role can be found in a <u>Google Doc</u><sup>*</sup> (Finance --> Treasurer: practical information.gdoc).
+Practical information for the Treasurer role can be found in a <u>Google Doc</u><sup>*</sup> (folder Finance --> Treasurer: practical information.gdoc).
 
 
 <sup>*</sup>Access to this information is restricted to Executive Council members.
