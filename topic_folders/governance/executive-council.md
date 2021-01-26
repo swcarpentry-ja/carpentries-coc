@@ -310,17 +310,3 @@ The following Executive Council roles should be assigned at the February meeting
   * Representatives to Community Initiatives (CI)
 
 <sup>*</sup>Access to this information is restricted to Executive Council members.
-
-<!--
-Original sources:
-
-FIXME: remove some/all of the information from these resources and point to this page instead.
-
-* [x] https://github.com/carpentries-ec/conversations_ec_ed/blob/master/guide.md
-* [x] https://github.com/carpentries-ec/conversations_ec_ed/blob/master/README.md
-* [x] https://github.com/carpentries/executive-council-info
-* [x] https://github.com/carpentries/executive-council-info/blob/master/process/EC_transition.md
-* [x] https://github.com/carpentries/executive-council-info/blob/master/process/roles_responsibilities.md
-* [x] https://github.com/carpentries/executive-council-info/blob/master/process/timeline.md
-
--->

@@ -99,11 +99,3 @@ Practical information for the Treasurer role can be found in a <u>Google Doc</u>
 
 
 <sup>*</sup>Access to this information is restricted to Executive Council members.
-
-<!--
-Original sources:
-
-- [Chair](https://docs.google.com/document/d/1bW2TqnFrT-pSlASZvtRkJ89WsbeCGDoETpEXUkHGLyI/edit)
-- [Vice Chair](https://docs.google.com/document/d/1mjsv0bVc6TlVSuMS0Fp3KTtSWglEULvP4u_ngpP73rU/edit)
-- [Treasurer](https://docs.google.com/document/d/1i7BX7PEU9kF3fNLh7aD3qD0Ro3bKwdIzqL9UoglGZTc/edit#heading=h.r2lkwgs29qo0)
--->
