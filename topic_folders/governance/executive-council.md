@@ -117,6 +117,7 @@ This is a GitHub organisation 'owned' by The Carpentries Core Team. Executive co
 
 * *public* repository
 * used to publish information intended for the community, such as our monthly meeting minutes
+* also used for voting on our our motions (our decisions)
 
 <https://github.com/carpentries-ec/conversations_ec_ed><sup>*</sup>
 
