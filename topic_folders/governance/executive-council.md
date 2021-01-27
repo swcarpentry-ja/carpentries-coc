@@ -119,13 +119,6 @@ This is a GitHub organisation 'owned' by The Carpentries Core Team. Executive co
 * used to publish information intended for the community, such as our monthly meeting minutes
 * also used for voting on our our motions (our decisions)
 
-<https://github.com/carpentries-ec/conversations_ec_ed><sup>*</sup>
-
-* *private* repository. Executive council members have access, as well as the Executive Director
-* used for
-    * off-meeting discussions and voting, through the issue functionality
-    * storing relevant information that needs to be private to the world, and necessary or OK for the Executive Director or the Core Team to have access to
-
 <https://github.com/carpentries/executive-council><sup>*</sup>
 
 * *private* repository
@@ -138,8 +131,11 @@ This is a GitHub organisation 'owned' by the Executive Council, used for informa
 
 <https://github.com/carpentries-ec/conversations_ec_ed><sup>*</sup>
 
-* *private* repository, only Executive Council and Executive Director have access (not the Core Team)
-* used to discuss issues between Executive Council and Executive Director outside of the Executive Council monthly meetings
+* *private* repository. Executive council members have access, as well as the Executive Director (but not the Core Team)
+* used to
+  * discuss issues between Executive Council and Executive Director outside of the Executive Council monthly meetings
+  * storing relevant information that needs to be private to the world, and necessary or OK for the Executive Director to have access to
+
 
 <https://github.com/carpentries-ec/minutes-private><sup>*</sup>
 
