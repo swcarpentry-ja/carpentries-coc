@@ -148,7 +148,7 @@ Each [Carpentries team](https://carpentries.org/team/) member either leads or is
 **What should our Executive Council be communicating and when?**
 
 Formal statements regarding The Carpentries’ policies and finances will only be released by the’ Executive Director or Executive Council Chair. 
-The Executive Council is also responsible for communicating [transparency reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) and will also communicate on all other subjects as mandated by their role in their period of tenure. The Secretary of the Executive Council, [Mesfin Diro Chaka for 2019](https://carpentries.org/blog/2019/03/2019-executive-council-officer-elections/#new-officers--liaison), also regularly publishes [meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes).
+The Executive Council is also responsible for communicating [transparency reports](https://github.com/carpentries/executive-council-info/tree/master/code-of-conduct-transparency-reports) and will also communicate on all other subjects as mandated by their role in their period of tenure. The Secretary of the Executive Council, also regularly publishes [meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes).
 Succinct updates from the Executive Council will continually be added to [Carpentry Clippings](https://carpentries.org/newsletter/) fortnightly, as appropriate.
 
 **What should our Executive Director be communicating and when?**
