@@ -164,7 +164,7 @@ Additional annual tasks:
 
 * in-person (face-to-face) meeting
 * reassessing the strategic plan
-* annual finance audit
+* annual financial report
 
 Additional recurring tasks:
 
@@ -185,13 +185,12 @@ Additional recurring tasks:
 #### February
 * New Executive Council officially takes over
 * Reassess meeting procedures, including methods for setting the agenda and taking minutes
-* Review previous year’s financial report for new Executive Council
 * Select new officers
 * Finalise annual goals for Executive Council
 
 #### March
-* Annual financial report for community
 * Review and discussion of strategic plan activities
+* Review draft financial report for community (the draft may first be available early April)
 
 #### April
 * Review Q1 financial report
