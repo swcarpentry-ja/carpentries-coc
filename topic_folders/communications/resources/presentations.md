@@ -9,7 +9,10 @@ particular topics or events. The General slide deck is CC0, so you are welcome t
 
 Other slide decks are CC-BY.
 
-[General Carpentries slide deck CC0](https://docs.google.com/presentation/d/1XGD5v7bBTTK9w7a1uZh5i--z22kFnj8_22xCOfezoLE/edit)
+Please use the following template when you are presenting on a topic related to The Carpentries. The template can be modified and adapted as necessary. However, please ensure that you are adhering to the general visual identity including colors, blocks, and fonts.
+[Carpentries Presentation Template](https://docs.google.com/presentation/d/1y0lvjLwDe34qe7gGiZiBrVLWwVuA6haw9eNDjNqxMKM/edit?usp=sharing)
+
+[General Carpentries slide deck CC0](https://docs.google.com/presentation/d/1fYTlCSQAkVPSalyFAcFxwqRIQ2Ez7YvQDIwOExyg5ts/edit?usp=sharing)
 
 [Google drive with slide decks](https://drive.google.com/drive/folders/12D0D9F2GJX4TIwzWkSHYdaI0VFdYYCul)
 
