@@ -6,7 +6,7 @@ The Carpentries Executive Council is the highest leadership body of The Carpentr
 
 The governance of The Carpentries by the Executive Council is outlined in the [Bylaws](bylaws.md).
 
-In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
+In addition to [publicly posting meeting minutes](https://github.com/carpentries/executive-council-info/tree/master/minutes), the Executive Council reports on its activities periodically in [Carpentry Clippings](https://carpentries.org/newsletter/) (the organizational newsletter) as well as through [blog posts](https://carpentries.org/posts-by-tags/#blog-tag-governance).
 The council also prepares [Yearly Summaries](https://github.com/carpentries/executive-council-info/tree/master/year-in-review) of its activities.
 
 
@@ -190,6 +190,7 @@ Additional recurring tasks:
 * Reassess meeting procedures, including methods for setting the agenda and taking minutes
 * Review previous year’s financial report for new Executive Council
 * Select new officers
+* Select Executive Council liason to Code of Conduct Committee
 * Finalise annual goals for Executive Council
 
 #### March
@@ -233,6 +234,8 @@ Additional recurring tasks:
 * Announce community award winners
 * First full week (Monday-Friday) in December: elections open
 * Selection of appointed members
+* Ratifying community-elected positions and council-elected positions (private GitHub repo)
+* Ratifying the new Executive Council members (public GitHub repro)
 * Announcement of the new Executive Council
 * Start organising dates for face-to-face meeting in first half of year
 * Review and discussion of strategic plan activities
