@@ -8,8 +8,8 @@
 * <s>28 January</s> 
 * 25 February 
 * 25 March
-* 22 April 2021
-* 27 May 2021
+* 22 April
+* 27 May
 * 24 June
 * 22 July
 * 26 August
