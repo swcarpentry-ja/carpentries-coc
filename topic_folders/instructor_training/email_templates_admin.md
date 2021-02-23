@@ -159,6 +159,9 @@ Best,
 
 ##### Invitation to Open Training Applicants
 
+NOTE: This template is for internal use by The Carpentries Core Team and contains language specific to our Open Instructor Training sponsorship program.
+Member contacts looking to invite trainees to register through a membership should use [this template](https://docs.carpentries.org/topic_folders/instructor_training/email_templates_admin.html#initial-trainee-contact-email-from-member-site-to-their-prospective-trainees-online-training) instead.
+
 SUBJECT: Invitation to join The Carpentries Instructor Training
 
 Dear future Carpentries Instructor, 
