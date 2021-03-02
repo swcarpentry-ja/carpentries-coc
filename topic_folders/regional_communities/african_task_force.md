@@ -6,7 +6,7 @@
 
 **2021 meetings**:
 * <s>28 January</s> 
-* 25 February 
+* <s>25 February </s> 
 * 25 March
 * 22 April
 * 27 May
