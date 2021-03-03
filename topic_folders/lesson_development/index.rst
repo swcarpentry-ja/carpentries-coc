@@ -11,5 +11,4 @@ For more information on lesson development with The Carpentries, please visit `T
    bug_bbq.md
    lesson_release.md
    email_templates.md
-
-   
+   spotlight.md
