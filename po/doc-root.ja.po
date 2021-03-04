@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: carpentries-coc\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2021-03-04 16:59:04+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: LICENSE.md:1
+# header
+msgid "## License"
+msgstr ""
+
+#: LICENSE.md:3
+# header
+msgid "### Documentation"
+msgstr ""
+
+#: LICENSE.md:5
+msgid "The Carpentries documentation material in this repository is\n"
+"made available under the [Creative Commons Attribution\n"
+"license][cc-by-human]. The following is a human-readable summary of\n"
+"(and not a substitute for) the [full legal text of the CC BY 4.0\n"
+"license][cc-by-legal]."
+msgstr ""
+
+#: LICENSE.md:11
+msgid "You are free:"
+msgstr ""
+
+#: LICENSE.md:13
+# unordered list
+msgid "* to **Share**---copy and redistribute the material in any medium or format"
+msgstr ""
+
+#: LICENSE.md:14
+# unordered list
+msgid "* to **Adapt**---remix, transform, and build upon the material"
+msgstr ""
+
+#: LICENSE.md:16
+msgid "for any purpose, even commercially."
+msgstr ""
+
+#: LICENSE.md:18
+msgid "The licensor cannot revoke these freedoms as long as you follow the\n"
+"license terms."
+msgstr ""
+
+#: LICENSE.md:21
+msgid "Under the following terms:"
+msgstr ""
+
+#: LICENSE.md:23
+# unordered list
+msgid "* **Attribution**---You must give appropriate credit (mentioning that"
+msgstr ""
+
+#: LICENSE.md:24
+msgid "  your work is derived from work that is Copyright © The Carpentries\n"
+"  and, where practical, linking to\n"
+"  https://carpentries.org/), provide a [link to the\n"
+"  license][cc-by-human], and indicate if changes were made. You may do\n"
+"  so in any reasonable manner, but not in any way that suggests the\n"
+"  licensor endorses you or your use."
+msgstr ""
+
+#: LICENSE.md:31
+msgid "**No additional restrictions**---You may not apply legal terms or\n"
+"technological measures that legally restrict others from doing\n"
+"anything the license permits.  With the understanding that:"
+msgstr ""
+
+#: LICENSE.md:35
+msgid "Notices:"
+msgstr ""
+
+#: LICENSE.md:37
+# unordered list
+msgid "* You do not have to comply with the license for elements of the"
+msgstr ""
+
+#: LICENSE.md:38
+msgid "  material in the public domain or where your use is permitted by an\n"
+"  applicable exception or limitation.\n"
+"* No warranties are given. The license may not give you all of the\n"
+"  permissions necessary for your intended use. For example, other\n"
+"  rights such as publicity, privacy, or moral rights may limit how you\n"
+"  use the material."
+msgstr ""
+
+#: LICENSE.md:45
+# header
+msgid "### Software"
+msgstr ""
+
+#: LICENSE.md:47
+msgid "Except where otherwise noted, the example programs and other software\n"
+"provided by The Carpentries are made available under the\n"
+"[OSI][osi]-approved\n"
+"[MIT license][mit-license]."
+msgstr ""
+
+#: LICENSE.md:52
+msgid "Permission is hereby granted, free of charge, to any person obtaining\n"
+"a copy of this software and associated documentation files (the\n"
+"\"Software\"), to deal in the Software without restriction, including\n"
+"without limitation the rights to use, copy, modify, merge, publish,\n"
+"distribute, sublicense, and/or sell copies of the Software, and to\n"
+"permit persons to whom the Software is furnished to do so, subject to\n"
+"the following conditions:"
+msgstr ""
+
+#: LICENSE.md:60
+msgid "The above copyright notice and this permission notice shall be\n"
+"included in all copies or substantial portions of the Software."
+msgstr ""
+
+#: LICENSE.md:63
+msgid "THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\n"
+"EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF\n"
+"MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND\n"
+"NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE\n"
+"LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\n"
+"OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION\n"
+"WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+msgstr ""
+
+#: LICENSE.md:71
+# header
+msgid "### Trademark"
+msgstr ""
+
+#: LICENSE.md:73
+msgid "\"The Carpentries\", \"Software Carpentry\", \"Data Carpentry\", and \"Library Carpentry\" and their respective logos\n"
+"are registered trademarks of [Community Initiatives][CI]."
+msgstr ""
+
+#: LICENSE.md:76
+msgid "[cc-by-human]: https://creativecommons.org/licenses/by/4.0/\n"
+"[cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode\n"
+"[mit-license]: https://opensource.org/licenses/mit-license.html\n"
+"[ci]: http://communityin.org/\n"
+"[osi]: https://opensource.org"
+msgstr ""
+
+#: readme.md:1
+# header
+msgid "### Japanese handbook"
+msgstr ""
+
+#: readme.md:3
+msgid "This is a paritial translation of the [Carpentries Handbook](https://docs.carpentries.org/) in Japanese."
+msgstr ""
+
+#: readme.md:6
+# header
+msgid "### Why was this handbook created?"
+msgstr ""
+
+#: readme.md:8
+msgid "Historically, information and resources related to [The Carpentries](https://carpentries.org/) have been spread across various websites, Google docs, GitHub repos, and more. The handbook is a one-stop shop that consolidates information on running a workshop, developing or maintaining lessons, participating in an instructor training event, and more! "
+msgstr ""
+
+#: readme.md:10
+msgid "Many community members have contributed to this handbook, and we welcome feedback on this Handbook. Feel free to submit issues or pull requests to [this GitHub repo](https://github.com/carpentries/handbook/) to improve this community resource."
+msgstr ""
+
+#: readme.md:13
+# header
+msgid "### Building this site"
+msgstr ""
+
+#: readme.md:15
+msgid "This site is built using the [Sphinx](http://www.sphinx-doc.org/en/stable/) documentation generator (a Python tool) and the [Read the Docs theme](https://github.com/rtfd/sphinx_rtd_theme) for the style. (Not to be confused with readthedocs.io - the site is _not_ hosted at readthedocs.io!) "
+msgstr ""
+
+#: readme.md:17
+msgid "For more information about using Sphinx, see the [Getting Started guide (sphinx-doc.org)](http://www.sphinx-doc.org/en/stable/usage/quickstart.html) or the [Quick Start (readthedocs.io)](https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html#quick-start) for an explanation of how to use Sphinx."
+msgstr ""
+
+#: readme.md:19
+# header
+msgid "#### Required dependencies"
+msgstr ""
+
+#: readme.md:21
+msgid "To install the required dependencies (Sphinx and the ReadTheDocs Sphinx theme), execute the following command from the repository directory to install all Python dependencies:"
+msgstr ""
+
+#: readme.md:23
+# code block
+msgid "```\n"
+"pip install -r requirements.txt \n"
+"```"
+msgstr ""
+
+#: readme.md:27
+msgid "After installing the dependencies, you can build the site locally by executing the following command from the repository:"
+msgstr ""
+
+#: readme.md:29
+# code block
+msgid "```\n"
+"$ make html\n"
+"```"
+msgstr ""
+
+#: readme.md:33
+msgid "Open the file `_build/html/index.html` to preview the site locally. Python offers a quick way to run a web server to serve local files. Run the following:"
+msgstr ""
+
+#: readme.md:35
+# code block
+msgid "```\n"
+"$ cd _build/html\n"
+"\n"
+"# Python 2: (Deprecated; not recommended)\n"
+"$ python2 -m SimpleHTTPServer\n"
+"\n"
+"# Python 3:\n"
+"$ python3 -m http.server\n"
+"```"
+msgstr ""
+
+#: readme.md:45
+msgid "In both cases, a local web server will be run on port `8000`, so navigate to <http://localhost:8000> in your browser to view the site locally."
+msgstr ""
+
+#: readme.md:47
+msgid "You can make changes to the contents of the repository, and re-run `make html`, to update the website contents. If you are having problems with the site not refreshing, you can delete the contents of the `_build` directory (which are automatically generated) with `rm -fr _build/*`."
+msgstr ""
+
+#: readme.md:49
+msgid "If new files or folders are added to the Handbook, `index.rst` will need to be updated for those to be included in the final site by Sphinx."
+msgstr ""
+
+#: readme.md:51
+# header
+msgid "#### Site structure"
+msgstr ""
+
+#: readme.md:53
+msgid "The root level `index.rst` generates the main categories and the sidebar navigation.  Each sub-section is a folder in the `topic_folders` directory. Each folder within the `topic_folders` directory has its own `index.rst` file. These then expand into the subcategories in each directory."
+msgstr ""
+
+#: readme.md:55
+msgid "Within each folder's `index.rst` file, the section heading is defined by a string of  `=` beneath it. Subheadings can be defined using `###` in each markdown file or by a heading with `-` under it in the `index.rst` file."
+msgstr ""
+
+#: readme.md:57
+# header
+msgid "##### Formatting Hyperlinks"
+msgstr ""
+
+#: readme.md:59
+msgid "In markdown documents, links can be formatted in standard markdown, with the text in square brackets and the hyperlink in parentheses: "
+msgstr ""
+
+#: readme.md:61
+# code block
+msgid "```\n"
+"[text](hyperlink)\n"
+"```"
+msgstr ""
+
+#: readme.md:65
+msgid "For the `index.rst` files, links must be formatted as follows. Note the text is followed by the hyperlink in pointy brackets, everything is wrapped in backticks, and then followed by an underscore."
+msgstr ""
+
+#: readme.md:67
+# code block
+msgid "```\n"
+"`text<hyperlink>`_\n"
+"\n"
+"```"
+msgstr ""
+
+#: readme.md:72
+msgid "**Links to external markdown documents**"
+msgstr ""
+
+#: readme.md:74
+msgid "Something in this template causes `.md` extensions to get stripped, breaking links to things like markdown documents in a GitHub repo.  This can be fixed by adding an anchor tag (`#`) to the end of the url.  For example, `https://github.com/carpentries/handbook/blob/topic_folders/file.md` would become `https://github.com/carpentries/handbook/blob/topic_folders/file.md#`. "
+msgstr ""
+
+#: readme.md:77
+# header
+msgid "#### Additional information"
+msgstr ""
+
+#: readme.md:79
+msgid "This site is built from the main branch of [this repo (carpentries/handbook)](https://github.com/carpentries/handbook/). Changes can be previewed live here: <http://docs-src.carpentries.org/>.  Changes to the actual site <https://docs.carpentries.org/>  can take up to a day to go live once changes have been pushed to GitHub, since the contents of the site are behind a CDN (Content Distribution Network) that caches content."
+msgstr ""
+
+#: readme.md:81
+msgid "If you are making experimental changes to content please be sure to do so in a non-main, non-live branch. When your changes are complete and ready to be pushed to the live site, open a pull request in [carpentries/handbook](https://github.com/carpentries/handbook)."
+msgstr ""
+
+#: readme.md:83
+msgid "Draft content can be added to the [drafts folder of the carpentries/userguides repo](https://github.com/carpentries/usersguides/tree/master/drafts) (in the main branch) without breaking anything. Draft content is not built to the live site and these files may contain inaccurate or out of date information."
+msgstr ""
+

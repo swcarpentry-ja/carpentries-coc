@@ -1,0 +1,1840 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: carpentries-coc\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2021-03-04 16:59:04+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: topic_folders/policies/coc-governance.md:1
+# header
+msgid "# Code of Conduct Committee Governance "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:3
+# header
+msgid "## Membership"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:5
+msgid "Any voting member of the Carpentries community, as defined in The Carpentries bylaws, may express their interest to volunteer to sit on the [Code of Conduct Committee (CoCc)](https://carpentries.org/coc-ctte/) (the Committee). \n"
+"The Committee will onboard its members on a yearly basis through open calls and from available volunteers. \n"
+"The Executive Council (EC) will be notified about any new members. \n"
+"New members will undergo an application and onboarding process before they are officially seated on the Committee."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:10
+# header
+msgid "## Onboarding and training"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:12
+msgid "The onboarding process is determined by the Committee, and the EC will be notified about this process.\n"
+"New members are not immediately seated on the Committee, and thus not included in issue resolution, until after onboarding is completed. "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:15
+msgid "The current onboarding process involves reading assignments in [The Carpentries Code of Conduct documents](https://docs.carpentries.org/topic_folders/policies/index_coc.html) and selected chapters from [How to respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf)\n"
+"(by Valerie Aurora, based on a short guide written by Mary Gardiner). \n"
+"Additionally, incident response training will be organised for the new and existing members to ensure they can confidently serve on the committee."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:19
+# header
+msgid "## Administration"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:21
+msgid "The Committee consists of a minimum of five members; approximately 10 is recommended. \n"
+"The Committee, in addition, has a liaison from the Carpentries Core Team and a liaison from the EC. \n"
+"The liaisons have the responsibility of informing the CoCc of anything that is relevant from their respective groups. \n"
+"They are also responsible for conveying issues and updates to their respective groups from the CoCc that are relevant for them while respecting the confidentiality requirements of the Committee."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:26
+msgid "The Committee has two chairs - a Governance Chair and an Incident Response Chair. \n"
+"These individuals are responsible for guiding the Committee’s work. "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:29
+# header
+msgid "## Voting"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:31
+msgid "The CoCc participates in two types of voting - votes about incidents and those not about incidents (e.g. business, policy, administrative matters). "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:33
+# header
+msgid "### Non-incident voting"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:35
+msgid "For non-incident related matters, the Committee passes votes with a simple majority of the non-liaison members, with the Governance Chair breaking any ties. \n"
+"The Carpentries Core Team and Executive Council liaisons do not vote on motions, but are welcome to provide feedback and insight.  \n"
+"Quorum in meetings is more than 50% of the non-liaison CoCc members. "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:39
+# header
+msgid "### Incident voting"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:41
+msgid "For incident related matters, the liaisons to the CoCc will abstain from voting, unless their vote is needed to ensure that an incident or other need can be responded to in a timely manner according to the [Incident Response Guidelines](https://docs.carpentries.org/topic_folders/policies/incident-response.html). \n"
+"The Incidence Response Lead of the [Incident Response group](https://docs.carpentries.org/topic_folders/policies/enforcement-guidelines.html#incident-response-assessment) will make this decision and indicate that a liaison vote will be necessary to resolve the incident."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:44
+msgid "Should the Executive Council liaison participate in a CoCc vote, and that resolution is appealed before the Executive Council, the liaison member will abstain from that appeal vote."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:46
+# header
+msgid "## Terms of office"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:48
+msgid "The expected term of office for each Committee member is one to three years, however, members may remain longer if continuity of the Committee is a concern. \n"
+"During their time on the Committee, members may temporarily withdraw from Committee work for up to 3 months provided they inform the Governance Chair in writing. \n"
+"If the members are unavailable for longer than 3 months, they will be asked to take a leave from the Committee. \n"
+"They may volunteer to rejoin when they are available again following the onboarding procedure described earlier in the document. \n"
+"This will allow us to maintain privacy for the reports that will be handled in their absence and create an opportunity for new members to join the Committee."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:54
+msgid "The Chairs are expected to sit for approximately one year. \n"
+"New Chairs are selected from among those who have been on the Committee for at least one year. One of the available members can volunteer to be elected to take on the role of a Chair. "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:57
+# header
+msgid "## Main duties of the position holders"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:59
+msgid "All members of the CoCc must read, understand and abide by the [membership agreement](https://docs.carpentries.org/topic_folders/policies/coc-membership-agreement.html#). \n"
+"In addition to the roles and responsibilities outlined in the membership agreement (e.g. engaging in GitHub issues and reviewing transparency reports), committee officers have the duties outlined below."
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:62
+# header
+msgid "### Chairs’ roles"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:64
+# unordered list
+msgid "- The CoCc utilises two Chair positions, Governance Chair and Incident Response Chair, who share leadership and operational responsibilities. Both the Chairs will share the following responsibilities:"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:65
+# unordered list
+msgid "- Keep an overview of the ongoing work in the Committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:66
+# unordered list
+msgid "- Draft and review new policies with other members of the Committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:67
+# unordered list
+msgid "- Assign Committee related tasks to the Committee members fairly"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:68
+# unordered list
+msgid "- Help and support other members in using tools and approaches effective for the Committee’s work"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:69
+# unordered list
+msgid "- Plan training scheduled for  Committee members and other stakeholders of CoC enforcement on a yearly basis"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:70
+# unordered list
+msgid "- Communicate CoCc activities on via the Carpentries communications channels"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:72
+# header
+msgid "#### Specific roles of the Governance Chair"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:74
+# unordered list
+msgid "- Schedule and chair business meetings quarterly"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:75
+# unordered list
+msgid "- Collect agenda points from Committee members for the business meetings"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:76
+# unordered list
+msgid "- Write, update, and maintain the business meeting minutes for the committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:77
+# unordered list
+msgid "- Co-edit and co-release transparency reports in collaboration with the EC liaison and Committee members"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:78
+# unordered list
+msgid "- Identify gaps in the current Code of Conduct, specifically governance, and raise them to the Committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:80
+# header
+msgid "#### Specific roles of Incident Response Chair"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:82
+# unordered list
+msgid "- Monitor channels where the CoCc receives incident reports"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:83
+# unordered list
+msgid "- Organise incident response meetings for any new CoC incident report, and   establish the Incident Response Group"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:84
+# unordered list
+msgid "- Support the Incident Response Group in documenting the incident -handling process, and in coordination with the Governance Chair, assist the Incident Response Group in communicating with the reporter and reportee "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:85
+# unordered list
+msgid "- Identify gaps in the current Code of Conduct, specifically in the incident reporting and incident-handling aspects, and raise them to the Committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:87
+# header
+msgid "### Core Team Liaison"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:89
+# unordered list
+msgid "- Represent the CoCc in any relevant communication with the Core Team"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:90
+# unordered list
+msgid "- Relay information to the Core Team members when required "
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:91
+# unordered list
+msgid "- Intervene in any communication or potential incident in Carpentries online spaces that may lead to a CoC incident"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:92
+# unordered list
+msgid "- Notify and request a review from the Carpentries Executive Director regarding any public communication from the CoCc, when needed"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:94
+# header
+msgid "### EC Liaison"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:96
+# unordered list
+msgid "- Represent the CoCc in any relevant communication with the EC"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:97
+# unordered list
+msgid "- Relay information to the EC members when required"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:98
+# unordered list
+msgid "- Co-edit and co-release transparency reports with the Incident Response Chair"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:99
+# unordered list
+msgid "- Notify, and request a review if needed, from EC regarding any public communication from CoC committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:101
+# header
+msgid "### Incident Response Group’s roles and responsibilities"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:103
+# unordered list
+msgid "- An Incident Response Group of a minimum of 3 people are convened for any reported incident"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:104
+# unordered list
+msgid "- An Incident Response Lead is selected in the Incident Response Group to ensure accountability of the report handling"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:105
+# unordered list
+msgid "- The Core Team liaison will create a collaborative document for each case and share with the Incident Response Group"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:106
+# unordered list
+msgid "- A note-taker will ensure that the notes are maintained for the Incident Response Group and shared with the Code of Conduct committee"
+msgstr ""
+
+#: topic_folders/policies/coc-governance.md:107
+# unordered list
+msgid "- A time-keeper will notify the Incident Response Group of the various deadlines"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:1
+# header
+msgid "# Membership Agreement for the Code of Conduct (CoC) Committee "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:3
+msgid "This document describes the responsibilities that the members of the Code of Conduct committee (CoCc) must agree to meet in order to fulfill the requirements of their roles on the committee."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:5
+# blockquote, which can be cascaded
+msgid "> *The committee is what turns a code of conduct from a written document into meaningful action.*  "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:6
+# blockquote, which can be cascaded
+msgid "> Valerie Aurora, FrameShift Consulting"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:8
+# header
+msgid "## Core Membership Agreement:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:10
+msgid "The main purpose of the CoCc is to: establish, maintain and uphold the Code of Conduct; educate members of the community of policies and behaviors that can help create a more inclusive and welcoming environment; and protect all members from harm in community spaces."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:12
+msgid "In order to uphold the CoC, the CoCc members will:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:14
+# unordered list
+msgid "* support the objectives and mission of The Carpentries by abiding by its CoC and other policies and procedures."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:15
+# unordered list
+msgid "* learn about the [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#) and [reporting guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#incident-reporting-guidelines), and as CoC advocates, bring awareness of it into any Community spaces that they are part of.  "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:16
+# unordered list
+msgid "* understand and be comfortable to act on CoC related reports as per the [enforcement guidelines](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html#enforcement-manual) put in place for the relevant community spaces."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:17
+# unordered list
+msgid "* actively help develop and maintain existing and new documents to facilitate the work of the [CoCc](https://github.com/carpentries/handbook/tree/master/topic_folders/policies). "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:18
+# unordered list
+msgid "* avoid *conflicts of interest* [1] when processing CoC related reports. Failure to declare a conflict of interest may be considered a breach of the CoC."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:19
+# unordered list
+msgid "* maintain the confidentiality of any reported incidents, the identity of persons involved and discussions that take place within the committee."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:20
+# unordered list
+msgid "* not make any comments about any matters that they have been informed of as part of their duties as a CoCc member unless authorized to do so."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:21
+# unordered list
+msgid "* hold themselves accountable for their responsibilities as trustees and understand that they are expected to follow through on their commitments."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:22
+# unordered list
+msgid "* respect and promote diversity, equity, and inclusion in the community and act in the best interests of the Carpentries community impartially, putting aside any individual affiliations such as organizations or other Carpentries committees, and personal biases."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:25
+# header
+msgid "## Further Roles and Responsibilities:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:27
+msgid "In addition to the core membership agreement, CoCc members will be required to:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:29
+# unordered list
+msgid "* support the committee chair and the designated Core Team liaison in collective decision making. In order to do so, they will prepare fully for meetings, which will include reading reports and related documents carefully, querying anything they do not understand, thinking through issues before meetings and completing any tasks assigned to them."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:30
+# unordered list
+msgid "* attend in the order of 75% of all *CoCc Business meetings* [2]. In these meetings, CoCc members will actively engage in discussion, voting and contributing in a constructive way, listening carefully, challenging sensitively and avoiding conflict. "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:31
+# unordered list
+msgid "* promptly respond to emails, or, if they realize they will be out of touch for a while, inform the committee chair."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:32
+# unordered list
+msgid "* participate in any training that is organized to support the work of the committee, and to responsibly use any technical solutions that the CoCc is asked to use in order to maintain the security and privacy of personal information conveyed to the committee."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:35
+# header
+msgid "### [1] Note on *Conflicts of Interest*:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:37
+msgid "A conflict of interest is a situation where a member of the CoCc could be perceived to not act in the interest of the Carpentries and the members of the community. Such situations can, for instance, occur when the members have close ties with one of the parties in a CoC incident (e.g. family relationships, close friendships, business ties, or even personal considerations). Such conflicts of interest may make it difficult to fulfill their duties impartially."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:40
+msgid "If any member of the committee happens to face a conflict of interest while handling a case, they are  expected to:\n"
+"* inform the chair of the CoCc and/or the full committee of the conflict of interest, \n"
+"* not be involved in the case, and if required, temporarily leave their position as a CoCc member to avoid any bias."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:45
+# header
+msgid "### [2] Note on the *CoCc Meetings*: "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:47
+msgid "The committee conducts two types of meetings: "
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:49
+# unordered list
+msgid "* **Business meetings**: these are meetings where we discuss the status of current documents, issues brought to us by the community and other CoC related matters."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:50
+# unordered list
+msgid "* **Incident report related meetings**: in these meetings those that have volunteered to decide the course of action for a reported incident meet and discuss the situation. To decide on an issue, a minimum of 3 members must participate, thus not all members need to participate in every case."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:53
+# header
+msgid "### Onboarding of new committee members:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:55
+msgid "New committee members will be included in committee discussions only after they have fulfilled the onboarding requirements specified by the CoCc and The Carpentries Executive Council."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:58
+# header
+msgid "### Leaving the Committee:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:60
+# unordered list
+msgid "* If a CoCc member wishes to leave the committee at any time, they will inform the Committee chair in advance (giving enough notice to hand-over their responsibility) in writing, stating their reasons for leaving."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:61
+# unordered list
+msgid "* Breach of any part of the CoC by any CoCc member may result in a fair procedure being put in motion that may result in them being asked to resign from the CoCc. Should this happen they will be given the opportunity to be heard. In the event they are asked to resign from the committee, they will accept the majority decision of the committee in this matter and resign at the earliest opportunity."
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:64
+# header
+msgid "## Relevant information:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:66
+# unordered list
+msgid "* CoC committee: [https://carpentries.org/coc-ctte](https://carpentries.org/coc-ctte/)"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:67
+# unordered list
+msgid "* [CoC Handbook Documentation](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:70
+# header
+msgid "## References:"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:72
+# unordered list
+msgid "* This document is largely based on “[The Code of Good Governance, DIY Committee Guide](http://www.diycommitteeguide.org/sites/default/files/2016-03/code-of-good-governance-2016.pdf), 2016” http://www.diycommitteeguide.org/download/example-code-of-conduct-volunteer-now"
+msgstr ""
+
+#: topic_folders/policies/coc-membership-agreement.md:73
+# unordered list
+msgid "* [How to Respond to Code of Conduct Reports](https://files.frameshiftconsulting.com/books/cocguide.pdf), Valerie Aurora and Mary Gardiner, 2018"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:1
+# header
+msgid "### The Carpentries Code of Conduct"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:3
+# header
+msgid "#### Code of Conduct (Summary View)"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:5
+msgid "Below is a summary of The Carpentries Code of Conduct. Continue reading for a [more detailed description of the CoC](#code-of-conduct-detailed-view)."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:7
+msgid "For more information please review our:\n"
+"- [Incident Response Guidelines](incident-response.md)\n"
+"- [Incident Reporting Guidelines](incident-reporting.md)\n"
+"- [Incident Response Procedure](enforcement-guidelines.md)\n"
+"- [Termed Suspension Guidelines](termed-suspension.md)"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:13
+msgid "We are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. By participating in this community, participants accept to abide by The Carpentries' Code of Conduct and accept the procedures by which any Code of Conduct incidents are resolved. Any form of behaviour to exclude, intimidate, or cause discomfort is a violation of the Code of Conduct. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all platforms and events:"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:15
+#: topic_folders/policies/code-of-conduct.md:44
+# unordered list
+msgid "* Use welcoming and inclusive language"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:16
+#: topic_folders/policies/code-of-conduct.md:45
+# unordered list
+msgid "* Be respectful of different viewpoints and experiences"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:17
+#: topic_folders/policies/code-of-conduct.md:46
+# unordered list
+msgid "* Gracefully accept constructive criticism"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:18
+#: topic_folders/policies/code-of-conduct.md:47
+# unordered list
+msgid "* Focus on what is best for the community"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:19
+#: topic_folders/policies/code-of-conduct.md:48
+# unordered list
+msgid "* Show courtesy and respect towards other community members"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:21
+msgid "If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee [completing this form][reporting-form], who will take the appropriate action to address the situation."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:23
+# header
+msgid "#### Code of Conduct (Detailed View)"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:25
+msgid "Part 1. Introduction "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:27
+msgid "The Carpentries is a community-led project. We value the involvement of everyone in the community. We are committed to creating a friendly and respectful place for learning, teaching and contributing. All participants in our events and communications are expected to show respect and courtesy to others."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:29
+msgid "To make clear what is expected, everyone participating in The Carpentries activities is required to conform to the Code of Conduct. This Code of Conduct applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct.  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:31
+msgid "The Carpentries [Code of Conduct Committee](https://carpentries.org/coc-ctte/) is responsible for enforcing the Code of Conduct. It can be contacted by emailing [coc@carpentries.org](mailto:coc@carpentries.org). \n"
+"All reports will be reviewed by the Code of Conduct Committee and will be kept confidential. "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:34
+msgid "Part 2. The Carpentries Code of Conduct"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:36
+msgid "The Carpentries is dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. As such, we do not tolerate behaviour that is disrespectful to our teachers or learners or that excludes, intimidates, or causes discomfort to others. We do not tolerate discrimination or harassment based on characteristics that include, but are not limited to, gender identity and expression, sexual orientation, disability, physical appearance, body size, citizenship, nationality, ethnic or social origin, pregnancy, familial status, veteran status, genetic information, religion or belief (or lack thereof), membership of a national minority, property, age, education, socio-economic status, technical choices, and experience level. "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:38
+msgid "Everyone who participates in Carpentries activities is required to conform to this Code of Conduct. It applies to all spaces managed by The Carpentries including, but not limited to, workshops, email lists, and online forums such as GitHub, Slack and Twitter. Workshop hosts are expected to assist with the enforcement of the Code of Conduct. By participating, participants indicate their acceptance of the procedures by which The Carpentries resolves any Code of Conduct incidents, which may include storage and processing of their personal information. "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:40
+msgid "Part 2.1 Expected behaviour"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:42
+msgid "All participants in our events and communications are expected to show respect and courtesy to others. All interactions should be professional regardless of platform: either online or in-person. In order to foster a positive and professional learning environment we encourage the following kinds of behaviours in all Carpentries events and platforms:"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:50
+msgid "Note: See the [four social rules](https://www.recurse.com/manual#sub-sec-social-rules) for further recommendations."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:52
+msgid "Part 2.2 Unacceptable behaviour"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:54
+msgid "Examples of unacceptable behaviour by participants at any Carpentries event/platform include:"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:56
+# unordered list
+msgid "- written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:57
+# unordered list
+msgid "- causing someone to fear for their safety, such as through stalking, following, or intimidation  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:58
+# unordered list
+msgid "- violent threats or language directed against another person"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:59
+# unordered list
+msgid "- the display of sexual or violent images  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:60
+# unordered list
+msgid "- unwelcome sexual attention  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:61
+# unordered list
+msgid "- nonconsensual or unwelcome physical contact  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:62
+# unordered list
+msgid "- sustained disruption of talks, events or communications"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:63
+# unordered list
+msgid "- insults or put downs  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:64
+# unordered list
+msgid "- sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:65
+# unordered list
+msgid "- excessive swearing"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:66
+# unordered list
+msgid "- incitement to violence, suicide, or self-harm  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:67
+# unordered list
+msgid "- continuing to initiate interaction (including photography or recording) with someone after being asked to stop  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:68
+# unordered list
+msgid "- publication of private communication without consent  "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:70
+msgid "Part 2.3 Consequences of Unacceptable behaviour"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:72
+msgid "Participants who are asked to stop any inappropriate behaviour are expected to comply immediately. This applies to any Carpentries events and platforms, either online or in-person. If a participant engages in behaviour that violates this code of conduct, the organisers may warn the offender, ask them to leave the event or platform (without refund), or engage The Carpentries Code of Conduct Committee to investigate the Code of Conduct violation and impose appropriate sanctions."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:74
+# header
+msgid "#### Update Logs"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:76
+# unordered list
+msgid "- 2020-09-23 The CoCc Governance document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Kari L. Jordan and executive committee. Contributors: drafted by Karin Lagesen, Malvika Sharan and Karen Word (2019) and extensively reviewed and updated by the committee members of the Code of Conduct committee: Karin Lagesen, Malvika Sharan, Karen Word, Samatha Ahern, Ivo Arrey, Benjamin Schwessinger, François Michonneau and Konrad Förstner (2019-2020)."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:78
+# unordered list
+msgid "- 2019-07-17 The CoCc membership agreement document was added to the handbook. This document is approved by the members of the Code of Conduct committee, the executive director, Tracy Teal and trainers community. Contributors: drafted by Malvika Sharan (January 2019) and intesively reviewed and updated by the committee members Malvika Sharan, Karin Lagesen, Kari L. Jordan, Samantha Ahern, and Simon Waldman (February-April 2019)."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:80
+# unordered list
+msgid "- 2019-02-28 Added appeal process, procedure for following up with a reportee, terminology, CoC incident response procedure, termed supsension checklist, and expanded clauses for conflicts of interest. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:82
+# unordered list
+msgid "- 2018-09-11 Code of Conduct revised to provide straightforward examples of both beneficial and unwanted behaviour. Also includes changes regarding evaluating intent. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:84
+# unordered list
+msgid "- 2018-09-11 Reporting guidelines revised to include alternate contact points. Contributors: Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:86
+# unordered list
+msgid "- 2016-11-21 Code of Conduct, Reporting Guidelines and Enforcement Manual released. Documents were adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors: Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, Tracy Teal. "
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:88
+# header
+msgid "#### About this Document"
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:90
+msgid "This document is adapted from guidelines written by the [Django Project](https://www.djangoproject.com/conduct/enforcement-manual/), which was itself based on the [Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports) template and the [PyCon 2013 Procedure for Handling Harassment Incidents](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/). Contributors to the the initial document are Adam Obeng, Aleksandra Pawlik, Bill Mills, Carol Willing, Erin Becker, Hilmar Lapp, Kara Woo, Karin Lagesen, Pauline Barmby, Sheila Miguez, Simon Waldman, and Tracy Teal. Additional language was added by [Otter Tech](https://otter.technology) from the [PyCon U.S. 2018 Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) ([licensed CC BY 3.0](http://creativecommons.org/licenses/by/3.0/))\n"
+"In 2018, the Code of Conduct was revised to add a summary, straightforward examples of both beneficial and unwanted behaviors, and evaluating intent. Reporting guidelines were also revised to include alternate contact points and a reporting form with the procedure was added. In 2019, an appeal process, the procedure for following up with a reportee, terminology, CoC incident response procedure, termed suspension checklist, expanded clauses for conflicts of interest, and committee membership agreement were included. Contributors of these revised documents are Ethan White, Kari L. Jordan, Karin Lagesen, Malvika Sharan, Samantha Ahern, and Simon Waldman."
+msgstr ""
+
+#: topic_folders/policies/code-of-conduct.md:94
+#: topic_folders/policies/enforcement-guidelines.md:132
+#: topic_folders/policies/incident-reporting.md:43
+#: topic_folders/policies/incident-response.md:49
+#: topic_folders/policies/termed-suspension.md:92
+msgid "[reporting-form]: https://goo.gl/forms/KoUfO53Za3apOuOK2"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:1
+# header
+msgid "### Carpentries Professional Development Policy"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:3
+msgid "**Core Team Professional Development Fund**"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:5
+msgid "The Carpentries Core Team have access to a professional development fund (hereon after \"Core Team PDF\") of $1000/year for each full time employee."
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:7
+msgid "**What Activities are Eligible?**"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:9
+msgid "The Core Team PDF makes available funds for the purpose of supporting Core Team participation in professional development programs such as workshops and seminars and research activities."
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:11
+msgid "Requests must demonstrate how the activity for which funding is sought supports the:"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:13
+# ordered list
+msgid "1. Current Strategic Plan for The Carpentries;"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:14
+# ordered list
+msgid "1. Employee's Individual Professional Development:"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:15
+# unordered list
+msgid "   - Through improving performance in the employee’s current position; or"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:16
+# unordered list
+msgid "   - Through improving the employee’s qualifications for career opportunities that may arise within The Carpentries"
+msgstr ""
+
+#: topic_folders/policies/core-team/professional-development-policy.md:18
+msgid "When applying for reimbursement for professional development materials or activities, Core Team should provide a short description and justification of the expenditure. For large expenses (>$200), Core Team should seek prior approval from the Finance subcommittee."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:1
+# header
+msgid "### Code of Conduct Incident Response Procedure and Enforcement Guidelines"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:3
+msgid "This document outlines the Incident Response Procedure and Enforcement Guidelines followed by The Carpentries Code of Conduct Committee (CoCc) once an incident report is received through the [incident report form][reporting-form] or other channels. These guidelines are used when the CoCc reviews and resolves incidents to ensure consistency, transparency, and fairness. The Carpentries has access to legal support through our fiscal sponsor, [Community Initiatives](https://communityin.org/), should there be a need. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:5
+msgid "The CoC committee will attempt to ensure your safety and help with any immediate needs, particularly at in-person events. The incident reporter(s) will receive an email from the Code of Conduct committee acknowledging receipt of an incident report within 24 hours of the form submission, and we aim for the same response time through other channels. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:7
+msgid "If there is an ongoing incident or a threat to physical safety, the committee’s immediate priority will be to protect everyone involved. This means we may delay an \"official\" response until we believe that the situation has ended and that everyone is physically safe.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:9
+msgid "The committee will make all efforts to meet within two business days to review the incident and determine next steps. Once the committee has a complete account of the events, they will make a decision as to how to respond. Examples of possible incident responses are outlined in The Carpentries [Enforcement Guidelines](enforcement-guidelines.md). The committee will respond within one week to the original reporter with either a resolution or an explanation of why the situation is not yet resolved.   "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:11
+msgid "Once the committee has determined its resolution, the original reporter will be contacted to let them know what action (if any) will be taken. The committee will take into account feedback from the reporter on the appropriateness of its response but may decide not to act on that feedback.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:13
+msgid "Finally, the Chair of the Code of Conduct Committee and Executive Council Liaison will write up a [transparency report](https://github.com/carpentries/executive-council-info/blob/master/code-of-conduct-transparency-reports/) for incidents reported through the incident report form or other channels. Names of the reporter and any persons involved in the incident will not be included unless the resolution results in a termed suspension. The Executive Council may choose to make a public report of the incident while maintaining anonymity of those involved."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:15
+# header
+msgid "##### Terminology"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:16
+# unordered list
+msgid "- **Reporter**: Person reporting an incident."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:17
+# unordered list
+msgid "- **Reportee**: Person being reported."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:18
+# unordered list
+msgid "- **Incident Response Group (IRG)**: Group of people who work on a specific incident. There will be a minimum of three people from the CoC committee on each IRG."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:19
+# unordered list
+msgid "- **Incident Response Lead (IRL)**: Person on the CoC committee heading the IRG. This person is appointed on a per-incident basis by the IRG."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:21
+# header
+msgid "##### Incident Response Procedure for The Carpentries Code of Conduct Committee"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:23
+msgid "The following is a summary of the steps the Code of Conduct Committee takes when responding to an incident reported via the incident report form. More detailed information is also provided below the summary."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:25
+# unordered list
+msgid "- If there is a need for an immediate response (physical danger, disruption in a workshop, ongoing online conversation) communicated through any channel, the CoCc can activate the [Termed Suspension Checklist](termed-suspension.md)."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:26
+# unordered list
+msgid "- For non-immediate responses submitted via the [incident report form][reporting-form], an auto-generated email is sent to the Code of Conduct committee that a report has been received. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:27
+# unordered list
+msgid "- An auto-response is sent to the reporter acknowledging that the incident report was received via the secure form. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:28
+# unordered list
+msgid "- The first person on the Code of Conduct committee to see the report reviews it and provides an initial response to the reporter within 24 hours of the report being submitted or immediately, if safety is an issue. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:29
+# unordered list
+msgid "- This response will include a timeline of what to expect as the Code of Conduct committee works to provide a resolution. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:30
+# unordered list
+msgid "- The first person on the Code of Conduct committee to see the report completes an [incident data collection form](https://docs.google.com/document/d/1FKR30JXU4yE7gsJa6SDQqwhWd8rUYKehy6NyMwwx7Mw/edit?usp=sharing) to share with the CoC Committee.   "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:31
+# unordered list
+msgid "- A minimum of three members of the Code of Conduct Committee (the Incident Response Group (IRG)) meet to discuss the incident. The incident report document is shared with the IRG prior to this meeting."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:32
+# unordered list
+msgid "- An Incident Response Lead (IRL) is appointed by the IRG."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:33
+# unordered list
+msgid "- The IRG determines if the incident occurred in a Carpentries space and is therefore appropriate to review."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:34
+# unordered list
+msgid "- The IRG reviews all of the information included in the incident report and determines whether more information is needed. If so, that information is requested from the reporter."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:35
+# unordered list
+msgid "- The IRL contacts the reportee(s) to set up a meeting, if necessary. At least two IRG members should be present at the meeting with the reportee(s)."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:36
+# unordered list
+msgid "- An optional meeting with the reporter takes place to obtain more information. At least two members of the IRG should be present at the meeting. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:37
+# unordered list
+msgid "- After further collection and review of information, if needed, the IRG determines a resolution. Possible [resolutions](#resolutions) are located in this documentation and include, but are not limited to, a private reprimand, public reprimand, and termed suspension."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:38
+# unordered list
+msgid "- The IRL updates the reporter and  solicits feedback on the resolution. Feedback may or may not be used to update the resolution. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:39
+# unordered list
+msgid "- The IRL updates the reportee(s)."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:40
+# unordered list
+msgid "- The Core Team Liaison determines whether the [Termed Suspension Checklist](termed-suspension.md) should be employed or other actions taken."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:41
+# unordered list
+msgid "- Essential personnel are notified to implement any actions. Report details remain confidential. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:42
+# unordered list
+msgid "- Decisions and outcomes are logged on the private Code of Conduct Committee GitHub repository. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:43
+# unordered list
+msgid "- The Chair of the Code of Conduct Committee and Executive Council Liaison write up a transparency report."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:45
+# header
+msgid "##### Report Acknowledgement"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:47
+msgid "When a report is received, any one of the Code of Conduct committee members will reply to the reporter to confirm receipt. This reply will be sent within 24 hours of the incident being reported, and the CoCc will strive to respond much more quickly than that."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:49
+msgid "For details about what the incident report should contain, see the [Incident Reporting Guidelines](incident-reporting.md). If a report does not contain enough information, the committee will attempt to obtain all relevant information to resolve the incident. The committee is empowered to act on the behalf of The Carpentries in contacting any individuals involved, unless this is not requested by the reporter. **Protecting the safety of the reporter is the priority in any incident report or review.** The committee is also empowered to act if any of its members become aware of ongoing behaviour that, taken as a whole over a long time period, is inappropriate. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:51
+# header
+msgid "##### Incident Response Assessment"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:53
+msgid "Upon receiving a report of an incident, at least three members of the CoCc will form the Incident Response Group (IRG). The IRG will meet to:  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:55
+# unordered list
+msgid "- Assign an Incident Response Lead (IRL)."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:56
+# unordered list
+msgid "- Review report documentation to determine the content and context of the incident."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:57
+# unordered list
+msgid "- Consult documentation of past incidents for patterns of behaviour (if available and applicable)."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:58
+# unordered list
+msgid "- Discuss appropriate resolutions to the incident."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:59
+# unordered list
+msgid "- Determine the follow up actions for the reportee, reporter and anyone else named in the report who may have been impacted."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:61
+msgid "The deliberations of the incident response assessment will be stored in the Code of Conduct Committee’s private GitHub repository."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:63
+msgid "The committee will aim to have a resolution agreed upon within one week of receipt of the incident response form. In the event that a resolution cannot be determined in that time, the IRL will respond to the reporter(s) with an update and projected timeline for resolution.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:65
+# header
+msgid "##### Following up with the Reportee"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:67
+msgid "When following up with the reportee, the CoCc representatives will:"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:69
+# unordered list
+msgid "- Explain that an incident was reported that involves the reportee."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:70
+# unordered list
+msgid "- In this explanation, the focus will be on the impact of their behaviour, not their intent."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:71
+# unordered list
+msgid "- Reiterate the Code of Conduct and that their behaviour was deemed inappropriate."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:72
+# unordered list
+msgid "- Provide concrete examples of how they can improve their behaviour."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:73
+# unordered list
+msgid "- Give them the opportunity to state their view of the incident."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:74
+# unordered list
+msgid "- Remind them of the consequences of their behaviour, or future consequences if the behaviour is repeated."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:75
+# unordered list
+msgid "- Explain the possible resolutions that may be enforced should the CoCc determine there is a breach."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:77
+# header
+msgid "##### Resolutions"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:79
+msgid "The committee must agree on a resolution by the majority of all members investigating the incident in question. If the committee cannot reach a majority decision and deadlocks for over one week, they will turn the matter over to the Executive Council for resolution.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:81
+msgid "What follows are examples of possible resolutions to an incident report. This list is not comprehensive, and The Carpentries Code of Conduct Committee reserves the right to take any action it deems necessary to resolve an incident. Possible resolutions to an incident include:"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:83
+# unordered list
+msgid "- Nothing, if the Code of Conduct committee determined there was no breach in the Code of Conduct. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:84
+# unordered list
+msgid "- A private verbal reprimand from the committee to the individual(s) involved. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:85
+# unordered list
+msgid "- This conversation may happen in person, over video conference call, or by phone."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:86
+# unordered list
+msgid "- The IRL will write a short report of the conversation to be shared with the reportee for verification purposes and then shared with the CoCc and maintained on record in the private GitHub repository."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:87
+# unordered list
+msgid "- A private emailed reprimand from the committee to the individual(s) involved. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:88
+# unordered list
+msgid "- The IRL will deliver a reprimand to the individual(s) over email, cc'ing the Code of Conduct Committee."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:89
+# unordered list
+msgid "- Requiring that the reportee avoid any interaction with, and physical proximity to, another person for the remainder of The Carpentries event."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:90
+# unordered list
+msgid "- Refusal of alcoholic beverage purchases by the reportee at Carpentries events."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:91
+# unordered list
+msgid "- Ending a talk that violates the Code of Conduct early."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:92
+# unordered list
+msgid "- Not publishing the video or slides of a talk that violated the Code of Conduct."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:93
+# unordered list
+msgid "- Not allowing a speaker who violated the Code of Conduct to give (further) talks at Carpentries workshops or events now or in the future."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:94
+# unordered list
+msgid "- Requiring that the reportee not volunteer for future Carpentries events either indefinitely or for a certain time period determined by the CoCc."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:95
+# unordered list
+msgid "- Requiring that the reportee refund any travel grant funding they received."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:96
+# unordered list
+msgid "- Requiring that the reportee immediately leave an event and not return."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:97
+# unordered list
+msgid "- Immediately ending any volunteer responsibilities and privileges the reportee holds.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:98
+# unordered list
+msgid "- A public announcement of an incident, ideally in the same venue that the violation occurred (i.e. on the listserv for a listserv violation; GitHub for a GitHub violation, etc.). "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:99
+# unordered list
+msgid "- The CoCc may choose to publish this message elsewhere for posterity.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:100
+# unordered list
+msgid "- An imposed suspension (i.e. asking someone to \"take a week off\" from a listserv or The Carpentries’ GitHub repos). "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:101
+# unordered list
+msgid "- The IRL will communicate this suspension to the reportee. They will be asked to take this suspension voluntarily, but if they do not agree, then a temporary ban may be imposed to enforce this suspension.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:102
+# unordered list
+msgid "- A permanent or temporary ban from some or all Carpentries spaces (listservs, GitHub, in-person events including workshops, etc). "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:103
+# unordered list
+msgid "- The CoC committee will maintain records of all such bans so that they may be reviewed in the future, extended to new Carpentries communication forums, or otherwise maintained.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:104
+# unordered list
+msgid "- Assistance to the complainant with a report to other bodies, for example, institutional offices or appropriate law enforcement agencies.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:106
+msgid "Once a resolution is agreed upon, but before it is enacted, the IRL will contact the reporter and any other affected parties to explain the proposed resolution. The IRL will ask if this resolution is acceptable and must note feedback for the record. However, the CoC committee is not required to act on this feedback. "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:108
+# header
+msgid "##### Appeal Process"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:109
+msgid "Any individual(s) involved in a Code of Conduct report handled by CoC committee (CoCc) has the right to appeal a decision made by the committee. An appeal can be made directly to the CoCc (email: [coc@carpentries.org](mailto:coc@carpentries.org)) or to the ombudsperson (email: [confidential@carpentries.org](mailto:confidential@carpentries.org)) by sending an email with subject line __Code of Conduct Incident Appeal__."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:111
+msgid "The email should include documentation related to the incident to support the appeal. The said documentation may include, but does not have to be limited to:\n"
+"- Information from the reportee justifying reasoning for the appeal.\n"
+"- Letters of support from community members.\n"
+"- Statements from other individuals involved in the incident to support the appeal."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:116
+msgid "Appeals can be requested up to 30 days after a resolution has been determined."
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:118
+# header
+msgid "##### Accountability"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:120
+msgid "The CoC committee will submit a report to The Carpentries Executive Council and The Carpentries Executive Director in the event of an ongoing resolution, such as a termed suspension or ban.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:122
+msgid "The CoC committee will never publicly discuss the details of an incident; any public statements will be made by The Carpentries Executive Council.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:124
+msgid "At the end of every quarter, the Executive Council will publish an aggregated count of the incidents the Code of Conduct Committee reviewed, indicating how many reports it received, how many incidents it investigated independently, how many times it acted unilaterally, and, for each of these, under which part of the Code of Conduct the incident was classified.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:126
+# header
+msgid "##### Conflicts of Interest"
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:128
+msgid "In the event of any conflict of interest (a committee member, their family member, or someone with whom the committee member has a close academic or employment relationship is involved in a complaint), the committee member must immediately notify the other members and recuse themselves if necessary.  "
+msgstr ""
+
+#: topic_folders/policies/enforcement-guidelines.md:130
+msgid "In the case that a CoCc member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the Code of Conduct committee. "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:1
+# header
+msgid "### Code of Conduct Incident Reporting Guidelines"
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:3
+# header
+msgid "##### Reporting a Potential Code of Conduct Incident "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:5
+msgid "If you are attending a Carpentries workshop, in-person event, or participating in one of our online events or communication channels and believe someone is in physical danger, please ask your workshop host, instructor(s), or another community member  to contact the appropriate emergency responders (police, crisis hotline, etc.). Prior to a Carpentries workshop or in-person event, event organisers should determine emergency contact numbers and local procedures."
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:7
+msgid "If you believe someone violated the [Code of Conduct](../policies/code-of-conduct.md) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information. "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:9
+msgid "__[Submit a Code of Conduct Incident Report][reporting-form]__"
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:11
+msgid "The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.md).  A report guarantees review, but not necessarily that an action will be taken."
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:13
+# header
+msgid "##### Alternative Contact Points"
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:15
+msgid "If you would prefer other ways to contact us, an email to [coc@carpentries.org](mailto:coc@carpentries.org) will be seen by all of the [Code of Conduct committee](https://carpentries.org/coc-ctte). If you are uncomfortable reporting to the Code of Conduct committee, incidents can also be reported to Cam Macdonell, the designated ombudsman for The Carpentries, at [confidential@carpentries.org](mailto:confidential@carpentries.org).  "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:17
+msgid "The Carpentries Executive Director (Kari L. Jordan) can also be contacted by telephone at +1-407-476-6131 or email at [kariljordan@carpentries.org](mailto:kariljordan@carpentries.org)."
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:20
+# header
+msgid "##### Confidentiality"
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:22
+msgid "You are welcome to report an incident anonymously. If you would like someone to follow-up with you about the progress of your incident report however, you would need to provide contact information."
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:24
+msgid "**All reports will be kept confidential** with details shared only with the Code of Conduct committee members. In the case that a CoC committee member is involved in a report, the member will be asked to recuse themselves from ongoing conversations, and they will not have access to reports after the enforcement decision has been made. Resolution action may also include removal of that member from the CoC committee. "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:26
+msgid "In rare cases, the CoC committee may suspend a community member. In such cases, the Executive Council and Carpentries Core Team will be informed in order to prevent future harm to the community, and The Carpentries Core Team [Immediate Response Checklist](incident-response.html#checklists-for-responding-to-an-incident) will be employed. "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:28
+msgid "Some incidents happen in one-on-one interactions, and though details are anonymised, the reported person may be able to guess who made the report. If you have concerns about retaliation or your personal safety, please note those concerns in your report. You are still encouraged to report the incident so that we can support you while keeping our community members safe. In some cases, we can compile several anonymised reports into a pattern of behaviour, and take action on that pattern."
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:30
+msgid "The Code of Conduct committee may determine that a public statement should be made about the incident and/or the action taken. If that is the case, the identities of all reporters and reportees will remain confidential unless those individuals instruct the CoC committee otherwise. "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:33
+# header
+msgid "##### Report Data"
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:34
+msgid "Reports can be filed anonymously with minimal details. If you do not feel you can provide details, we would still like to be aware that an incident occurred. Our ability to act is impacted by the amount of information you can provide, however.  "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:36
+msgid "Information about an incident may be communicated to relevant Carpentries personnel in cases where a community member is suspended from engaging in The Carpentries community. In those cases, the [Termed Suspension Checklist](termed-suspension.md) will be employed. "
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:38
+# header
+msgid "##### Following Up with Reporter(s)"
+msgstr ""
+
+#: topic_folders/policies/incident-reporting.md:40
+msgid "Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.md)."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:1
+# header
+msgid "### Code of Conduct Incident Response Guidelines"
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:3
+msgid "Information on how to report a Code of Conduct (CoC) incident is outlined in our [Code of Conduct Incident Reporting Guidelines](incident-reporting.md)."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:5
+msgid "The checklists below outline the steps any community member (workshop host, [instructor](https://carpentries.org/instructors/), helper, etc.) can take during a potential Code of Conduct incident __before__ reporting it to the Code of Conduct Committee. You may encounter challenging situations and have limited experience or training to feel comfortable enforcing the CoC. These guidelines are meant to help guide you through the process of supporting other community members and yourself during an incident. "
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:7
+msgid "All Carpentries community members should feel empowered to enforce the Code of Conduct. "
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:9
+msgid "Ideally, we would all be able to defuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:11
+msgid "If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:13
+# header
+msgid "##### Immediate Response "
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:15
+msgid "The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  "
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:17
+# header
+msgid "##### Ongoing Incidents"
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:19
+msgid "If an incident is ongoing, whether in-person or online, any community member (workshop host, instructor, helper) may act immediately and employ any of the tools available to the community member to pacify the situation. In situations where an individual community member acts immediately, they must inform the workshop host as soon as possible and report their actions to the Code of Conduct Committee for review within 24 hours of the incident. Should there be a need for an immediate response, please see the [Immediate Response Checklist](#checklists-for-responding-to-an-incident)."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:21
+# header
+msgid "##### Checklists for Responding to an Incident"
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:23
+msgid "**Immediate Response Checklist**\n"
+"* Assess whether you need a first-responder (law enforcement, etc.) to immediately respond to the incident. If so, ask the reporter to stay with you and dial the appropriate emergency response number.\n"
+"* If there is any general threat to participants and/or the safety of anyone attending a Carpentries event, contact the emergency response number established.\n"
+"* If individuals are physically safe, contact law enforcement or security only at the reporter’s request.\n"
+"* Follow any local guidelines for handling incidents, including if you have a legal reporting role. "
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:29
+msgid "**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, CarpentryConnect, Carpentries Instructor Training)**\n"
+"* Ensure participants are safe.\n"
+"* If not, refer to the [Immediate Response Checklist](#checklists-for-responding-to-an-incident).\n"
+"* Listen to the reporter and write down as many details as possible.\n"
+"* Ask the reporter to report the incident via the [Code of Conduct Incident Report Form][reporting-form]. If they would rather you complete the report, complete the report with their assistance. \n"
+"* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:36
+msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\n"
+"* Inform the event host/meeting facilitator that there was an issue and send a report via the [incident report form][reporting-form]. \n"
+"* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:40
+msgid "If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:42
+msgid "Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:"
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:44
+# unordered list
+msgid "- It does not matter if they did not intend to hurt anyone; their behaviour still impacted participants negatively."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:45
+# unordered list
+msgid "- It is not your job to reassure or forgive them."
+msgstr ""
+
+#: topic_folders/policies/incident-response.md:46
+# unordered list
+msgid "- Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on, but you’re not required to if you think it would negatively impact the reporter."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:1
+# header
+msgid "# The Carpentries Privacy Policy"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:3
+msgid "*Effective date: 25 May 2018*"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:5
+msgid "This Privacy Policy covers personally identifiable information that may be provided to The Carpentries, including data provided at in-person events (e.g., workshops and conferences) and online. Changes to this Privacy Policy will be posted on this page. Any changes will only apply to information collected after the posted date of any such change. Additionally, information may be provided to governmental bodies and other entities as required by law.\n"
+"Information obtained and how it is used is described in sections below for"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:8
+# ordered list
+msgid "1. [Workshop participants](#section-1-workshop-participants)  "
+msgstr ""
+
+#: topic_folders/policies/privacy.md:9
+# ordered list
+msgid "2. [Instructors](#section-2-instructors)  "
+msgstr ""
+
+#: topic_folders/policies/privacy.md:10
+# ordered list
+msgid "3. [Other volunteers](#section-3-other-volunteers)  "
+msgstr ""
+
+#: topic_folders/policies/privacy.md:11
+# ordered list
+msgid "4. [Online spaces](#section-4-online-spaces)  "
+msgstr ""
+
+#: topic_folders/policies/privacy.md:12
+# ordered list
+msgid "5. [Opt-in surveys](#section-5-opt-in-surveys)  "
+msgstr ""
+
+#: topic_folders/policies/privacy.md:13
+# ordered list
+msgid "6. [All participants](#section-6-all-participants)"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:16
+# header
+msgid "## Definitions"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:18
+# unordered list
+msgid "- *Workshop participants* - people participating, including but not limited to as learner, helper, or instructor in a Carpentries workshop"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:19
+# unordered list
+msgid "- *Hosts* - people organising a workshop at their local site"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:20
+# unordered list
+msgid "- *Instructors and Trainers* - people who are teaching a Carpentries workshop"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:21
+# unordered list
+msgid "- *Instructor applicants and trainees* - people who have applied to become instructors or are in the process of completing certification"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:22
+# unordered list
+msgid "- *Lesson contributors and maintainers* - people who contribute to or maintain lessons"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:23
+# unordered list
+msgid "- *The Carpentries Core Team* - people employed by The Carpentries"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:24
+# unordered list
+msgid "- *Authorised administrators* - personnel, contractors or volunteers operating in an administrative capacity for The Carpentries as workshop or volunteer coordinators"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:26
+# header
+msgid "#### How is personally identifiable information stored?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:28
+msgid "Personally identifiable information is stored in secure databases. Refer to [Limitations](#limitations) section below."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:31
+# header
+msgid "#### Who has access to personally identifiable information?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:33
+msgid "Access will be limited to The Carpentries Core Team and authorised administrators."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:35
+# header
+msgid "## Section 1: Workshop Participants"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:36
+msgid "Workshop participants include Learners, Helpers and Hosts."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:38
+#: topic_folders/policies/privacy.md:49
+#: topic_folders/policies/privacy.md:60
+#: topic_folders/policies/privacy.md:70
+#: topic_folders/policies/privacy.md:82
+# header
+msgid "#### What information do we obtain?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:39
+msgid "We may obtain the name, email address and event attended of workshop participants. If you are a learner or helper, this information may be provided by you or by the workshop host. See [Section 5: Opt-in Surveys](#section-5-opt-in-surveys) for information on our Opt-In surveys."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:41
+#: topic_folders/policies/privacy.md:52
+#: topic_folders/policies/privacy.md:63
+# header
+msgid "#### How is this information used?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:42
+msgid "We use this information to communicate with participants, including sending workshop information and program evaluation forms. Names and email addresses may be shared with the workshop host for the purpose of workshop logistics. Additionally, we may use your information to contact you about additional opt-in opportunities for training, teaching, surveys and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding participants publicly or with volunteers, partners or third parties, including but not limited to funding entities.\n"
+"See [Section 6: All Participants](#section-6-all-participants) for further information."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:45
+# header
+msgid "## Section 2: Instructors"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:47
+msgid "Instructors includes Instructors, Trainers, Instructor Trainees and Instructor Applicants."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:50
+msgid "We may obtain the name and email address of participants at instructor training events and of current instructors. This information may be provided by the participant or event host. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organisational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:53
+msgid "We use this information to communicate with Instructors, including for instructor training events, training completion materials, communication about the organisation, and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding instructors publicly or with volunteers, partners or third parties, including but not limited to funding entities.\n"
+"See [Section 6: All Participants](#section-6-all-participants) for further information."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:56
+# header
+msgid "## Section 3: Other Volunteers"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:58
+msgid "Other Volunteers includes Lesson contributors and maintainers and Volunteers for subcommittees or programs."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:61
+msgid "We may obtain the name and email address of Other volunteers. If you choose to complete a volunteer/instructor profile, we may store your name, email address, gender, nearest airport location, organisational affiliation, occupation, ORCID ID, GitHub and Twitter handle, and personal URL."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:64
+msgid "We use this information to communicate with Other volunteers, including communication about the organisation and opportunities to volunteer. Additionally, we may use volunteer information to contact you about additional opt-in opportunities for assessment, training, teaching, volunteering and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding volunteers publicly or with other volunteers, partners or third parties, including but not limited to funding entities.\n"
+"See [Section 6: All Participants](#section-6-all-participants) for further information."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:67
+# header
+msgid "## Section 4: Online Spaces"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:68
+msgid "This Privacy Policy is applicable to information that you provided/collected through physical (such as a paper form) and online means, including through our websites or other external online spaces (including but not limited to GitHub repositories, Etherpads, Google Documents, EventBrite and mailing lists). By using these spaces, you agree to the terms of this Privacy Policy. Some of these tools and services (including but not limited to GitHub, Google Documents, Eventbrite and SurveyMonkey) have their own independent privacy policies. See [Section 5: Opt-In Surveys](#section-5-opt-in-surveys), for information specifically on survey information."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:71
+msgid "We may collect information about visitors’ devices and browsers, such as browser version and type, IP address, website referred from and country of visitor.\n"
+"In addition, we may collect textual input (e.g. Etherpad entries) from you which may be associated with your name, affiliation and/or social media handles.\n"
+"If you provide financial information to pay for a workshop or partnership or make a donation, the transaction information will be processed on a third-party secured site. This information will only be accessible to our Core Team or authorised administrators and to the Core Team of our fiscal sponsor who is involved in processing financial transactions. We engage with third-parties (including but not limited to Square, WeDidIt, Eventbrite) to gather and collect this information securely and do not have access to or store any payment details in our systems."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:75
+#: topic_folders/policies/privacy.md:86
+# header
+msgid "#### What do we do with this information?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:76
+msgid "We use this information to improve our sites and services. In addition, we may use contact information that you provide to contact you about additional opt-in opportunities for assessment, training, teaching, and/or community engagement. This information may also be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information regarding visitors publicly or with volunteers, partners or third parties, including but not limited to funding entities. We may use publicly available data of the external online services in programmatic analysis and evaluation.\n"
+"See [Section 6: All Participants](#section-6-all-participants) for further information."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:79
+# header
+msgid "## Section 5: Opt-in Surveys"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:80
+msgid "Community and workshop participants are invited to participate in a variety of opt-in surveys to better serve our community. These include but are not limited to pre-workshop and post-workshop surveys of learners and various survey instruments to evaluate programs or events. "
+msgstr ""
+
+#: topic_folders/policies/privacy.md:83
+msgid "Opt-in surveys are entirely voluntary and information is not collected in a way that it is linked to personally identifiable responses without the respondent’s consent to self-identify.\n"
+"Surveys collect information particular to the event or program being evaluated and optional information about the participant. Gender and ethnicity data, when collected, is only collected from participants in the United States."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:87
+msgid "We use this information to help evaluate and improve programs, report on impact and outcomes and understand the needs and interests of our community. This information may be used for statistical purposes. We do not provide personally identifiable information to any third party. However, we may share de-identified aggregate or summary information publicly or with volunteers, partners or third parties, including but not limited to funding entities. Where we share open-ended responses or testimonials, we always do so anonymously or ask for explicit consent to allow de-identified responses.\n"
+"See [Section 6: All Participants](#section-6-all-participants) for further information."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:90
+# header
+msgid "## Section 6: All Participants"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:92
+# header
+msgid "#### Can I decide what communications to receive?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:93
+msgid "Yes. All communication with us is opt-in, except for participants receiving information about their program and for instructors, information required to maintain instructor status. You may occasionally be sent emails asking if you would like to opt-in to communication channels that we feel may be of interest to you (for example, a mailing list dedicated to your geographical area). In the absence of specific action from you, we will assume you choose not to join these channels."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:95
+# header
+msgid "#### Removing personal information"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:96
+msgid "Participants may choose to disallow us from retaining their personal information at any time by notifying [admin@carpentries.org](mailto:admin@carpentries.org). If you choose to exclude your information, we will delete your personal information from our databases. This may interfere with our ability to give you credit for training events you have completed or to contact you about upcoming events in your area."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:98
+# header
+msgid "#### Limitations"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:99
+msgid "Your privacy is very important to us. However, due to the existing legal and technical environment (e.g., third party interception of information), we cannot ensure that your personally identifiable information will not be disclosed to third parties in ways not described in this policy.\n"
+"We may disclose information when we believe such disclosure is necessary to comply with the law; enforce our agreements, or protect the rights, property or safety of our users or others."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:102
+# header
+msgid "#### What about third party links on our websites?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:103
+msgid "Our websites provide links to third party sites as a service to visitors. We are not responsible for the privacy practices, security measures or data collection practices of third party sites or for their content. The choice to access these sites is at the visitor’s own risk."
+msgstr ""
+
+#: topic_folders/policies/privacy.md:105
+# header
+msgid "#### Who should be contacted regarding this Privacy Policy?"
+msgstr ""
+
+#: topic_folders/policies/privacy.md:106
+msgid "For questions or comments about this Privacy Policy, please contact [admin@carpentries.org](mailto:admin@carpentries.org)."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:1
+# header
+msgid "### Code of Conduct Termed Suspension Guidelines"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:3
+# header
+msgid "##### The Carpentries Termed Suspension Checklist"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:5
+msgid "As a part of their enforcement options, The Carpentries Code of Conduct (CoC) committee can place a community member in Termed Suspension, where the community member is removed from all Carpentries engagement for a period of time."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:7
+msgid "The goal of a Termed Suspension is to 1) limit a person's participation in virtual and in-person Carpentries spaces for a set time to create a safe space for the community, and 2) to give time and opportunity for the individual to review their response to the incident and demonstrate immediate, ongoing, and demonstrable changes as evaluated by the CoC committee before possible reinstatement."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:9
+msgid "In most cases, a Termed Suspension will only be enacted after an incident has been reviewed by the CoC committee and a resolution is reached. However, in severe situations, in particular where there is active harassment, the CoC committee may enact an immediate short-term Termed Suspension while an incident is under review."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:11
+msgid "If there is a decision for a Termed Suspension, the following checklist is followed by the appropriate personnel to enact the Termed Suspension. In accordance with CoC confidentiality guidelines, only essential personnel will be involved in implementation of these actions."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:13
+# header
+msgid "##### Online Communication and Communities"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:14
+msgid "Revoke access from the following communication channels and communities: \n"
+"- Email lists on [TopicBox](https://carpentries.topicbox.com/groups) \n"
+"- Email lists on Google Groups including but not limited to:\n"
+"  - Library Carpentry Governance Group\n"
+"  - Library Carpentry Maintainer Onboarding\n"
+"  - Code of Conduct Committee\n"
+"  - Carpentries Mentoring Groups \n"
+"- Twitter:\n"
+"    - [@datacarpentry](https://twitter.com/datacarpentry)\n"
+"    - [@swcarpentry](https://twitter.com/swcarpentry)\n"
+"    - [@libcarpentry](https://twitter.com/libcarpentry)\n"
+"    - [@thecarpentries](https://twitter.com/thecarpentries)\n"
+"- Blogs\n"
+"    - [Data Carpentry](https://datacarpentry.org/blog/)\n"
+"    - [Software Carpentry](https://software-carpentry.org/blog/)\n"
+"    - [Library Carpentry](https://librarycarpentry.org/blog/)\n"
+"    - [The Carpentries](https://carpentries.org/blog/)\n"
+"- GitHub (including but not limited to carpentries, datacarpentry, swcarpentry, librarycarpentry, data-lessons, carpentrieslab)\n"
+"- Gitter - Library Carpentry Lobby\n"
+"- [Slack](https://swcarpentry.slack.com/messages)  \n"
+"- [Facebook](https://www.facebook.com/carpentries/) \n"
+"- [LinkedIn Carpentries](https://www.linkedin.com/company/the-carpentries/about/) and [LinkedIn Instructors](https://www.linkedin.com/groups/8279689/)"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:37
+msgid "Additionally, the community member will not be allowed to attend community discussions."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:39
+# header
+msgid "##### Teaching Workshops"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:40
+msgid "The suspended member will, for the duration of their suspension:\n"
+"- Be asked not to sign up for workshops on the Instructor Spreadsheet.\n"
+"- Not be able to participate as a helper at any workshops.\n"
+"- Be removed from Eventbrite login access.\n"
+"- Not be allowed to plan self-organised workshops.\n"
+"- Not be allowed to request or host centrally coordinated workshops.\n"
+"- Not be listed as an instructor on the “Instructors” webpage.\n"
+"- Be removed from the instructors email list."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:49
+# header
+msgid "##### Organising Workshops "
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:50
+msgid "If the suspended member is a Regional Coordinator or serves in another role whereby they organise workshops for The Carpentries, for the duration of their suspension they will not have access to:\n"
+"- LastPass\n"
+"- AMY\n"
+"- Regional Email\n"
+"- Asana\n"
+"- HelpScout\n"
+"- Zoom\n"
+"- Regional Coordinators Slack Channel\n"
+"- Regional Coordinators Email List"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:60
+# header
+msgid "##### Instructor Training"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:61
+msgid "The suspended member will, for the duration of their suspension, be removed from the “Our Trainers” web page. Additionally, the suspended member will not be allowed to: \n"
+"- Teach Instructor Training or lead teaching demonstration sessions. The Deputy Director of Instructor Training (DDIT) will check the teaching demo Etherpad to ensure that the suspended member is not signed up to lead teaching demonstrations and will find a replacement Trainer as needed. \n"
+"- Join Trainer meetings. The DDIT will check the meeting Etherpad, and if the suspended member is signed up to attend, will email them if needed to confirm they will not be in attendance. \n"
+"- Post pull requests (PRs), issues, or comments to the Instructor Training GitHub repository. Write or administrative access to repositories will be removed for the duration of the suspension. \n"
+"- Post to the Trainers Slack channel or mailing lists. The suspended member will be removed from these lists for the duration of their suspension. \n"
+"- Participate in review of applications for open instructor training or Trainer training. \n"
+"Participate as a learner in instructor training."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:69
+# header
+msgid "##### Trainer Training"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:70
+msgid "The suspended member will not be allowed to participate in Trainer Training (if they are currently enrolled) and will not be accepted for Trainer Training (if they apply during the suspension period). Additionally, they will not be allowed to shadow a current Carpentries Trainer. They may apply or reapply for future rounds of Trainer Training. "
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:72
+# header
+msgid "##### Member Organisation and Local Activities"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:73
+msgid "The suspended member shall not be involved in officially branded Carpentries workshops or activities at the member or local site for the duration of the suspension. We expect the suspended member to assert that they will be able to carry out this suspension accordingly and to notify the CoC committee if this suspension will interfere with their expected employment duties. "
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:75
+msgid "If the suspension does affect employment duties or the suspended member is the key contact for a member site, the member will work with The Carpentries Executive Director to determine a course of action."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:77
+# header
+msgid "##### Lesson Development and Maintenance"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:78
+msgid "The suspended member will not be allowed to post PRs, issues, or comments to any repository in the carpentries, including but not limited to datacarpentry, swcarpentry, library carpentry, data-lessons, and carpentrieslab organisations. Administrative or write privileges to repositories in these organisations will be removed for the duration of the suspension."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:80
+msgid "If the suspended member is a Maintainer, their name will be removed from the lessons page and they will not appear on the Maintainers page for the duration of their suspension. "
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:82
+# header
+msgid "##### Executive Council"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:83
+msgid "If the suspended member is a member of the Executive Council, they will not participate in Executive Council responsibilities and will be removed from the Executive Council repositories and list of Executive Council members on the website for the duration of their suspension. The Executive Council will review the CoC incident to determine if a suspension will affect their long term position on the Executive Council."
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:85
+# header
+msgid "##### Committees, Task Forces, and Other Interactions"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:86
+msgid "Involvement in all committees, communities, and task forces (African Task Force, Carpentries en LatinoAmérica, etc.) will be suspended. "
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:88
+# header
+msgid "##### Other Interactions"
+msgstr ""
+
+#: topic_folders/policies/termed-suspension.md:89
+# unordered list
+msgid "- The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension."
+msgstr ""
+

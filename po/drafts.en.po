@@ -1,0 +1,1107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: carpentries-coc\n"
+"Report-Msgid-Bugs-To: https://github.com/haiwen/seafile-docs/issues\n"
+"POT-Creation-Date: 2021-03-04 16:59:04+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: drafts/blog_post_ideas.md:1
+# header
+msgid "### Blog post ideas"
+msgstr ""
+
+#: drafts/blog_post_ideas.md:3
+msgid "We welcome blog posts from our community members about their experiences with The Carpentries or resources of interest to the community.  Below are some guiding questions based on the blog post topic. These are just suggestions; please use them if helpful but feel free to structure your post in any way that makes sense to you."
+msgstr ""
+
+#: drafts/blog_post_ideas.md:5
+# header
+msgid "#### Blogging about instructor training events"
+msgstr ""
+
+#: drafts/blog_post_ideas.md:7
+msgid "*What was interesting about your group of trainees?* Tell us about your trainees. Were they from a specific domain or field or spread across a wide range of fields? Do they come from a region or institutional type that is under-represented in the Carpentry community? What was their previous involvement with The Carpentries? What are they excited about becoming Carpentry instructors?"
+msgstr ""
+
+#: drafts/blog_post_ideas.md:9
+msgid "*How did your trainees respond to the curriculum?* Did you do anything differently from the standard instructor training curriculum? How did it work out? What parts of the training resonated with your trainees? Were there any parts that didn’t go as well? Why do you think that was and what could be done differently next time?"
+msgstr ""
+
+#: drafts/blog_post_ideas.md:11
+msgid "*Did anything unique happen?* What new ideas did your trainees have that you hadn’t thought of before? Did they make any suggestions about improvements to our instructor training or workshop curricula that you’re excited about? What was the most exciting discussion your group had during the training event? "
+msgstr ""
+
+#: drafts/blog_post_ideas.md:13
+msgid "*What advice do you have for new instructors?* What do you wish someone had told you when you first became an instructor? Do you have any words of wisdom? How can we welcome your new group of trainees to the Carpentry community"
+msgstr ""
+
+#: drafts/email-scripts.md:1
+msgid "Scripts for sending automated emails are in this folder (along with testing files): "
+msgstr ""
+
+#: drafts/email-scripts.md:3
+msgid "https://drive.google.com/drive/u/0/folders/0B2Xc7BrFgkvUTmdQZUtDcDdTWEU"
+msgstr ""
+
+#: drafts/finance/expenses.md:1
+# header
+msgid "### Expense Reporting"
+msgstr ""
+
+#: drafts/finance/expenses.md:3
+msgid "The Carpentries uses Zoho Expense for expense and reimbursement reporting and tracking"
+msgstr ""
+
+#: drafts/finance/expenses.md:5
+# header
+msgid "#### Creating expenses in Zoho"
+msgstr ""
+
+#: drafts/finance/expenses.md:7
+msgid "There are many ways to create expenses, including:"
+msgstr ""
+
+#: drafts/finance/expenses.md:9
+# unordered list
+msgid "* *Emailing a receipt to Zoho*  If you click on 'Receipt Inbox' in the top right there's an email address. If you email receipts to that email address, it will automatically process them and turn them into an expense. It generally autodetects the amount and vendor."
+msgstr ""
+
+#: drafts/finance/expenses.md:10
+msgid "More: https://www.zoho.com/expense/help/receipts/"
+msgstr ""
+
+#: drafts/finance/expenses.md:12
+# unordered list
+msgid "* *Using the Zoho app to take a picture of a receipt* The Zoho Expense app allows you take a picture of a receipt. Then it asks you if you want to add it automatically. It will take that receipt and get the amount and vendor. "
+msgstr ""
+
+#: drafts/finance/expenses.md:14
+# unordered list
+msgid "* *Adding an expense manually* Within Zoho Expense, in 'Expenses' you can click 'New'. Then you can add an expense by writing it in, or by dragging and dropping a receipt. You'll likely need to do this manual add for your Salary expense."
+msgstr ""
+
+#: drafts/finance/expenses.md:16
+msgid "There are categories for each of the expenses. We are tracking expenditures by category, so please add the category to each expense. Pick from whichever is most appropriate in the list."
+msgstr ""
+
+#: drafts/finance/expenses.md:18
+# header
+msgid "#### Submitting Expenses"
+msgstr ""
+
+#: drafts/finance/expenses.md:20
+msgid "Expenses should be submitted in a report through Zoho once a month, at the end of the month. "
+msgstr ""
+
+#: drafts/finance/expenses.md:22
+# header
+msgid "#### Expenses Report"
+msgstr ""
+
+#: drafts/finance/expenses.md:24
+msgid "Create expenses individually, including each of the following:\n"
+"* *Date*\n"
+"* *Merchant*\n"
+"* *Category*  We must use CI’s pre-determined categories, which have been entered into Zoho. Please do not create any new categories, but see the list below for explanations of the categories (according to CI) and examples for The Carpentries. Categories that we use often are highlighted for easy identification, since we tend to use the same categories most of the time.\n"
+"* *Amount*\n"
+"* *Description of item/Business purpose*\n"
+"* *Attach receipt or receipt image*"
+msgstr ""
+
+#: drafts/finance/expenses.md:32
+msgid "Note: CI needs all of these pieces of information in order to process the reimbursement. "
+msgstr ""
+
+#: drafts/finance/expenses.md:34
+msgid "Create a new report, title it appropriately and add all your expenses for the month to that report (or create the report first and add each expense to it as you create them)."
+msgstr ""
+
+#: drafts/finance/expenses.md:36
+msgid "Once your report is together, click 'Submit'. The report will be sent to the Executive Director, who will respond with questions or approve the expense report, passing it on to CI and the Business Manager for reimbursement and recording"
+msgstr ""
+
+#: drafts/finance/invoicing.md:1
+# header
+msgid "### Invoicing"
+msgstr ""
+
+#: drafts/finance/invoicing.md:3
+msgid "Invoicing is managed by The Carpentries' fiscal sponsor, Community Initiatives. More information about invoicing will go here."
+msgstr ""
+
+#: drafts/finance/invoicing.md:5
+# ordered list
+msgid "1. do this"
+msgstr ""
+
+#: drafts/finance/invoicing.md:6
+# ordered list
+msgid "2. then do this"
+msgstr ""
+
+#: drafts/finance/invoicing.md:7
+# ordered list
+msgid "3. then do one more thing"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:1
+# header
+msgid "### Fieldbook Guide"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:3
+msgid "The Carpentries uses [Fieldbook](http://www.fieldbook.com) to manage membership information.\n"
+"Fieldbook tracks things such as "
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:6
+# unordered list
+msgid "* Membership dates"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:7
+# unordered list
+msgid "* Contact information"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:8
+# unordered list
+msgid "* Membership terms"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:10
+msgid "Within Fieldbook, the following definitions are used in the database: "
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:12
+msgid "**Status Labels**\n"
+"* Pending - In discussion that we really confident will lead to membership\n"
+"* Out for Signatures - Agreement has been sent out for signatures (membership eminent)\n"
+"* Active - Agreement has been signed and term of agreement has started\n"
+"* Dormant - Agreement has been signed but term of agreement has not started\n"
+"* Expired - Term of agreement has ended\n"
+"* Lead - Interest in membership has been expressed, but an agreement may or may not be likely \n"
+"* Stale - At one point was pending or lead, but a membership does now not seem likely\n"
+"* New - this is the first membership agreement this organisation has had with us or a unique agreement with this organisation\n"
+"* Renew - this is the continuation of a previous agreement"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:23
+msgid "**Membership Type Labels**\n"
+"* Standard Silver: 4 coordinated workshops, 33% discount on further workshops, online training for 6 instructors, $7,500\n"
+"* Corporate Silver: \n"
+"* Standard Gold: 6 coordinated workshops, 50% discount on further workshops, online or in-person training for 15 instructors, $15,000\n"
+"* Standard Platinum: \n"
+"* Coordinated Platinum:\n"
+"* SWC Contract:\n"
+"* DC Contract:\n"
+"* Contract:\n"
+"* Annual fee: The amount a member has agreed to pay per year\n"
+"* Paid in Full: if checked, the member has paid the full amount for this agreement\n"
+"* Invoice: Link to invoice\n"
+"* Agreement: Link to signed agreement in GitHub (once it is completed)"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:37
+msgid "Notes: \n"
+"Multi-year agreement: split up agreements spanning more than 1 year into separate one-year agreements to make keeping track of invoicing and instructor training events easier"
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:40
+msgid "**Invoice Request**\n"
+"* Not Ready to Request: Once agreement moves beyond ‘Lead’ status, indicates that there is something on the potential member’s end that is keeping us from being able to invoice.\n"
+"* Request from CI: the member is ready to receive an invoice, and we need to request one.\n"
+"* Requested: a request for invoice has been submitted to CI\n"
+"* Sent: CI has sent the invoice\n"
+"* Paid: the member has paid the full balance of the invoice."
+msgstr ""
+
+#: drafts/memberships/fieldbook.md:47
+msgid "**Training Status**\n"
+"* Unknown (Please Check): training status is unknown.\n"
+"* Scheduling in Progress: Program Coordinator has been notified and is scheduling instructor training event.\n"
+"* Scheduled: To be marked when an instructor training event has been scheduled.\n"
+"* Complete: To be marked when an instructor training event has been completed.\n"
+"* Training Event: Link to instructor training event once Training Status is Scheduled."
+msgstr ""
+
+#: drafts/memberships/hubspot.md:1
+# header
+msgid "### HubSpot Guide"
+msgstr ""
+
+#: drafts/memberships/hubspot.md:3
+msgid "The Carpentries uses [HubSpot](https://www.hubspot.com/) to maintain a record of the contact that has been made with prospective members and successfully or unsuccessfully completed memberships. This is a place to make a note of conversations before they progress to any kind of paperwork and to help keep track of the progress of a conversation."
+msgstr ""
+
+#: drafts/memberships/hubspot.md:6
+msgid "**Definitions**\n"
+"* *Contacts*: People\n"
+"    * Link people to companies and deals\n"
+"* *Companies*: Companies/organizations\n"
+"    * HubSpot will automatically populate the company information (note: sometimes it gets it wrong)\n"
+"* *Deals*: an individual agreement\n"
+"* *Pipeline*: different tracks for different kinds of agreements\n"
+"* *Membership Pipeline*: a new agreement\n"
+"* *Stale*: this conversation has not gone anywhere\n"
+"* *Appointment scheduled*: the prospective member contact has made an appointment to speak about membership with Executive Director(s)\n"
+"* *Interested*: the prospective member contact has expressed the desire to become a member\n"
+"* *Agreement Drafted*: an agreement has been drafted and sent to prospective member contact for comments or approval.\n"
+"* *Contract Sent*: formal agreement has been agreed upon and is out for signatures\n"
+"* *Onboarding*: the agreement has been signed, and this organisation is now a member, going through the member onboarding process\n"
+"* *Closed Won*: all onboarding has been completed.\n"
+"* *Closed Lost*: this conversation is not going to progress to a membership.\n"
+"* *Renewal*: an agreement that is renewed\n"
+"* *Remind about renewal*: this member needs to be contacted about renewal because their current agreement will be expiring soon.\n"
+"* *Finalise new terms*: member would like to renew, and we are having a conversation with the member about the terms of the renewal agreement.\n"
+"* *Out for Signatures*: terms for the renewal have been agreed upon, and the renewal agreement is out for signatures.\n"
+"* *Invoiced*: the member has been sent an invoice for their renewal and the renewal agreement has been signed.\n"
+"* *Won’t renew*: member will not be renewing.\n"
+"* *Tasks*: things assigned to team members to do."
+msgstr ""
+
+#: drafts/memberships/hubspot.md:30
+msgid "**Features**\n"
+"* *Send emails*\n"
+"    * Install google add-on to gmail in order to have the option to log emails sent to contacts in deals the contacts are linked to.\n"
+"    * Choose in gmail to log and/or track emails.\n"
+"    * Contacts response will also be logged in deal.\n"
+"* *Leave Notes*\n"
+"    * Make a note of any change or additional information concerning the deal using notes. The person who left the note, date and time will all be logged.\n"
+"    * Tag other team members in notes, to get their input, or be sure that they receive notice of the information you have entered.\n"
+"* *Assign Tasks*\n"
+"    * Assign tasks within a deal to yourself or another team member. \n"
+"    * Set up email notification that the task is due.\n"
+"* *Views*  \n"
+"    * View deals in a pipeline (or all together) in list format or board format."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:1
+# header
+msgid "### Membership workflow"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:3
+# header
+msgid "#### Process for organisation deciding to be a member"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:4
+# ordered list
+msgid "1. One of the following occurs"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:5
+# unordered list
+msgid "    * People email membership@carpentries.org and ask about membership"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:6
+# unordered list
+msgid "    * People fill out [membership typeform](https://carpentries.typeform.com/to/Hmfe6L) on Software Carpentry website"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:7
+# unordered list
+msgid "    * People express interest to a Core Team member"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:8
+# unordered list
+msgid "        * Core Team then put them in touch with Executive Directors"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:9
+# unordered list
+msgid "    * People get in touch with Executive Director(s) directly"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:10
+# ordered list
+msgid "2. HubSpot ‘Deal’ is set up at initial interest. (See HubSpot Guide)"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:11
+# unordered list
+msgid "    * Emails are about membership are logged here."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:12
+# unordered list
+msgid "        * Business manager logs emails that come into HubSpot here."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:13
+# unordered list
+msgid "    * Notes updating situation logged here (may tag other Core Team)."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:14
+# unordered list
+msgid "    * Tasks assigned to other Core Team members here."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:15
+# unordered list
+msgid "    * Deal status is updated here."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:16
+# ordered list
+msgid "3. Membership conversation occurs (Hubspot status updated to Appointment Scheduled)"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:17
+# unordered list
+msgid "    * Email conversation"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:18
+# unordered list
+msgid "    * Video call with Executive Director(s)"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:19
+# ordered list
+msgid "4. HubSpot Deal Status is updated to:"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:20
+# unordered list
+msgid "    * *Interested*: based on the conversation, a membership seems likely."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:21
+# unordered list
+msgid "        * Contact may need to talk to others at the organisation."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:22
+# unordered list
+msgid "        * Executive Directors or Business Manager may need to check back in with the organisation after an appropriate amount of time to see if they are ready to proceed."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:23
+# unordered list
+msgid "    * *Stale*: it does not appear that a membership is likely with this organisation at this time."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:24
+# unordered list
+msgid "         * Depending on the situation, Executive Directors or Business Manager may follow up after an appropriate amount of time to see if the situation has changed."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:25
+# unordered list
+msgid "    * *Closed Lost*: this organisation will not be becoming a member."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:26
+# unordered list
+msgid "        * HubSpot Deal may be marked ‘Closed Lost’ at any point in workflow."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:27
+# unordered list
+msgid "        * Fieldbook ‘Membership’ deleted at this point as well, if created."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:29
+# header
+msgid "#### Process for organisation that has decided to become a member"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:31
+# ordered list
+msgid "1. Contact fills out [membership typeform](https://carpentries.typeform.com/to/Hmfe6L) on Software Carpentry website, if not done already."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:32
+# unordered list
+msgid "    * This supplies the information needed for a draft agreement."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:33
+# unordered list
+msgid "    * Creates ‘Membership’ in Fieldbook with this information."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:34
+# unordered list
+msgid "        * See Fieldbook Guide."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:35
+# unordered list
+msgid "        * Fieldbook status marked ‘Pending’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:36
+# ordered list
+msgid "2. Program Manager is notified."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:37
+# unordered list
+msgid "    * Business Administrator creates task in ‘Sites Ready for Training’ project in Instructor Training Events Asana."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:38
+# unordered list
+msgid "    * Fieldbook Training Status for membership is marked ‘Scheduling in Progress’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:39
+# ordered list
+msgid "3. Draft agreement is generated and sent to member contact for review"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:40
+# unordered list
+msgid "    * HubSpot status updated to ‘Agreement Drafted’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:41
+# unordered list
+msgid "    * Business Administrator is introduced to member contact as SWC/DC contact for membership paperwork (agreement and invoicing)."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:42
+# unordered list
+msgid "    * Business Administrator leads the process from this point, consulting Executive Directors and/or fiscal sponsor as needed."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:43
+# ordered list
+msgid "4. Member contact approves the draft or suggests changes."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:44
+#: drafts/memberships/membership_workflow.md:92
+# unordered list
+msgid "    * Suggested changes are discussed and agreement is modified, then returned for approval."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:45
+#: drafts/memberships/membership_workflow.md:93
+# unordered list
+msgid "    * Repeated until agreement is acceptable to all parties."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:46
+# ordered list
+msgid "5. Formal agreement is generated and sent to member contact, Executive Directors, and fiscal sponsor for signature(s)."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:47
+# unordered list
+msgid "    * HubSpot status is updated to ‘Contract Sent’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:48
+#: drafts/memberships/membership_workflow.md:96
+# unordered list
+msgid "    * Fieldbook status is updated to ‘Out for Signatures’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:49
+# ordered list
+msgid "6. Agreement is signed."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:50
+#: drafts/memberships/membership_workflow.md:98
+# unordered list
+msgid "    * Fully executed copy is returned to member contact."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:51
+#: drafts/memberships/membership_workflow.md:99
+# unordered list
+msgid "    * Signed agreement is filed in GitHub Agreements repo."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:52
+#: drafts/memberships/membership_workflow.md:100
+# unordered list
+msgid "    * Signed agreement link is put in Fieldbook."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:53
+#: drafts/memberships/membership_workflow.md:101
+# unordered list
+msgid "    * Fieldbook status is changed to ‘Active’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:54
+# unordered list
+msgid "    * HubSpot status is changed to ‘Onboarding’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:55
+# ordered list
+msgid "7. Invoicing information is gathered and given."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:56
+#: drafts/memberships/membership_workflow.md:103
+# unordered list
+msgid "    * Business Administrator asks member contact for invoicing information or invoicing contact."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:57
+#: drafts/memberships/membership_workflow.md:104
+# unordered list
+msgid "        * Contact name, email address, physical address, and phone number."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:58
+#: drafts/memberships/membership_workflow.md:105
+# unordered list
+msgid "        * Determine if they will need vendor paperwork or W9"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:59
+#: drafts/memberships/membership_workflow.md:106
+# unordered list
+msgid "    * Member organisation may need:"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:60
+#: drafts/memberships/membership_workflow.md:107
+# unordered list
+msgid "        * A quote to generate a Purchase Order (PO)."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:61
+#: drafts/memberships/membership_workflow.md:108
+# unordered list
+msgid "        * The PO number to be listed on the invoice."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:62
+#: drafts/memberships/membership_workflow.md:109
+# unordered list
+msgid "        * Fiscal sponsor banking information."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:63
+#: drafts/memberships/membership_workflow.md:110
+# unordered list
+msgid "        * Fiscal sponsor certificate of insurance."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:64
+# ordered list
+msgid "8. Request for invoice is submitted to fiscal sponsor"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:65
+# unordered list
+msgid "    * Hubspot status is changed to ‘Closed Won’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:66
+#: drafts/memberships/membership_workflow.md:112
+# unordered list
+msgid "    * Fieldbook Invoice Request status is changed to ‘Invoice Requested’. "
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:67
+# ordered list
+msgid "9. Fiscal sponsor generates and sends out invoice"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:68
+#: drafts/memberships/membership_workflow.md:114
+# unordered list
+msgid "    * Fieldbook Invoice Request status is changed to ‘Sent’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:69
+# ordered list
+msgid "10. Invoice is paid."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:70
+#: drafts/memberships/membership_workflow.md:117
+# unordered list
+msgid "    * Fieldbook Invoice Request status is changed to ‘Paid’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:71
+# ordered list
+msgid "11. Instructor Training is scheduled."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:72
+#: drafts/memberships/membership_workflow.md:119
+# unordered list
+msgid "    * Program Manager notifies Business Administrator through Asana Sites Ready for Training Project."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:73
+#: drafts/memberships/membership_workflow.md:120
+# unordered list
+msgid "    * Fieldbook training status is changed to ‘Scheduled’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:74
+#: drafts/memberships/membership_workflow.md:121
+# unordered list
+msgid "    * Business Administrator adds link to event from AMY to Fieldbook"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:75
+# ordered list
+msgid "12. Instructor Training is complete."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:76
+# unordered list
+msgid "    * Fieldbook training status is changed to ‘Complete’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:79
+# header
+msgid "#### Process for renewal"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:80
+# ordered list
+msgid "1. Business Administrator contacts expiring memberships 90-120 days before agreement expires, touching base about renewal."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:81
+# unordered list
+msgid "    * Creates Deal in HubSpot, renewal pipeline."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:82
+# unordered list
+msgid "    * HubSpot status ‘Remind about Renewal’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:83
+# ordered list
+msgid "2. If needed, contact again 30 days before current agreement expires."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:84
+# ordered list
+msgid "3. If member would not like to renew, change HubSpot status to ‘Won’t Renew’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:85
+# ordered list
+msgid "4. If member would like to renew, determine if any changes should be to the agreement for renewal (beyond dates). "
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:86
+# unordered list
+msgid "    * HubSpot status ‘Finalise New Terms’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:87
+# unordered list
+msgid "    * Create membership in Fieldbook, status ‘Pending’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:88
+# unordered list
+msgid "    * Add renewal to Sites Ready for Training to alert Program Coordinator"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:89
+# ordered list
+msgid "5. Proposed changes are reviewed."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:90
+# ordered list
+msgid "6. Draft is sent to member."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:91
+# ordered list
+msgid "7. Member contact approves the draft or suggests changes."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:94
+# ordered list
+msgid "8. Formal agreement is generated and sent to member contact, Executive Directors, and fiscal sponsor for signature(s)."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:95
+# unordered list
+msgid "    * HubSpot status is updated to ‘Out for Signatures’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:97
+# ordered list
+msgid "9. Agreement is signed."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:102
+# ordered list
+msgid "10. Invoicing information is gathered and given."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:111
+# ordered list
+msgid "11. Request for invoice is submitted to fiscal sponsor"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:113
+# ordered list
+msgid "12. Fiscal sponsor generates and sends out invoice"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:115
+# unordered list
+msgid "    * HubSpot status is changed to ‘Invoiced’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:116
+# ordered list
+msgid "13. Invoice is paid."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:118
+# ordered list
+msgid "14. Instructor Training is scheduled."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:122
+# ordered list
+msgid "15. Instructor Training is complete."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:123
+msgid "    Fieldbook training status is changed to ‘Complete’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:126
+# header
+msgid "#### Process for multi-year agreements"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:128
+# ordered list
+msgid "1. In Fieldbook, each year of a multi-year agreement is entered as a separate membership."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:129
+# ordered list
+msgid "1. Two months before new year of multi-year agreement begins, Business Administrator enters agreement in Sites Ready for Training, to notify Program Coordinator"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:130
+# unordered list
+msgid "    * Change Fieldbook Training Status to ‘Scheduling in Progress’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:131
+# ordered list
+msgid "1. At the time of new agreement year, Business Administrator:"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:132
+# unordered list
+msgid "    * Changes status of old year of agreement to ‘Expired’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:133
+# unordered list
+msgid "    * Changes status of new year of agreement to ‘Active’"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:134
+# ordered list
+msgid "1. Business Administrator submits request for invoice to fiscal sponsor"
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:135
+# unordered list
+msgid "    * Fieldbook Invoice Request status changed to ‘Requested’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:136
+# ordered list
+msgid "1. Invoice is sent "
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:137
+# unordered list
+msgid "    * Fieldbook Invoice Request status changed to ‘Sent’."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:138
+# ordered list
+msgid "1. Invoice is paid."
+msgstr ""
+
+#: drafts/memberships/membership_workflow.md:139
+# unordered list
+msgid "    * Fieldbook Invoice Request status changed to ‘Paid’."
+msgstr ""
+
+#: drafts/survey_monkey.md:1
+# header
+msgid "### Setting up Surveys using Survey Monkey"
+msgstr ""
+
+#: drafts/survey_monkey.md:3
+msgid "The Carpentries uses [Survey Monkey](https://www.surveymonkey.com/) to manage all workshop surveys. "
+msgstr ""
+
+#: drafts/survey_monkey.md:5
+# header
+msgid "#### Logging In"
+msgstr ""
+
+#: drafts/survey_monkey.md:7
+msgid "The Workshop Administration Team will have log in credentials from The Carpentries to set up surveys.  They will share links to view survey results with workshop hosts and instructors. Hosts and instructors do not need log in credentials."
+msgstr ""
+
+#: drafts/survey_monkey.md:9
+msgid "Contact team@carpentries with questions about logging in."
+msgstr ""
+
+#: drafts/survey_monkey.md:11
+# header
+msgid "#### Setting up a Workshop Survey"
+msgstr ""
+
+#: drafts/survey_monkey.md:13
+msgid "If a learner accesses the survey from that workshop's website (in the format `username.github.io/YYYY-MM-DD-sitename`), the survey links will be appended with the workshop slug (so https://www.surveymonkey.com/r/swc_pre_workshop_v1 becomes https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id=YYYY-MM-DD-sitename)."
+msgstr ""
+
+#: drafts/survey_monkey.md:15
+msgid "The \"naked\" link will take them to the exact same survey, but will make it slightly more difficult for us to share survey results."
+msgstr ""
+
+#: drafts/survey_monkey.md:17
+msgid "The survey has already been designed, and we will not customise any of the questions for specific workshops or sites."
+msgstr ""
+
+#: drafts/survey_monkey.md:19
+msgid "The existing questions about which workshop the learner is attending are being deprecated in favour of a new question:"
+msgstr ""
+
+#: drafts/survey_monkey.md:21
+msgid "![Survey workshop id](images/surveymonkey_workshopid.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:23
+msgid "Learners are prompted to fill in their workshop ID or the workshop date and location if the ID is not known. Having this information accurate and complete is crucial to being able to share survey results."
+msgstr ""
+
+#: drafts/survey_monkey.md:25
+# header
+msgid "#### Sharing Survey Results: Web View"
+msgstr ""
+
+#: drafts/survey_monkey.md:27
+msgid "Survey results can be shared as a website view with charts and graphs of aggregate data."
+msgstr ""
+
+#: drafts/survey_monkey.md:29
+msgid "From the workshop page, select `Analyse Results`."
+msgstr ""
+
+#: drafts/survey_monkey.md:31
+#: drafts/survey_monkey.md:97
+msgid "![Survey analyse results](images/surveymonkey_analyzeresults.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:33
+msgid "Select `Filter` and `Filter by Question and Answer`."
+msgstr ""
+
+#: drafts/survey_monkey.md:35
+msgid "![Survey filter results](images/surveymonkey_filter.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:37
+msgid "Select the question about the workshop ID:"
+msgstr ""
+
+#: drafts/survey_monkey.md:39
+msgid "![Survey results select question](images/surveymonkey_selectquestion.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:41
+msgid "In the next box, enter the workshop ID that you want to get results for.  Select `Exact phrase` to get that workshop ID exactly."
+msgstr ""
+
+#: drafts/survey_monkey.md:43
+msgid "![Survey results matching words](images/surveymonkey_matchingwords.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:46
+msgid "This will take you to an internal view of the survey results for that event. To create a public view, click the green `Save as` button at the top right, and select `Shared data link`."
+msgstr ""
+
+#: drafts/survey_monkey.md:48
+#: drafts/survey_monkey.md:83
+msgid "![Survey results save as](images/surveymonkey_saveas.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:50
+msgid "This will open a new page for you to set up your public view."
+msgstr ""
+
+#: drafts/survey_monkey.md:52
+msgid "Set the following options:"
+msgstr ""
+
+#: drafts/survey_monkey.md:54
+# unordered list
+msgid "* Access: Private. This means anyone with the link can view the results. You can make this password protected by selecting \"Restricted.\" You can then share passwords with hosts, instructors, and anyone else who may need access."
+msgstr ""
+
+#: drafts/survey_monkey.md:55
+# unordered list
+msgid "* Page Title: This will pre-populate with a default value. You can change this as you wish."
+msgstr ""
+
+#: drafts/survey_monkey.md:56
+# unordered list
+msgid "* Page Description: Add any other information about the workshop."
+msgstr ""
+
+#: drafts/survey_monkey.md:57
+# unordered list
+msgid "* Include: Be sure to check off Open-Ended Responses and Data Trends. Individual Responses should **not** be checked."
+msgstr ""
+
+#: drafts/survey_monkey.md:58
+# unordered list
+msgid "* Branding: Leave this unchecked."
+msgstr ""
+
+#: drafts/survey_monkey.md:60
+msgid "Click `Get link`."
+msgstr ""
+
+#: drafts/survey_monkey.md:62
+msgid "![Survey results share data](images/surveymonkey_sharedata.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:64
+msgid "You will be given a link to the survey results. Click save."
+msgstr ""
+
+#: drafts/survey_monkey.md:66
+msgid "![Survey results get link](images/surveymonkey_getlink.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:68
+msgid "Your browser will now redirect to this link. The link can be shared with hosts and instructors."
+msgstr ""
+
+#: drafts/survey_monkey.md:70
+msgid "This link will also be included in the Shared Data List, at the bottom of the left side of the screen."
+msgstr ""
+
+#: drafts/survey_monkey.md:72
+msgid "![Survey shared data list](images/surveymonkey_shareddatalist.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:74
+msgid "It will be given a sequential number. Click on the `...` to rename it to the workshop ID.  This list is monitored regularly, and anything with the sequential number will be deleted."
+msgstr ""
+
+#: drafts/survey_monkey.md:77
+# header
+msgid "#### Sharing Survey Results: Raw Data"
+msgstr ""
+
+#: drafts/survey_monkey.md:79
+msgid "If requested, raw data as CSV can be exported and shared with hosts and instructors."
+msgstr ""
+
+#: drafts/survey_monkey.md:81
+msgid "From the internal view of the survey results click the green `Save as` button at the top right. This time, click `Export file`."
+msgstr ""
+
+#: drafts/survey_monkey.md:85
+msgid "From here you will have various options about what data to export and what format to export it in. Make your selections and name the filename with the workshop ID."
+msgstr ""
+
+#: drafts/survey_monkey.md:87
+msgid "This will then show up in the \"Exports\" list on the left side of the screen.  Click the \"...\" to download data to share with hosts and instructors."
+msgstr ""
+
+#: drafts/survey_monkey.md:89
+msgid "![Survey results export](images/surveymonkey_export.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:91
+# header
+msgid "#### Modifying Survey Responses"
+msgstr ""
+
+#: drafts/survey_monkey.md:93
+msgid "Survey data can be modified once a user has submitted their response.  To protect the integrity of our data, this should be done *only* if it is known that a respondent filled in an incorrect or incorrectly formatted workshop id."
+msgstr ""
+
+#: drafts/survey_monkey.md:95
+msgid "From the survey page, select `Analyse Results`."
+msgstr ""
+
+#: drafts/survey_monkey.md:99
+msgid "Following the instructions above, search for the possible responses to a workshop id.  For example, search for all responses containing the word 'starfleet' to find any one who may have attended the workshop '2018-01-01-starfleet'.  "
+msgstr ""
+
+#: drafts/survey_monkey.md:101
+msgid "![Survey individual responses](images/surveymonkey_individualresponses.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:103
+msgid "Use the arrow icons to navigate to the response that needs editing, and click \"edit\".  "
+msgstr ""
+
+#: drafts/survey_monkey.md:105
+msgid "![Survey select response](images/surveymonkey_selectresponse.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:107
+msgid "The survey will open in a new window.  Navigate to the workshop id question without editing any other responses."
+msgstr ""
+
+#: drafts/survey_monkey.md:109
+msgid "![Survey find incorrect response](images/surveymonkey_incorrectslug.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:111
+msgid "Type in the correct workshop id and click next."
+msgstr ""
+
+#: drafts/survey_monkey.md:113
+msgid "![Survey add correct response](images/surveymonkey_correctslug.png)"
+msgstr ""
+
+#: drafts/survey_monkey.md:115
+msgid "Close this window so no other responses are affected. This should now show up modified and correct in the Survey Monkey responses."
+msgstr ""
+
+#: drafts/survey_monkey.md:117
+msgid "Continue this for any incorrect response."
+msgstr ""
+
+#: drafts/survey_monkey.md:119
+msgid "Running a report as described above should now give you correct responses."
+msgstr ""
+
