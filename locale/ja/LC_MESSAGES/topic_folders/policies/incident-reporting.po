@@ -1,0 +1,163 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../topic_folders/policies/incident-reporting.md:1
+msgid "Code of Conduct Incident Reporting Guidelines"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:3
+msgid "Reporting a Potential Code of Conduct Incident"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:5
+msgid ""
+"If you are attending a Carpentries workshop, in-person event, or "
+"participating in one of our online events or communication channels and "
+"believe someone is in physical danger, please ask your workshop host, "
+"instructor(s), or another community member  to contact the appropriate "
+"emergency responders (police, crisis hotline, etc.). Prior to a "
+"Carpentries workshop or in-person event, event organisers should "
+"determine emergency contact numbers and local procedures."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:7
+msgid ""
+"If you believe someone violated the Code of Conduct during a Carpentries "
+"event or in a Carpentries online space, we ask that you report it. If you"
+" are not sure if the incident happened in a Carpentries governed space, "
+"we ask that you still report the incident. You are encouraged to submit "
+"your report by completing the Code of Conduct Incident Report Form. The "
+"form may be completed anonymously, or you may include your contact "
+"information."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:9
+msgid "Submit a Code of Conduct Incident Report"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:11
+msgid ""
+"The Code of Conduct Committee takes all incident reports seriously and "
+"will review all reports according to our Enforcement Guidelines.  A "
+"report guarantees review, but not necessarily that an action will be "
+"taken."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:13
+msgid "Alternative Contact Points"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:15
+msgid ""
+"If you would prefer other ways to contact us, an email to "
+"coc@carpentries.org will be seen by all of the Code of Conduct committee."
+" If you are uncomfortable reporting to the Code of Conduct committee, "
+"incidents can also be reported to Cam Macdonell, the designated ombudsman"
+" for The Carpentries, at confidential@carpentries.org."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:17
+msgid ""
+"The Carpentries Executive Director (Kari L. Jordan) can also be contacted"
+" by telephone at +1-407-476-6131 or email at kariljordan@carpentries.org."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:20
+msgid "Confidentiality"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:22
+msgid ""
+"You are welcome to report an incident anonymously. If you would like "
+"someone to follow-up with you about the progress of your incident report "
+"however, you would need to provide contact information."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:24
+msgid ""
+"All reports will be kept confidential with details shared only with the "
+"Code of Conduct committee members. In the case that a CoC committee "
+"member is involved in a report, the member will be asked to recuse "
+"themselves from ongoing conversations, and they will not have access to "
+"reports after the enforcement decision has been made. Resolution action "
+"may also include removal of that member from the CoC committee."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:26
+msgid ""
+"In rare cases, the CoC committee may suspend a community member. In such "
+"cases, the Executive Council and Carpentries Core Team will be informed "
+"in order to prevent future harm to the community, and The Carpentries "
+"Core Team Immediate Response Checklist will be employed."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:28
+msgid ""
+"Some incidents happen in one-on-one interactions, and though details are "
+"anonymised, the reported person may be able to guess who made the report."
+" If you have concerns about retaliation or your personal safety, please "
+"note those concerns in your report. You are still encouraged to report "
+"the incident so that we can support you while keeping our community "
+"members safe. In some cases, we can compile several anonymised reports "
+"into a pattern of behaviour, and take action on that pattern."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:30
+msgid ""
+"The Code of Conduct committee may determine that a public statement "
+"should be made about the incident and/or the action taken. If that is the"
+" case, the identities of all reporters and reportees will remain "
+"confidential unless those individuals instruct the CoC committee "
+"otherwise."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:33
+msgid "Report Data"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:34
+msgid ""
+"Reports can be filed anonymously with minimal details. If you do not feel"
+" you can provide details, we would still like to be aware that an "
+"incident occurred. Our ability to act is impacted by the amount of "
+"information you can provide, however."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:36
+msgid ""
+"Information about an incident may be communicated to relevant Carpentries"
+" personnel in cases where a community member is suspended from engaging "
+"in The Carpentries community. In those cases, the Termed Suspension "
+"Checklist will be employed."
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:38
+msgid "Following Up with Reporter(s)"
+msgstr ""
+
+#: ../../topic_folders/policies/incident-reporting.md:40
+msgid ""
+"Once a report is filed through the Code of Conduct Incident Report Form "
+"or other communication channels, the Code of Conduct committee will "
+"handle the review and follow up according to the procedures in the "
+"Enforcement Guidelines."
+msgstr ""
+

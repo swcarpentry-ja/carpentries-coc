@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../readme.md:1
+msgid "Japanese handbook"
+msgstr ""
+
+#: ../../readme.md:3
+msgid "This is a paritial translation of the Carpentries Handbook in Japanese."
+msgstr ""
+
+#: ../../readme.md:6
+msgid "Why was this handbook created?"
+msgstr ""
+
+#: ../../readme.md:8
+msgid ""
+"Historically, information and resources related to The Carpentries have "
+"been spread across various websites, Google docs, GitHub repos, and more."
+" The handbook is a one-stop shop that consolidates information on running"
+" a workshop, developing or maintaining lessons, participating in an "
+"instructor training event, and more!"
+msgstr ""
+
+#: ../../readme.md:10
+msgid ""
+"Many community members have contributed to this handbook, and we welcome "
+"feedback on this Handbook. Feel free to submit issues or pull requests to"
+" this GitHub repo to improve this community resource."
+msgstr ""
+
+#: ../../readme.md:13
+msgid "Building this site"
+msgstr ""
+
+#: ../../readme.md:15
+msgid ""
+"This site is built using the Sphinx documentation generator (a Python "
+"tool) and the Read the Docs theme for the style. (Not to be confused with"
+" readthedocs.io - the site is not hosted at readthedocs.io!)"
+msgstr ""
+
+#: ../../readme.md:17
+msgid ""
+"For more information about using Sphinx, see the Getting Started guide "
+"(sphinx-doc.org) or the Quick Start (readthedocs.io) for an explanation "
+"of how to use Sphinx."
+msgstr ""
+
+#: ../../readme.md:19
+msgid "Required dependencies"
+msgstr ""
+
+#: ../../readme.md:21
+msgid ""
+"To install the required dependencies (Sphinx and the ReadTheDocs Sphinx "
+"theme), execute the following command from the repository directory to "
+"install all Python dependencies:"
+msgstr ""
+
+#: ../../readme.md:27
+msgid ""
+"After installing the dependencies, you can build the site locally by "
+"executing the following command from the repository:"
+msgstr ""
+
+#: ../../readme.md:33
+msgid ""
+"Open the file _build/html/index.html to preview the site locally. Python "
+"offers a quick way to run a web server to serve local files. Run the "
+"following:"
+msgstr ""
+
+#: ../../readme.md:45
+msgid ""
+"In both cases, a local web server will be run on port 8000, so navigate "
+"to http://localhost:8000 in your browser to view the site locally."
+msgstr ""
+
+#: ../../readme.md:47
+msgid ""
+"You can make changes to the contents of the repository, and re-run make "
+"html, to update the website contents. If you are having problems with the"
+" site not refreshing, you can delete the contents of the _build directory"
+" (which are automatically generated) with rm -fr _build/*."
+msgstr ""
+
+#: ../../readme.md:49
+msgid ""
+"If new files or folders are added to the Handbook, index.rst will need to"
+" be updated for those to be included in the final site by Sphinx."
+msgstr ""
+
+#: ../../readme.md:51
+msgid "Site structure"
+msgstr ""
+
+#: ../../readme.md:53
+msgid ""
+"The root level index.rst generates the main categories and the sidebar "
+"navigation.  Each sub-section is a folder in the topic_folders directory."
+" Each folder within the topic_folders directory has its own index.rst "
+"file. These then expand into the subcategories in each directory."
+msgstr ""
+
+#: ../../readme.md:55
+msgid ""
+"Within each folder's index.rst file, the section heading is defined by a "
+"string of  = beneath it. Subheadings can be defined using ### in each "
+"markdown file or by a heading with - under it in the index.rst file."
+msgstr ""
+
+#: ../../readme.md:57
+msgid "Formatting Hyperlinks"
+msgstr ""
+
+#: ../../readme.md:59
+msgid ""
+"In markdown documents, links can be formatted in standard markdown, with "
+"the text in square brackets and the hyperlink in parentheses:"
+msgstr ""
+
+#: ../../readme.md:65
+msgid ""
+"For the index.rst files, links must be formatted as follows. Note the "
+"text is followed by the hyperlink in pointy brackets, everything is "
+"wrapped in backticks, and then followed by an underscore."
+msgstr ""
+
+#: ../../readme.md:72
+msgid "Links to external markdown documents"
+msgstr ""
+
+#: ../../readme.md:74
+msgid ""
+"Something in this template causes .md extensions to get stripped, "
+"breaking links to things like markdown documents in a GitHub repo.  This "
+"can be fixed by adding an anchor tag (#) to the end of the url.  For "
+"example, "
+"https://github.com/carpentries/handbook/blob/topic_folders/file.md would "
+"become "
+"https://github.com/carpentries/handbook/blob/topic_folders/file.md#."
+msgstr ""
+
+#: ../../readme.md:77
+msgid "Additional information"
+msgstr ""
+
+#: ../../readme.md:79
+msgid ""
+"This site is built from the main branch of this repo "
+"(carpentries/handbook). Changes can be previewed live here: http://docs-"
+"src.carpentries.org/.  Changes to the actual site "
+"https://docs.carpentries.org/  can take up to a day to go live once "
+"changes have been pushed to GitHub, since the contents of the site are "
+"behind a CDN (Content Distribution Network) that caches content."
+msgstr ""
+
+#: ../../readme.md:81
+msgid ""
+"If you are making experimental changes to content please be sure to do so"
+" in a non-main, non-live branch. When your changes are complete and ready"
+" to be pushed to the live site, open a pull request in "
+"carpentries/handbook."
+msgstr ""
+
+#: ../../readme.md:83
+msgid ""
+"Draft content can be added to the drafts folder of the "
+"carpentries/userguides repo (in the main branch) without breaking "
+"anything. Draft content is not built to the live site and these files may"
+" contain inaccurate or out of date information."
+msgstr ""
+

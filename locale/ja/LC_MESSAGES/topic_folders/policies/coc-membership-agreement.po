@@ -1,0 +1,271 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:1
+msgid "Membership Agreement for the Code of Conduct (CoC) Committee"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:3
+msgid ""
+"This document describes the responsibilities that the members of the Code"
+" of Conduct committee (CoCc) must agree to meet in order to fulfill the "
+"requirements of their roles on the committee."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:5
+msgid ""
+"The committee is what turns a code of conduct from a written document "
+"into meaningful action.<br />Valerie Aurora, FrameShift Consulting"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:8
+msgid "Core Membership Agreement:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:10
+msgid ""
+"The main purpose of the CoCc is to: establish, maintain and uphold the "
+"Code of Conduct; educate members of the community of policies and "
+"behaviors that can help create a more inclusive and welcoming "
+"environment; and protect all members from harm in community spaces."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:12
+msgid "In order to uphold the CoC, the CoCc members will:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:14
+msgid ""
+"support the objectives and mission of The Carpentries by abiding by its "
+"CoC and other policies and procedures."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:15
+msgid ""
+"learn about the Code of Conduct and reporting guidelines, and as CoC "
+"advocates, bring awareness of it into any Community spaces that they are "
+"part of."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:16
+msgid ""
+"understand and be comfortable to act on CoC related reports as per the "
+"enforcement guidelines put in place for the relevant community spaces."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:17
+msgid ""
+"actively help develop and maintain existing and new documents to "
+"facilitate the work of the CoCc."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:18
+msgid ""
+"avoid conflicts of interest [1] when processing CoC related reports. "
+"Failure to declare a conflict of interest may be considered a breach of "
+"the CoC."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:19
+msgid ""
+"maintain the confidentiality of any reported incidents, the identity of "
+"persons involved and discussions that take place within the committee."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:20
+msgid ""
+"not make any comments about any matters that they have been informed of "
+"as part of their duties as a CoCc member unless authorized to do so."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:21
+msgid ""
+"hold themselves accountable for their responsibilities as trustees and "
+"understand that they are expected to follow through on their commitments."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:22
+msgid ""
+"respect and promote diversity, equity, and inclusion in the community and"
+" act in the best interests of the Carpentries community impartially, "
+"putting aside any individual affiliations such as organizations or other "
+"Carpentries committees, and personal biases."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:25
+msgid "Further Roles and Responsibilities:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:27
+msgid ""
+"In addition to the core membership agreement, CoCc members will be "
+"required to:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:29
+msgid ""
+"support the committee chair and the designated Core Team liaison in "
+"collective decision making. In order to do so, they will prepare fully "
+"for meetings, which will include reading reports and related documents "
+"carefully, querying anything they do not understand, thinking through "
+"issues before meetings and completing any tasks assigned to them."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:30
+#, python-format
+msgid ""
+"attend in the order of 75% of all CoCc Business meetings [2]. In these "
+"meetings, CoCc members will actively engage in discussion, voting and "
+"contributing in a constructive way, listening carefully, challenging "
+"sensitively and avoiding conflict."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:31
+msgid ""
+"promptly respond to emails, or, if they realize they will be out of touch"
+" for a while, inform the committee chair."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:32
+msgid ""
+"participate in any training that is organized to support the work of the "
+"committee, and to responsibly use any technical solutions that the CoCc "
+"is asked to use in order to maintain the security and privacy of personal"
+" information conveyed to the committee."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:35
+msgid "[1] Note on Conflicts of Interest:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:37
+msgid ""
+"A conflict of interest is a situation where a member of the CoCc could be"
+" perceived to not act in the interest of the Carpentries and the members "
+"of the community. Such situations can, for instance, occur when the "
+"members have close ties with one of the parties in a CoC incident (e.g. "
+"family relationships, close friendships, business ties, or even personal "
+"considerations). Such conflicts of interest may make it difficult to "
+"fulfill their duties impartially."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:40
+msgid ""
+"If any member of the committee happens to face a conflict of interest "
+"while handling a case, they are  expected to:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:41
+msgid ""
+"inform the chair of the CoCc and/or the full committee of the conflict of"
+" interest,"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:42
+msgid ""
+"not be involved in the case, and if required, temporarily leave their "
+"position as a CoCc member to avoid any bias."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:45
+msgid "[2] Note on the CoCc Meetings:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:47
+msgid "The committee conducts two types of meetings:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:49
+msgid ""
+"Business meetings: these are meetings where we discuss the status of "
+"current documents, issues brought to us by the community and other CoC "
+"related matters."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:50
+msgid ""
+"Incident report related meetings: in these meetings those that have "
+"volunteered to decide the course of action for a reported incident meet "
+"and discuss the situation. To decide on an issue, a minimum of 3 members "
+"must participate, thus not all members need to participate in every case."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:53
+msgid "Onboarding of new committee members:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:55
+msgid ""
+"New committee members will be included in committee discussions only "
+"after they have fulfilled the onboarding requirements specified by the "
+"CoCc and The Carpentries Executive Council."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:58
+msgid "Leaving the Committee:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:60
+msgid ""
+"If a CoCc member wishes to leave the committee at any time, they will "
+"inform the Committee chair in advance (giving enough notice to hand-over "
+"their responsibility) in writing, stating their reasons for leaving."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:61
+msgid ""
+"Breach of any part of the CoC by any CoCc member may result in a fair "
+"procedure being put in motion that may result in them being asked to "
+"resign from the CoCc. Should this happen they will be given the "
+"opportunity to be heard. In the event they are asked to resign from the "
+"committee, they will accept the majority decision of the committee in "
+"this matter and resign at the earliest opportunity."
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:64
+msgid "Relevant information:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:66
+msgid "CoC committee: https://carpentries.org/coc-ctte"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:67
+msgid "CoC Handbook Documentation"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:70
+msgid "References:"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:72
+msgid ""
+"This document is largely based on “The Code of Good Governance, DIY "
+"Committee Guide, 2016” http://www.diycommitteeguide.org/download/example-"
+"code-of-conduct-volunteer-now"
+msgstr ""
+
+#: ../../topic_folders/policies/coc-membership-agreement.md:73
+msgid ""
+"How to Respond to Code of Conduct Reports, Valerie Aurora and Mary "
+"Gardiner, 2018"
+msgstr ""
+

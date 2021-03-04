@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../LICENSE.md:1
+msgid "License"
+msgstr ""
+
+#: ../../LICENSE.md:3
+msgid "Documentation"
+msgstr ""
+
+#: ../../LICENSE.md:5
+msgid ""
+"The Carpentries documentation material in this repository is made "
+"available under the Creative Commons Attribution license. The following "
+"is a human-readable summary of (and not a substitute for) the full legal "
+"text of the CC BY 4.0 license."
+msgstr ""
+
+#: ../../LICENSE.md:11
+msgid "You are free:"
+msgstr ""
+
+#: ../../LICENSE.md:13
+msgid "to Share---copy and redistribute the material in any medium or format"
+msgstr ""
+
+#: ../../LICENSE.md:14
+msgid "to Adapt---remix, transform, and build upon the material"
+msgstr ""
+
+#: ../../LICENSE.md:16
+msgid "for any purpose, even commercially."
+msgstr ""
+
+#: ../../LICENSE.md:18
+msgid ""
+"The licensor cannot revoke these freedoms as long as you follow the "
+"license terms."
+msgstr ""
+
+#: ../../LICENSE.md:21
+msgid "Under the following terms:"
+msgstr ""
+
+#: ../../LICENSE.md:23
+msgid ""
+"Attribution---You must give appropriate credit (mentioning that your work"
+" is derived from work that is Copyright © The Carpentries and, where "
+"practical, linking to https://carpentries.org/), provide a link to the "
+"license, and indicate if changes were made. You may do so in any "
+"reasonable manner, but not in any way that suggests the licensor endorses"
+" you or your use."
+msgstr ""
+
+#: ../../LICENSE.md:31
+msgid ""
+"No additional restrictions---You may not apply legal terms or "
+"technological measures that legally restrict others from doing anything "
+"the license permits.  With the understanding that:"
+msgstr ""
+
+#: ../../LICENSE.md:35
+msgid "Notices:"
+msgstr ""
+
+#: ../../LICENSE.md:37
+msgid ""
+"You do not have to comply with the license for elements of the material "
+"in the public domain or where your use is permitted by an applicable "
+"exception or limitation."
+msgstr ""
+
+#: ../../LICENSE.md:40
+msgid ""
+"No warranties are given. The license may not give you all of the "
+"permissions necessary for your intended use. For example, other rights "
+"such as publicity, privacy, or moral rights may limit how you use the "
+"material."
+msgstr ""
+
+#: ../../LICENSE.md:45
+msgid "Software"
+msgstr ""
+
+#: ../../LICENSE.md:47
+msgid ""
+"Except where otherwise noted, the example programs and other software "
+"provided by The Carpentries are made available under the OSI-approved MIT"
+" license."
+msgstr ""
+
+#: ../../LICENSE.md:52
+msgid ""
+"Permission is hereby granted, free of charge, to any person obtaining a "
+"copy of this software and associated documentation files (the "
+"\"Software\"), to deal in the Software without restriction, including "
+"without limitation the rights to use, copy, modify, merge, publish, "
+"distribute, sublicense, and/or sell copies of the Software, and to permit"
+" persons to whom the Software is furnished to do so, subject to the "
+"following conditions:"
+msgstr ""
+
+#: ../../LICENSE.md:60
+msgid ""
+"The above copyright notice and this permission notice shall be included "
+"in all copies or substantial portions of the Software."
+msgstr ""
+
+#: ../../LICENSE.md:63
+msgid ""
+"THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS"
+" OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF "
+"MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN"
+" NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,"
+" DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR "
+"OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE"
+" USE OR OTHER DEALINGS IN THE SOFTWARE."
+msgstr ""
+
+#: ../../LICENSE.md:71
+msgid "Trademark"
+msgstr ""
+
+#: ../../LICENSE.md:73
+msgid ""
+"\"The Carpentries\", \"Software Carpentry\", \"Data Carpentry\", and "
+"\"Library Carpentry\" and their respective logos are registered "
+"trademarks of Community Initiatives."
+msgstr ""
+

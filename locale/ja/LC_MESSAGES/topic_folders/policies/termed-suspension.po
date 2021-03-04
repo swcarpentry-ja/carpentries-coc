@@ -1,0 +1,379 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../topic_folders/policies/termed-suspension.md:1
+msgid "Code of Conduct Termed Suspension Guidelines"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:3
+msgid "The Carpentries Termed Suspension Checklist"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:5
+msgid ""
+"As a part of their enforcement options, The Carpentries Code of Conduct "
+"(CoC) committee can place a community member in Termed Suspension, where "
+"the community member is removed from all Carpentries engagement for a "
+"period of time."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:7
+msgid ""
+"The goal of a Termed Suspension is to 1) limit a person's participation "
+"in virtual and in-person Carpentries spaces for a set time to create a "
+"safe space for the community, and 2) to give time and opportunity for the"
+" individual to review their response to the incident and demonstrate "
+"immediate, ongoing, and demonstrable changes as evaluated by the CoC "
+"committee before possible reinstatement."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:9
+msgid ""
+"In most cases, a Termed Suspension will only be enacted after an incident"
+" has been reviewed by the CoC committee and a resolution is reached. "
+"However, in severe situations, in particular where there is active "
+"harassment, the CoC committee may enact an immediate short-term Termed "
+"Suspension while an incident is under review."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:11
+msgid ""
+"If there is a decision for a Termed Suspension, the following checklist "
+"is followed by the appropriate personnel to enact the Termed Suspension. "
+"In accordance with CoC confidentiality guidelines, only essential "
+"personnel will be involved in implementation of these actions."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:13
+msgid "Online Communication and Communities"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:14
+msgid "Revoke access from the following communication channels and communities:"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:15
+msgid "Email lists on TopicBox"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:16
+msgid "Email lists on Google Groups including but not limited to:"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:17
+msgid "Library Carpentry Governance Group"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:18
+msgid "Library Carpentry Maintainer Onboarding"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:19
+msgid "Code of Conduct Committee"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:20
+msgid "Carpentries Mentoring Groups"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:21
+msgid "Twitter:"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:22
+msgid "@datacarpentry"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:23
+msgid "@swcarpentry"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:24
+msgid "@libcarpentry"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:25
+msgid "@thecarpentries"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:26
+msgid "Blogs"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:27
+msgid "Data Carpentry"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:28
+msgid "Software Carpentry"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:29
+msgid "Library Carpentry"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:30
+msgid "The Carpentries"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:31
+msgid ""
+"GitHub (including but not limited to carpentries, datacarpentry, "
+"swcarpentry, librarycarpentry, data-lessons, carpentrieslab)"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:32
+msgid "Gitter - Library Carpentry Lobby"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:33
+msgid "Slack"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:34
+msgid "Facebook"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:35
+msgid "LinkedIn Carpentries and LinkedIn Instructors"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:37
+msgid ""
+"Additionally, the community member will not be allowed to attend "
+"community discussions."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:39
+msgid "Teaching Workshops"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:40
+msgid "The suspended member will, for the duration of their suspension:"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:41
+msgid "Be asked not to sign up for workshops on the Instructor Spreadsheet."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:42
+msgid "Not be able to participate as a helper at any workshops."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:43
+msgid "Be removed from Eventbrite login access."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:44
+msgid "Not be allowed to plan self-organised workshops."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:45
+msgid "Not be allowed to request or host centrally coordinated workshops."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:46
+msgid "Not be listed as an instructor on the “Instructors” webpage."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:47
+msgid "Be removed from the instructors email list."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:49
+msgid "Organising Workshops"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:50
+msgid ""
+"If the suspended member is a Regional Coordinator or serves in another "
+"role whereby they organise workshops for The Carpentries, for the "
+"duration of their suspension they will not have access to:"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:51
+msgid "LastPass"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:52
+msgid "AMY"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:53
+msgid "Regional Email"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:54
+msgid "Asana"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:55
+msgid "HelpScout"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:56
+msgid "Zoom"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:57
+msgid "Regional Coordinators Slack Channel"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:58
+msgid "Regional Coordinators Email List"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:60
+msgid "Instructor Training"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:61
+msgid ""
+"The suspended member will, for the duration of their suspension, be "
+"removed from the “Our Trainers” web page. Additionally, the suspended "
+"member will not be allowed to:"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:62
+msgid ""
+"Teach Instructor Training or lead teaching demonstration sessions. The "
+"Deputy Director of Instructor Training (DDIT) will check the teaching "
+"demo Etherpad to ensure that the suspended member is not signed up to "
+"lead teaching demonstrations and will find a replacement Trainer as "
+"needed."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:63
+msgid ""
+"Join Trainer meetings. The DDIT will check the meeting Etherpad, and if "
+"the suspended member is signed up to attend, will email them if needed to"
+" confirm they will not be in attendance."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:64
+msgid ""
+"Post pull requests (PRs), issues, or comments to the Instructor Training "
+"GitHub repository. Write or administrative access to repositories will be"
+" removed for the duration of the suspension."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:65
+msgid ""
+"Post to the Trainers Slack channel or mailing lists. The suspended member"
+" will be removed from these lists for the duration of their suspension."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:66
+msgid ""
+"Participate in review of applications for open instructor training or "
+"Trainer training. Participate as a learner in instructor training."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:69
+msgid "Trainer Training"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:70
+msgid ""
+"The suspended member will not be allowed to participate in Trainer "
+"Training (if they are currently enrolled) and will not be accepted for "
+"Trainer Training (if they apply during the suspension period). "
+"Additionally, they will not be allowed to shadow a current Carpentries "
+"Trainer. They may apply or reapply for future rounds of Trainer Training."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:72
+msgid "Member Organisation and Local Activities"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:73
+msgid ""
+"The suspended member shall not be involved in officially branded "
+"Carpentries workshops or activities at the member or local site for the "
+"duration of the suspension. We expect the suspended member to assert that"
+" they will be able to carry out this suspension accordingly and to notify"
+" the CoC committee if this suspension will interfere with their expected "
+"employment duties."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:75
+msgid ""
+"If the suspension does affect employment duties or the suspended member "
+"is the key contact for a member site, the member will work with The "
+"Carpentries Executive Director to determine a course of action."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:77
+msgid "Lesson Development and Maintenance"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:78
+msgid ""
+"The suspended member will not be allowed to post PRs, issues, or comments"
+" to any repository in the carpentries, including but not limited to "
+"datacarpentry, swcarpentry, library carpentry, data-lessons, and "
+"carpentrieslab organisations. Administrative or write privileges to "
+"repositories in these organisations will be removed for the duration of "
+"the suspension."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:80
+msgid ""
+"If the suspended member is a Maintainer, their name will be removed from "
+"the lessons page and they will not appear on the Maintainers page for the"
+" duration of their suspension."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:82
+msgid "Executive Council"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:83
+msgid ""
+"If the suspended member is a member of the Executive Council, they will "
+"not participate in Executive Council responsibilities and will be removed"
+" from the Executive Council repositories and list of Executive Council "
+"members on the website for the duration of their suspension. The "
+"Executive Council will review the CoC incident to determine if a "
+"suspension will affect their long term position on the Executive Council."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:85
+msgid "Committees, Task Forces, and Other Interactions"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:86
+msgid ""
+"Involvement in all committees, communities, and task forces (African Task"
+" Force, Carpentries en LatinoAmérica, etc.) will be suspended."
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:88
+msgid "Other Interactions"
+msgstr ""
+
+#: ../../topic_folders/policies/termed-suspension.md:89
+msgid ""
+"The suspended members ability to sign in to AMY to manage their own "
+"profile or other tasks will be revoked for the duration of their "
+"suspension."
+msgstr ""
+

@@ -1,0 +1,402 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../topic_folders/policies/privacy.md:1
+msgid "The Carpentries Privacy Policy"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:3
+msgid "Effective date: 25 May 2018"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:5
+msgid ""
+"This Privacy Policy covers personally identifiable information that may "
+"be provided to The Carpentries, including data provided at in-person "
+"events (e.g., workshops and conferences) and online. Changes to this "
+"Privacy Policy will be posted on this page. Any changes will only apply "
+"to information collected after the posted date of any such change. "
+"Additionally, information may be provided to governmental bodies and "
+"other entities as required by law. Information obtained and how it is "
+"used is described in sections below for"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:8
+msgid "Workshop participants"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:9
+msgid "Instructors"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:10
+msgid "Other volunteers"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:11
+msgid "Online spaces"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:12
+msgid "Opt-in surveys"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:13
+msgid "All participants"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:16
+msgid "Definitions"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:18
+msgid ""
+"Workshop participants - people participating, including but not limited "
+"to as learner, helper, or instructor in a Carpentries workshop"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:19
+msgid "Hosts - people organising a workshop at their local site"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:20
+msgid "Instructors and Trainers - people who are teaching a Carpentries workshop"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:21
+msgid ""
+"Instructor applicants and trainees - people who have applied to become "
+"instructors or are in the process of completing certification"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:22
+msgid ""
+"Lesson contributors and maintainers - people who contribute to or "
+"maintain lessons"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:23
+msgid "The Carpentries Core Team - people employed by The Carpentries"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:24
+msgid ""
+"Authorised administrators - personnel, contractors or volunteers "
+"operating in an administrative capacity for The Carpentries as workshop "
+"or volunteer coordinators"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:26
+msgid "How is personally identifiable information stored?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:28
+msgid ""
+"Personally identifiable information is stored in secure databases. Refer "
+"to Limitations section below."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:31
+msgid "Who has access to personally identifiable information?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:33
+msgid ""
+"Access will be limited to The Carpentries Core Team and authorised "
+"administrators."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:35
+msgid "Section 1: Workshop Participants"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:36
+msgid "Workshop participants include Learners, Helpers and Hosts."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:38
+#: ../../topic_folders/policies/privacy.md:49
+#: ../../topic_folders/policies/privacy.md:60
+#: ../../topic_folders/policies/privacy.md:70
+#: ../../topic_folders/policies/privacy.md:82
+msgid "What information do we obtain?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:39
+msgid ""
+"We may obtain the name, email address and event attended of workshop "
+"participants. If you are a learner or helper, this information may be "
+"provided by you or by the workshop host. See Section 5: Opt-in Surveys "
+"for information on our Opt-In surveys."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:41
+#: ../../topic_folders/policies/privacy.md:52
+#: ../../topic_folders/policies/privacy.md:63
+msgid "How is this information used?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:42
+msgid ""
+"We use this information to communicate with participants, including "
+"sending workshop information and program evaluation forms. Names and "
+"email addresses may be shared with the workshop host for the purpose of "
+"workshop logistics. Additionally, we may use your information to contact "
+"you about additional opt-in opportunities for training, teaching, surveys"
+" and/or community engagement. This information may also be used for "
+"statistical purposes. We do not provide personally identifiable "
+"information to any third party. However, we may share de-identified "
+"aggregate or summary information regarding participants publicly or with "
+"volunteers, partners or third parties, including but not limited to "
+"funding entities. See Section 6: All Participants for further "
+"information."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:45
+msgid "Section 2: Instructors"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:47
+msgid ""
+"Instructors includes Instructors, Trainers, Instructor Trainees and "
+"Instructor Applicants."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:50
+msgid ""
+"We may obtain the name and email address of participants at instructor "
+"training events and of current instructors. This information may be "
+"provided by the participant or event host. If you choose to complete a "
+"volunteer/instructor profile, we may store your name, email address, "
+"gender, nearest airport location, organisational affiliation, occupation,"
+" ORCID ID, GitHub and Twitter handle, and personal URL."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:53
+msgid ""
+"We use this information to communicate with Instructors, including for "
+"instructor training events, training completion materials, communication "
+"about the organisation, and opportunities to volunteer. Additionally, we "
+"may use volunteer information to contact you about additional opt-in "
+"opportunities for assessment, training, teaching, volunteering and/or "
+"community engagement. This information may also be used for statistical "
+"purposes. We do not provide personally identifiable information to any "
+"third party. However, we may share de-identified aggregate or summary "
+"information regarding instructors publicly or with volunteers, partners "
+"or third parties, including but not limited to funding entities. See "
+"Section 6: All Participants for further information."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:56
+msgid "Section 3: Other Volunteers"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:58
+msgid ""
+"Other Volunteers includes Lesson contributors and maintainers and "
+"Volunteers for subcommittees or programs."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:61
+msgid ""
+"We may obtain the name and email address of Other volunteers. If you "
+"choose to complete a volunteer/instructor profile, we may store your "
+"name, email address, gender, nearest airport location, organisational "
+"affiliation, occupation, ORCID ID, GitHub and Twitter handle, and "
+"personal URL."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:64
+msgid ""
+"We use this information to communicate with Other volunteers, including "
+"communication about the organisation and opportunities to volunteer. "
+"Additionally, we may use volunteer information to contact you about "
+"additional opt-in opportunities for assessment, training, teaching, "
+"volunteering and/or community engagement. This information may also be "
+"used for statistical purposes. We do not provide personally identifiable "
+"information to any third party. However, we may share de-identified "
+"aggregate or summary information regarding volunteers publicly or with "
+"other volunteers, partners or third parties, including but not limited to"
+" funding entities. See Section 6: All Participants for further "
+"information."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:67
+msgid "Section 4: Online Spaces"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:68
+msgid ""
+"This Privacy Policy is applicable to information that you "
+"provided/collected through physical (such as a paper form) and online "
+"means, including through our websites or other external online spaces "
+"(including but not limited to GitHub repositories, Etherpads, Google "
+"Documents, EventBrite and mailing lists). By using these spaces, you "
+"agree to the terms of this Privacy Policy. Some of these tools and "
+"services (including but not limited to GitHub, Google Documents, "
+"Eventbrite and SurveyMonkey) have their own independent privacy policies."
+" See Section 5: Opt-In Surveys, for information specifically on survey "
+"information."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:71
+msgid ""
+"We may collect information about visitors’ devices and browsers, such as "
+"browser version and type, IP address, website referred from and country "
+"of visitor. In addition, we may collect textual input (e.g. Etherpad "
+"entries) from you which may be associated with your name, affiliation "
+"and/or social media handles. If you provide financial information to pay "
+"for a workshop or partnership or make a donation, the transaction "
+"information will be processed on a third-party secured site. This "
+"information will only be accessible to our Core Team or authorised "
+"administrators and to the Core Team of our fiscal sponsor who is involved"
+" in processing financial transactions. We engage with third-parties "
+"(including but not limited to Square, WeDidIt, Eventbrite) to gather and "
+"collect this information securely and do not have access to or store any "
+"payment details in our systems."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:75
+#: ../../topic_folders/policies/privacy.md:86
+msgid "What do we do with this information?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:76
+msgid ""
+"We use this information to improve our sites and services. In addition, "
+"we may use contact information that you provide to contact you about "
+"additional opt-in opportunities for assessment, training, teaching, "
+"and/or community engagement. This information may also be used for "
+"statistical purposes. We do not provide personally identifiable "
+"information to any third party. However, we may share de-identified "
+"aggregate or summary information regarding visitors publicly or with "
+"volunteers, partners or third parties, including but not limited to "
+"funding entities. We may use publicly available data of the external "
+"online services in programmatic analysis and evaluation. See Section 6: "
+"All Participants for further information."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:79
+msgid "Section 5: Opt-in Surveys"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:80
+msgid ""
+"Community and workshop participants are invited to participate in a "
+"variety of opt-in surveys to better serve our community. These include "
+"but are not limited to pre-workshop and post-workshop surveys of learners"
+" and various survey instruments to evaluate programs or events."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:83
+msgid ""
+"Opt-in surveys are entirely voluntary and information is not collected in"
+" a way that it is linked to personally identifiable responses without the"
+" respondent’s consent to self-identify. Surveys collect information "
+"particular to the event or program being evaluated and optional "
+"information about the participant. Gender and ethnicity data, when "
+"collected, is only collected from participants in the United States."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:87
+msgid ""
+"We use this information to help evaluate and improve programs, report on "
+"impact and outcomes and understand the needs and interests of our "
+"community. This information may be used for statistical purposes. We do "
+"not provide personally identifiable information to any third party. "
+"However, we may share de-identified aggregate or summary information "
+"publicly or with volunteers, partners or third parties, including but not"
+" limited to funding entities. Where we share open-ended responses or "
+"testimonials, we always do so anonymously or ask for explicit consent to "
+"allow de-identified responses. See Section 6: All Participants for "
+"further information."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:90
+msgid "Section 6: All Participants"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:92
+msgid "Can I decide what communications to receive?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:93
+msgid ""
+"Yes. All communication with us is opt-in, except for participants "
+"receiving information about their program and for instructors, "
+"information required to maintain instructor status. You may occasionally "
+"be sent emails asking if you would like to opt-in to communication "
+"channels that we feel may be of interest to you (for example, a mailing "
+"list dedicated to your geographical area). In the absence of specific "
+"action from you, we will assume you choose not to join these channels."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:95
+msgid "Removing personal information"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:96
+msgid ""
+"Participants may choose to disallow us from retaining their personal "
+"information at any time by notifying admin@carpentries.org. If you choose"
+" to exclude your information, we will delete your personal information "
+"from our databases. This may interfere with our ability to give you "
+"credit for training events you have completed or to contact you about "
+"upcoming events in your area."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:98
+msgid "Limitations"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:99
+msgid ""
+"Your privacy is very important to us. However, due to the existing legal "
+"and technical environment (e.g., third party interception of "
+"information), we cannot ensure that your personally identifiable "
+"information will not be disclosed to third parties in ways not described "
+"in this policy. We may disclose information when we believe such "
+"disclosure is necessary to comply with the law; enforce our agreements, "
+"or protect the rights, property or safety of our users or others."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:102
+msgid "What about third party links on our websites?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:103
+msgid ""
+"Our websites provide links to third party sites as a service to visitors."
+" We are not responsible for the privacy practices, security measures or "
+"data collection practices of third party sites or for their content. The "
+"choice to access these sites is at the visitor’s own risk."
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:105
+msgid "Who should be contacted regarding this Privacy Policy?"
+msgstr ""
+
+#: ../../topic_folders/policies/privacy.md:106
+msgid ""
+"For questions or comments about this Privacy Policy, please contact "
+"admin@carpentries.org."
+msgstr ""
+

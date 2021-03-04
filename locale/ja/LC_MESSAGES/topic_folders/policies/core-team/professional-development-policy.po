@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018-2021, The Carpentries. This content is released under
+# the terms of the Creative Commons Attribution License
+# This file is distributed under the same license as the The Carpentries
+# Handbook package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Carpentries Handbook \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-04 22:37+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:1
+msgid "Carpentries Professional Development Policy"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:3
+msgid "Core Team Professional Development Fund"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:5
+msgid ""
+"The Carpentries Core Team have access to a professional development fund "
+"(hereon after \"Core Team PDF\") of $1000/year for each full time "
+"employee."
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:7
+msgid "What Activities are Eligible?"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:9
+msgid ""
+"The Core Team PDF makes available funds for the purpose of supporting "
+"Core Team participation in professional development programs such as "
+"workshops and seminars and research activities."
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:11
+msgid ""
+"Requests must demonstrate how the activity for which funding is sought "
+"supports the:"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:13
+msgid "Current Strategic Plan for The Carpentries;"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:14
+msgid "Employee's Individual Professional Development:"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:15
+msgid "Through improving performance in the employee’s current position; or"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:16
+msgid ""
+"Through improving the employee’s qualifications for career opportunities "
+"that may arise within The Carpentries"
+msgstr ""
+
+#: ../../topic_folders/policies/core-team/professional-development-policy.md:18
+msgid ""
+"When applying for reimbursement for professional development materials or"
+" activities, Core Team should provide a short description and "
+"justification of the expenditure. For large expenses (>$200), Core Team "
+"should seek prior approval from the Finance subcommittee."
+msgstr ""
+
