@@ -1,3 +1,8 @@
+### Japanese handbook
+
+This is a paritial translation of the [Carpentries Handbook](https://docs.carpentries.org/) in Japanese.
+
+
 ### Why was this handbook created?
 
 Historically, information and resources related to [The Carpentries](https://carpentries.org/) have been spread across various websites, Google docs, GitHub repos, and more. The handbook is a one-stop shop that consolidates information on running a workshop, developing or maintaining lessons, participating in an instructor training event, and more! 
