@@ -1408,7 +1408,7 @@ msgstr "- 誰かを傷つけるつもりがなかったかどうかは関係あ�
 #: topic_folders/policies/incident-response.md:45
 # unordered list
 msgid "- It is not your job to reassure or forgive them."
-msgstr "- レポートされた人を安心させたり許したりするのはあなたの仕事ではありません。"
+msgstr "- 報告された人を安心させたり許したりするのはあなたの仕事ではありません。"
 
 #: topic_folders/policies/incident-response.md:46
 # unordered list
