@@ -1394,7 +1394,7 @@ msgstr "**オンラインイベントとコミュニケーションチャネル�
 
 #: topic_folders/policies/incident-response.md:40
 msgid "If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident."
-msgstr "コミュニティメンバーがオンラインイベントを介して行動規範に違反した場合、行動規範委員会は短期の一時停止を制定でき、行動規範委員会がレポートされた調査を終了するまで、すべてのカーペントリーズのコミュニケーションチャネルに対するレポートされた人の権限を一時的に止めることができます。"
+msgstr "コミュニティメンバーがオンラインイベントを介して行動規範に違反した場合、行動規範委員会は短期の一時停止を制定でき、行動規範委員会が報告れた調査を終了するまで、すべてのカーペントリーズのコミュニケーションチャネルに対する報告された人の権限を一時的に止めることができます。"
 
 #: topic_folders/policies/incident-response.md:42
 msgid "Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:"
