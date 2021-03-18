@@ -1379,7 +1379,7 @@ msgid "**In-Person Event Checklist (Carpentries Workshops, CarpentryCon, Carpent
 "* Inform the workshop host that there was an incident and that a report was submitted via the [incident report form][reporting-form]. If the incident involves the workshop host, report the incident directly to the Code of Conduct committee via the incident report form. "
 msgstr "**対面イベントチェックリスト (カーペントリーズのワークショップ, CarpentryCon, CarpentryConnect, カーペントリーズのインストラクターのトレーニング)**\n"
 "* 参加者の安全を確保します。\n"
-"* そうでない場合は、即時対応チェックリストを参照してください。\n"
+"* そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\n"
 "* レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
 "* [行動規範インシデントレポートフォーム][reporting-form]を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
 "* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム][reporting-form]を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。\n"
