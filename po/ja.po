@@ -1342,7 +1342,7 @@ msgstr "##### 早急な応答"
 
 #: topic_folders/policies/incident-response.md:15
 msgid "The initial response to an incident is very important and will set the tone for The Carpentries community. Depending on the severity and/or details of the incident, an immediate response may be required. If an incident involves physical danger or involves a threat to anyone's safety (e.g. threats of violence), any member of the community may -- and should -- act immediately to protect safety. This can include contacting emergency or crisis resources.  "
-msgstr "インシデントへの最初の対応は非常に重要であり、カーペントリーズコミュニティの基調を定めます。インシデントの重大度や詳細によっては、迅速な対応が必要になる場合があります。インシデントが物理的な危険を伴う場合、または誰かの安全に対する脅威 (例えば、暴力の脅威) を伴う場合、コミュニティのメンバーは、安全を守るために直ちに行動して差し支えありません -- そしてそうすべきです --。これには、緊急または危機の際の頼みとなる援助への連絡が含まれる場合があります。"
+msgstr "インシデントへの最初の対応は非常に重要であり、カーペントリーズコミュニティの基調を定めます。インシデントの重大度や詳細によっては、迅速な対応が必要になる場合があります。インシデントが物理的な危険を伴う場合、または誰かの安全に対する脅威 (例えば、暴力の脅威) を伴う場合、コミュニティメンバーは、安全を守るために直ちに行動して差し支えありません -- そしてそうすべきです --。これには、緊急または危機の際の頼みとなる援助への連絡が含まれる場合があります。"
 
 #: topic_folders/policies/incident-response.md:17
 # header
