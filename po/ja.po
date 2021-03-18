@@ -1329,7 +1329,7 @@ msgstr "すべてのカーペントリーズのコミュニティメンバーは
 
 #: topic_folders/policies/incident-response.md:9
 msgid "Ideally, we would all be able to defuse an incident. In practice, we have varying comfort with situations depending on our current experience and the environment. Below are ways that you can be supportive and steps that you can take during or after an incident."
-msgstr "理想的には、私たち全員がインシデントを静めることができます。実際には、私たちは現在の経験と環境に応じた状況でさまざまな快適さを持っています。以下は、あなたが支援できる方法と、インシデントの最中または後にあなたが取ることができるステップです。"
+msgstr "理想的には、どんな場合でも私たち全員がインシデントを静めることができます。しかし、実際には、各自の経験とインシデントが起こった環境によって、取れる対策が変わることがあります。以下は、あなたが被害者を支援できる方法と、インシデントの最中または直後にあなたが取れるインシデントに対する手段です。"
 
 #: topic_folders/policies/incident-response.md:11
 msgid "If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee."
