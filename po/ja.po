@@ -1398,7 +1398,7 @@ msgstr "コミュニティメンバーがオンラインイベントを介して
 
 #: topic_folders/policies/incident-response.md:42
 msgid "Individuals reported often get upset, defensive, or deny the report. Allow them to give any additional details about the incident. However, remember:"
-msgstr "レポートされた人は、しばしば動揺したり、自己防衛したり、報告を否定したりします。その人にインシデントに関する追加の詳細を提供することを許してあげてください。ただし、次の点に注意してください:"
+msgstr "報告された人は、しばしば動揺したり、自己防衛したり、報告を否定したりします。その人にインシデントに関する追加の詳細を提供することを許してあげてください。ただし、次の点に注意してください:"
 
 #: topic_folders/policies/incident-response.md:44
 # unordered list
