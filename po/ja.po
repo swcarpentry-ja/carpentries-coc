@@ -1333,7 +1333,7 @@ msgstr "理想的には、どんな場合でも私たち全員がインシデン
 
 #: topic_folders/policies/incident-response.md:11
 msgid "If you can, move from being a bystander to being a Code of Conduct first responder. If you see something inappropriate happening, speak up. If you don't feel comfortable intervening, but feel someone should, please submit a report in person to a workshop host or instructor or via the [Code of Conduct incident report form][reporting-form] to the Code of Conduct committee."
-msgstr "可能であれば、第三者から行動規範のファーストレスポンダーに移行してください。不適切なことが起こっているのを見つけたら、声を上げてください。あなたが介入することには抵抗があるけれども、他の誰かがそうすべきだと感じた場合は、ワークショップの主催者またはインストラクターに直接レポートするか、行動規範インシデントレポートフォームを介して行動規範委員会にレポートしてください。"
+msgstr "可能であれば、第三者から観察しているのではなく、状況が更に悪化しないように積極的に行動を取ってください。不適切なことが起こっているのを見つけたら、声を上げてください。あなたが介入することには抵抗があるけれども、他の誰かがそうすべきだと感じた場合は、ワークショップの主催者またはインストラクターに直接レポートするか、行動規範インシデントレポートフォームを介して行動規範委員会にレポートしてください。"
 
 #: topic_folders/policies/incident-response.md:13
 # header
