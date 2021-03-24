@@ -1240,7 +1240,7 @@ msgstr "カーペントリーズのワークショップ、対面イベント、
 
 #: topic_folders/policies/incident-reporting.md:7
 msgid "If you believe someone violated the [Code of Conduct](../policies/code-of-conduct.md) during a Carpentries event or in a Carpentries online space, we ask that you report it. If you are not sure if the incident happened in a Carpentries governed space, we ask that you still report the incident. You are encouraged to submit your report by completing the [Code of Conduct Incident Report Form][reporting-form]. The form may be completed anonymously, or you may include your contact information. "
-msgstr "カーペントリーズのイベント中またはカーペントリーズのオンラインスペースで誰かが[行動規範](../policies/code-of-conduct.md)に違反したと思われる場合は、報告してください。インシデントがカーペントリーズの管理下にある場所で起こったかどうかわからない場合でも、インシデントを報告するようお願いします。[行動規範インシデントレポートフォーム][reporting-form]の全ての項目に記入し、レポートを提出することをお勧めします。フォームは匿名で記入することも、連絡先情報を含めることもできます。"
+msgstr "カーペントリーズのイベント中またはカーペントリーズのオンラインスペースで誰かが[行動規範](../policies/code-of-conduct.md)に違反したと思われる場合は、報告してください。インシデントがカーペントリーズの管理下にある場所で起こったかどうかわからない場合でも、インシデントを報告するようお願いします。[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)の全ての項目に記入し、レポートを提出することをお勧めします。フォームは匿名で記入することも、連絡先情報を含めることもできます。"
 
 #: topic_folders/policies/incident-reporting.md:9
 msgid "__[Submit a Code of Conduct Incident Report][reporting-form]__"
