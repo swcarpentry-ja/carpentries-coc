@@ -1244,7 +1244,7 @@ msgstr "カーペントリーズのイベント中またはカーペントリー
 
 #: topic_folders/policies/incident-reporting.md:9
 msgid "__[Submit a Code of Conduct Incident Report][reporting-form]__"
-msgstr "__[行動規範インシデントレポートを提出する][reporting-form]__"
+msgstr "__[行動規範インシデントレポートを提出する](https://goo.gl/forms/KoUfO53Za3apOuOK2)__"
 
 #: topic_folders/policies/incident-reporting.md:11
 msgid "The Code of Conduct Committee takes all incident reports seriously and will review all reports according to our [Enforcement Guidelines](enforcement-guidelines.md).  A report guarantees review, but not necessarily that an action will be taken."
@@ -1842,4 +1842,3 @@ msgstr ""
 # unordered list
 msgid "- The suspended members ability to sign in to AMY to manage their own profile or other tasks will be revoked for the duration of their suspension."
 msgstr ""
-
