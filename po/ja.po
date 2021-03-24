@@ -1390,7 +1390,7 @@ msgid "**Online Events and Communications Channels Checklist (Teaching Demonstra
 "* If the incident involves the event host/meeting facilitator, please complete the [incident report form][reporting-form] and rest assured that confidentiality and your experience in our community is our first priority."
 msgstr "**オンラインイベントとコミュニケーションチャネルのチェックリスト (ティーチングデモ、コミュニティの議論、カーペントリーズのインストラクターのトレーニング、Slackチャンネル、TopicBox)**\n"
 "* イベントの主催者/会議の進行役に問題があったことを通知し、[インシデントレポートフォーム][reporting-form]を介してレポートを送信します。\n"
-"* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム][reporting-form]に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。\n"
+"* インシデントがイベント主催者/会議の進行役に関係している場合は、[インシデントレポートフォーム][reporting-form]に記入してください。機密保持とコミュニティでの経験が最優先事項ですのでご安心ください。"
 
 #: topic_folders/policies/incident-response.md:40
 msgid "If a community member has violated the CoC via an online event, the CoC committee can enact a short-term [Termed Suspension](termed-suspension.md), and the reportee’s privileges to all Carpentries communication channels could be suspended until the Code of Conduct Committee has concluded their investigation of the reported incident."
