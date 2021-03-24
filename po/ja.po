@@ -1382,7 +1382,7 @@ msgstr "**対面イベントチェックリスト (カーペントリーズの�
 "* そうでない場合は、[即時対応チェックリスト](#checklists-for-responding-to-an-incident)を参照してください。\n"
 "* レポーターの話を聞き、できるだけ多くの詳細を書き留めてください。\n"
 "* [行動規範インシデントレポートフォーム][reporting-form]を介してインシデントを報告するようにレポーター（被害者）に依頼してください。レポーター（被害者）があなたにレポートを完成させてほしいと望む場合、レポーター（被害者）の助けを借りてレポートを完成させてください。\n"
-"* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム][reporting-form]を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。\n"
+"* ワークショップの主催者に、インシデントが発生したこと、および[インシデントレポートフォーム][reporting-form]を介してレポートが送信されたことを通知します。インシデントがワークショップの主催者に関係している場合は、インシデントレポートフォームを介して行動規範委員会に直接インシデントをレポートしてください。"
 
 #: topic_folders/policies/incident-response.md:36
 msgid "**Online Events and Communications Channels Checklist (Teaching Demonstrations, Community Discussions, Carpentries Instructor Training, Slack Channels, TopicBox)**\n"
