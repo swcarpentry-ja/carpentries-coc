@@ -1308,7 +1308,7 @@ msgstr "##### レポーターのフォローアップ"
 
 #: topic_folders/policies/incident-reporting.md:40
 msgid "Once a report is filed through the [Code of Conduct Incident Report Form][reporting-form] or other communication channels, the Code of Conduct committee will handle the review and follow up according to the procedures in the [Enforcement Guidelines](enforcement-guidelines.md)."
-msgstr "[行動規範インシデントレポートフォーム][reporting-form]またはその他のコミュニケーションチャンネルを通じてレポートが提出されると、行動規範委員会が[施行ガイドライン](enforcement-guidelines.md)の手順に従ってレビューとフォローアップを行います。"
+msgstr "[行動規範インシデントレポートフォーム](https://goo.gl/forms/KoUfO53Za3apOuOK2)またはその他のコミュニケーションチャンネルを通じてレポートが提出されると、行動規範委員会が[施行ガイドライン](enforcement-guidelines.md)の手順に従ってレビューとフォローアップを行います。"
 
 #: topic_folders/policies/incident-response.md:1
 # header
